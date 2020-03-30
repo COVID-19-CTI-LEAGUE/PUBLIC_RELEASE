@@ -1,0 +1,11 @@
+PIHOLE INSTRUCTIONS 
+
+1. Log into your PiHole admin console
+2. Select "SETTINGS"
+3. Select "BLOCKLISTS"
+4. In the URL entry box type
+	 https://raw.githubusercontent.com/COVID-19-CTI-LEAGUE/PUBLIC_RELEASE/master/COVID-19-CTI-LEAGUE-PIHOLE-DOMAIN-BLACKLIST.txt
+5. Select "SAVE AND UPDATE"
+6. Test by using the "QUERY LISTS" feature under "TOOLS" 
+
+REMEMBER TO UPDATE YOUR PiHole LISTS by using 'pihole -g' or with a CRON job daily. 
