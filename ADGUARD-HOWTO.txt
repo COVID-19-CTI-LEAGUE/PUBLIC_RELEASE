@@ -7,6 +7,6 @@ AdGuard Home INSTRUCTIONS
 5. In the "Enter name" entry box type "COVID-19-CTI-LEAGUE"
 6. In the URL entry box type "https://raw.githubusercontent.com/COVID-19-CTI-LEAGUE/PUBLIC_RELEASE/master/COVID-19-CTI-LEAGUE-PIHOLE-DOMAIN-BLACKLIST.txt"
 7. Click on "Save"
-6. Test by using the "Check for updates" button 
+8. Test by using the "Check for updates" button 
 
 REMEMBER TO UPDATE YOUR AdGuard LISTS by defining "Filters update interval" parameter on "Settings" view.
