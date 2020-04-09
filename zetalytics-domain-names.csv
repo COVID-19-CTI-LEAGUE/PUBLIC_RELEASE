@@ -1,0 +1,352 @@
+# Please attribute to @zetalytics or https://zetalytics.com
+# Raw un-analyzed first seen host data
+# Make your own assessment of malicious activity or intent
+# dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-04-08,3secureaccount-facebookcovid19petition.ga,3secureaccount-facebookcovid19petition.ga,,
+2020-04-08,3secureaccount-facebookcovid19petition.ga,67.205.177.210,US,North America
+2020-04-08,antibodytest4covid19.com,184.168.221.50,US,North America
+2020-04-08,antibodytest4covid19.com,50.63.202.39,US,North America
+2020-04-08,antibodytest4covid.com,184.168.221.33,US,North America
+2020-04-08,antibodytest4covid.com,ns03.domaincontrol.com,,
+2020-04-08,antibodytest4covid.com,ns04.domaincontrol.com,,
+2020-04-08,autotest-covid19.ch,autotest-covid19.ch,,
+2020-04-08,autotest-covid19.ch,ns31.infomaniak.com,,
+2020-04-08,autotest-covid19.ch,ns32.infomaniak.com,,
+2020-04-08,autotestecovid19.com.br,a.auto.dns.br,,
+2020-04-08,autotestecovid19.com.br,b.auto.dns.br,,
+2020-04-08,corona19cure.co,184.168.221.62,US,North America
+2020-04-08,corona19cure.co,corona19cure.co,,
+2020-04-08,coronavirus19-testing.com,184.168.221.39,US,North America
+2020-04-08,coronaviruscures.co,184.168.221.46,US,North America
+2020-04-08,coronaviruscures.co,coronaviruscures.co,,
+2020-04-08,coronavirushometestkit.uk,coronavirushometestkit.uk,,
+2020-04-08,coronavirushometestkit.uk,ns63.domaincontrol.com,,
+2020-04-08,coronavirushometestkit.uk,ns64.domaincontrol.com,,
+2020-04-08,coronavirus-test-kit.it,23.227.38.65,CA,North America
+2020-04-08,coronavirustestkitunitedkingdom.com,50.63.202.44,US,North America
+2020-04-08,coronavirustestkitunitedkingdom.com,50.63.202.57,US,North America
+2020-04-08,covid-19cure.com.au,covid-19cure.com.au,,
+2020-04-08,covid-19cure.com.au,ns71.domaincontrol.com,,
+2020-04-08,covid-19cure.com.au,ns72.domaincontrol.com,,
+2020-04-08,covid19latestupdates.com,50.63.202.35,US,North America
+2020-04-08,covid19latestupdates.com,50.63.202.50,US,North America
+2020-04-08,covid19rapidtestings.com,50.63.202.48,US,North America
+2020-04-08,covid19testdirectory.com,94.136.40.51,GB,Europe
+2020-04-08,covid19test.ee,hostmaster@zone.eu,,
+2020-04-08,covid19test.ee,ns2.zone.ee,,
+2020-04-08,covid19test.ee,ns.zone.eu,,
+2020-04-08,covid19test.ee,zonemx.eu,,
+2020-04-08,covid19-test.nu,ns3.binero.se,,
+2020-04-08,covid19-test.nu,ns4.binero.se,,
+2020-04-08,covid19-test.nu,ns5.binero.se,,
+2020-04-08,covid19-test.nu,ns6.binero.se,,
+2020-04-08,covid19-test.nu,ns7.binero.se,,
+2020-04-08,covid19testseattle.com,2001:4860:4802:32::15,,
+2020-04-08,covid19testseattle.com,2001:4860:4802:34::15,,
+2020-04-08,covid19testseattle.com,2001:4860:4802:36::15,,
+2020-04-08,covid19testseattle.com,2001:4860:4802:38::15,,
+2020-04-08,covid19testseattle.com,covid19testseattle.com,,
+2020-04-08,covid19testsonline.com,91.195.240.126,DE,Europe
+2020-04-08,covid19testsonline.com,covid19testsonline.com,,
+2020-04-08,covidcure.ca,184.168.221.35,US,North America
+2020-04-08,covidcure.ca,covidcure.ca,,
+2020-04-08,covidcurelab.com,3.121.171.156,DE,Europe
+2020-04-08,covidcurelab.com,52.0.217.44,US,North America
+2020-04-08,covidcurelab.com,covidcurelab.com,,
+2020-04-08,covidcurelab.com,ns1.dynadot.com,,
+2020-04-08,covidcurelab.com,ns2.dynadot.com,,
+2020-04-08,covidcure.world,50.63.202.44,US,North America
+2020-04-08,covidcure.world,50.63.202.58,US,North America
+2020-04-08,covidcure.world,covidcure.world,,
+2020-04-08,covidimmunetesting.com,50.63.202.33,US,North America
+2020-04-08,covidtestinginternational.com.au,admin@syrahost.com,,
+2020-04-08,covidtestinginternational.com.au,ns1.crazydomains.com,,
+2020-04-08,covid-test-kit.org,mx.covid-test-kit.org,,
+2020-04-08,covidtests.es,184.168.221.51,US,North America
+2020-04-08,covidtests.es,ns61.domaincontrol.com,,
+2020-04-08,covidtests.es,ns62.domaincontrol.com,,
+2020-04-08,covid-virus-cure.com,184.168.221.37,US,North America
+2020-04-08,covid-virus-cure.com,50.63.202.36,US,North America
+2020-04-08,covid-virus-cure.com,50.63.202.57,US,North America
+2020-04-08,covid-virus-cure.com,covid-virus-cure.com,,
+2020-04-08,covid-virus-cure.com,dns@jomax.net,,
+2020-04-08,covid-virus-cure.com,ns65.domaincontrol.com,,
+2020-04-08,covid-virus-cure.com,ns66.domaincontrol.com,,
+2020-04-08,curecovid19together.com,184.168.221.44,US,North America
+2020-04-08,curecovid19together.com,curecovid19together.com,,
+2020-04-08,erythromycincoronaviruscure.com.ph,erythromycincoronaviruscure.com.ph,,
+2020-04-08,needscovid19test.com,81.17.18.196,CH,Europe
+2020-04-08,panbio-covid19-schnelltest.de,ns81.domaincontrol.com,,
+2020-04-08,panbio-covid19-schnelltest.de,ns82.domaincontrol.com,,
+2020-04-08,panbio-covid19-schnelltest.de,panbio-covid19-schnelltest.de,,
+2020-04-08,sars-cov2test.it,sars-cov2test.it,,
+2020-04-08,securecovidresearch.org,128.179.33.49,CH,Europe
+2020-04-08,securecovidresearch.org,securecovidresearch.org,,
+2020-04-08,sicurezzacoronavirus.com,62.149.128.151,IT,Europe
+2020-04-08,sicurezzacoronavirus.com,62.149.128.154,IT,Europe
+2020-04-08,sicurezzacoronavirus.com,62.149.128.157,IT,Europe
+2020-04-08,sicurezzacoronavirus.com,62.149.128.160,IT,Europe
+2020-04-08,sicurezzacoronavirus.com,62.149.128.163,IT,Europe
+2020-04-08,sicurezzacoronavirus.com,62.149.128.166,IT,Europe
+2020-04-08,sicurezzacoronavirus.com,62.149.128.72,IT,Europe
+2020-04-08,sicurezzacoronavirus.com,62.149.128.74,IT,Europe
+2020-04-08,sicurezzacoronavirus.com,mx.sicurezzacoronavirus.com,,
+2020-04-08,sicurezzacoronavirus.com,sicurezzacoronavirus.com,,
+2020-04-08,sicurezzacovid.com,62.149.128.151,IT,Europe
+2020-04-08,sicurezzacovid.com,62.149.128.154,IT,Europe
+2020-04-08,sicurezzacovid.com,62.149.128.157,IT,Europe
+2020-04-08,sicurezzacovid.com,62.149.128.160,IT,Europe
+2020-04-08,sicurezzacovid.com,62.149.128.163,IT,Europe
+2020-04-08,sicurezzacovid.com,62.149.128.166,IT,Europe
+2020-04-08,sicurezzacovid.com,dns2.technorail.com,,
+2020-04-08,sicurezzacovid.com,dns3.arubadns.net,,
+2020-04-08,sicurezzacovid.com,dns4.arubadns.cz,,
+2020-04-08,sicurezzacovid.com,dns.technorail.com,,
+2020-04-08,sicurezzacovid.com,sicurezzacovid.com,,
+2020-04-08,test-coronavirus.ch,104.31.94.233,US,North America
+2020-04-08,test-coronavirus.ch,104.31.95.233,US,North America
+2020-04-08,testcovid19.no,2a02:2350:5:102:e800::7f3c:3f38,,
+2020-04-08,testcovid19.no,77.111.240.160,DK,Europe
+2020-04-08,testcovid19.no,ns01.one.com,,
+2020-04-08,testcovid19.no,ns02.one.com,,
+2020-04-08,testcovid19.no,testcovid19.no,,
+2020-04-08,test-covid.ch,84.16.73.17,CH,Europe
+2020-04-08,test-covid.ch,test-covid.ch,,
+2020-04-08,testfamily4covid.com,184.168.221.50,US,North America
+2020-04-08,testfamily4covid.com,50.63.202.60,US,North America
+2020-04-08,testfamily4covid.com,testfamily4covid.com,,
+2020-04-08,testrapidocovid19mexico.com,23.236.62.147,US,North America
+2020-04-08,txcovidtesting.org,104.26.2.128,US,North America
+2020-04-08,txcovidtesting.org,104.26.3.128,US,North America
+2020-04-08,txcovidtesting.org,2606:4700:20::681a:280,,
+2020-04-08,txcovidtesting.org,2606:4700:20::681a:380,,
+2020-04-08,txcovidtesting.org,txcovidtesting.org,,
+2020-04-08,webmail.test-coronavirus.ch,104.31.94.233,US,North America
+2020-04-08,webmail.test-coronavirus.ch,104.31.95.233,US,North America
+2020-04-08,webmail.test-coronavirus.ch,2606:4700:3034::681f:5ee9,,
+2020-04-08,webmail.test-coronavirus.ch,2606:4700:3037::681f:5fe9,,
+2020-04-08,www.coronavirus-test-kit.it,shops.myshopify.com,,
+2020-04-08,www.covid19-test.nu,195.74.38.62,SE,Europe
+2020-04-08,www.covid19testseattle.com,172.217.1.147,US,North America
+2020-04-08,www.covid19testseattle.com,2607:f8b0:4000:803::2013,,
+2020-04-08,www.covid19testseattle.com,ghs.googlehosted.com,,
+2020-04-08,www.test-coronavirus.ch,104.31.94.233,US,North America
+2020-04-08,www.test-coronavirus.ch,104.31.95.233,US,North America
+2020-04-08,www.test-coronavirus.ch,2606:4700:3034::681f:5ee9,,
+2020-04-08,www.test-coronavirus.ch,2606:4700:3037::681f:5fe9,,
+2020-04-08,www.testrapidocovid19.mx,www182.wixdns.net,,
+2020-04-09,abbottcovid19testing.com,abbottcovid19testing.com,,
+2020-04-09,adventhealthcoronavirustesting.com,184.168.131.241,US,North America
+2020-04-09,adventhealthcoronavirustesting.com,204.4.13.50,US,North America
+2020-04-09,adventhealthcoronavirustesting.com,adventhealthcoronavirustesting.com,,
+2020-04-09,adventhealthcoronavirustests.com,184.168.221.32,US,North America
+2020-04-09,adventhealthcoronavirustests.com,adventhealthcoronavirustests.com,,
+2020-04-09,approvedcovidtests.com,approvedcovidtests.com,,
+2020-04-09,athomecovid19tests.com,54.72.9.51,IE,Europe
+2020-04-09,athomecovid19tests.com,athomecovid19tests.com,,
+2020-04-09,autodiscover.occovid19testing.com,68.66.226.68,US,North America
+2020-04-09,chloroquinecures.com,184.168.221.42,US,North America
+2020-04-09,chloroquinecures.com,chloroquinecures.com,,
+2020-04-09,cnscoronavirustesting.com,2001:4860:4802:32::15,,
+2020-04-09,cnscoronavirustesting.com,2001:4860:4802:34::15,,
+2020-04-09,cnscoronavirustesting.com,2001:4860:4802:36::15,,
+2020-04-09,cnscoronavirustesting.com,2001:4860:4802:38::15,,
+2020-04-09,cnscoronavirustesting.com,216.239.32.21,US,North America
+2020-04-09,cnscoronavirustesting.com,216.239.34.21,US,North America
+2020-04-09,cnscoronavirustesting.com,216.239.36.21,US,North America
+2020-04-09,cnscoronavirustesting.com,216.239.38.21,US,North America
+2020-04-09,cnscoronavirustesting.com,cnscoronavirustesting.com,,
+2020-04-09,cnscovid19testing.com,2001:4860:4802:32::15,,
+2020-04-09,cnscovid19testing.com,2001:4860:4802:34::15,,
+2020-04-09,cnscovid19testing.com,2001:4860:4802:36::15,,
+2020-04-09,cnscovid19testing.com,2001:4860:4802:38::15,,
+2020-04-09,cnscovid19testing.com,216.239.32.21,US,North America
+2020-04-09,cnscovid19testing.com,216.239.34.21,US,North America
+2020-04-09,cnscovid19testing.com,216.239.36.21,US,North America
+2020-04-09,cnscovid19testing.com,216.239.38.21,US,North America
+2020-04-09,cnscovid19testing.com,cnscovid19testing.com,,
+2020-04-09,com-covid-19-test-center.online,com-covid-19-test-center.online,,
+2020-04-09,coronavirustestingmethods.com,50.63.202.58,US,North America
+2020-04-09,coronavirustestingmethods.com,coronavirustestingmethods.com,,
+2020-04-09,coronavirustestingseattle.com,216.239.32.21,US,North America
+2020-04-09,coronavirustestingseattle.com,216.239.34.21,US,North America
+2020-04-09,coronavirustestingseattle.com,216.239.36.21,US,North America
+2020-04-09,coronavirustestingseattle.com,216.239.38.21,US,North America
+2020-04-09,coronavirustestingseattle.com,coronavirustestingseattle.com,,
+2020-04-09,coronavirustestingwa.com,216.239.32.21,US,North America
+2020-04-09,coronavirustestingwa.com,216.239.34.21,US,North America
+2020-04-09,coronavirustestingwa.com,216.239.36.21,US,North America
+2020-04-09,coronavirustestingwa.com,216.239.38.21,US,North America
+2020-04-09,coronavirustestingwa.com,coronavirustestingwa.com,,
+2020-04-09,coronavirustestsale.com,35.186.238.101,US,North America
+2020-04-09,coronavirustestsale.com,coronavirustestsale.com,,
+2020-04-09,covid-19antibodytestresults.com,50.63.202.46,US,North America
+2020-04-09,covid-19antibodytestresults.com,covid-19antibodytestresults.com,,
+2020-04-09,covid19curekits.com,184.168.221.33,US,North America
+2020-04-09,covid19curekits.com,covid19curekits.com,,
+2020-04-09,covid19naturalcure.com,50.63.202.53,US,North America
+2020-04-09,covid19naturalcure.com,covid19naturalcure.com,,
+2020-04-09,covid19rapidtest.ca,covid19rapidtest.ca,,
+2020-04-09,covid19-schnell-test.com,2a01:ab20::4:0:0:0:46,,
+2020-04-09,covid19-schnell-test.com,covid19-schnell-test.com,,
+2020-04-09,covid19securedarea.com,80.92.65.53,LU,Europe
+2020-04-09,covid19securedarea.com,covid19securedarea.com,,
+2020-04-09,covid19securedarea.com,ns1.eurodns.com,,
+2020-04-09,covid19securedarea.com,ns2.eurodns.com,,
+2020-04-09,covid19securedarea.com,ns3.eurodns.com,,
+2020-04-09,covid19securedarea.com,ns4.eurodns.com,,
+2020-04-09,covid19testall.com,184.168.221.35,US,North America
+2020-04-09,covid19testall.com,184.168.221.40,US,North America
+2020-04-09,covid19testall.com,covid19testall.com,,
+2020-04-09,covid19test.cf,covid19test.cf,,
+2020-04-09,covid-19-testing-kit.com,184.168.221.61,US,North America
+2020-04-09,covid19-testing-kit.com,50.63.202.60,US,North America
+2020-04-09,covid-19-testing-kit.com,covid-19-testing-kit.com,,
+2020-04-09,covid19-testing-kit.com,covid19-testing-kit.com,,
+2020-04-09,covid19testingseattle.com,2001:4860:4802:32::15,,
+2020-04-09,covid19testingseattle.com,2001:4860:4802:34::15,,
+2020-04-09,covid19testingseattle.com,2001:4860:4802:36::15,,
+2020-04-09,covid19testingseattle.com,2001:4860:4802:38::15,,
+2020-04-09,covid19testingseattle.com,216.239.32.21,US,North America
+2020-04-09,covid19testingseattle.com,216.239.34.21,US,North America
+2020-04-09,covid19testingseattle.com,216.239.36.21,US,North America
+2020-04-09,covid19testingseattle.com,216.239.38.21,US,North America
+2020-04-09,covid19testingseattle.com,covid19testingseattle.com,,
+2020-04-09,covid19testingstation.co.za,covid19testingstation.co.za,,
+2020-04-09,covid-19testing.us,192.64.119.75,US,North America
+2020-04-09,covid-19testing.us,covid-19testing.us,,
+2020-04-09,covid-19testkit.info,184.168.221.58,US,North America
+2020-04-09,covid-19testkit.info,covid-19testkit.info,,
+2020-04-09,covid-19testkits.co.nz,covid-19testkits.co.nz,,
+2020-04-09,covid19testwa.com,2001:4860:4802:32::15,,
+2020-04-09,covid19testwa.com,2001:4860:4802:34::15,,
+2020-04-09,covid19testwa.com,2001:4860:4802:36::15,,
+2020-04-09,covid19testwa.com,2001:4860:4802:38::15,,
+2020-04-09,covid19testwa.com,216.239.32.21,US,North America
+2020-04-09,covid19testwa.com,216.239.34.21,US,North America
+2020-04-09,covid19testwa.com,216.239.36.21,US,North America
+2020-04-09,covid19testwa.com,216.239.38.21,US,North America
+2020-04-09,covid19testwa.com,covid19testwa.com,,
+2020-04-09,covid-19test.xyz,52.0.217.44,US,North America
+2020-04-09,covid-19test.xyz,covid-19test.xyz,,
+2020-04-09,covid19virustest.us,208.113.221.228,US,North America
+2020-04-09,covid19virustest.us,covid19virustest.us,,
+2020-04-09,covid4test.com,193.246.38.194,CH,Europe
+2020-04-09,covid4test.com,covid4test.com,,
+2020-04-09,covidfinancialcure.com,184.168.221.55,US,North America
+2020-04-09,covidfinancialcure.com,covidfinancialcure.com,,
+2020-04-09,covidinstanttest.com,34.196.13.28,US,North America
+2020-04-09,covidinstanttest.com,covidinstanttest.com,,
+2020-04-09,covidrapidantibodytest.com,184.168.221.59,US,North America
+2020-04-09,covidrapidantibodytest.com,184.168.221.63,US,North America
+2020-04-09,covidrapidantibodytest.com,covidrapidantibodytest.com,,
+2020-04-09,covidtest1.com,covidtest1.com,,
+2020-04-09,covidtest1.com,I3Y9c3BmMSBpbmNsdWRlOl9zcGYuZ29vZ2xlLmNvbSB+YWxs,,
+2020-04-09,covidtest1.com,#v=spf1 include:_spf.google.com ~all,,
+2020-04-09,covidtested.me,covidtested.me,,
+2020-04-09,covidtester.net,85.13.154.118,DE,Europe
+2020-04-09,covidtester.net,covidtester.net,,
+2020-04-09,covidtest.mx,covidtest.mx,,
+2020-04-09,covidtestny.com,covidtestny.com,,
+2020-04-09,covidtest.solutions,50.63.202.59,US,North America
+2020-04-09,covidtest.solutions,covidtest.solutions,,
+2020-04-09,covidthuistest.net,2a01:238:20a:202:1095::,,
+2020-04-09,covidthuistest.net,81.169.145.95,DE,Europe
+2020-04-09,covidthuistest.net,covidthuistest.net,,
+2020-04-09,covidupdatestoday.com,34.82.47.106,US,North America
+2020-04-09,covidupdatestoday.com,covidupdatestoday.com,,
+2020-04-09,cpanel.occovid19testing.com,68.66.226.68,US,North America
+2020-04-09,curecovid19.doctor,curecovid19.doctor,,
+2020-04-09,curecovid.us,50.63.202.32,US,North America
+2020-04-09,curecovid.us,curecovid.us,,
+2020-04-09,drivethrucovidtesting.com,drivethrucovidtesting.com,,
+2020-04-09,getcovidtest.net,64.98.145.30,CA,North America
+2020-04-09,getcovidtest.net,getcovidtest.net,,
+2020-04-09,gorgecovidtest.com,67.42.2.131,US,North America
+2020-04-09,gorgecovidtest.com,gorgecovidtest.com,,
+2020-04-09,homecovid-19test.com,184.168.221.40,US,North America
+2020-04-09,homecovid-19test.com,homecovid-19test.com,,
+2020-04-09,hometestkitforcoronavirus.com,184.168.221.46,US,North America
+2020-04-09,hometestkitforcoronavirus.com,hometestkitforcoronavirus.com,,
+2020-04-09,hometestkitforcovid19.com,184.168.221.51,US,North America
+2020-04-09,hometestkitforcovid19.com,hometestkitforcovid19.com,,
+2020-04-09,hometestkitsforcovid19.com,184.168.221.42,US,North America
+2020-04-09,hometestkitsforcovid19.com,50.63.202.46,US,North America
+2020-04-09,hometestkitsforcovid19.com,hometestkitsforcovid19.com,,
+2020-04-09,inhomecovid19tests.com,54.72.9.51,IE,Europe
+2020-04-09,inhomecovid19tests.com,inhomecovid19tests.com,,
+2020-04-09,ircovidtest.com,ircovidtest.com,,
+2020-04-09,lillycovid19testinf.com,185.53.178.10,DE,Europe
+2020-04-09,lillycovid19testinf.com,lillycovid19testinf.com,,
+2020-04-09,lillyycovid19testing.com,185.53.178.13,DE,Europe
+2020-04-09,lillyycovid19testing.com,lillyycovid19testing.com,,
+2020-04-09,mail.occovid19testing.com,68.66.226.68,US,North America
+2020-04-09,mail.testcoronavirusonline.ru,185.26.123.232,RU,Europe
+2020-04-09,mobilefacebookcovid19petition-secure2.gq,142.93.114.68,US,North America
+2020-04-09,mobilefacebookcovid19petition-secure2.gq,mobilefacebookcovid19petition-secure2.gq,,
+2020-04-09,mx.testforcoronavirusonline.com,66.96.140.128,US,North America
+2020-04-09,mx.testforcoronavirusonline.com,66.96.140.129,US,North America
+2020-04-09,mycovidtest19.com,23.236.62.147,US,North America
+2020-04-09,mycovidtest19.com,mycovidtest19.com,,
+2020-04-09,occovid19testing.com,68.66.226.68,US,North America
+2020-04-09,occovid19testing.com,ns1.a2hosting.com,,
+2020-04-09,occovid19testing.com,ns2.a2hosting.com,,
+2020-04-09,occovid19testing.com,ns3.a2hosting.com,,
+2020-04-09,occovid19testing.com,ns4.a2hosting.com,,
+2020-04-09,occovid19testing.com,occovid19testing.com,,
+2020-04-09,occovid19testing.com,root@az1-ss31.a2hosting.com,,
+2020-04-09,outdoorcovid-19testing.com,50.63.202.32,US,North America
+2020-04-09,outdoorcovid-19testing.com,outdoorcovid-19testing.com,,
+2020-04-09,rapid-test-covid.com,rapid-test-covid.com,,
+2020-04-09,safecarecovid19test.com,ns-cloud-a1.googledomains.com,,
+2020-04-09,safecarecovid19test.com,ns-cloud-a2.googledomains.com,,
+2020-04-09,safecarecovid19test.com,ns-cloud-a3.googledomains.com,,
+2020-04-09,safecarecovid19test.com,ns-cloud-a4.googledomains.com,,
+2020-04-09,safecarecovid19test.com,safecarecovid19test.com,,
+2020-04-09,seltestforcovid19.com,54.72.9.51,IE,Europe
+2020-04-09,seltestforcovid19.com,seltestforcovid19.com,,
+2020-04-09,testcoronavirusonline.ru,testcoronavirusonline.ru,,
+2020-04-09,testcovid19dlapolski.pl,testcovid19dlapolski.pl,,
+2020-04-09,testcovid19mexico.mx,23.236.62.147,US,North America
+2020-04-09,testcovid19mexico.mx,testcovid19mexico.mx,,
+2020-04-09,test-covid.com.ua,test-covid.com.ua,,
+2020-04-09,testecovid.pt,testecovid.pt,,
+2020-04-09,testedecovid19.com.br,a.auto.dns.br,,
+2020-04-09,testedecovid19.com.br,b.auto.dns.br,,
+2020-04-09,testedecovid19.com.br,testedecovid19.com.br,,
+2020-04-09,testforcoronavirusonline.com,testforcoronavirusonline.com,,
+2020-04-09,testingcovid19.co.uk,cris.ns.cloudflare.com,,
+2020-04-09,testingcovid19.co.uk,dorthy.ns.cloudflare.com,,
+2020-04-09,testingcovid19.co.uk,testingcovid19.co.uk,,
+2020-04-09,testingkits-covid19.llp,127.0.53.53,,
+2020-04-09,testingkits-covid19.llp,testingkits-covid19.llp,,
+2020-04-09,testrapidocovid19mexico.com.mx,23.236.62.147,US,North America
+2020-04-09,testrapidocovid19mexico.com.mx,testrapidocovid19mexico.com.mx,,
+2020-04-09,webdisk.occovid19testing.com,68.66.226.68,US,North America
+2020-04-09,webmail.occovid19testing.com,68.66.226.68,US,North America
+2020-04-09,www.cnscoronavirustesting.com,172.217.14.179,US,North America
+2020-04-09,www.cnscoronavirustesting.com,2607:f8b0:4000:803::2013,,
+2020-04-09,www.cnscoronavirustesting.com,ghs.googlehosted.com,,
+2020-04-09,www.cnscovid19testing.com,172.217.14.179,US,North America
+2020-04-09,www.cnscovid19testing.com,ghs.googlehosted.com,,
+2020-04-09,www.coronavirustestingseattle.com,172.217.9.147,US,North America
+2020-04-09,www.coronavirustestingseattle.com,2607:f8b0:4000:817::2013,,
+2020-04-09,www.coronavirustestingseattle.com,ghs.googlehosted.com,,
+2020-04-09,www.coronavirustestingwa.com,172.217.9.147,US,North America
+2020-04-09,www.coronavirustestingwa.com,2607:f8b0:4000:817::2013,,
+2020-04-09,www.coronavirustestingwa.com,ghs.googlehosted.com,,
+2020-04-09,www.covid19testingseattle.com,216.58.194.83,US,North America
+2020-04-09,www.covid19testingseattle.com,2607:f8b0:4000:817::2013,,
+2020-04-09,www.covid19testingseattle.com,ghs.googlehosted.com,,
+2020-04-09,www.drivethrucovidtesting.com,184.168.221.47,US,North America
+2020-04-09,www.drivethrucovidtesting.com,drivethrucovidtesting.com,,
+2020-04-09,www.ircovidtest.com,easy-cms-master.elasticbeanstalk.com,,
+2020-04-09,www.ircovidtest.com,ssl.site123.com,,
+2020-04-09,www.mycovidtest19.com,www174.wixdns.net,,
+2020-04-09,www.occovid19testing.com,68.66.226.68,US,North America
+2020-04-09,www.occovid19testing.com,occovid19testing.com,,
+2020-04-09,www.rapid-test-covid.com,35.204.150.5,,Europe
+2020-04-09,www.rapid-test-covid.com,website-rendering.jouwweb.nl,,
+2020-04-09,www.testrapidocovid19mexico.com.mx,185.230.60.211,US,North America
+2020-04-09,www.testrapidocovid19mexico.com.mx,balancer.wixdns.net,,
+2020-04-09,www.testrapidocovid19mexico.com.mx,www182.wixdns.net,,
