@@ -4,6 +4,7 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-08,3secureaccount-facebookcovid19petition.ga,3secureaccount-facebookcovid19petition.ga,,
 2020-04-08,3secureaccount-facebookcovid19petition.ga,67.205.177.210,US,North America
+2020-04-08,4bestcovidtest.com,184.168.221.63,US,North America
 2020-04-08,antibodytest4covid19.com,184.168.221.50,US,North America
 2020-04-08,antibodytest4covid19.com,50.63.202.39,US,North America
 2020-04-08,antibodytest4covid.com,184.168.221.33,US,North America
@@ -125,9 +126,6 @@
 2020-04-09,autodiscover.occovid19testing.com,68.66.226.68,US,North America
 2020-04-09,chloroquinecures.com,184.168.221.42,US,North America
 2020-04-09,chloroquinecures.com,chloroquinecures.com,,
-2020-04-09,cnscoronavirustesting.com,2001:4860:4802:32::15,,
-2020-04-09,cnscoronavirustesting.com,2001:4860:4802:34::15,,
-2020-04-09,cnscoronavirustesting.com,2001:4860:4802:36::15,,
 2020-04-09,cnscoronavirustesting.ph,cnscoronavirustesting.ph,,
 2020-04-09,cnscovid19testing.com,2001:4860:4802:32::15,,
 2020-04-09,cnscovid19testing.com,2001:4860:4802:34::15,,
@@ -173,6 +171,7 @@
 2020-04-09,covid19curekits.com,covid19curekits.com,,
 2020-04-09,covid19hometestkits.llp,127.0.53.53,,
 2020-04-09,covid19hometestkits.llp,covid19hometestkits.llp,,
+2020-04-09,covid19naturalcure.com,184.168.221.54,US,North America
 2020-04-09,covid19naturalcure.com,50.63.202.53,US,North America
 2020-04-09,covid19naturalcure.com,covid19naturalcure.com,,
 2020-04-09,covid19rapidtest.ca,covid19rapidtest.ca,,
@@ -305,6 +304,8 @@
 2020-04-09,seltestforcovid19.com,54.72.9.51,IE,Europe
 2020-04-09,seltestforcovid19.com,seltestforcovid19.com,,
 2020-04-09,testcoronavirusonline.ru,testcoronavirusonline.ru,,
+2020-04-09,testcovid19.app,192.230.79.89,US,North America
+2020-04-09,testcovid19.app,199.83.135.102,US,North America
 2020-04-09,testcovid19.app,testcovid19.app,,
 2020-04-09,testcovid19dlapolski.pl,admin@home.pl,,
 2020-04-09,testcovid19dlapolski.pl,dns.home.pl,,
