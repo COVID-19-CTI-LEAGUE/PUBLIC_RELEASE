@@ -38,6 +38,8 @@
 2020-04-08,covid19testseattle.com,2001:4860:4802:34::15,,
 2020-04-08,covid19testseattle.com,2001:4860:4802:36::15,,
 2020-04-08,covid19testseattle.com,2001:4860:4802:38::15,,
+2020-04-08,covid19testsonline.com,I3Y9c3BmMSBpcDY6ZmQ5Mjo1OWYzOjUxMGU6Oi80OCAtYWxs,,
+2020-04-08,covid19testsonline.com,#v=spf1 ip6:fd92:59f3:510e::/48 -all,,
 2020-04-08,covidcure.ca,184.168.221.35,US,North America
 2020-04-08,covidcure.ca,covidcure.ca,,
 2020-04-08,covidcurelab.com,3.121.171.156,DE,Europe
@@ -88,6 +90,7 @@
 2020-04-08,sicurezzacovid.com,dns4.arubadns.cz,,
 2020-04-08,sicurezzacovid.com,dns.technorail.com,,
 2020-04-08,sicurezzacovid.com,sicurezzacovid.com,,
+2020-04-08,testcovid.site,185.253.219.219,UA,Europe
 2020-04-08,testfamily4covid.com,184.168.221.50,US,North America
 2020-04-08,testrapidocovid19mexico.com,23.236.62.147,US,North America
 2020-04-08,txcovidtesting.org,104.26.2.128,US,North America
@@ -126,17 +129,13 @@
 2020-04-09,cnscoronavirustesting.com,2001:4860:4802:34::15,,
 2020-04-09,cnscoronavirustesting.com,2001:4860:4802:36::15,,
 2020-04-09,cnscoronavirustesting.com,2001:4860:4802:38::15,,
-2020-04-09,cnscoronavirustesting.com,216.239.32.21,US,North America
 2020-04-09,cnscoronavirustesting.com,216.239.34.21,US,North America
-2020-04-09,cnscoronavirustesting.com,216.239.36.21,US,North America
-2020-04-09,cnscoronavirustesting.com,216.239.38.21,US,North America
 2020-04-09,cnscoronavirustesting.com,cnscoronavirustesting.com,,
 2020-04-09,cnscoronavirustesting.ph,cnscoronavirustesting.ph,,
 2020-04-09,cnscovid19testing.com,2001:4860:4802:32::15,,
 2020-04-09,cnscovid19testing.com,2001:4860:4802:34::15,,
 2020-04-09,cnscovid19testing.com,2001:4860:4802:36::15,,
 2020-04-09,cnscovid19testing.com,2001:4860:4802:38::15,,
-2020-04-09,cnscovid19testing.com,216.239.36.21,US,North America
 2020-04-09,com-covid-19-test-center.online,com-covid-19-test-center.online,,
 2020-04-09,coronaviruslatest.com.au,173.212.224.103,DE,Europe
 2020-04-09,coronaviruslatest.com.au,coronaviruslatest.com.au,,
@@ -181,6 +180,7 @@
 2020-04-09,covid19securedarea.com,ns4.eurodns.com,,
 2020-04-09,covid19stester.com.ph,covid19stester.com.ph,,
 2020-04-09,covid19stester.ph,covid19stester.ph,,
+2020-04-09,covid19stester.ws,64.70.19.203,US,North America
 2020-04-09,covid19stester.ws,covid19stester.ws,,
 2020-04-09,covid19testall.com,184.168.221.35,US,North America
 2020-04-09,covid19testall.com,184.168.221.40,US,North America
