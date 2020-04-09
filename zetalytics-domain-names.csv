@@ -35,8 +35,6 @@
 2020-04-08,covid19-test.nu,ns5.binero.se,,
 2020-04-08,covid19-test.nu,ns6.binero.se,,
 2020-04-08,covid19-test.nu,ns7.binero.se,,
-2020-04-08,covid19testseattle.com,2001:4860:4802:32::15,,
-2020-04-08,covid19testseattle.com,2001:4860:4802:38::15,,
 2020-04-08,covid19testsonline.com,I3Y9c3BmMSBpcDY6ZmQ5Mjo1OWYzOjUxMGU6Oi80OCAtYWxs,,
 2020-04-08,covid19testsonline.com,#v=spf1 ip6:fd92:59f3:510e::/48 -all,,
 2020-04-08,covidcure.ca,184.168.221.35,US,North America
@@ -112,7 +110,6 @@
 2020-04-08,www.covid19rapidtesttoday.com,2606:4700::6810:fc2,,
 2020-04-08,www.covid19rapidtesttoday.com,target.clickfunnels.com,,
 2020-04-08,www.covid19-test.nu,195.74.38.62,SE,Europe
-2020-04-08,www.covid19testseattle.com,ghs.googlehosted.com,,
 2020-04-08,www.test-coronavirus.ch,104.31.94.233,US,North America
 2020-04-08,www.test-coronavirus.ch,104.31.95.233,US,North America
 2020-04-08,www.test-coronavirus.ch,2606:4700:3034::681f:5ee9,,
@@ -133,10 +130,6 @@
 2020-04-09,chloroquinecures.com,184.168.221.42,US,North America
 2020-04-09,chloroquinecures.com,chloroquinecures.com,,
 2020-04-09,cnscoronavirustesting.ph,cnscoronavirustesting.ph,,
-2020-04-09,cnscovid19testing.com,2001:4860:4802:32::15,,
-2020-04-09,cnscovid19testing.com,2001:4860:4802:34::15,,
-2020-04-09,cnscovid19testing.com,2001:4860:4802:36::15,,
-2020-04-09,cnscovid19testing.com,2001:4860:4802:38::15,,
 2020-04-09,com-covid-19-test-center.online,com-covid-19-test-center.online,,
 2020-04-09,corona-viruscure.co.uk,94.136.40.51,GB,Europe
 2020-04-09,corona-viruscure.co.uk,corona-viruscure.co.uk,,
@@ -166,7 +159,6 @@
 2020-04-09,coronavirustestingwa.com,216.239.34.21,US,North America
 2020-04-09,coronavirustestingwa.com,216.239.36.21,US,North America
 2020-04-09,coronavirustestingwa.com,216.239.38.21,US,North America
-2020-04-09,coronavirustestingwa.com,coronavirustestingwa.com,,
 2020-04-09,coronavirustestingwa.ph,coronavirustestingwa.ph,,
 2020-04-09,coronavirustestsale.com,35.186.238.101,US,North America
 2020-04-09,coronavirustestsale.com,coronavirustestsale.com,,
@@ -344,9 +336,6 @@
 2020-04-09,www.cnscoronavirustesting.com,ghs.googlehosted.com,,
 2020-04-09,www.cnscovid19testing.com,172.217.14.179,US,North America
 2020-04-09,www.cnscovid19testing.com,ghs.googlehosted.com,,
-2020-04-09,www.coronavirustestingwa.com,172.217.9.147,US,North America
-2020-04-09,www.coronavirustestingwa.com,2607:f8b0:4000:817::2013,,
-2020-04-09,www.coronavirustestingwa.com,ghs.googlehosted.com,,
 2020-04-09,www.covid19-schnell-test.com,149.126.4.46,CH,Europe
 2020-04-09,www.covid19-schnell-test.com,covid19-schnell-test.com,,
 2020-04-09,www.covid19test.cf,195.20.50.41,NL,Europe
@@ -354,6 +343,17 @@
 2020-04-09,www.covid19testingseattle.com,216.58.194.83,US,North America
 2020-04-09,www.covid19testingseattle.com,2607:f8b0:4000:817::2013,,
 2020-04-09,www.covid19testingseattle.com,ghs.googlehosted.com,,
+2020-04-09,www.covidtest.vip,104.16.12.194,US,North America
+2020-04-09,www.covidtest.vip,104.16.13.194,US,North America
+2020-04-09,www.covidtest.vip,104.16.14.194,US,North America
+2020-04-09,www.covidtest.vip,104.16.15.194,US,North America
+2020-04-09,www.covidtest.vip,104.16.16.194,US,North America
+2020-04-09,www.covidtest.vip,2606:4700::6810:10c2,,
+2020-04-09,www.covidtest.vip,2606:4700::6810:cc2,,
+2020-04-09,www.covidtest.vip,2606:4700::6810:dc2,,
+2020-04-09,www.covidtest.vip,2606:4700::6810:ec2,,
+2020-04-09,www.covidtest.vip,2606:4700::6810:fc2,,
+2020-04-09,www.covidtest.vip,target.clickfunnels.com,,
 2020-04-09,www.drivethrucovidtesting.com,184.168.221.47,US,North America
 2020-04-09,www.drivethrucovidtesting.com,drivethrucovidtesting.com,,
 2020-04-09,www.ircovidtest.com,easy-cms-master.elasticbeanstalk.com,,
