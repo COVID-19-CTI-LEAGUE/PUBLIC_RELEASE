@@ -92,6 +92,10 @@
 2020-04-08,sicurezzacovid.com,dns.technorail.com,,
 2020-04-08,sicurezzacovid.com,sicurezzacovid.com,,
 2020-04-08,testcovid.site,185.253.219.219,UA,Europe
+2020-04-08,testcovid.site,J3Y9c3BmMSArYSArbXggK2lwNDoxODUuMjUzLjIxOS4yMTkgfmFsbA==,,
+2020-04-08,testcovid.site,ns1.shneider-host.ru,,
+2020-04-08,testcovid.site,root@shneider-host.ru,,
+2020-04-08,testcovid.site,'v=spf1 +a +mx +ip4:185.253.219.219 ~all,,
 2020-04-08,testfamily4covid.com,184.168.221.50,US,North America
 2020-04-08,testrapidocovid19mexico.com,23.236.62.147,US,North America
 2020-04-08,txcovidtesting.org,104.26.2.128,US,North America
@@ -104,7 +108,6 @@
 2020-04-08,webmail.test-coronavirus.ch,2606:4700:3037::681f:5fe9,,
 2020-04-08,www.coronavirus-test-kit.it,shops.myshopify.com,,
 2020-04-08,www.covid19-test.nu,195.74.38.62,SE,Europe
-2020-04-08,www.covid19testseattle.com,172.217.1.147,US,North America
 2020-04-08,www.covid19testseattle.com,2607:f8b0:4000:803::2013,,
 2020-04-08,www.covid19testseattle.com,ghs.googlehosted.com,,
 2020-04-08,www.test-coronavirus.ch,104.31.94.233,US,North America
@@ -231,8 +234,6 @@
 2020-04-09,covidfinancialcure.com,184.168.221.39,US,North America
 2020-04-09,covidfinancialcure.com,184.168.221.55,US,North America
 2020-04-09,covidfinancialcure.com,covidfinancialcure.com,,
-2020-04-09,covidinstanttest.com,34.196.13.28,US,North America
-2020-04-09,covidinstanttest.com,covidinstanttest.com,,
 2020-04-09,covidrapidantibodytest.com,184.168.221.59,US,North America
 2020-04-09,covidrapidantibodytest.com,184.168.221.63,US,North America
 2020-04-09,covidrapidantibodytest.com,covidrapidantibodytest.com,,
