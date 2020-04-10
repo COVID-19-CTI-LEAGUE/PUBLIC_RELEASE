@@ -186,8 +186,6 @@
 2020-04-09,testedecovid19.com.br,a.auto.dns.br,,
 2020-04-09,testedecovid19.com.br,b.auto.dns.br,,
 2020-04-09,testedecovid19.com.br,testedecovid19.com.br,,
-2020-04-09,testingcovid19.co.uk,cris.ns.cloudflare.com,,
-2020-04-09,testingcovid19.co.uk,testingcovid19.co.uk,,
 2020-04-09,testingforcovid2019.com,217.70.184.38,FR,Europe
 2020-04-09,testingforcovid2019.com,testingforcovid2019.com,,
 2020-04-09,testingkits-covid19.llp,127.0.53.53,,
@@ -340,4 +338,7 @@
 2020-04-10,www.covid-19-testkits.kr,216.239.38.21,US,North America
 2020-04-10,www.covid-19-testkits.kr,2607:f8b0:4000:804::2013,,
 2020-04-10,www.covid-19-testkits.kr,ghs.googlehosted.com,,
+2020-04-10,www.covid-19-test.tech,2606:4700:3032::681c:a54,,
+2020-04-10,www.covid-19-test.tech,2606:4700:3035::681c:b54,,
+2020-04-10,www.covid-19-test.tech,www.covid-19-test.tech.cdn.cloudflare.net,,
 2020-04-10,your-covid19-test.com,your-covid19-test.com,,
