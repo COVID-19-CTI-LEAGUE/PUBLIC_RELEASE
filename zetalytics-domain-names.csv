@@ -70,10 +70,6 @@
 2020-04-09,testingforcovid2019.com,217.70.184.38,FR,Europe
 2020-04-09,testingforcovid2019.com,testingforcovid2019.com,,
 2020-04-09,www.4mysecure-facebookcovid19petition.cf,142.93.73.124,US,North America
-2020-04-09,www.covidtest.vip,104.16.12.194,US,North America
-2020-04-09,www.covidtest.vip,2606:4700::6810:dc2,,
-2020-04-09,www.covidtest.vip,2606:4700::6810:ec2,,
-2020-04-09,www.covidtest.vip,target.clickfunnels.com,,
 2020-04-10,20minutecovid19test.com,184.168.221.59,US,North America
 2020-04-10,20minutecovid19test.com,20minutecovid19test.com,,
 2020-04-10,6mysecure-facebookcovid19petition.cf,6mysecure-facebookcovid19petition.cf,,
@@ -110,6 +106,8 @@
 2020-04-10,charlestoncovid19test.com.ph,charlestoncovid19test.com.ph,,
 2020-04-10,chicagocovid-19tests.com.ph,chicagocovid-19tests.com.ph,,
 2020-04-10,cloudflarearecord.covid-19-test.tech,185.27.134.126,GB,Europe
+2020-04-10,cloudflare-resolve-to.covid-19-test.tech,185.27.134.126,GB,Europe
+2020-04-10,cloudflare-resolve-to.covid-19-test.tech,cloudflarearecord.covid-19-test.tech,,
 2020-04-10,columbuscovid19testing.ph,columbuscovid19testing.ph,,
 2020-04-10,coronavirusantibodiestesting.com.ph,coronavirusantibodiestesting.com.ph,,
 2020-04-10,coronavirusdeceasecure.com,192.185.0.218,US,North America
@@ -161,6 +159,7 @@
 2020-04-10,covid19test.jp,covid19test.jp,,
 2020-04-10,covid-19-testkits.kr,covid-19-testkits.kr,,
 2020-04-10,covid-19testkits.nz,103.96.117.53,NZ,Oceania
+2020-04-10,covid19testkits.nz,103.96.117.53,NZ,Oceania
 2020-04-10,covid-19testkits.nz,covid-19testkits.nz,,
 2020-04-10,covid19testkits.nz,covid19testkits.nz,,
 2020-04-10,covid19testkitweb.com,50.63.202.47,US,North America
