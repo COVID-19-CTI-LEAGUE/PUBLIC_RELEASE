@@ -22,7 +22,6 @@
 2020-04-09,athomecovid19tests.com,185.53.177.14,DE,Europe
 2020-04-09,athomecovid19tests.com,54.72.9.51,IE,Europe
 2020-04-09,athomecovid19tests.com,athomecovid19tests.com,,
-2020-04-09,autodiscover.occovid19testing.com,68.66.226.68,US,North America
 2020-04-09,chloroquinecures.com,184.168.221.42,US,North America
 2020-04-09,chloroquinecures.com,chloroquinecures.com,,
 2020-04-09,cnscoronavirustesting.ph,cnscoronavirustesting.ph,,
@@ -75,6 +74,7 @@
 2020-04-09,covid19-schnell-test.com,149.126.4.46,CH,Europe
 2020-04-09,covid19-schnell-test.com,2a01:ab20::4:0:0:0:46,,
 2020-04-09,covid19-schnell-test.com,covid19-schnell-test.com,,
+2020-04-09,covid19-schnell-test.com,mail.covid19-schnell-test.com,,
 2020-04-09,covid19securedarea.com,80.92.65.53,LU,Europe
 2020-04-09,covid19securedarea.com,C3Y9c3BmMSAtYWxs,,
 2020-04-09,covid19securedarea.com,covid19securedarea.com,,
@@ -152,6 +152,7 @@
 2020-04-09,hometestkitsforcovid19.com,hometestkitsforcovid19.com,,
 2020-04-09,hometestkitsforcovid19.ws,64.70.19.203,US,North America
 2020-04-09,hometestkitsforcovid19.ws,hometestkitsforcovid19.ws,,
+2020-04-09,inhomecovid19tests.com,185.53.178.14,DE,Europe
 2020-04-09,inhomecovid19tests.com,54.72.9.51,IE,Europe
 2020-04-09,inhomecovid19tests.com,inhomecovid19tests.com,,
 2020-04-09,ircovidtest.com,ircovidtest.com,,
@@ -160,15 +161,12 @@
 2020-04-09,lillycovid19testinf.com,lillycovid19testinf.com,,
 2020-04-09,lillyycovid19testing.com,185.53.178.13,DE,Europe
 2020-04-09,lillyycovid19testing.com,lillyycovid19testing.com,,
-2020-04-09,mail.occovid19testing.com,68.66.226.68,US,North America
 2020-04-09,mobilefacebookcovid19petition-secure2.gq,142.93.114.68,US,North America
 2020-04-09,mobilefacebookcovid19petition-secure2.gq,mobilefacebookcovid19petition-secure2.gq,,
 2020-04-09,occovid19testing.com,ns1.a2hosting.com,,
 2020-04-09,occovid19testing.com,ns2.a2hosting.com,,
 2020-04-09,occovid19testing.com,ns3.a2hosting.com,,
 2020-04-09,occovid19testing.com,ns4.a2hosting.com,,
-2020-04-09,occovid19testing.com,occovid19testing.com,,
-2020-04-09,occovid19testing.com,root@az1-ss31.a2hosting.com,,
 2020-04-09,outdoorcovid-19testing.com,50.63.202.32,US,North America
 2020-04-09,outdoorcovid-19testing.com,outdoorcovid-19testing.com,,
 2020-04-09,seltestforcovid19.com,54.72.9.51,IE,Europe
@@ -189,14 +187,12 @@
 2020-04-09,testedecovid19.com.br,b.auto.dns.br,,
 2020-04-09,testedecovid19.com.br,testedecovid19.com.br,,
 2020-04-09,testingcovid19.co.uk,cris.ns.cloudflare.com,,
-2020-04-09,testingcovid19.co.uk,dorthy.ns.cloudflare.com,,
 2020-04-09,testingcovid19.co.uk,testingcovid19.co.uk,,
 2020-04-09,testingforcovid2019.com,217.70.184.38,FR,Europe
 2020-04-09,testingforcovid2019.com,testingforcovid2019.com,,
 2020-04-09,testingkits-covid19.llp,127.0.53.53,,
 2020-04-09,testingkits-covid19.llp,testingkits-covid19.llp,,
 2020-04-09,webdisk.occovid19testing.com,68.66.226.68,US,North America
-2020-04-09,webmail.occovid19testing.com,68.66.226.68,US,North America
 2020-04-09,www.4mysecure-facebookcovid19petition.cf,142.93.73.124,US,North America
 2020-04-09,www.covid19-schnell-test.com,149.126.4.46,CH,Europe
 2020-04-09,www.covid19-schnell-test.com,covid19-schnell-test.com,,
@@ -220,8 +216,6 @@
 2020-04-09,www.drivethrucovidtesting.com,drivethrucovidtesting.com,,
 2020-04-09,www.ircovidtest.com,easy-cms-master.elasticbeanstalk.com,,
 2020-04-09,www.ircovidtest.com,ssl.site123.com,,
-2020-04-09,www.occovid19testing.com,68.66.226.68,US,North America
-2020-04-09,www.occovid19testing.com,occovid19testing.com,,
 2020-04-09,www.testrapidocovid19mexico.com.mx,185.230.60.211,US,North America
 2020-04-09,www.testrapidocovid19mexico.com.mx,balancer.wixdns.net,,
 2020-04-09,www.testrapidocovid19mexico.com.mx,www182.wixdns.net,,
@@ -323,14 +317,21 @@
 2020-04-10,philadelphiacoronavirustests.com,philadelphiacoronavirustests.com,,
 2020-04-10,quickcoronavirustesting.com,quickcoronavirustesting.com,,
 2020-04-10,quickcovid-19test.com,quickcovid-19test.com,,
+2020-04-10,sanantoniocovid-19testing.com,dns@jomax.net,,
+2020-04-10,sanantoniocovid-19testing.com,ns33.domaincontrol.com,,
 2020-04-10,sanantoniocovid-19testing.com,sanantoniocovid-19testing.com,,
 2020-04-10,securecovid19.com,securecovid19.com,,
 2020-04-10,stopcovid19.test.yuseiito.com,clever-meninsky-f4d52a.netlify.com,,
+2020-04-10,testforcovidimmunity.com,testforcovidimmunity.com,,
+2020-04-10,testkitonlinecovid-19.com,testkitonlinecovid-19.com,,
+2020-04-10,testnacoronavirus.sk,mailin1.testnacoronavirus.sk,,
+2020-04-10,testnacoronavirus.sk,mailin2.testnacoronavirus.sk,,
 2020-04-10,testnacoronavirus.sk,testnacoronavirus.sk,,
 2020-04-10,testrapidcoronavirus.ro,testrapidcoronavirus.ro,,
 2020-04-10,testy-covid19.cz,testy-covid19.cz,,
 2020-04-10,texascoronavirustest.com,50.63.202.58,US,North America
 2020-04-10,texascoronavirustest.com,texascoronavirustest.com,,
+2020-04-10,texascovid-19test.com,texascovid-19test.com,,
 2020-04-10,www.coronavirustestingsf.com,45.88.202.115,,
 2020-04-10,www.coronavirustestsf.com,45.88.202.115,,
 2020-04-10,www.covid-19-testkits.kr,216.239.32.21,US,North America
