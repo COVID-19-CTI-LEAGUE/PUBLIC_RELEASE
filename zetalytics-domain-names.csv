@@ -7,10 +7,8 @@
 2020-04-10,acceleratedcovidtesting.com,50.63.202.51,US,North America
 2020-04-10,_acme-challenge.covid19-testing.ga,11776.bodis.com,,
 2020-04-10,atlantacovid19testing.com,50.63.202.37,US,North America
-2020-04-10,attestation-covid-19.com,hostmaster@1und1.com,,
 2020-04-10,attestation-covid-19.com,mx00.ionos.fr,,
 2020-04-10,attestation-covid-19.com,mx01.ionos.fr,,
-2020-04-10,attestation-covid-19.com,ns1044.ui-dns.org,,
 2020-04-10,autotestcovid19.ch,autotestcovid19.ch,,
 2020-04-10,californiacoronavirustesting.com,184.168.221.42,US,North America
 2020-04-10,coronavirusdeceasecure.com,192.185.0.218,US,North America
@@ -98,10 +96,6 @@
 2020-04-10,www.denvercoronavirustests.com,184.168.221.53,US,North America
 2020-04-10,www.denvercoronavirustests.com,denvercoronavirustests.com,,
 2020-04-10,www.my2secure-facebookcovid19petition.cf,142.93.73.124,US,North America
-2020-04-10,your-covid19-test.com,1|www.your-covid19-test.com,,
-2020-04-10,your-covid19-test.com,GzF8d3d3LnlvdXItY292aWQxOS10ZXN0LmNvbQ==,,
-2020-04-10,your-covid19-test.com,HnY9c3BmMSBpbmNsdWRlOm14Lm92aC5jb20gfmFsbA==,,
-2020-04-10,your-covid19-test.com,v=spf1 include:mx.ovh.com ~all,,
 2020-04-11,atlantacoronavirustest.com,184.168.221.63,US,North America
 2020-04-11,atlantacoronavirustest.com,50.63.202.44,US,North America
 2020-04-11,atlantacoronavirustest.com,atlantacoronavirustest.com,,
@@ -153,11 +147,14 @@
 2020-04-11,chicagocovid-19test.com,chicagocovid-19test.com,,
 2020-04-11,chicagocovid19test.com,chicagocovid19test.com,,
 2020-04-11,chicagocovid19testing.com,50.63.202.45,US,North America
+2020-04-11,chicagocovid-19testing.com,chicagocovid-19testing.com,,
 2020-04-11,chicagocovid19testing.com,chicagocovid19testing.com,,
+2020-04-11,chicagocovid-19tests.com,chicagocovid-19tests.com,,
 2020-04-11,columbuscovid-19test.com,50.63.202.35,US,North America
 2020-04-11,columbuscovid-19test.com,columbuscovid-19test.com,,
 2020-04-11,corecovidtest.com,50.63.202.40,US,North America
 2020-04-11,corecovidtest.com,corecovidtest.com,,
+2020-04-11,coronavirusbloodtestingkits.com,coronavirusbloodtestingkits.com,,
 2020-04-11,coronavirustestingstations.com,50.63.202.40,US,North America
 2020-04-11,coronavirustestingstations.com,coronavirustestingstations.com,,
 2020-04-11,covid19deceasecure.com,192.185.0.218,US,North America
@@ -210,6 +207,7 @@
 2020-04-11,covidtestingforantibodies.com,v=spf1 a -all,,
 2020-04-11,covid-testing-kits.com,23.236.62.147,US,North America
 2020-04-11,covid-testing-kits.com,covid-testing-kits.com,,
+2020-04-11,covidtestnegative.com,covidtestnegative.com,,
 2020-04-11,covidtestpositive.com,184.168.221.63,US,North America
 2020-04-11,covidtestpositive.com,covidtestpositive.com,,
 2020-04-11,cowtowncovidtesting.com,184.168.221.54,US,North America
@@ -308,6 +306,7 @@
 2020-04-11,rapidcovidtestafrica.com,rapidcovidtestafrica.com,,
 2020-04-11,sanantoniocoronavirustests.com,50.63.202.51,US,North America
 2020-04-11,sanantoniocoronavirustests.com,sanantoniocoronavirustests.com,,
+2020-04-11,sanantoniocovid-19tests.com,sanantoniocovid-19tests.com,,
 2020-04-11,sanfranciscocovid-19test.com,184.168.221.55,US,North America
 2020-04-11,sanfranciscocovid-19test.com,sanfranciscocovid-19test.com,,
 2020-04-11,sanfranciscocovid19tests.com,184.168.221.61,US,North America
@@ -317,6 +316,7 @@
 2020-04-11,seattlecovid-19testing.com,50.63.202.36,US,North America
 2020-04-11,seattlecovid-19testing.com,seattlecovid-19testing.com,,
 2020-04-11,testcovidfromhome.com,testcovidfromhome.com,,
+2020-04-11,testingcovid19.live,testingcovid19.live,,
 2020-04-11,texascoronavirustests.com,50.63.202.53,US,North America
 2020-04-11,texascoronavirustests.com,texascoronavirustests.com,,
 2020-04-11,texascovid19testing.com,50.63.202.40,US,North America
