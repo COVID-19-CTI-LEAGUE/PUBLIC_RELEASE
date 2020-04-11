@@ -17,7 +17,6 @@
 2020-04-10,covid19testing.ru,185.165.123.36,RU,Europe
 2020-04-10,covid19test.jp,150.95.48.68,JP,Asia
 2020-04-10,covid19teststarterkit.com,50.63.202.38,US,North America
-2020-04-10,covid-19-test.tech,104.28.11.84,US,North America
 2020-04-10,covid-19-test.tech,covid-19-test.tech.cdn.cloudflare.net,,
 2020-04-10,covidtestingtelehealth.com,ns33.domaincontrol.com,,
 2020-04-10,covidtestingtelehealth.com,ns34.domaincontrol.com,,
@@ -25,6 +24,7 @@
 2020-04-10,denvercovid-19test.com,184.168.221.51,US,North America
 2020-04-10,erythromycincovid19cure.com,erythromycincovid19cure.com,,
 2020-04-10,fastcovid19testing.com,184.168.221.41,US,North America
+2020-04-10,fastcovid19testing.com,50.63.202.62,US,North America
 2020-04-10,houstoncoronavirustest.com,184.168.221.33,US,North America
 2020-04-10,infocurecovid19.com,184.168.221.42,US,North America
 2020-04-10,infocurecovid19.com,184.168.221.43,US,North America
@@ -121,7 +121,6 @@
 2020-04-11,covid19-testingkit.com,covid19-testingkit.com,,
 2020-04-11,covid-19testingkit.shop,covid-19testingkit.shop,,
 2020-04-11,covid-19testingkit.solutions,50.63.202.48,US,North America
-2020-04-11,covid-19testingkit.tools,covid-19testingkit.tools,,
 2020-04-11,covid-19-tests.org,Pv=spf1 +a +mx +a:ns1.es44.siteground.eu include:_spf.mailspamprotection.com ~all,,
 2020-04-11,covid-19-tests.org,UHY9c3BmMSArYSArbXggK2E6bnMxLmVzNDQuc2l0ZWdyb3VuZC5ldSBpbmNsdWRlOl9zcGYubWFpbHNwYW1wcm90ZWN0aW9uLmNvbSB+YWxs,,
 2020-04-11,covid19viruscures.com,50.63.202.48,US,North America
@@ -164,6 +163,7 @@
 2020-04-11,detroitcovid-19tests.com,184.168.221.50,US,North America
 2020-04-11,detroitcovid-19tests.com,184.168.221.54,US,North America
 2020-04-11,detroitcovid-19tests.com,detroitcovid-19tests.com,,
+2020-04-11,fastcoronavirustesting.com,184.168.221.41,US,North America
 2020-04-11,fastcoronavirustests.com,184.168.221.40,US,North America
 2020-04-11,fastcoronavirustests.com,50.63.202.55,US,North America
 2020-04-11,fastcovid-19testing.com,fastcovid-19testing.com,,
@@ -227,6 +227,7 @@
 2020-04-11,mycoronavirushometestkit.com,mycoronavirushometestkit.com,,
 2020-04-11,myhomecovidtest.com,81.17.18.196,CH,Europe
 2020-04-11,myhomecovidtest.com,myhomecovidtest.com,,
+2020-04-11,mysecure1-facebookcovid19petition.ga,142.93.73.124,US,North America
 2020-04-11,mysecure1-facebookcovid19petition.ga,mysecure1-facebookcovid19petition.ga,,
 2020-04-11,mysecure6-facebookcovid19petition.ga,mysecure6-facebookcovid19petition.ga,,
 2020-04-11,mysecure7-facebookcovid19petition.ga,142.93.73.124,US,North America
