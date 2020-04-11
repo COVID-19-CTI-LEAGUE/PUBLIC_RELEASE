@@ -4,7 +4,6 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-10,6mysecure-facebookcovid19petition.cf,6mysecure-facebookcovid19petition.cf,,
 2020-04-10,9mysecure-facebookcovid19petition.cf,9mysecure-facebookcovid19petition.cf,,
-2020-04-10,acceleratedcovidtesting.com,50.63.202.51,US,North America
 2020-04-10,atlantacovid19testing.com,50.63.202.37,US,North America
 2020-04-10,autotestcovid19.ch,autotestcovid19.ch,,
 2020-04-10,californiacoronavirustesting.com,184.168.221.42,US,North America
@@ -33,8 +32,6 @@
 2020-04-10,covid19virustest.net,covid19virustest.net,,
 2020-04-10,covidtestingservices.com,184.168.221.56,US,North America
 2020-04-10,covidtest-online.com,45.94.156.135,,
-2020-04-10,covid-testsite.com,184.168.131.241,US,North America
-2020-04-10,covid-testsite.com,covid-testsite.com,,
 2020-04-10,covidtesttracker.com,ns65.domaincontrol.com,,
 2020-04-10,covidtesttracker.com,ns66.domaincontrol.com,,
 2020-04-10,denvercoronavirustests.com,184.168.221.63,US,North America
@@ -68,9 +65,6 @@
 2020-04-10,mysecure5-facebookcovid19petition.ga,142.93.73.124,US,North America
 2020-04-10,mysecure5-facebookcovid19petition.ga,mysecure5-facebookcovid19petition.ga,,
 2020-04-10,outdoorcoronavirustesting.com,184.168.221.45,US,North America
-2020-04-10,privatecovidtesting.com,privatecovidtesting.com,,
-2020-04-10,sanfranciscocovid-19tests.com,50.63.202.52,US,North America
-2020-04-10,sanfranciscocovid-19tests.com,sanfranciscocovid-19tests.com,,
 2020-04-10,securecovid19.com,securecovid19.com,,
 2020-04-10,testcovid19.today,50.63.202.36,US,North America
 2020-04-10,testcovid19.today,testcovid19.today,,
@@ -211,7 +205,10 @@
 2020-04-11,dallascovid-19testing.com,184.168.221.59,US,North America
 2020-04-11,dallascovid-19testing.com,dallascovid-19testing.com,,
 2020-04-11,dallascovid-19tests.com,50.63.202.52,US,North America
+2020-04-11,dallascovid-19tests.com,50.63.202.56,US,North America
 2020-04-11,dallascovid-19tests.com,dallascovid-19tests.com,,
+2020-04-11,dallascovid-19tests.com,ns31.domaincontrol.com,,
+2020-04-11,dallascovid-19tests.com,ns32.domaincontrol.com,,
 2020-04-11,denvercoronavirustest.com,50.63.202.49,US,North America
 2020-04-11,denvercoronavirustest.com,denvercoronavirustest.com,,
 2020-04-11,denvercoronavirustesting.com,50.63.202.45,US,North America
@@ -222,7 +219,9 @@
 2020-04-11,denvercovid19testing.com,denvercovid19testing.com,,
 2020-04-11,denvercovid19tests.com,50.63.202.39,US,North America
 2020-04-11,denvercovid19tests.com,denvercovid19tests.com,,
+2020-04-11,detroitcoronavirustesting.com,184.168.221.33,US,North America
 2020-04-11,detroitcoronavirustesting.com,detroitcoronavirustesting.com,,
+2020-04-11,detroitcovid-19test.com,184.168.221.33,US,North America
 2020-04-11,detroitcovid19test.com,184.168.221.53,US,North America
 2020-04-11,detroitcovid-19test.com,184.168.221.60,US,North America
 2020-04-11,detroitcovid-19test.com,50.63.202.43,US,North America
@@ -240,6 +239,7 @@
 2020-04-11,fastcoronavirustesting.com,fastcoronavirustesting.com,,
 2020-04-11,fastcoronavirustests.com,184.168.221.59,US,North America
 2020-04-11,fastcoronavirustests.com,fastcoronavirustests.com,,
+2020-04-11,fastcovid-19testing.com,fastcovid-19testing.com,,
 2020-04-11,fdacovid19testkit.com,50.63.202.32,US,North America
 2020-04-11,fdacovid19testkit.com,fdacovid19testkit.com,,
 2020-04-11,floridacoronavirustesting.com,floridacoronavirustesting.com,,
