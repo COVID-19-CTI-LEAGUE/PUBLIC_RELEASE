@@ -4,7 +4,6 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-10,6mysecure-facebookcovid19petition.cf,6mysecure-facebookcovid19petition.cf,,
 2020-04-10,9mysecure-facebookcovid19petition.cf,9mysecure-facebookcovid19petition.cf,,
-2020-04-10,californiacoronavirustesting.com,184.168.221.42,US,North America
 2020-04-10,coronavirusdeceasecure.com,192.185.0.218,US,North America
 2020-04-10,coronavirusdeceasecure.com,coronavirusdeceasecure.com,,
 2020-04-10,covid19immuniteitstest.com,5.157.87.204,NL,Europe
@@ -21,8 +20,6 @@
 2020-04-10,covid-19-test.tech,104.28.11.84,US,North America
 2020-04-10,covid-19-test.tech,covid-19-test.tech.cdn.cloudflare.net,,
 2020-04-10,covidtest-online.com,45.94.156.135,,
-2020-04-10,covidtesttracker.com,ns65.domaincontrol.com,,
-2020-04-10,covidtesttracker.com,ns66.domaincontrol.com,,
 2020-04-10,denvercoronavirustests.com,184.168.221.63,US,North America
 2020-04-10,denvercovid19test.com,184.168.221.45,US,North America
 2020-04-10,denvercovid-19tests.com,50.63.202.35,US,North America
@@ -74,10 +71,6 @@
 2020-04-11,atlantacoronavirustests.com,atlantacoronavirustests.com,,
 2020-04-11,buycovid-19test.com,50.63.202.32,US,North America
 2020-04-11,buycovid-19test.com,buycovid-19test.com,,
-2020-04-11,cacovidtesting.com,184.168.221.61,US,North America
-2020-04-11,cacovidtesting.com,cacovidtesting.com,,
-2020-04-11,californiacoronavirustests.com,50.63.202.40,US,North America
-2020-04-11,californiacoronavirustests.com,californiacoronavirustests.com,,
 2020-04-11,californiacovid-19test.com,50.63.202.54,US,North America
 2020-04-11,californiacovid-19test.com,californiacovid-19test.com,,
 2020-04-11,californiacovid-19testing.com,184.168.221.33,US,North America
@@ -153,7 +146,6 @@
 2020-04-11,covidtestingcoalition.com,184.168.221.43,US,North America
 2020-04-11,covidtestingforantibodies.com,covidtestingforantibodies.com,,
 2020-04-11,covidtestingforantibodies.com,DXY9c3BmMSBhIC1hbGw=,,
-2020-04-11,covidtestingforantibodies.com,ns11055.ztomy.com,,
 2020-04-11,covidtestingforantibodies.com,ns21055.ztomy.com,,
 2020-04-11,covidtestingforantibodies.com,v=spf1 a -all,,
 2020-04-11,covid-testing-kits.com,23.236.62.147,US,North America
@@ -300,12 +292,20 @@
 2020-04-11,newyorkcoronavirustest.com,newyorkcoronavirustest.com,,
 2020-04-11,nycovidtesting.com,50.63.202.52,US,North America
 2020-04-11,orlandocoronavirustesting.com,orlandocoronavirustesting.com,,
+2020-04-11,orlandocoronavirustests.com,50.63.202.43,US,North America
+2020-04-11,orlandocovid19test.com,50.63.202.45,US,North America
+2020-04-11,orlandocovid-19test.com,50.63.202.60,US,North America
 2020-04-11,orlandocovid-19test.com,orlandocovid-19test.com,,
 2020-04-11,orlandocovid19test.com,orlandocovid19test.com,,
+2020-04-11,orlandocovid-19testing.com,184.168.221.52,US,North America
+2020-04-11,orlandocovid19testing.com,50.63.202.39,US,North America
 2020-04-11,orlandocovid-19testing.com,orlandocovid-19testing.com,,
 2020-04-11,orlandocovid19testing.com,orlandocovid19testing.com,,
+2020-04-11,orlandocovid-19tests.com,184.168.221.38,US,North America
+2020-04-11,orlandocovid19tests.com,50.63.202.44,US,North America
 2020-04-11,orlandocovid19tests.com,orlandocovid19tests.com,,
 2020-04-11,orlandocovidtesting.com,orlandocovidtesting.com,,
+2020-04-11,philadelphiacoronavirustesting.com,philadelphiacoronavirustesting.com,,
 2020-04-11,philadelphiacovid19tests.com,184.168.221.60,US,North America
 2020-04-11,philadelphiacovid19tests.com,philadelphiacovid19tests.com,,
 2020-04-11,rapidcovidtestafrica.com,162.241.24.143,US,North America
