@@ -56,7 +56,6 @@
 2020-04-10,webmail.covid-19testkits.nz,103.96.117.53,NZ,Oceania
 2020-04-10,www.attestation-covid-19.com,217.160.0.253,DE,Europe
 2020-04-10,www.covid-19testkits.nz,covid-19testkits.nz,,
-2020-04-10,www.covid19testkitweb.com,covid19testkitweb.com,,
 2020-04-10,www.covid-19-test.tech,104.28.10.84,US,North America
 2020-04-10,www.covid-19-test.tech,104.28.11.84,US,North America
 2020-04-10,www.covid-19-test.tech,www.covid-19-test.tech.cdn.cloudflare.net,,
@@ -95,6 +94,7 @@
 2020-04-11,charlestoncoronavirustesting.com,50.63.202.53,US,North America
 2020-04-11,charlestoncoronavirustesting.com,charlestoncoronavirustesting.com,,
 2020-04-11,charlestoncoronavirustests.com,184.168.221.50,US,North America
+2020-04-11,charlestoncoronavirustests.com,50.63.202.33,US,North America
 2020-04-11,charlestoncoronavirustests.com,charlestoncoronavirustests.com,,
 2020-04-11,charlestoncovid19test.com,184.168.221.42,US,North America
 2020-04-11,charlestoncovid-19test.com,184.168.221.53,US,North America
@@ -146,7 +146,6 @@
 2020-04-11,covid-19testingkit.tools,covid-19testingkit.tools,,
 2020-04-11,covid19testingstations.com,184.168.221.60,US,North America
 2020-04-11,covid19testingstations.com,covid19testingstations.com,,
-2020-04-11,covid-19-testkit.be,covid-19-testkit.be,,
 2020-04-11,covid19testkitfda.com,50.63.202.56,US,North America
 2020-04-11,covid19testkitfda.com,covid19testkitfda.com,,
 2020-04-11,covid19testkopen.online,covid19testkopen.online,,
@@ -201,6 +200,7 @@
 2020-04-11,denvercoronavirustest.com,50.63.202.49,US,North America
 2020-04-11,denvercoronavirustest.com,denvercoronavirustest.com,,
 2020-04-11,denvercoronavirustesting.com,50.63.202.45,US,North America
+2020-04-11,denvercoronavirustesting.com,50.63.202.48,US,North America
 2020-04-11,denvercoronavirustesting.com,denvercoronavirustesting.com,,
 2020-04-11,denvercovid-19testing.com,184.168.221.38,US,North America
 2020-04-11,denvercovid19testing.com,184.168.221.61,US,North America
@@ -226,6 +226,7 @@
 2020-04-11,detroitcovid19testing.com,detroitcovid19testing.com,,
 2020-04-11,detroitcovid19tests.com,184.168.221.40,US,North America
 2020-04-11,detroitcovid19tests.com,50.63.202.62,US,North America
+2020-04-11,detroitcovid-19tests.com,detroitcovid-19tests.com,,
 2020-04-11,detroitcovid19tests.com,detroitcovid19tests.com,,
 2020-04-11,fastcoronavirustesting.com,184.168.221.34,US,North America
 2020-04-11,fastcoronavirustesting.com,fastcoronavirustesting.com,,
@@ -236,14 +237,12 @@
 2020-04-11,fastcovid-19testing.com,ns66.domaincontrol.com,,
 2020-04-11,fdacovid19testkit.com,50.63.202.32,US,North America
 2020-04-11,fdacovid19testkit.com,fdacovid19testkit.com,,
-2020-04-11,floridacoronavirustesting.com,floridacoronavirustesting.com,,
 2020-04-11,floridacovid-19test.com,184.168.221.58,US,North America
 2020-04-11,floridacovid19test.com,50.63.202.42,US,North America
 2020-04-11,floridacovid-19test.com,50.63.202.46,US,North America
 2020-04-11,floridacovid-19test.com,floridacovid-19test.com,,
 2020-04-11,floridacovid19test.com,floridacovid19test.com,,
 2020-04-11,floridacovid19testing.com,184.168.221.43,US,North America
-2020-04-11,floridacovid19testing.com,184.168.221.61,US,North America
 2020-04-11,floridacovid-19tests.com,184.168.221.57,US,North America
 2020-04-11,floridacovid19tests.com,50.63.202.36,US,North America
 2020-04-11,floridacovid-19tests.com,floridacovid-19tests.com,,
@@ -259,6 +258,7 @@
 2020-04-11,lacovid19test.com,184.168.221.32,US,North America
 2020-04-11,lacovid19test.com,184.168.221.63,US,North America
 2020-04-11,lacovid19test.com,lacovid19test.com,,
+2020-04-11,lacovid-19testing.com,lacovid-19testing.com,,
 2020-04-11,lacovid-19tests.com,184.168.221.34,US,North America
 2020-04-11,lacovid19tests.com,184.168.221.45,US,North America
 2020-04-11,lacovid-19tests.com,lacovid-19tests.com,,
@@ -273,6 +273,7 @@
 2020-04-11,miamicoronavirustest.com,184.168.221.40,US,North America
 2020-04-11,miamicoronavirustest.com,miamicoronavirustest.com,,
 2020-04-11,miamicovid19testing.com,miamicovid19testing.com,,
+2020-04-11,msecure4-facebookcovid19petition.ga,msecure4-facebookcovid19petition.ga,,
 2020-04-11,msecure7-facebookcovid19petition.ga,142.93.73.124,US,North America
 2020-04-11,msecure7-facebookcovid19petition.ga,msecure7-facebookcovid19petition.ga,,
 2020-04-11,my7secure-facebookcovid19petition.cf,142.93.73.124,US,North America
@@ -281,6 +282,7 @@
 2020-04-11,mysecure6-facebookcovid19petition.ga,mysecure6-facebookcovid19petition.ga,,
 2020-04-11,mysecure8-facebookcovid19petition.ga,142.93.73.124,US,North America
 2020-04-11,mysecure8-facebookcovid19petition.ga,mysecure8-facebookcovid19petition.ga,,
+2020-04-11,ncovid19tester.com,ncovid19tester.com,,
 2020-04-11,newyorkcitycovid19test.com,newyorkcitycovid19test.com,,
 2020-04-11,nycovidtesting.com,50.63.202.32,US,North America
 2020-04-11,nycovidtesting.com,nycovidtesting.com,,
@@ -288,8 +290,6 @@
 2020-04-11,orlandocoronavirustests.com,184.168.221.42,US,North America
 2020-04-11,orlandocoronavirustests.com,50.63.202.36,US,North America
 2020-04-11,orlandocoronavirustests.com,orlandocoronavirustests.com,,
-2020-04-11,orlandocovid-19tests.com,50.63.202.33,US,North America
-2020-04-11,orlandocovid-19tests.com,orlandocovid-19tests.com,,
 2020-04-11,orlandocovidtesting.com,orlandocovidtesting.com,,
 2020-04-11,philadelphiacovid19tests.com,184.168.221.60,US,North America
 2020-04-11,philadelphiacovid19tests.com,philadelphiacovid19tests.com,,
@@ -315,6 +315,7 @@
 2020-04-11,testingcovid19.live,testingcovid19.live,,
 2020-04-11,texascoronavirustests.com,50.63.202.53,US,North America
 2020-04-11,texascoronavirustests.com,texascoronavirustests.com,,
+2020-04-11,texascovid19test.com,184.168.221.33,US,North America
 2020-04-11,texascovid19test.com,texascovid19test.com,,
 2020-04-11,texascovid19testing.com,50.63.202.40,US,North America
 2020-04-11,texascovid19testing.com,texascovid19testing.com,,
