@@ -51,6 +51,7 @@
 2020-04-11,covid19-testing.ru,covid19-testing.ru,,
 2020-04-11,covid19-testing.ru,GXY9c3BmMSByZWRpcmVjdD1iZWdldC5jb20=,,
 2020-04-11,covid19-testing.ru,v=spf1 redirect=beget.com,,
+2020-04-11,covid19testkitfda.com,184.168.221.32,US,North America
 2020-04-11,covid19testkitfda.com,50.63.202.47,US,North America
 2020-04-11,covid-19-tests.org,Pv=spf1 +a +mx +a:ns1.es44.siteground.eu include:_spf.mailspamprotection.com ~all,,
 2020-04-11,covid-19-tests.org,UHY9c3BmMSArYSArbXggK2E6bnMxLmVzNDQuc2l0ZWdyb3VuZC5ldSBpbmNsdWRlOl9zcGYubWFpbHNwYW1wcm90ZWN0aW9uLmNvbSB+YWxs,,
@@ -82,6 +83,7 @@
 2020-04-11,covidtestnegative.com,184.168.221.43,US,North America
 2020-04-11,covidtestnegative.com,50.63.202.36,US,North America
 2020-04-11,covidtestpositive.com,184.168.221.51,US,North America
+2020-04-11,cowtowncovidtesting.com,184.168.221.35,US,North America
 2020-04-11,cowtowncovidtesting.com,50.63.202.40,US,North America
 2020-04-11,curbsidecovid-19testing.com.ph,curbsidecovid-19testing.com.ph,,
 2020-04-11,curbsidecovid-19testing.ph,45.79.222.138,US,North America
@@ -108,13 +110,12 @@
 2020-04-11,floridacovid19tests.com,ns46.domaincontrol.com,,
 2020-04-11,fortworthcovidtesting.com,184.168.221.54,US,North America
 2020-04-11,fortworthcovidtesting.com,50.63.202.46,US,North America
-2020-04-11,houstoncoronavirustesting.com,ns33.domaincontrol.com,,
-2020-04-11,houstoncoronavirustesting.com,ns34.domaincontrol.com,,
 2020-04-11,houstoncoronavirustests.com,184.168.221.50,US,North America
 2020-04-11,houstoncovid-19tests.com,houstoncovid-19tests.com,,
 2020-04-11,lacoronavirustest.com,50.63.202.63,US,North America
 2020-04-11,lacoronavirustest.com,lacoronavirustest.com,,
 2020-04-11,lacoronavirustests.com,50.63.202.37,US,North America
+2020-04-11,lacovid-19tests.com,50.63.202.46,US,North America
 2020-04-11,lacovid-19tests.com,50.63.202.63,US,North America
 2020-04-11,letscurecovid.com,64.137.175.107,CA,North America
 2020-04-11,letscurecovid.com,letscurecovid.com,,
@@ -168,8 +169,6 @@
 2020-04-11,philadelphiacovid-19tests.com,philadelphiacovid-19tests.com,,
 2020-04-11,quickcovid19testing.com,184.168.221.63,US,North America
 2020-04-11,quickcovid19testing.com,50.63.202.51,US,North America
-2020-04-11,quickcovid19testing.com,50.63.202.57,US,North America
-2020-04-11,quickcovid19testing.com,quickcovid19testing.com,,
 2020-04-11,sanantoniocovid-19test.com,184.168.221.49,US,North America
 2020-04-11,sanantoniocovid19test.com,184.168.221.54,US,North America
 2020-04-11,sanantoniocovid-19test.com,sanantoniocovid-19test.com,,
@@ -218,7 +217,6 @@
 2020-04-11,volusiacovidtesting.com,volusiacovidtesting.com,,
 2020-04-11,votre-test-covid19.com,213.186.33.5,FR,Europe
 2020-04-11,votre-test-covid19.com,votre-test-covid19.com,,
-2020-04-11,www.covid-19-tests.org,35.214.175.72,US,North America
 2020-04-11,www.covidcoronavirustest.com,64.111.116.63,US,North America
 2020-04-11,www.fastcoronavirustests.com,184.168.221.56,US,North America
 2020-04-11,www.fastcoronavirustests.com,fastcoronavirustests.com,,
@@ -332,6 +330,7 @@
 2020-04-12,covidtest.ng,covidtest.ng,,
 2020-04-12,detroitcoronavirustest.com,50.63.202.49,US,North America
 2020-04-12,detroitcoronavirustest.com,detroitcoronavirustest.com,,
+2020-04-12,houstoncovid19test.com,184.168.221.52,US,North America
 2020-04-12,houstoncovid19test.com,houstoncovid19test.com,,
 2020-04-12,kbcovidtesting.com,162.241.224.146,US,North America
 2020-04-12,kbcovidtesting.com,kbcovidtesting.com,,
@@ -339,6 +338,7 @@
 2020-04-12,losangelescovid19test.com,losangelescovid19test.com,,
 2020-04-12,miamicovid19test.com,184.168.221.63,US,North America
 2020-04-12,miamicovid19test.com,miamicovid19test.com,,
+2020-04-12,miamicovid-19testing.com,miamicovid-19testing.com,,
 2020-04-12,newyorkcitycoronavirustests.com,newyorkcitycoronavirustests.com,,
 2020-04-12,newyorkcitycoronavirustests.com,ns31.domaincontrol.com,,
 2020-04-12,newyorkcitycoronavirustests.com,ns32.domaincontrol.com,,
