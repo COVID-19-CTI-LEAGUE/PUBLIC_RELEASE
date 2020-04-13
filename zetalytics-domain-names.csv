@@ -15,12 +15,11 @@
 2020-04-12,covid123test.com,50.63.202.54,US,North America
 2020-04-12,covid123test.com,covid123test.com,,
 2020-04-12,covid19antibodyrapidtest.com,184.168.221.47,US,North America
-2020-04-12,covid-19-antibodytest.com,hostmaster@inwx.de,,
-2020-04-12,covid-19-antibodytest.com,ns.inwx.de,,
 2020-04-12,covid19bloodtestingkits.com,184.168.221.53,US,North America
 2020-04-12,covid19bloodtestkits.com,184.168.221.38,US,North America
 2020-04-12,covid19bloodtestkits.com,50.63.202.60,US,North America
 2020-04-12,covid19housetestkits.com,184.168.221.41,US,North America
+2020-04-12,covid19housetestkits.com,50.63.202.39,US,North America
 2020-04-12,covid19housetestkits.com,50.63.202.47,US,North America
 2020-04-12,covid19pricktest.com,covid19pricktest.com,,
 2020-04-12,covid19recoverytest.com,184.168.221.37,US,North America
@@ -33,7 +32,6 @@
 2020-04-12,covidantibodyrapidtest.com,184.168.221.48,US,North America
 2020-04-12,covidodortest.com,50.63.202.45,US,North America
 2020-04-12,covidsafetesting.com,184.168.221.37,US,North America
-2020-04-12,covidsafetesting.com,covidsafetesting.com,,
 2020-04-12,covidserologyrapidtest.com,184.168.221.48,US,North America
 2020-04-12,covidserologyrapidtest.com,184.168.221.52,US,North America
 2020-04-12,covidserologyrapidtest.com,184.168.221.63,US,North America
@@ -51,7 +49,6 @@
 2020-04-12,covidtestguide.com,ns1096.ui-dns.org,,
 2020-04-12,covidtestingproject.org,184.168.221.39,US,North America
 2020-04-12,covidtestingproject.org,50.63.202.35,US,North America
-2020-04-12,covidvirustest.llp,covidvirustest.llp,,
 2020-04-12,detroitcoronavirustest.com,184.168.221.44,US,North America
 2020-04-12,findcovid19testkits.com,184.168.221.44,US,North America
 2020-04-12,findcovid19testkits.com,50.63.202.51,US,North America
@@ -113,7 +110,6 @@
 2020-04-12,www.coronavirustestnowdallas.com,184.168.221.32,US,North America
 2020-04-12,www.coronavirustestnowdallas.com,184.168.221.61,US,North America
 2020-04-12,www.coronavirustestnowdallas.com,coronavirustestnowdallas.com,,
-2020-04-12,www.covidsafetesting.com,covidsafetesting.com,,
 2020-04-12,www.covidtest.ng,104.27.184.219,US,North America
 2020-04-12,www.covidtest.ng,104.27.185.219,US,North America
 2020-04-12,www.covidtest.ng,2606:4700:3031::681b:b9db,,
@@ -176,11 +172,14 @@
 2020-04-13,covid-19cured.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-04-13,covid-19cured.fm,covid-19cured.fm,,
 2020-04-13,covid-19cured.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
+2020-04-13,covid19dnatest.com,covid19dnatest.com,,
 2020-04-13,covid-19-hometests.com,184.168.221.54,US,North America
 2020-04-13,covid-19-hometests.com,covid-19-hometests.com,,
 2020-04-13,covid19moleculartest.com,184.168.221.48,US,North America
 2020-04-13,covid19moleculartest.com,50.63.202.40,US,North America
 2020-04-13,covid19moleculartest.com,covid19moleculartest.com,,
+2020-04-13,covid19moleculartest.com,ns71.domaincontrol.com,,
+2020-04-13,covid19moleculartest.com,ns72.domaincontrol.com,,
 2020-04-13,covid19moleculartest.org,184.168.221.46,US,North America
 2020-04-13,covid19moleculartest.org,50.63.202.34,US,North America
 2020-04-13,covid19moleculartest.org,covid19moleculartest.org,,
@@ -318,6 +317,7 @@
 2020-04-13,salivatestscovid.com,104.171.23.69,US,North America
 2020-04-13,salivatestscovid.com,104.171.23.70,US,North America
 2020-04-13,salivatestscovid.com,salivatestscovid.com,,
+2020-04-13,sars-cov2-test.com,sars-cov2-test.com,,
 2020-04-13,seattlecovid19tests.com,seattlecovid19tests.com,,
 2020-04-13,tampacovid19tests.com,ns31.domaincontrol.com,,
 2020-04-13,tampacovid19tests.com,ns32.domaincontrol.com,,
