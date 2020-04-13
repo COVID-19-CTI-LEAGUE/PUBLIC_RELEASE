@@ -205,8 +205,6 @@
 2020-04-12,testcovid19domestico.com,!v=spf1 include:spf.dondominio.com,,
 2020-04-12,testcovid19lowcost.com,82.194.64.5,ES,Europe
 2020-04-12,testcovid19lowcost.com,testcovid19lowcost.com,,
-2020-04-12,testcovid19.us,50.63.202.37,US,North America
-2020-04-12,testcovid19.us,testcovid19.us,,
 2020-04-12,testeur-temperature-coronavirus.com,213.186.33.5,FR,Europe
 2020-04-12,testeur-temperature-coronavirus.com,dns16.ovh.net,,
 2020-04-12,testeur-temperature-coronavirus.com,ns16.ovh.net,,
@@ -243,6 +241,7 @@
 2020-04-13,columbuscoronavirustesting.com,ns32.domaincontrol.com,,
 2020-04-13,coronavirusantibodiestesting.com,coronavirusantibodiestesting.com,,
 2020-04-13,coronavirusantibodiestesting.com,ns11055.ztomy.com,,
+2020-04-13,coronavirusantibodiestesting.com,ns21055.ztomy.com,,
 2020-04-13,coronavirusantibodytests.co.uk,coronavirusantibodytests.co.uk,,
 2020-04-13,coronavirusbloodtestingkit.com,coronavirusbloodtestingkit.com,,
 2020-04-13,coronavirusbloodtestingkit.com,ns47.domaincontrol.com,,
@@ -329,7 +328,9 @@
 2020-04-13,findcoronavirustestkits.com,findcoronavirustestkits.com,,
 2020-04-13,findcovid19testkit.com,184.168.221.53,US,North America
 2020-04-13,findcovid19testkit.com,findcovid19testkit.com,,
+2020-04-13,nsecure8-facebookcovid19petition.ga,134.209.200.239,US,North America
 2020-04-13,nsecure8-facebookcovid19petition.ga,nsecure8-facebookcovid19petition.ga,,
+2020-04-13,tampacovid19tests.com,tampacovid19tests.com,,
 2020-04-13,testycoviddlapolski.pl,testycoviddlapolski.pl,,
 2020-04-13,thecovidimmunitytest.com,50.63.202.54,US,North America
 2020-04-13,thecovidimmunitytest.com,thecovidimmunitytest.com,,
