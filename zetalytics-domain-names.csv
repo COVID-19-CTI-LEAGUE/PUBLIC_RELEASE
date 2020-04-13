@@ -34,8 +34,6 @@
 2020-04-12,covidodortest.com,50.63.202.45,US,North America
 2020-04-12,covidsafetesting.com,184.168.221.37,US,North America
 2020-04-12,covidsafetesting.com,covidsafetesting.com,,
-2020-04-12,covidsafetesting.com,ns29.domaincontrol.com,,
-2020-04-12,covidsafetesting.com,ns30.domaincontrol.com,,
 2020-04-12,covidserologyrapidtest.com,184.168.221.48,US,North America
 2020-04-12,covidserologyrapidtest.com,184.168.221.52,US,North America
 2020-04-12,covidserologyrapidtest.com,184.168.221.63,US,North America
@@ -94,7 +92,6 @@
 2020-04-12,nsecure7-facebookcovid19petition.ga,nsecure7-facebookcovid19petition.ga,,
 2020-04-12,nsecure9-facebookcovid19petition.ga,134.209.200.239,US,North America
 2020-04-12,nsecure9-facebookcovid19petition.ga,nsecure9-facebookcovid19petition.ga,,
-2020-04-12,onlinetestkitcovid19.com,184.168.221.34,US,North America
 2020-04-12,remotecoronavirustesting.com,184.168.221.42,US,North America
 2020-04-12,remotecoronavirustesting.com,184.168.221.62,US,North America
 2020-04-12,remotecoronavirustesting.com,50.63.202.48,US,North America
@@ -116,7 +113,6 @@
 2020-04-12,www.coronavirustestnowdallas.com,184.168.221.32,US,North America
 2020-04-12,www.coronavirustestnowdallas.com,184.168.221.61,US,North America
 2020-04-12,www.coronavirustestnowdallas.com,coronavirustestnowdallas.com,,
-2020-04-12,www.covidsafetesting.com,50.63.202.52,US,North America
 2020-04-12,www.covidsafetesting.com,covidsafetesting.com,,
 2020-04-12,www.covidtest.ng,104.27.184.219,US,North America
 2020-04-12,www.covidtest.ng,104.27.185.219,US,North America
@@ -222,6 +218,9 @@
 2020-04-13,covid19test.my,covid19test.my,,
 2020-04-13,covid19test.tech,185.104.45.84,GB,Europe
 2020-04-13,covid19test.tech,covid19test.tech,,
+2020-04-13,covid19test.tech,ns116.inhostedns.com,,
+2020-04-13,covid19test.tech,ns216.inhostedns.net,,
+2020-04-13,covid19test.tech,ns316.inhostedns.org,,
 2020-04-13,covid-19-test.tips,covid-19-test.tips,,
 2020-04-13,covid19testtracker.com,covid19testtracker.com,,
 2020-04-13,covid19thecure.com,covid19thecure.com,,
@@ -244,6 +243,7 @@
 2020-04-13,covidcoronatestkit.com,covidcoronatestkit.com,,
 2020-04-13,covidcure19.ph,covidcure19.ph,,
 2020-04-13,covidimmunitytests.co.uk,covidimmunitytests.co.uk,,
+2020-04-13,covidonedaytest.com,covidonedaytest.com,,
 2020-04-13,covidrecoverytest.com,50.63.202.60,US,North America
 2020-04-13,covidrecoverytest.com,covidrecoverytest.com,,
 2020-04-13,covidsafetesting.today,184.168.221.47,US,North America
@@ -333,6 +333,7 @@
 2020-04-13,thecovidimmunitytest.com,184.168.221.39,US,North America
 2020-04-13,thecovidimmunitytest.com,184.168.221.63,US,North America
 2020-04-13,thecovidimmunitytest.com,50.63.202.54,US,North America
+2020-04-13,thecovidimmunitytest.com,50.63.202.59,US,North America
 2020-04-13,thecovidimmunitytest.com,thecovidimmunitytest.com,,
 2020-04-13,thecovidrapidtest.com,thecovidrapidtest.com,,
 2020-04-13,unitedstatescovid19testing.com,184.168.221.54,US,North America
