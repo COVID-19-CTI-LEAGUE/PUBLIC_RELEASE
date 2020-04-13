@@ -111,12 +111,10 @@
 2020-04-12,testcovid19domestico.com,ns1.dondominio.com,,
 2020-04-12,testcovid19domestico.com,testcovid19domestico.com,,
 2020-04-12,testcovid19domestico.com,!v=spf1 include:spf.dondominio.com,,
-2020-04-12,thecovid19immunitytest.com,184.168.221.54,US,North America
 2020-04-12,thecovid19immunitytest.com,ns47.domaincontrol.com,,
 2020-04-12,thecovid19immunitytest.com,ns48.domaincontrol.com,,
 2020-04-12,thecovid19immunitytest.com,thecovid19immunitytest.com,,
 2020-04-12,thecovid19rapidtest.com,50.63.202.58,US,North America
-2020-04-12,thecovid19rapidtest.com,thecovid19rapidtest.com,,
 2020-04-12,www.5mysecure-facebookcovid19petition.cf,142.93.73.124,US,North America
 2020-04-12,www.coronavirustestnowdallas.com,184.168.221.32,US,North America
 2020-04-12,www.coronavirustestnowdallas.com,184.168.221.61,US,North America
@@ -216,6 +214,7 @@
 2020-04-13,covid-19testingkit.software,covid-19testingkit.software,,
 2020-04-13,covid-19testingkit.today,covid-19testingkit.today,,
 2020-04-13,covid-19testing.vegas,107.161.23.204,US,North America
+2020-04-13,covid-19testing.vegas,192.161.187.200,US,North America
 2020-04-13,covid-19testing.vegas,209.141.38.71,US,North America
 2020-04-13,covid-19testing.vegas,covid-19testing.vegas,,
 2020-04-13,covid-19testlondon.com,94.136.40.51,GB,Europe
@@ -343,6 +342,7 @@
 2020-04-13,www.covid19moleculartest.org,50.63.202.55,US,North America
 2020-04-13,www.covid19moleculartest.org,covid19moleculartest.org,,
 2020-04-13,www.covid-19testing.vegas,parking.namesilo.com,,
+2020-04-13,www.covid19test.tech,2a06:6440::2d54:0:0:0:1,,
 2020-04-13,www.covid-test-kit.center,50.63.202.47,US,North America
 2020-04-13,www.covid-test-kit.center,covid-test-kit.center,,
 2020-04-13,www.findcovid19testkit.com,50.63.202.47,US,North America
