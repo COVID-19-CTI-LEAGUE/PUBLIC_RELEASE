@@ -99,7 +99,6 @@
 2020-04-12,covidtestguide.com,hostmaster@1und1.com,,
 2020-04-12,covidtestguide.com,mx00.ionos.com,,
 2020-04-12,covidtestguide.com,mx01.ionos.com,,
-2020-04-12,covidtestguide.com,ns1034.ui-dns.biz,,
 2020-04-12,covidtestguide.com,ns1096.ui-dns.org,,
 2020-04-12,covidtestingproject.org,184.168.221.39,US,North America
 2020-04-12,covidtestingproject.org,50.63.202.35,US,North America
@@ -194,10 +193,7 @@
 2020-04-12,testcovid19domestico.com,!v=spf1 include:spf.dondominio.com,,
 2020-04-12,testcovid19lowcost.com,82.194.64.5,ES,Europe
 2020-04-12,testcovid19lowcost.com,testcovid19lowcost.com,,
-2020-04-12,testeur-temperature-coronavirus.com,213.186.33.5,FR,Europe
 2020-04-12,testeur-temperature-coronavirus.com,dns16.ovh.net,,
-2020-04-12,testeur-temperature-coronavirus.com,ns16.ovh.net,,
-2020-04-12,testeur-temperature-coronavirus.com,testeur-temperature-coronavirus.com,,
 2020-04-12,testmecovid19.org,50.63.202.41,US,North America
 2020-04-12,testmecovid19.org,testmecovid19.org,,
 2020-04-12,testnacovid-19.pl,testnacovid-19.pl,,
@@ -216,7 +212,10 @@
 2020-04-12,www.covidsafetesting.com,50.63.202.52,US,North America
 2020-04-12,www.covidsafetesting.com,covidsafetesting.com,,
 2020-04-12,www.covidtestguide.com,74.208.236.220,US,North America
-2020-04-12,www.testeur-temperature-coronavirus.com,213.186.33.5,FR,Europe
+2020-04-12,www.covidtest.ng,104.27.184.219,US,North America
+2020-04-12,www.covidtest.ng,104.27.185.219,US,North America
+2020-04-12,www.covidtest.ng,2606:4700:3031::681b:b9db,,
+2020-04-12,www.covidtest.ng,2606:4700:3037::681b:b8db,,
 2020-04-12,xsecure4-facebookcovid19petition.ga,134.209.200.239,US,North America
 2020-04-12,xsecure4-facebookcovid19petition.ga,xsecure4-facebookcovid19petition.ga,,
 2020-04-12,xsecure6-facebookcovid19petition.ga,134.209.200.239,US,North America
@@ -278,6 +277,7 @@
 2020-04-13,covid-19testlondon.com,covid-19testlondon.com,,
 2020-04-13,covid19test.my,162.215.249.34,US,North America
 2020-04-13,covid19test.my,covid19test.my,,
+2020-04-13,covid19testtracker.com,covid19testtracker.com,,
 2020-04-13,covid19thecure.com,covid19thecure.com,,
 2020-04-13,covid1daytest.com,50.63.202.45,US,North America
 2020-04-13,covid1daytest.com,covid1daytest.com,,
