@@ -33,7 +33,6 @@
 2020-04-12,covid19-testing.us,v=spf1 mx ~all,,
 2020-04-12,covid-19-test-kit.site,184.168.221.47,US,North America
 2020-04-12,covid-19-test-kit.site,50.63.202.47,US,North America
-2020-04-12,covid-19-test-kit.site,covid-19-test-kit.site,,
 2020-04-12,covidantibodyrapidtest.com,184.168.221.46,US,North America
 2020-04-12,covidantibodyrapidtest.com,184.168.221.48,US,North America
 2020-04-12,covidodortest.com,50.63.202.45,US,North America
@@ -45,6 +44,7 @@
 2020-04-12,covidsafetytesting.com,50.63.202.44,US,North America
 2020-04-12,covidsafetytesting.com,covidsafetytesting.com,,
 2020-04-12,covidserologyrapidtest.com,184.168.221.48,US,North America
+2020-04-12,covidserologyrapidtest.com,184.168.221.52,US,North America
 2020-04-12,covidserologyrapidtest.com,184.168.221.63,US,North America
 2020-04-12,covidsmelltester.com,dns49.servidoresdns.net,,
 2020-04-12,covidsmelltester.com,dns50.servidoresdns.net,,
@@ -106,14 +106,9 @@
 2020-04-12,remotecoronavirustesting.com,184.168.221.62,US,North America
 2020-04-12,remotecoronavirustesting.com,50.63.202.48,US,North America
 2020-04-12,remotecoronavirustesting.com,remotecoronavirustesting.com,,
-2020-04-12,selfcovidantibodytest.com,184.168.221.42,US,North America
 2020-04-12,selfcovidantibodytest.com,184.168.221.56,US,North America
-2020-04-12,selfcovidantibodytest.com,selfcovidantibodytest.com,,
 2020-04-12,sicurezzacoronavirus.it,sicurezzacoronavirus.it,,
 2020-04-12,tarrantcovidtesting.com,184.168.221.61,US,North America
-2020-04-12,tarrantcovidtesting.com,ns13.domaincontrol.com,,
-2020-04-12,tarrantcovidtesting.com,ns14.domaincontrol.com,,
-2020-04-12,tarrantcovidtesting.com,tarrantcovidtesting.com,,
 2020-04-12,testcovid19domestico.com,37.152.88.55,ES,Europe
 2020-04-12,testcovid19domestico.com,dnsadmin@dondominio.com,,
 2020-04-12,testcovid19domestico.com,IXY9c3BmMSBpbmNsdWRlOnNwZi5kb25kb21pbmlvLmNvbQ==,,
@@ -182,6 +177,7 @@
 2020-04-13,coronavirus-test.se,coronavirus-test.se,,
 2020-04-13,coronavirustest.space,195.110.124.133,IT,Europe
 2020-04-13,coronavirustest.space,coronavirustest.space,,
+2020-04-13,covid19antibodyrapidtest.ph,45.79.222.138,US,North America
 2020-04-13,covid19antibodyrapidtest.ph,covid19antibodyrapidtest.ph,,
 2020-04-13,covid-19antibodytesting.com,184.168.221.53,US,North America
 2020-04-13,covid-19antibodytesting.com,184.168.221.61,US,North America
@@ -192,6 +188,8 @@
 2020-04-13,covid19antibodytest.org,covid19antibodytest.org,,
 2020-04-13,covid-19-antibodytest.ph,covid-19-antibodytest.ph,,
 2020-04-13,covid19bloodtestingkits.ws,covid19bloodtestingkits.ws,,
+2020-04-13,covid19bloodtestingkits.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
+2020-04-13,covid19bloodtestingkits.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-04-13,covid-19cured.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-04-13,covid-19cured.fm,covid-19cured.fm,,
 2020-04-13,covid-19cured.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
@@ -313,6 +311,7 @@
 2020-04-13,remotecoronavirustest.fm,mail.h-email.net,,
 2020-04-13,remotecoronavirustest.fm,remotecoronavirustest.fm,,
 2020-04-13,remotecoronavirustest.ph,remotecoronavirustest.ph,,
+2020-04-13,remotecovid19hometestkit.ws,64.70.19.203,US,North America
 2020-04-13,remotecovid19hometestkit.ws,remotecovid19hometestkit.ws,,
 2020-04-13,salivatestcovid.com,104.171.23.69,US,North America
 2020-04-13,salivatestcovid.com,104.171.23.70,US,North America
@@ -330,6 +329,7 @@
 2020-04-13,test-for-coronavirus.llp,test-for-coronavirus.llp,,
 2020-04-13,testme-covid19.com,testme-covid19.com,,
 2020-04-13,testycoviddlapolski.pl,testycoviddlapolski.pl,,
+2020-04-13,thecovid19immunitytest.com.ph,45.79.222.138,US,North America
 2020-04-13,thecovid19immunitytest.com.ph,thecovid19immunitytest.com.ph,,
 2020-04-13,thecovidimmunitytest.com,184.168.221.39,US,North America
 2020-04-13,thecovidimmunitytest.com,184.168.221.63,US,North America
