@@ -14,7 +14,6 @@
 2020-04-12,coronavirustestsuk.org,94.136.40.51,GB,Europe
 2020-04-12,covid123test.com,184.168.221.52,US,North America
 2020-04-12,covid19antibodyrapidtest.com,184.168.221.47,US,North America
-2020-04-12,covid19bloodtestingkits.com,184.168.221.53,US,North America
 2020-04-12,covid19bloodtestkits.com,50.63.202.60,US,North America
 2020-04-12,covid19drugtest.com,184.168.221.55,US,North America
 2020-04-12,covid19housetestkits.com,50.63.202.39,US,North America
@@ -27,6 +26,7 @@
 2020-04-12,covidantibodyrapidtest.com,184.168.221.46,US,North America
 2020-04-12,covidantibodyrapidtest.com,184.168.221.48,US,North America
 2020-04-12,covidsafetesting.com,184.168.221.37,US,North America
+2020-04-12,covidsafetytesting.com,184.168.221.49,US,North America
 2020-04-12,covidserologyrapidtest.com,184.168.221.48,US,North America
 2020-04-12,covidserologyrapidtest.com,184.168.221.52,US,North America
 2020-04-12,covidserologyrapidtest.com,184.168.221.63,US,North America
@@ -35,8 +35,6 @@
 2020-04-12,covidswifttest.com,ns19.domaincontrol.com,,
 2020-04-12,covidswifttest.com,ns20.domaincontrol.com,,
 2020-04-12,covidtestclinic.com,50.63.202.42,US,North America
-2020-04-12,covidtest.express,hostmaster@ns1.reg.ru,,
-2020-04-12,covidtest.express,ns1.reg.ru,,
 2020-04-12,covidtestingproject.org,184.168.221.39,US,North America
 2020-04-12,covidtestingproject.org,50.63.202.35,US,North America
 2020-04-12,detroitcoronavirustest.com,184.168.221.44,US,North America
@@ -133,6 +131,7 @@
 2020-04-13,coronavirus-test.se,coronavirus-test.se,,
 2020-04-13,coronavirustest.space,195.110.124.133,IT,Europe
 2020-04-13,coronavirustest.space,coronavirustest.space,,
+2020-04-13,covid19antibodyrapidtest.fm,198.74.54.240,US,North America
 2020-04-13,covid19antibodyrapidtest.fm,covid19antibodyrapidtest.fm,,
 2020-04-13,covid19antibodyrapidtest.ph,45.79.222.138,US,North America
 2020-04-13,covid19antibodyrapidtest.ph,covid19antibodyrapidtest.ph,,
@@ -165,7 +164,6 @@
 2020-04-13,covid19moleculartesting.com,covid19moleculartesting.com,,
 2020-04-13,covid19moleculartest.org,184.168.221.46,US,North America
 2020-04-13,covid19moleculartest.org,50.63.202.34,US,North America
-2020-04-13,covid19moleculartest.org,covid19moleculartest.org,,
 2020-04-13,covid19moleculartests.com,50.63.202.38,US,North America
 2020-04-13,covid19moleculartests.com,covid19moleculartests.com,,
 2020-04-13,covid19rapidimmunitytest.com,184.168.221.49,US,North America
@@ -185,8 +183,6 @@
 2020-04-13,covid19testingcentersnc.com.ph,45.79.222.138,US,North America
 2020-04-13,covid19testingcentersnc.com.ph,covid19testingcentersnc.com.ph,,
 2020-04-13,covid-19testingclinics.com,50.63.202.38,US,North America
-2020-04-13,covid-19testingclinics.com,50.63.202.46,US,North America
-2020-04-13,covid-19testingclinics.com,covid-19testingclinics.com,,
 2020-04-13,covid-19testingkit.software,covid-19testingkit.software,,
 2020-04-13,covid-19testingkit.today,covid-19testingkit.today,,
 2020-04-13,covid-19testing.vegas,107.161.23.204,US,North America
@@ -234,6 +230,7 @@
 2020-04-13,covidcoronatestkit.com,64.111.117.136,US,North America
 2020-04-13,covidcoronatestkit.com,covidcoronatestkit.com,,
 2020-04-13,covidcure19.ph,covidcure19.ph,,
+2020-04-13,covidhomeantigentest.com,covidhomeantigentest.com,,
 2020-04-13,covidimmunitytests.co.uk,covidimmunitytests.co.uk,,
 2020-04-13,covidonedaytest.com,covidonedaytest.com,,
 2020-04-13,covidrecoverytest.com,50.63.202.60,US,North America
@@ -252,6 +249,7 @@
 2020-04-13,covidserologytest.com,covidserologytest.com,,
 2020-04-13,covidserumrapidtest.com,50.63.202.45,US,North America
 2020-04-13,covidserumrapidtest.com,covidserumrapidtest.com,,
+2020-04-13,covid-sneltest.be,covid-sneltest.be,,
 2020-04-13,covidswabtest.com,184.168.131.241,US,North America
 2020-04-13,covidswabtest.com,covidswabtest.com,,
 2020-04-13,covidtestgroup.com,206.188.193.164,US,North America
@@ -279,8 +277,12 @@
 2020-04-13,findcovid19testkit.com,findcovid19testkit.com,,
 2020-04-13,kbcovidtesting.org,162.241.224.146,US,North America
 2020-04-13,kbcovidtesting.org,kbcovidtesting.org,,
+2020-04-13,liilycovid19testing.com,185.53.177.14,DE,Europe
 2020-04-13,liilycovid19testing.com,liilycovid19testing.com,,
+2020-04-13,lilyycovid19testing.com,185.53.178.11,DE,Europe
 2020-04-13,lilyycovid19testing.com,lilyycovid19testing.com,,
+2020-04-13,lilyycovid19testing.com,ns1.parkingcrew.net,,
+2020-04-13,lilyycovid19testing.com,ns2.parkingcrew.net,,
 2020-04-13,lullycovid19testing.com,185.53.177.14,DE,Europe
 2020-04-13,lullycovid19testing.com,lullycovid19testing.com,,
 2020-04-13,lullycovid19testing.com,ns1.parkingcrew.net,,
@@ -343,7 +345,6 @@
 2020-04-13,unitedstatescovidtesting.com,unitedstatescovidtesting.com,,
 2020-04-13,www.coronavirus-testkit.ch,194.5.156.38,DE,Europe
 2020-04-13,www.coronavirus-testkit.ch,coronavirus-testkit.ch,,
-2020-04-13,www.covid19moleculartest.org,50.63.202.55,US,North America
 2020-04-13,www.covid19moleculartest.org,covid19moleculartest.org,,
 2020-04-13,www.covid-19testing.vegas,parking.namesilo.com,,
 2020-04-13,www.covid19test.tech,2a06:6440::2d54:0:0:0:1,,
@@ -361,6 +362,7 @@
 2020-04-13,xmysecure2-facebookcovid19petition.ga,xmysecure2-facebookcovid19petition.ga,,
 2020-04-13,xmysecure4-facebookcovid19petition.ga,138.68.241.104,US,North America
 2020-04-13,xmysecure4-facebookcovid19petition.ga,xmysecure4-facebookcovid19petition.ga,,
+2020-04-13,xmysecure6-facebookcovid19petition.ga,138.68.241.104,US,North America
 2020-04-13,xmysecure6-facebookcovid19petition.ga,xmysecure6-facebookcovid19petition.ga,,
 2020-04-13,xmysecure7-facebookcovid19petition.ga,138.68.241.104,US,North America
 2020-04-13,xmysecure7-facebookcovid19petition.ga,xmysecure7-facebookcovid19petition.ga,,
