@@ -2,7 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-13,atlantacovid-19testing.com,184.168.221.33,US,North America
 2020-04-13,bloodtestforcovid19.ph,45.79.222.138,US,North America
 2020-04-13,bloodtestforcovid19.ph,bloodtestforcovid19.ph,,
 2020-04-13,columbuscoronavirustesting.com,columbuscoronavirustesting.com,,
@@ -154,7 +153,6 @@
 2020-04-13,covidtestsites.today,covidtestsites.today,,
 2020-04-13,covidtests.site,50.63.202.58,US,North America
 2020-04-13,covidtests.site,covidtests.site,,
-2020-04-13,covidxtestkit.com,covidxtestkit.com,,
 2020-04-13,federalcovid19testing.com,184.168.221.39,US,North America
 2020-04-13,federalcovid19testing.com,50.63.202.53,US,North America
 2020-04-13,federalcovid19testing.com,federalcovid19testing.com,,
@@ -305,7 +303,9 @@
 2020-04-14,lacoronavirustesting.com,lacoronavirustesting.com,,
 2020-04-14,lillycovid119testing.com,185.53.178.10,DE,Europe
 2020-04-14,lillycovid119testing.com,lillycovid119testing.com,,
+2020-04-14,lillycovid19ttesting.com,185.53.177.14,DE,Europe
 2020-04-14,lillycovid19ttesting.com,lillycovid19ttesting.com,,
+2020-04-14,losangelescoronavirustests.com,50.63.202.41,US,North America
 2020-04-14,losangelescoronavirustests.com,losangelescoronavirustests.com,,
 2020-04-14,miamicovid-19test.com,50.63.202.56,US,North America
 2020-04-14,miamicovid-19test.com,miamicovid-19test.com,,
