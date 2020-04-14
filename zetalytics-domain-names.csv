@@ -3,7 +3,6 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-13,atlantacovid-19testing.com,184.168.221.33,US,North America
-2020-04-13,atlantacovid-19testing.com,atlantacovid-19testing.com,,
 2020-04-13,bloodtestforcovid19.ph,45.79.222.138,US,North America
 2020-04-13,bloodtestforcovid19.ph,bloodtestforcovid19.ph,,
 2020-04-13,columbuscoronavirustesting.com,columbuscoronavirustesting.com,,
@@ -29,7 +28,6 @@
 2020-04-13,coronavirustestcentre.com,ns44.domaincontrol.com,,
 2020-04-13,coronavirus-testkit.ch,194.5.156.38,DE,Europe
 2020-04-13,coronavirus-testkit.ch,coronavirus-testkit.ch,,
-2020-04-13,coronavirustestkit.co.in,coronavirustestkit.co.in,,
 2020-04-13,coronavirus-test.se,194.9.94.85,SE,Europe
 2020-04-13,coronavirus-test.se,194.9.94.86,SE,Europe
 2020-04-13,coronavirus-test.se,coronavirus-test.se,,
@@ -82,6 +80,9 @@
 2020-04-13,covid-19testing.vegas,192.161.187.200,US,North America
 2020-04-13,covid-19testing.vegas,209.141.38.71,US,North America
 2020-04-13,covid-19testing.vegas,covid-19testing.vegas,,
+2020-04-13,covid-19testing.vegas,ns1.dnsowl.com,,
+2020-04-13,covid-19testing.vegas,ns2.dnsowl.com,,
+2020-04-13,covid-19testing.vegas,ns3.dnsowl.com,,
 2020-04-13,covid-19testkit.biz,50.63.202.32,US,North America
 2020-04-13,covid-19testkit.biz,covid-19testkit.biz,,
 2020-04-13,covid-19-test-kit.org,50.63.202.51,US,North America
@@ -127,8 +128,6 @@
 2020-04-13,covidrecoverytest.com,covidrecoverytest.com,,
 2020-04-13,covidsafetesting.today,184.168.221.47,US,North America
 2020-04-13,covidsafetesting.today,covidsafetesting.today,,
-2020-04-13,covidsafetestsites.info,50.63.202.48,US,North America
-2020-04-13,covidsafetestsites.info,covidsafetestsites.info,,
 2020-04-13,covidsalivatest.com,104.171.23.69,US,North America
 2020-04-13,covidsalivatest.com,104.171.23.70,US,North America
 2020-04-13,covidsalivatest.com,covidsalivatest.com,,
@@ -147,7 +146,6 @@
 2020-04-13,covidtestingproject.com,184.168.221.55,US,North America
 2020-04-13,covidtestingproject.com,184.168.221.56,US,North America
 2020-04-13,covidtestingproject.com,covidtestingproject.com,,
-2020-04-13,covid-test-kit.center,covid-test-kit.center,,
 2020-04-13,covid-test-kit.info,covid-test-kit.info,,
 2020-04-13,covidtest-kits.com,covidtest-kits.com,,
 2020-04-13,covidtest-kits.com,ns31.domaincontrol.com,,
@@ -239,8 +237,6 @@
 2020-04-13,www.covid-19testing.vegas,parking.namesilo.com,,
 2020-04-13,www.covid19test.tech,185.104.45.84,GB,Europe
 2020-04-13,www.covid19test.tech,2a06:6440::2d54:0:0:0:1,,
-2020-04-13,www.covid-test-kit.center,50.63.202.47,US,North America
-2020-04-13,www.covid-test-kit.center,covid-test-kit.center,,
 2020-04-13,www.findcovid19testkit.com,50.63.202.47,US,North America
 2020-04-13,www.findcovid19testkit.com,findcovid19testkit.com,,
 2020-04-13,www.kbcovidtesting.org,162.241.224.146,US,North America
@@ -266,6 +262,9 @@
 2020-04-14,californiacovid19tests.com,californiacovid19tests.com,,
 2020-04-14,covid19antibodytest.com.au,covid19antibodytest.com.au,,
 2020-04-14,covid19-medtest.ru,covid19-medtest.ru,,
+2020-04-14,covid19-medtest.ru,mx01.nicmail.ru,,
+2020-04-14,covid19-medtest.ru,mx02.nicmail.ru,,
+2020-04-14,covid19-medtest.ru,mx03.nicmail.ru,,
 2020-04-14,covid19naturescure.com,covid19naturescure.com,,
 2020-04-14,covid19testingkits.sydney,covid19testingkits.sydney,,
 2020-04-14,covid19testingkits.sydney,ns1.nameserver.net.au,,
@@ -301,10 +300,13 @@
 2020-04-14,findcoronavirustestkit.com,findcoronavirustestkit.com,,
 2020-04-14,imysecure5-facebookcovid19petition.ga,138.68.241.104,US,North America
 2020-04-14,imysecure5-facebookcovid19petition.ga,imysecure5-facebookcovid19petition.ga,,
+2020-04-14,imysecure9-facebookcovid19petition.ga,imysecure9-facebookcovid19petition.ga,,
 2020-04-14,lacoronavirustesting.com,50.63.202.59,US,North America
 2020-04-14,lacoronavirustesting.com,lacoronavirustesting.com,,
 2020-04-14,lillycovid119testing.com,185.53.178.10,DE,Europe
 2020-04-14,lillycovid119testing.com,lillycovid119testing.com,,
+2020-04-14,lillycovid19ttesting.com,lillycovid19ttesting.com,,
+2020-04-14,losangelescoronavirustests.com,losangelescoronavirustests.com,,
 2020-04-14,miamicovid-19test.com,50.63.202.56,US,North America
 2020-04-14,miamicovid-19test.com,miamicovid-19test.com,,
 2020-04-14,montestcovid19.fr,montestcovid19.fr,,
