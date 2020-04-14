@@ -4,8 +4,6 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-13,bloodtestforcovid19.ph,45.79.222.138,US,North America
 2020-04-13,bloodtestforcovid19.ph,bloodtestforcovid19.ph,,
-2020-04-13,coronavirusantibodiestesting.com,ns21055.ztomy.com,,
-2020-04-13,coronavirusantibodytests.co.uk,coronavirusantibodytests.co.uk,,
 2020-04-13,coronavirusbloodtestingkit.com,184.168.221.41,US,North America
 2020-04-13,coronavirusbloodtestingkit.ph,45.79.222.138,US,North America
 2020-04-13,coronavirusbloodtestingkit.ph,coronavirusbloodtestingkit.ph,,
@@ -253,6 +251,7 @@
 2020-04-14,covidantibodytestinglabs.com,50.63.202.52,US,North America
 2020-04-14,covidantibodytestinglabs.com,50.63.202.58,US,North America
 2020-04-14,covidantibodytestinglabs.com,covidantibodytestinglabs.com,,
+2020-04-14,covidantibodytestingnow.com,covidantibodytestingnow.com,,
 2020-04-14,covidcleartesting.com,covidcleartesting.com,,
 2020-04-14,covidcleartesting.com,JHY9c3BmMSArYSArbXggK2lwNDo2OS4yNy4xMTEuNzAgfmFsbA==,,
 2020-04-14,covidcleartesting.com,$v=spf1 +a +mx +ip4:69.27.111.70 ~all,,
@@ -316,6 +315,7 @@
 2020-04-14,rapidcovidtest.org,rapidcovidtest.org,,
 2020-04-14,rapide-test-sars-cov2.fr,rapide-test-sars-cov2.fr,,
 2020-04-14,rapidtest-covid-19.org,rapidtest-covid-19.org,,
+2020-04-14,tennesseecovidtesting.com,162.255.119.29,US,North America
 2020-04-14,tennesseecovidtesting.com,tennesseecovidtesting.com,,
 2020-04-14,testcovid19fromhome.com,testcovid19fromhome.com,,
 2020-04-14,testkitcoronavirus.com.au,202.124.241.178,AU,Oceania
