@@ -2,7 +2,9 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-04-13,coronavirusantibodiestesting.com,209.99.64.55,US,North America
 2020-04-13,coronavirusbloodtestingkit.com,184.168.221.41,US,North America
+2020-04-13,coronaviruslatestupdate.com,184.168.221.43,US,North America
 2020-04-13,coronaviruslatestupdate.com,184.168.221.46,US,North America
 2020-04-13,coronavirustestcentre.com,ns43.domaincontrol.com,,
 2020-04-13,coronavirustestcentre.com,ns44.domaincontrol.com,,
@@ -10,11 +12,7 @@
 2020-04-13,coronavirus-testkit.ch,coronavirus-testkit.ch,,
 2020-04-13,covid19antibodyrapidtest.fm,198.74.54.240,US,North America
 2020-04-13,covid19antibodyrapidtest.fm,covid19antibodyrapidtest.fm,,
-2020-04-13,covid19antibodyrapidtest.ph,45.79.222.138,US,North America
-2020-04-13,covid19antibodyrapidtest.ph,covid19antibodyrapidtest.ph,,
 2020-04-13,covid-19antibodytesting.com,50.63.202.34,US,North America
-2020-04-13,covid19bloodtestingkits.ws,covid19bloodtestingkits.ws,,
-2020-04-13,covid19bloodtestingkits.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-04-13,covid-19cured.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-04-13,covid-19cured.fm,covid-19cured.fm,,
 2020-04-13,covid-19cured.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
@@ -151,6 +149,7 @@
 2020-04-14,certifiedcovidtesting.com,certifiedcovidtesting.com,,
 2020-04-14,coronaviruscontroltest.ph,coronaviruscontroltest.ph,,
 2020-04-14,coronavirusserologytesting.ph,coronavirusserologytesting.ph,,
+2020-04-14,coronavirustestsuk.com,94.136.40.51,GB,Europe
 2020-04-14,coronavirustestsuk.com,coronavirustestsuk.com,,
 2020-04-14,coronavirustestsuk.ws,64.70.19.203,US,North America
 2020-04-14,coronavirustestsuk.ws,coronavirustestsuk.ws,,
@@ -321,6 +320,7 @@
 2020-04-14,testyourcoronavirus.com,dns1.nominalia.com,,
 2020-04-14,testyourcoronavirus.com,dns2.nominalia.com,,
 2020-04-14,testyourcoronavirus.com,testyourcoronavirus.com,,
+2020-04-14,thecovidantibodytest.com,50.63.202.50,US,North America
 2020-04-14,thecovidantibodytest.com,thecovidantibodytest.com,,
 2020-04-14,usacovid-19tests.com,ns45.domaincontrol.com,,
 2020-04-14,usacovid-19tests.com,ns46.domaincontrol.com,,
