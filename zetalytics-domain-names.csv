@@ -3,8 +3,6 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-13,coronavirusbloodtestingkit.com,184.168.221.41,US,North America
-2020-04-13,coronavirusbloodtestingkit.ph,45.79.222.138,US,North America
-2020-04-13,coronavirusbloodtestingkit.ph,coronavirusbloodtestingkit.ph,,
 2020-04-13,coronaviruslatestupdate.com,184.168.221.46,US,North America
 2020-04-13,coronavirustestcentre.com,ns43.domaincontrol.com,,
 2020-04-13,coronavirustestcentre.com,ns44.domaincontrol.com,,
@@ -15,7 +13,6 @@
 2020-04-13,covid19antibodyrapidtest.ph,45.79.222.138,US,North America
 2020-04-13,covid19antibodyrapidtest.ph,covid19antibodyrapidtest.ph,,
 2020-04-13,covid-19antibodytesting.com,50.63.202.34,US,North America
-2020-04-13,covid-19-antibodytest.ph,covid-19-antibodytest.ph,,
 2020-04-13,covid19bloodtestingkits.ws,covid19bloodtestingkits.ws,,
 2020-04-13,covid19bloodtestingkits.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-04-13,covid19bloodtestingkits.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
@@ -108,8 +105,6 @@
 2020-04-13,nsecure8-facebookcovid19petition.ga,nsecure8-facebookcovid19petition.ga,,
 2020-04-13,rapidtest4covid19.com,184.168.131.241,US,North America
 2020-04-13,rapidtest4covid19.com,rapidtest4covid19.com,,
-2020-04-13,remotecoronavirustest.fm,mail.h-email.net,,
-2020-04-13,remotecoronavirustest.fm,remotecoronavirustest.fm,,
 2020-04-13,remotecovid19hometestkit.ws,64.70.19.203,US,North America
 2020-04-13,remotecovid19hometestkit.ws,remotecovid19hometestkit.ws,,
 2020-04-13,sars-cov2-test.com,admin@home.pl,,
@@ -121,6 +116,7 @@
 2020-04-13,unitedstatescovid19testing.com,184.168.221.54,US,North America
 2020-04-13,unitedstatescovid-19testing.com,50.63.202.44,US,North America
 2020-04-13,unitedstatescovid-19testing.com,50.63.202.45,US,North America
+2020-04-13,unitedstatescovid19testing.com,50.63.202.56,US,North America
 2020-04-13,unitedstatescovid19testing.com,ns77.domaincontrol.com,,
 2020-04-13,unitedstatescovid19testing.com,ns78.domaincontrol.com,,
 2020-04-13,unitedstatescovid-19testing.com,unitedstatescovid-19testing.com,,
@@ -229,6 +225,7 @@
 2020-04-14,covidiggtest.com,50.63.202.48,US,North America
 2020-04-14,covidiggtest.com,covidiggtest.com,,
 2020-04-14,covid-immunity-test.com,184.168.221.57,US,North America
+2020-04-14,covid-immunity-test.com,50.63.202.61,US,North America
 2020-04-14,covid-immunity-test.com,50.63.202.62,US,North America
 2020-04-14,covid-immunity-test.com,covid-immunity-test.com,,
 2020-04-14,covidsafetestdrive.com,184.168.221.42,US,North America
@@ -277,6 +274,7 @@
 2020-04-14,lacovidtest.org,lacovidtest.org,,
 2020-04-14,latestcovid19.com,148.105.251.17,US,North America
 2020-04-14,latestcovid19.com,latestcovid19.com,,
+2020-04-14,latestcovid19.ph,45.79.222.138,US,North America
 2020-04-14,latestcovid19.ph,latestcovid19.ph,,
 2020-04-14,lillyccovid19testing.com,I3Y9c3BmMSBpcDY6ZmQxYjoyMTJjOmE1Zjk6Oi80OCAtYWxs,,
 2020-04-14,lillyccovid19testing.com,lillyccovid19testing.com,,
@@ -315,6 +313,8 @@
 2020-04-14,tampacoronavirustest.com,tampacoronavirustest.com,,
 2020-04-14,tennesseecovidtesting.com,162.255.119.29,US,North America
 2020-04-14,tennesseecovidtesting.com,tennesseecovidtesting.com,,
+2020-04-14,testcoronavirus.ga,185.27.134.207,GB,Europe
+2020-04-14,testcoronavirus.ga,testcoronavirus.ga,,
 2020-04-14,testcovid19fromhome.com,testcovid19fromhome.com,,
 2020-04-14,testkitcoronavirus.com.au,202.124.241.178,AU,Oceania
 2020-04-14,testkitcoronavirus.com.au,testkitcoronavirus.com.au,,
