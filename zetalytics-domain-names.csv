@@ -4,8 +4,6 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-13,atlantacovid-19testing.com,184.168.221.33,US,North America
 2020-04-13,atlantacovid-19testing.com,atlantacovid-19testing.com,,
-2020-04-13,bloodtestforcovid19.com,184.168.221.46,US,North America
-2020-04-13,bloodtestforcovid19.com,bloodtestforcovid19.com,,
 2020-04-13,bloodtestforcovid19.ph,45.79.222.138,US,North America
 2020-04-13,bloodtestforcovid19.ph,bloodtestforcovid19.ph,,
 2020-04-13,columbuscoronavirustesting.com,columbuscoronavirustesting.com,,
@@ -29,15 +27,12 @@
 2020-04-13,coronavirusserologytest.com,184.168.221.37,US,North America
 2020-04-13,coronavirusserologytest.com,184.168.221.50,US,North America
 2020-04-13,coronavirusserologytest.com,coronavirusserologytest.com,,
-2020-04-13,coronavirustestcentre.com,50.63.202.41,US,North America
 2020-04-13,coronavirustestcentre.com,50.63.202.60,US,North America
-2020-04-13,coronavirustestcentre.com,coronavirustestcentre.com,,
 2020-04-13,coronavirustestcentre.com,ns43.domaincontrol.com,,
 2020-04-13,coronavirustestcentre.com,ns44.domaincontrol.com,,
 2020-04-13,coronavirus-testkit.ch,194.5.156.38,DE,Europe
 2020-04-13,coronavirus-testkit.ch,coronavirus-testkit.ch,,
 2020-04-13,coronavirustestkit.co.in,coronavirustestkit.co.in,,
-2020-04-13,coronavirustest.mx,coronavirustest.mx,,
 2020-04-13,coronavirus-test.se,194.9.94.85,SE,Europe
 2020-04-13,coronavirus-test.se,194.9.94.86,SE,Europe
 2020-04-13,coronavirus-test.se,coronavirus-test.se,,
@@ -47,14 +42,11 @@
 2020-04-13,covid19antibodyrapidtest.fm,covid19antibodyrapidtest.fm,,
 2020-04-13,covid19antibodyrapidtest.ph,45.79.222.138,US,North America
 2020-04-13,covid19antibodyrapidtest.ph,covid19antibodyrapidtest.ph,,
-2020-04-13,covid-19antibodytesting.com,184.168.221.53,US,North America
 2020-04-13,covid-19antibodytesting.com,184.168.221.61,US,North America
 2020-04-13,covid-19antibodytesting.com,50.63.202.34,US,North America
 2020-04-13,covid-19antibodytesting.com,50.63.202.58,US,North America
-2020-04-13,covid-19antibodytesting.com,covid-19antibodytesting.com,,
 2020-04-13,covid-19antibodytesting.com.ph,45.79.222.138,US,North America
 2020-04-13,covid-19antibodytesting.com.ph,covid-19antibodytesting.com.ph,,
-2020-04-13,covid19antibodytest.org,covid19antibodytest.org,,
 2020-04-13,covid-19-antibodytest.ph,covid-19-antibodytest.ph,,
 2020-04-13,covid19bloodtestingkits.ws,covid19bloodtestingkits.ws,,
 2020-04-13,covid19bloodtestingkits.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
@@ -69,13 +61,9 @@
 2020-04-13,covid-19-hometests.com,184.168.221.54,US,North America
 2020-04-13,covid-19-hometests.com,50.63.202.61,US,North America
 2020-04-13,covid-19-hometests.com,covid-19-hometests.com,,
-2020-04-13,covid19moleculartest.com,184.168.221.48,US,North America
-2020-04-13,covid19moleculartest.com,50.63.202.40,US,North America
-2020-04-13,covid19moleculartest.com,covid19moleculartest.com,,
 2020-04-13,covid19moleculartest.com,ns71.domaincontrol.com,,
 2020-04-13,covid19moleculartest.com,ns72.domaincontrol.com,,
 2020-04-13,covid19moleculartesting.com,covid19moleculartesting.com,,
-2020-04-13,covid19moleculartest.org,184.168.221.46,US,North America
 2020-04-13,covid19moleculartest.org,50.63.202.34,US,North America
 2020-04-13,covid19moleculartests.com,50.63.202.38,US,North America
 2020-04-13,covid19moleculartests.com,covid19moleculartests.com,,
@@ -87,8 +75,6 @@
 2020-04-13,covid19testclinic.com,covid19testclinic.com,,
 2020-04-13,covid19testclinic.com,dns@jomax.net,,
 2020-04-13,covid19testclinic.com,ns19.domaincontrol.com,,
-2020-04-13,covid-19tested.info,184.168.131.241,US,North America
-2020-04-13,covid-19tested.info,covid-19tested.info,,
 2020-04-13,covid19testforhome.com,50.63.202.54,US,North America
 2020-04-13,covid19testforhome.com,covid19testforhome.com,,
 2020-04-13,covid19testingcentersnc.com.ph,45.79.222.138,US,North America
@@ -158,9 +144,7 @@
 2020-04-13,covidsalivatest.com,covidsalivatest.com,,
 2020-04-13,covidsecure.de,81.169.145.82,DE,Europe
 2020-04-13,covidsecure.de,covidsecure.de,,
-2020-04-13,covidserologytest.com,184.168.221.52,US,North America
 2020-04-13,covidserologytest.com,50.63.202.32,US,North America
-2020-04-13,covidserologytest.com,covidserologytest.com,,
 2020-04-13,covidserumrapidtest.com,50.63.202.45,US,North America
 2020-04-13,covidserumrapidtest.com,covidserumrapidtest.com,,
 2020-04-13,covid-sneltest.be,141.138.169.201,NL,Europe
@@ -188,8 +172,6 @@
 2020-04-13,findcoronavirustestkit.fm,findcoronavirustestkit.fm,,
 2020-04-13,findcoronavirustestkit.fm,mail.h-email.net,,
 2020-04-13,findcoronavirustestkits.com,184.168.221.63,US,North America
-2020-04-13,findcoronavirustestkits.com,50.63.202.57,US,North America
-2020-04-13,findcoronavirustestkits.com,findcoronavirustestkits.com,,
 2020-04-13,findcovid19testkit.com,184.168.221.53,US,North America
 2020-04-13,findcovid19testkit.com,findcovid19testkit.com,,
 2020-04-13,kbcovidtesting.org,162.241.224.146,US,North America
@@ -296,7 +278,9 @@
 2020-04-13,xsecure9-facebookcovid19petition.ga,xsecure9-facebookcovid19petition.ga,,
 2020-04-14,covid19antibodytest.com.au,covid19antibodytest.com.au,,
 2020-04-14,covid19naturescure.com,covid19naturescure.com,,
+2020-04-14,covid19testingkits.sydney,covid19testingkits.sydney,,
 2020-04-14,covid-19-test-kit.online,covid-19-test-kit.online,,
+2020-04-14,covid19workplacetest.com,103.42.108.46,AU,Oceania
 2020-04-14,covid19workplacetest.com,covid19workplacetest.com,,
 2020-04-14,covidantibodytesting2u.com,50.63.202.43,US,North America
 2020-04-14,covidantibodytesting2u.com,covidantibodytesting2u.com,,
@@ -309,6 +293,7 @@
 2020-04-14,covid-immunity-test.com,covid-immunity-test.com,,
 2020-04-14,covidsafetestdrive.com,50.63.202.33,US,North America
 2020-04-14,covidsafetestdrive.com,covidsafetestdrive.com,,
+2020-04-14,covidsafetestsite.com,50.63.202.52,US,North America
 2020-04-14,covidsafetestsite.com,covidsafetestsite.com,,
 2020-04-14,covidsitestore.com,104.200.25.156,US,North America
 2020-04-14,covidsitestore.com,covidsitestore.com,,
@@ -332,4 +317,13 @@
 2020-04-14,rapidcovidtest.org,rapidcovidtest.org,,
 2020-04-14,rapide-test-sars-cov2.fr,rapide-test-sars-cov2.fr,,
 2020-04-14,rapidtest-covid-19.org,rapidtest-covid-19.org,,
+2020-04-14,testyourcoronavirus.com,165.227.80.250,US,North America
+2020-04-14,testyourcoronavirus.com,dns1.nominalia.com,,
+2020-04-14,testyourcoronavirus.com,dns2.nominalia.com,,
 2020-04-14,testyourcoronavirus.com,testyourcoronavirus.com,,
+2020-04-14,usacovid-19tests.com,usacovid-19tests.com,,
+2020-04-14,www.testyourcoronavirus.com,165.227.80.250,US,North America
+2020-04-14,www.testyourcoronavirus.com,dns1.nominalia.com,,
+2020-04-14,www.testyourcoronavirus.com,dns2.nominalia.com,,
+2020-04-14,www.testyourcoronavirus.com,mail.nominalia.com,,
+2020-04-14,www.testyourcoronavirus.com,testyourcoronavirus.com,,
