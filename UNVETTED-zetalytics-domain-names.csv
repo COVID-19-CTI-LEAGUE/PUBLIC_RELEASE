@@ -18,7 +18,6 @@
 2020-04-14,corona-virus-latest.com,*v=spf1 +a +mx include:spf.aserv.co.za ~all,,
 2020-04-14,coronavirusserologytesting.ph,45.79.222.138,US,North America
 2020-04-14,coronavirustestsuk.com,ns.123-reg.co.uk,,
-2020-04-14,coronavirustestsuk.com,ns2.123-reg.co.uk,,
 2020-04-14,covid19camptest.com,50.63.202.45,US,North America
 2020-04-14,covid19cure.news,covid19cure.news,,
 2020-04-14,covid-19-cures.com,2001:4860:4802:32::15,,
@@ -67,7 +66,6 @@
 2020-04-14,covidtest-online.ru,ns215.inhostedns.net,,
 2020-04-14,covidtest-online.ru,ns315.inhostedns.org,,
 2020-04-14,covidtest-online.ru,'v=spf1 include:_spf.ukraine.com.ua ~all,,
-2020-04-14,drivethroughcovidtesting.org,184.168.221.45,US,North America
 2020-04-14,find.covid-19-cures.com,172.217.1.147,US,North America
 2020-04-14,find.covid-19-cures.com,172.217.12.51,US,North America
 2020-04-14,find.covid-19-cures.com,172.217.9.179,US,North America
@@ -108,9 +106,7 @@
 2020-04-14,rapide-test-sars-cov2.fr,ns2.bkintera.com,,
 2020-04-14,rapidtest4covid19.ph,45.79.222.138,US,North America
 2020-04-14,scaletestscovid19.com,184.168.221.48,US,North America
-2020-04-14,scaletestscovid19.com,50.63.202.42,US,North America
 2020-04-14,scaletestscovid19.com.ph,45.79.222.138,US,North America
-2020-04-14,scaletestscovid19.com,scaletestscovid19.com,,
 2020-04-14,testcoronavirusmadrid.es,178.33.162.26,ES,Europe
 2020-04-14,testrapidcovid19.com,dns1.host-redirect.com,,
 2020-04-14,testrapidcovid19.com,dns2.host-redirect.com,,
@@ -194,6 +190,7 @@
 2020-04-15,covid19testcentre.com,covid19testcentre.com,,
 2020-04-15,covid19testdocs.ph,covid19testdocs.ph,,
 2020-04-15,covid19testingindfw.com.ph,covid19testingindfw.com.ph,,
+2020-04-15,covid19testingkits.melbourne,covid19testingkits.melbourne,,
 2020-04-15,covid19testkits.co.kr,covid19testkits.co.kr,,
 2020-04-15,covid19-test.no,185.126.39.34,NO,Europe
 2020-04-15,covid19-test.no,covid19-test.no,,
@@ -259,6 +256,8 @@
 2020-04-15,gocovidtest.org,13.248.155.104,US,North America
 2020-04-15,gocovidtest.org,76.223.27.102,US,North America
 2020-04-15,gocovidtest.org,gocovidtest.org,,
+2020-04-15,gocovidtest.org,mx00.ionos.com,,
+2020-04-15,gocovidtest.org,mx01.ionos.com,,
 2020-04-15,gocovidtest.org,ns1027.ui-dns.biz,,
 2020-04-15,gocovidtest.org,ns1099.ui-dns.org,,
 2020-04-15,gocovidtest.org,ns1106.ui-dns.de,,
@@ -322,6 +321,7 @@
 2020-04-15,testyourcovid19.fm,testyourcovid19.fm,,
 2020-04-15,testyourcovid19.ph,testyourcovid19.ph,,
 2020-04-15,usacovidtesting.com,usacovidtesting.com,,
+2020-04-15,uscovidtest.info,50.63.202.62,US,North America
 2020-04-15,uscovidtest.info,uscovidtest.info,,
 2020-04-15,uscovidtests.com,uscovidtests.com,,
 2020-04-15,webdisk.covid19-test.no,185.126.39.34,NO,Europe
