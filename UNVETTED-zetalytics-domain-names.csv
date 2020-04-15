@@ -17,7 +17,6 @@
 2020-04-14,corona-virus-latest.com,ns.otherdns.net,,
 2020-04-14,corona-virus-latest.com,*v=spf1 +a +mx include:spf.aserv.co.za ~all,,
 2020-04-14,coronavirusserologytesting.ph,45.79.222.138,US,North America
-2020-04-14,coronavirustestsuk.com,ns.123-reg.co.uk,,
 2020-04-14,covid19camptest.com,50.63.202.45,US,North America
 2020-04-14,covid19cure.news,covid19cure.news,,
 2020-04-14,covid-19-cures.com,2001:4860:4802:32::15,,
@@ -55,7 +54,6 @@
 2020-04-14,covid-sneltest.com,ns1.webhostingserver.nl,,
 2020-04-14,covid-sneltest.com,ns2.webhostingserver.nl,,
 2020-04-14,covid-sneltest.com,ns3.webhostingserver.nl,,
-2020-04-14,covid-sneltest.nl,141.138.169.201,NL,Europe
 2020-04-14,covid-test.center,pdns03.domaincontrol.com,,
 2020-04-14,covid-test.center,pdns04.domaincontrol.com,,
 2020-04-14,covidtest-online.ru,2a06:6440::2d14:0:0:0:1,,
@@ -298,6 +296,7 @@
 2020-04-15,securecovid.org,securecovid.org,,
 2020-04-15,securecovid.shop,195.110.124.133,IT,Europe
 2020-04-15,securecovid.shop,securecovid.shop,,
+2020-04-15,sexcurecovid19.com,sexcurecovid19.com,,
 2020-04-15,test-covid19.tech,test-covid19.tech,,
 2020-04-15,testcovid.de,testcovid.de,,
 2020-04-15,testeparacovid19.com.br,mx128.umbler.in,,
@@ -321,6 +320,7 @@
 2020-04-15,testyourcovid19.fm,testyourcovid19.fm,,
 2020-04-15,testyourcovid19.ph,testyourcovid19.ph,,
 2020-04-15,usacovidtesting.com,usacovidtesting.com,,
+2020-04-15,usacovidtests.com,usacovidtests.com,,
 2020-04-15,uscovidtest.info,50.63.202.62,US,North America
 2020-04-15,uscovidtest.info,uscovidtest.info,,
 2020-04-15,uscovidtests.com,uscovidtests.com,,
@@ -331,6 +331,7 @@
 2020-04-15,www.coronavirustestrapidos.cl,covid19.jumpseller.com,,
 2020-04-15,www.covid-19cured.com,184.168.221.59,US,North America
 2020-04-15,www.covid-19cured.com,covid-19cured.com,,
+2020-04-15,www.covid19testingkits.melbourne,103.42.108.46,AU,Oceania
 2020-04-15,www.covid19-test.no,185.126.39.34,NO,Europe
 2020-04-15,www.covid19-test.no,covid19-test.no,,
 2020-04-15,www.covid19-testnow.info,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,,
