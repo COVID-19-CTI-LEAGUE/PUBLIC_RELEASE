@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-04-14,accreditedcovidtest.com,184.168.131.241,US,North America
 2020-04-14,act2020covid19testing.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-04-14,act2020covid19testing.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-04-14,bloodtestcovid19.info,bloodtestcovid19.info,,
@@ -21,7 +22,6 @@
 2020-04-14,corona-virus-latest.com,ns.otherdns.net,,
 2020-04-14,corona-virus-latest.com,*v=spf1 +a +mx include:spf.aserv.co.za ~all,,
 2020-04-14,coronavirusserologytesting.ph,45.79.222.138,US,North America
-2020-04-14,coronavirustestsuk.com,94.136.40.51,GB,Europe
 2020-04-14,coronavirustestsuk.com,ns.123-reg.co.uk,,
 2020-04-14,coronavirustestsuk.com,ns2.123-reg.co.uk,,
 2020-04-14,covid19antibodytest.com.au,103.67.235.120,AU,Oceania
@@ -55,8 +55,6 @@
 2020-04-14,covid-19rapidtestkit.ca,covid-19rapidtestkit.ca,,
 2020-04-14,covid-19rapidtest.llp,127.0.53.53,,
 2020-04-14,covid-19rapidtest.llp,covid-19rapidtest.llp,,
-2020-04-14,covid19rapidtests.org,50.63.202.58,US,North America
-2020-04-14,covid19rapidtests.org,covid19rapidtests.org,,
 2020-04-14,covid19salivatests.com,185.53.177.12,DE,Europe
 2020-04-14,covid19salivatests.com,covid19salivatests.com,,
 2020-04-14,covid19simpletest.com,184.168.221.58,US,North America
@@ -77,7 +75,6 @@
 2020-04-14,covid19testtrucks.com.ph,45.79.222.138,US,North America
 2020-04-14,covidantibodiestesting4u.com,209.99.64.55,US,North America
 2020-04-14,covidantibodiestesting4u.com,covidantibodiestesting4u.com,,
-2020-04-14,covidantibodytestinglabs.com,50.63.202.49,US,North America
 2020-04-14,covidcoronavirusathometest.com.au,101.0.122.194,AU,Oceania
 2020-04-14,covidiggtest.com,50.63.202.33,US,North America
 2020-04-14,covidpricktest.com,184.168.131.241,US,North America
@@ -160,8 +157,6 @@
 2020-04-14,testrapidcovid19.com,testrapidcovid19.com,,
 2020-04-14,testyourcovid19.com,testyourcovid19.com,,
 2020-04-14,thecovidantibodytest.com,50.63.202.34,US,North America
-2020-04-14,thecovidantibodytest.com,50.63.202.50,US,North America
-2020-04-14,thecovidantibodytest.com,thecovidantibodytest.com,,
 2020-04-14,webmail.kitsicurezzacovid.it,159.69.63.17,DE,Europe
 2020-04-14,www.certifiedcovidtesting.com,184.168.131.241,US,North America
 2020-04-14,www.certifiedcovidtesting.com,certifiedcovidtesting.com,,
@@ -253,6 +248,7 @@
 2020-04-15,covid-antibodytest.com,66.96.162.140,US,North America
 2020-04-15,covid-antibodytest.com,covid-antibodytest.com,,
 2020-04-15,coviddentaltest.com,184.168.221.38,US,North America
+2020-04-15,coviddentaltest.com,184.168.221.58,US,North America
 2020-04-15,coviddentaltest.com,coviddentaltest.com,,
 2020-04-15,covidoraltest.com,184.168.221.33,US,North America
 2020-04-15,covidoraltest.com,covidoraltest.com,,
@@ -320,6 +316,10 @@
 2020-04-15,securecovid.shop,securecovid.shop,,
 2020-04-15,test-covid19.tech,test-covid19.tech,,
 2020-04-15,testcovid.de,testcovid.de,,
+2020-04-15,testeparacovid19.com.br,mx128.umbler.in,,
+2020-04-15,testeparacovid19.com.br,mx240.umbler.co.uk,,
+2020-04-15,testeparacovid19.com.br,mx364.umbler.com,,
+2020-04-15,testeparacovid19.com.br,mx783.umbler.com.br,,
 2020-04-15,testeparacovid19.com.br,testeparacovid19.com.br,,
 2020-04-15,testnow-covid-19.com,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,,
 2020-04-15,testnow-covid19.com,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,,
