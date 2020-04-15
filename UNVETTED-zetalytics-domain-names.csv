@@ -86,10 +86,8 @@
 2020-04-14,latestcovid19.com,ns2.systemdns.com,,
 2020-04-14,latestcovid19.com,ns3.systemdns.com,,
 2020-04-14,latestcovid19.com,$v=spf1 include:servers.mcsv.net ?all,,
-2020-04-14,montestcovid19.fr,1|www.montestcovid19.fr,,
 2020-04-14,montestcovid19.fr,dns111.ovh.net,,
 2020-04-14,montestcovid19.fr,FzF8d3d3Lm1vbnRlc3Rjb3ZpZDE5LmZy,,
-2020-04-14,montestcovid19.fr,HnY9c3BmMSBpbmNsdWRlOm14Lm92aC5jb20gfmFsbA==,,
 2020-04-14,montestcovid19.fr,ns111.ovh.net,,
 2020-04-14,quicktest-covid19.com,194.9.94.85,SE,Europe
 2020-04-14,quicktest-covid19.com,194.9.94.86,SE,Europe
@@ -152,6 +150,7 @@
 2020-04-15,coronavirustest.no,185.126.39.34,NO,Europe
 2020-04-15,coronavirustest.no,coronavirustest.no,,
 2020-04-15,coronavirustestrapidos.cl,coronavirustestrapidos.cl,,
+2020-04-15,covid19antibodiestestkit.com,184.168.221.54,US,North America
 2020-04-15,covid19antibodiestestkit.com,covid19antibodiestestkit.com,,
 2020-04-15,covid19antibodiestestkits.com.ph,45.79.222.138,US,North America
 2020-04-15,covid19antibodiestestkits.com.ph,covid19antibodiestestkits.com.ph,,
@@ -231,6 +230,7 @@
 2020-04-15,covidsneltest.nl,covidsneltest.nl,,
 2020-04-15,covidtestal.com,50.63.202.54,US,North America
 2020-04-15,covidtestal.com,covidtestal.com,,
+2020-04-15,covid-test.expert,covid-test.expert,,
 2020-04-15,covidtesting.io,covidtesting.io,,
 2020-04-15,covidtestkit.com.au,covidtestkit.com.au,,
 2020-04-15,covidtestkit.com.au,ns39.domaincontrol.com,,
