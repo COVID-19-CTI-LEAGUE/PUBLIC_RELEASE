@@ -43,7 +43,6 @@
 2020-04-14,covid-19test.hu,'v=spf1 mx a ptr ip4:92.43.200.0/21 ?all,,
 2020-04-14,covid19testingkits.sydney,103.42.108.46,AU,Oceania
 2020-04-14,covid-19-test-kit.center,184.168.221.43,US,North America
-2020-04-14,covid19testtruck.ph,covid19testtruck.ph,,
 2020-04-14,covid19testtrucks.com.ph,45.79.222.138,US,North America
 2020-04-14,covidcleartesting.com,69.27.111.70,CA,North America
 2020-04-14,covidiggtest.com,50.63.202.33,US,North America
@@ -88,7 +87,6 @@
 2020-04-14,latestcovid19.com,ns2.systemdns.com,,
 2020-04-14,latestcovid19.com,ns3.systemdns.com,,
 2020-04-14,latestcovid19.com,$v=spf1 include:servers.mcsv.net ?all,,
-2020-04-14,lillycovid19ttesting.ph,45.79.222.138,US,North America
 2020-04-14,montestcovid19.fr,1|www.montestcovid19.fr,,
 2020-04-14,montestcovid19.fr,dns111.ovh.net,,
 2020-04-14,montestcovid19.fr,FzF8d3d3Lm1vbnRlc3Rjb3ZpZDE5LmZy,,
@@ -188,7 +186,9 @@
 2020-04-15,covid19testdocs.ph,covid19testdocs.ph,,
 2020-04-15,covid19testingindfw.com.ph,covid19testingindfw.com.ph,,
 2020-04-15,covid19testingkits.melbourne,covid19testingkits.melbourne,,
+2020-04-15,covid-19testingmaps.com,covid-19testingmaps.com,,
 2020-04-15,covid19testkits.co.kr,covid19testkits.co.kr,,
+2020-04-15,covid19testkitusa.llp,covid19testkitusa.llp,,
 2020-04-15,covid19-test.no,185.126.39.34,NO,Europe
 2020-04-15,covid19-test.no,covid19-test.no,,
 2020-04-15,covid19-test.no,ns1.dnsdomene.net,,
