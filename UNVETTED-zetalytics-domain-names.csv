@@ -8,7 +8,6 @@
 2020-04-14,act2020covid19testing.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-04-14,act2020covid19testing.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-04-14,bloodtestcovid19.info,bloodtestcovid19.info,,
-2020-04-14,californiacovid19tests.com,californiacovid19tests.com,,
 2020-04-14,certifiedcovidtesting.com,certifiedcovidtesting.com,,
 2020-04-14,coronaviruscontroltest.ph,coronaviruscontroltest.ph,,
 2020-04-14,coronavirushometestus.com,50.63.202.50,US,North America
@@ -86,10 +85,6 @@
 2020-04-14,covid-19test.hu,'v=spf1 mx a ptr ip4:92.43.200.0/21 ?all,,
 2020-04-14,covid-19testingkit.live,covid-19testingkit.live,,
 2020-04-14,covid19testingkits.sydney,103.42.108.46,AU,Oceania
-2020-04-14,covid19testingkits.sydney,covid19testingkits.sydney,,
-2020-04-14,covid19testingkits.sydney,ns1.nameserver.net.au,,
-2020-04-14,covid19testingkits.sydney,ns2.nameserver.net.au,,
-2020-04-14,covid19testingkits.sydney,ns3.nameserver.net.au,,
 2020-04-14,covid-19-test-kit.center,50.63.202.47,US,North America
 2020-04-14,covid-19-test-kit.center,covid-19-test-kit.center,,
 2020-04-14,covid-19-test-kit.online,184.168.221.54,US,North America
@@ -150,9 +145,13 @@
 2020-04-14,covidtest.in,covidtest.in,,
 2020-04-14,covid-testing.org,covid-testing.org,,
 2020-04-14,covidtest-online.ru,2a06:6440::2d14:0:0:0:1,,
+2020-04-14,covidtest-online.ru,J3Y9c3BmMSBpbmNsdWRlOl9zcGYudWtyYWluZS5jb20udWEgfmFsbA==,,
+2020-04-14,covidtest-online.ru,mx15.ukraine.com.ua,,
+2020-04-14,covidtest-online.ru,mx20.ukraine.com.ua,,
 2020-04-14,covidtest-online.ru,ns115.inhostedns.com,,
 2020-04-14,covidtest-online.ru,ns215.inhostedns.net,,
 2020-04-14,covidtest-online.ru,ns315.inhostedns.org,,
+2020-04-14,covidtest-online.ru,'v=spf1 include:_spf.ukraine.com.ua ~all,,
 2020-04-14,covid-test.support,50.63.202.34,US,North America
 2020-04-14,covid-test.support,covid-test.support,,
 2020-04-14,covidthuistest.nl,188.93.150.74,NL,Europe
@@ -267,7 +266,6 @@
 2020-04-14,www.covidsafetestsites.com,covidsafetestsites.com,,
 2020-04-14,www.covidsitestore.com,104.200.25.156,US,North America
 2020-04-14,www.covid-sneltest.com,141.138.169.201,NL,Europe
-2020-04-14,www.covid-sneltest.nl,141.138.169.201,NL,Europe
 2020-04-14,www.covidthuistest.nl,188.93.150.74,NL,Europe
 2020-04-14,www.covidthuistest.nl,2a00:4e40:1:1::2:202,,
 2020-04-14,www.hydroxichloroquinecure.com,hydroxichloroquinecure.com,,
@@ -296,6 +294,7 @@
 2020-04-15,covid19-testnow.info,covid19-testnow.info,,
 2020-04-15,covid19-testnow.info,hostmaster@strato-rz.de,,
 2020-04-15,covid19-testnow.info,ns3.stratoserver.net,,
+2020-04-15,covid19tests.org.uk,94.136.40.51,GB,Europe
 2020-04-15,covid19tests.org.uk,covid19tests.org.uk,,
 2020-04-15,covid19testtruck.com,covid19testtruck.com,,
 2020-04-15,covid19testtruck.com,ns-142.awsdns-17.com,,
@@ -310,6 +309,7 @@
 2020-04-15,onlinecovid-19test.com,onlinecovid-19test.com,,
 2020-04-15,philadelphiacovid-19testing.com,philadelphiacovid-19testing.com,,
 2020-04-15,remotecovid19hometestkit.com,remotecovid19hometestkit.com,,
+2020-04-15,seattlecoronavirustest.com,seattlecoronavirustest.com,,
 2020-04-15,seattlecovid-19tests.com,seattlecovid-19tests.com,,
 2020-04-15,securecovid.org,195.110.124.133,IT,Europe
 2020-04-15,securecovid.org,securecovid.org,,
