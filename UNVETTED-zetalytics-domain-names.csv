@@ -18,6 +18,7 @@
 2020-04-14,corona-virus-latest.com,*v=spf1 +a +mx include:spf.aserv.co.za ~all,,
 2020-04-14,coronavirusserologytesting.ph,45.79.222.138,US,North America
 2020-04-14,covid19camptest.com,50.63.202.45,US,North America
+2020-04-14,covid19camptest.com,50.63.202.49,US,North America
 2020-04-14,covid19cure.news,covid19cure.news,,
 2020-04-14,covid-19-cures.com,2001:4860:4802:32::15,,
 2020-04-14,covid-19-cures.com,2001:4860:4802:34::15,,
@@ -210,7 +211,6 @@
 2020-04-15,covid19tests.org.uk,covid19tests.org.uk,,
 2020-04-15,covid19testtruck.com,covid19testtruck.com,,
 2020-04-15,covid19testtruck.com,ns-142.awsdns-17.com,,
-2020-04-15,covid19testtruck.com,ns-1440.awsdns-52.org,,
 2020-04-15,covid19tracetest.ws,covid19tracetest.ws,,
 2020-04-15,covid19tracetest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-04-15,covid19tracetest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
@@ -287,6 +287,7 @@
 2020-04-15,securecovid19.net,securecovid19.net,,
 2020-04-15,securecovid19.org,195.110.124.133,IT,Europe
 2020-04-15,securecovid19.org,securecovid19.org,,
+2020-04-15,securecovid19.shop,195.110.124.133,IT,Europe
 2020-04-15,securecovid19.shop,securecovid19.shop,,
 2020-04-15,securecovid.net,195.110.124.133,IT,Europe
 2020-04-15,securecovid.net,securecovid.net,,
