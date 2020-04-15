@@ -96,11 +96,8 @@
 2020-04-14,covidtest-online.ru,'v=spf1 include:_spf.ukraine.com.ua ~all,,
 2020-04-14,covid-test.support,50.63.202.34,US,North America
 2020-04-14,covid-test.support,covid-test.support,,
-2020-04-14,covidthuistest.nl,188.93.150.74,NL,Europe
 2020-04-14,covidthuistest.nl,2a00:4e40:1:1::2:202,,
-2020-04-14,covidthuistest.nl,covidthuistest.nl,,
 2020-04-14,covidthuistest.nl,ns1.metaregistrar.nl,,
-2020-04-14,covidthuistest.nl,ns2.metaregistrar.nl,,
 2020-04-14,drivethroughcovidtesting.org,184.168.221.45,US,North America
 2020-04-14,find.covid-19-cures.com,172.217.1.147,US,North America
 2020-04-14,find.covid-19-cures.com,172.217.12.51,US,North America
@@ -146,6 +143,7 @@
 2020-04-14,scaletestscovid19.com,50.63.202.42,US,North America
 2020-04-14,scaletestscovid19.com.ph,45.79.222.138,US,North America
 2020-04-14,scaletestscovid19.com,scaletestscovid19.com,,
+2020-04-14,testcoronavirusmadrid.es,178.33.162.26,ES,Europe
 2020-04-14,testrapidcovid19.com,dns1.host-redirect.com,,
 2020-04-14,testrapidcovid19.com,dns2.host-redirect.com,,
 2020-04-14,testrapidcovid19.com,dns3.host-redirect.com,,
@@ -185,6 +183,7 @@
 2020-04-15,columbuscoronavirustests.com,columbuscoronavirustests.com,,
 2020-04-15,columbuscoronavirustests.com,ns33.domaincontrol.com,,
 2020-04-15,columbuscoronavirustests.com,ns34.domaincontrol.com,,
+2020-04-15,coronavirusantibodiestestkits.fm,coronavirusantibodiestestkits.fm,,
 2020-04-15,coronavirussalivatesting.com,coronavirussalivatesting.com,,
 2020-04-15,coronavirusserologytesting.com,184.168.221.35,US,North America
 2020-04-15,coronavirusserologytesting.com,coronavirusserologytesting.com,,
@@ -211,6 +210,7 @@
 2020-04-15,covid-19serologytest.com,50.63.202.63,US,North America
 2020-04-15,covid-19serologytest.com,covid-19serologytest.com,,
 2020-04-15,covid19serologytest.com,covid19serologytest.com,,
+2020-04-15,covid19testal.ws,covid19testal.ws,,
 2020-04-15,covid-19testcentre.com,50.63.202.53,US,North America
 2020-04-15,covid19testcentre.com,50.63.202.56,US,North America
 2020-04-15,covid-19testcentre.com,covid-19testcentre.com,,
