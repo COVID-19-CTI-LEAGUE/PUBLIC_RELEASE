@@ -2,7 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-14,accreditedcovidtest.com,accreditedcovidtest.com,,
 2020-04-14,act2020covid19testing.ws,64.70.19.203,US,North America
 2020-04-14,act2020covid19testing.ws,act2020covid19testing.ws,,
 2020-04-14,act2020covid19testing.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
@@ -11,6 +10,7 @@
 2020-04-14,certifiedcovidtesting.com,184.168.131.241,US,North America
 2020-04-14,certifiedcovidtesting.com,certifiedcovidtesting.com,,
 2020-04-14,coronaviruscontroltest.ph,coronaviruscontroltest.ph,,
+2020-04-14,coronavirushometestus.com,184.168.221.43,US,North America
 2020-04-14,coronavirushometestus.com,50.63.202.50,US,North America
 2020-04-14,coronavirushometestus.com,coronavirushometestus.com,,
 2020-04-14,corona-virus-latest.com,197.242.147.168,ZA,Africa
@@ -93,13 +93,9 @@
 2020-04-14,covidantibodiestesting4u.com,209.99.64.55,US,North America
 2020-04-14,covidantibodiestesting4u.com,covidantibodiestesting4u.com,,
 2020-04-14,covidantibodytestinglabs.com,50.63.202.49,US,North America
-2020-04-14,covidantibodytestingnow.com,184.168.221.63,US,North America
-2020-04-14,covidantibodytestingnow.com,covidantibodytestingnow.com,,
 2020-04-14,covidcoronavirusathometest.com.au,101.0.122.194,AU,Oceania
 2020-04-14,covidcoronavirusathometest.com.au,covidcoronavirusathometest.com.au,,
 2020-04-14,covid-home-test.com,184.168.221.57,US,North America
-2020-04-14,covid-home-test.net,184.168.221.43,US,North America
-2020-04-14,covid-home-test.net,covid-home-test.net,,
 2020-04-14,covidiggtest.com,184.168.221.40,US,North America
 2020-04-14,covidiggtest.com,50.63.202.33,US,North America
 2020-04-14,covid-immunity-test.com,50.63.202.61,US,North America
@@ -167,14 +163,10 @@
 2020-04-14,latestcovid19.com,$v=spf1 include:servers.mcsv.net ?all,,
 2020-04-14,latestcovid19.ph,45.79.222.138,US,North America
 2020-04-14,latestcovid19.ph,latestcovid19.ph,,
-2020-04-14,lillyccovid19testing.com,I3Y9c3BmMSBpcDY6ZmQxYjoyMTJjOmE1Zjk6Oi80OCAtYWxs,,
 2020-04-14,lillyccovid19testing.com,lillyccovid19testing.com,,
 2020-04-14,lillyccovid19testing.com,ns1.parkingcrew.net,,
 2020-04-14,lillyccovid19testing.com,ns2.parkingcrew.net,,
-2020-04-14,lillyccovid19testing.com,#v=spf1 ip6:fd1b:212c:a5f9::/48 -all,,
 2020-04-14,lillyccovid19testing.ph,lillyccovid19testing.ph,,
-2020-04-14,lillycovid119testing.com,I3Y9c3BmMSBpcDY6ZmQxYjoyMTJjOmE1Zjk6Oi80OCAtYWxs,,
-2020-04-14,lillycovid119testing.com,#v=spf1 ip6:fd1b:212c:a5f9::/48 -all,,
 2020-04-14,lillycovid199testing.com,185.53.177.12,DE,Europe
 2020-04-14,lillycovid199testing.com,lillycovid199testing.com,,
 2020-04-14,lillycovid19testiing.ph,lillycovid19testiing.ph,,
@@ -209,7 +201,6 @@
 2020-04-14,testcoronavirus.ga,185.27.134.207,GB,Europe
 2020-04-14,testcoronavirus.ga,testcoronavirus.ga,,
 2020-04-14,testcoronavirusmadrid.es,testcoronavirusmadrid.es,,
-2020-04-14,testcovid19fromhome.com,testcovid19fromhome.com,,
 2020-04-14,testrapidcovid19.com,testrapidcovid19.com,,
 2020-04-14,testyourcovid19.com,testyourcovid19.com,,
 2020-04-14,thecovidantibodytest.com,50.63.202.50,US,North America
@@ -243,18 +234,24 @@
 2020-04-15,columbuscoronavirustests.com,columbuscoronavirustests.com,,
 2020-04-15,columbuscoronavirustests.com,ns33.domaincontrol.com,,
 2020-04-15,columbuscoronavirustests.com,ns34.domaincontrol.com,,
+2020-04-15,coronavirusserologytesting.com,184.168.221.35,US,North America
 2020-04-15,coronavirusserologytesting.com,coronavirusserologytesting.com,,
 2020-04-15,coronavirustest.blog,195.110.124.133,IT,Europe
 2020-04-15,coronavirustest.blog,coronavirustest.blog,,
 2020-04-15,coronavirustest.no,coronavirustest.no,,
+2020-04-15,covid19checktest.com,covid19checktest.com,,
 2020-04-15,covid-19cured.com,covid-19cured.com,,
+2020-04-15,covid-19cure.xyz,184.168.221.42,US,North America
 2020-04-15,covid-19cure.xyz,covid-19cure.xyz,,
 2020-04-15,covid19-kit-test.com,covid19-kit-test.com,,
 2020-04-15,covid19-kit-test.com,hostmaster@infomaniak.ch,,
 2020-04-15,covid19-kit-test.com,ns31.infomaniak.com,,
 2020-04-15,covid-19rapidtest.me,covid-19rapidtest.me,,
+2020-04-15,covid19serologytest.com,50.63.202.32,US,North America
+2020-04-15,covid-19serologytest.com,50.63.202.44,US,North America
 2020-04-15,covid-19serologytest.com,covid-19serologytest.com,,
 2020-04-15,covid19serologytest.com,covid19serologytest.com,,
+2020-04-15,covid19testcentre.com,50.63.202.56,US,North America
 2020-04-15,covid19testcentre.com,covid19testcentre.com,,
 2020-04-15,covid19testkits.co.kr,covid19testkits.co.kr,,
 2020-04-15,covid19-test.no,185.126.39.34,NO,Europe
@@ -281,14 +278,18 @@
 2020-04-15,covid-19webtest.com,covid-19webtest.com,,
 2020-04-15,covid-19webtest.com,ns10.wixdns.net,,
 2020-04-15,covid-19webtest.com,ns11.wixdns.net,,
+2020-04-15,covid-antibodytest.com,66.96.162.140,US,North America
 2020-04-15,covid-antibodytest.com,covid-antibodytest.com,,
+2020-04-15,covidoraltest.com,184.168.221.33,US,North America
 2020-04-15,covidoraltest.com,covidoraltest.com,,
 2020-04-15,covidscenttester.es,217.76.128.34,ES,Europe
 2020-04-15,covidscenttester.es,covidscenttester.es,,
+2020-04-15,covidtestal.com,50.63.202.54,US,North America
 2020-04-15,covidtestal.com,covidtestal.com,,
 2020-04-15,covidtestkit.com.au,covidtestkit.com.au,,
 2020-04-15,covidtestkit.com.au,ns39.domaincontrol.com,,
 2020-04-15,covidtestkit.com.au,ns40.domaincontrol.com,,
+2020-04-15,covidtestms.com,184.168.221.36,US,North America
 2020-04-15,covidtestms.com,covidtestms.com,,
 2020-04-15,cpanel.coronavirustest.no,185.126.39.34,NO,Europe
 2020-04-15,cpanel.covid19-test.no,185.126.39.34,NO,Europe
