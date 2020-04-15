@@ -22,7 +22,6 @@
 2020-04-14,corona-virus-latest.com,*v=spf1 +a +mx include:spf.aserv.co.za ~all,,
 2020-04-14,coronavirusserologytesting.ph,45.79.222.138,US,North America
 2020-04-14,coronavirustestsuk.com,94.136.40.51,GB,Europe
-2020-04-14,coronavirustestsuk.com,coronavirustestsuk.com,,
 2020-04-14,coronavirustestsuk.com,ns.123-reg.co.uk,,
 2020-04-14,coronavirustestsuk.com,ns2.123-reg.co.uk,,
 2020-04-14,covid19antibodytest.com.au,103.67.235.120,AU,Oceania
@@ -81,7 +80,6 @@
 2020-04-14,covidantibodytestinglabs.com,50.63.202.49,US,North America
 2020-04-14,covidcoronavirusathometest.com.au,101.0.122.194,AU,Oceania
 2020-04-14,covidiggtest.com,50.63.202.33,US,North America
-2020-04-14,covid-immunity-test.com,50.63.202.61,US,North America
 2020-04-14,covidpricktest.com,184.168.131.241,US,North America
 2020-04-14,covidpricktest.com,covidpricktest.com,,
 2020-04-14,covidsalivatests.com,ns1.fabulous.com,,
@@ -134,12 +132,7 @@
 2020-04-14,latestcovid19.com,ns2.systemdns.com,,
 2020-04-14,latestcovid19.com,ns3.systemdns.com,,
 2020-04-14,latestcovid19.com,$v=spf1 include:servers.mcsv.net ?all,,
-2020-04-14,latestcovid19.ph,45.79.222.138,US,North America
-2020-04-14,latestcovid19.ph,latestcovid19.ph,,
-2020-04-14,lillycovid19testiing.ph,lillycovid19testiing.ph,,
 2020-04-14,lillycovid19ttesting.ph,45.79.222.138,US,North America
-2020-04-14,lullycovid19testing.ws,lullycovid19testing.ws,,
-2020-04-14,lullycovid19testing.ws,mail.hope-mail.com,,
 2020-04-14,montestcovid19.fr,1|www.montestcovid19.fr,,
 2020-04-14,montestcovid19.fr,dns111.ovh.net,,
 2020-04-14,montestcovid19.fr,FzF8d3d3Lm1vbnRlc3Rjb3ZpZDE5LmZy,,
@@ -159,8 +152,6 @@
 2020-04-14,scaletestscovid19.com,50.63.202.42,US,North America
 2020-04-14,scaletestscovid19.com.ph,45.79.222.138,US,North America
 2020-04-14,scaletestscovid19.com,scaletestscovid19.com,,
-2020-04-14,testcoronavirus.ga,185.27.134.207,GB,Europe
-2020-04-14,testcoronavirus.ga,testcoronavirus.ga,,
 2020-04-14,testcoronavirusmadrid.es,testcoronavirusmadrid.es,,
 2020-04-14,testrapidcovid19.com,dns1.host-redirect.com,,
 2020-04-14,testrapidcovid19.com,dns2.host-redirect.com,,
@@ -168,6 +159,7 @@
 2020-04-14,testrapidcovid19.com,dns4.host-redirect.com,,
 2020-04-14,testrapidcovid19.com,testrapidcovid19.com,,
 2020-04-14,testyourcovid19.com,testyourcovid19.com,,
+2020-04-14,thecovidantibodytest.com,50.63.202.34,US,North America
 2020-04-14,thecovidantibodytest.com,50.63.202.50,US,North America
 2020-04-14,thecovidantibodytest.com,thecovidantibodytest.com,,
 2020-04-14,webmail.kitsicurezzacovid.it,159.69.63.17,DE,Europe
@@ -237,6 +229,7 @@
 2020-04-15,covid19-test.no,ns1.dnsdomene.net,,
 2020-04-15,covid19-test.no,ns2.dnsdomene.net,,
 2020-04-15,covid19-test.no,ns3.dnsdomene.net,,
+2020-04-15,covid-19-testnow.com,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,,
 2020-04-15,covid-19-testnow.com,85.214.45.45,DE,Europe
 2020-04-15,covid-19-testnow.com,covid-19-testnow.com,,
 2020-04-15,covid-19-testnow.com,ns3.stratoserver.net,,
@@ -259,6 +252,7 @@
 2020-04-15,covid-19webtest.com,ns11.wixdns.net,,
 2020-04-15,covid-antibodytest.com,66.96.162.140,US,North America
 2020-04-15,covid-antibodytest.com,covid-antibodytest.com,,
+2020-04-15,coviddentaltest.com,184.168.221.38,US,North America
 2020-04-15,coviddentaltest.com,coviddentaltest.com,,
 2020-04-15,covidoraltest.com,184.168.221.33,US,North America
 2020-04-15,covidoraltest.com,covidoraltest.com,,
@@ -292,6 +286,11 @@
 2020-04-15,gocovidtest.org,ns1119.ui-dns.com,,
 2020-04-15,mycovidtestathome.com,mycovidtestathome.com,,
 2020-04-15,onlinecovid-19test.com,91.195.240.103,DE,Europe
+2020-04-15,onlinecovid-19test.com,dns1.name-services.com,,
+2020-04-15,onlinecovid-19test.com,dns2.name-services.com,,
+2020-04-15,onlinecovid-19test.com,dns3.name-services.com,,
+2020-04-15,onlinecovid-19test.com,dns4.name-services.com,,
+2020-04-15,onlinecovid-19test.com,dns5.name-services.com,,
 2020-04-15,onlinecovid-19test.com,onlinecovid-19test.com,,
 2020-04-15,philadelphiacovid19test.com,184.168.221.40,US,North America
 2020-04-15,philadelphiacovid19test.com,philadelphiacovid19test.com,,
@@ -321,6 +320,7 @@
 2020-04-15,securecovid.shop,securecovid.shop,,
 2020-04-15,test-covid19.tech,test-covid19.tech,,
 2020-04-15,testcovid.de,testcovid.de,,
+2020-04-15,testeparacovid19.com.br,testeparacovid19.com.br,,
 2020-04-15,testnow-covid-19.com,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,,
 2020-04-15,testnow-covid19.com,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,,
 2020-04-15,testnow-covid-19.com,85.214.45.45,DE,Europe
