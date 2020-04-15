@@ -78,6 +78,7 @@
 2020-04-14,covid-19test.hu,J3Y9c3BmMSBteCBhIHB0ciBpcDQ6OTIuNDMuMjAwLjAvMjEgP2FsbA==,,
 2020-04-14,covid-19test.hu,'v=spf1 mx a ptr ip4:92.43.200.0/21 ?all,,
 2020-04-14,covid-19testingkit.live,covid-19testingkit.live,,
+2020-04-14,covid19testingkits.sydney,103.42.108.46,AU,Oceania
 2020-04-14,covid19testingkits.sydney,covid19testingkits.sydney,,
 2020-04-14,covid19testingkits.sydney,ns1.nameserver.net.au,,
 2020-04-14,covid19testingkits.sydney,ns2.nameserver.net.au,,
@@ -162,6 +163,9 @@
 2020-04-14,covid-testing.org,covid-testing.org,,
 2020-04-14,covidtest-online.ru,185.104.45.20,GB,Europe
 2020-04-14,covidtest-online.ru,covidtest-online.ru,,
+2020-04-14,covidtest-online.ru,ns115.inhostedns.com,,
+2020-04-14,covidtest-online.ru,ns215.inhostedns.net,,
+2020-04-14,covidtest-online.ru,ns315.inhostedns.org,,
 2020-04-14,covid-test.support,50.63.202.34,US,North America
 2020-04-14,covid-test.support,covid-test.support,,
 2020-04-14,covidthuistest.nl,188.93.150.74,NL,Europe
@@ -246,6 +250,9 @@
 2020-04-14,quicktest-covid19.com,registry@loopia.se,,
 2020-04-14,rapidcovid19test.org,rapidcovid19test.org,,
 2020-04-14,rapidcovidtest.org,rapidcovidtest.org,,
+2020-04-14,rapide-test-sars-cov2.fr,192.185.139.6,US,North America
+2020-04-14,rapide-test-sars-cov2.fr,ns1.bkintera.com,,
+2020-04-14,rapide-test-sars-cov2.fr,ns2.bkintera.com,,
 2020-04-14,rapide-test-sars-cov2.fr,rapide-test-sars-cov2.fr,,
 2020-04-14,rapidtest4covid-19.ph,rapidtest4covid-19.ph,,
 2020-04-14,rapidtest4covid19.ph,rapidtest4covid19.ph,,
@@ -302,4 +309,5 @@
 2020-04-15,covid19testtruck.com,ns-1440.awsdns-52.org,,
 2020-04-15,covid19testtruck.com,ns-1636.awsdns-12.co.uk,,
 2020-04-15,covid19testtruck.com,ns-609.awsdns-12.net,,
+2020-04-15,securecovid.org,195.110.124.133,IT,Europe
 2020-04-15,securecovid.org,securecovid.org,,
