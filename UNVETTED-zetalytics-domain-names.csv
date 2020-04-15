@@ -3,7 +3,6 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-14,accreditedcovidtest.com,184.168.131.241,US,North America
-2020-04-14,act2020covid19testing.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-04-14,certifiedcovidtesting.com,184.168.131.241,US,North America
 2020-04-14,coronavirushometestus.com,184.168.221.43,US,North America
 2020-04-14,corona-virus-latest.com,7mailconf=https://envoy.aserv.co.za/mail/config-v1.1.xml,,
@@ -240,6 +239,7 @@
 2020-04-15,covidtestregistry.com,covidtestregistry.com,,
 2020-04-15,covidtestsite.net,91.195.240.103,DE,Europe
 2020-04-15,covidtestsite.net,covidtestsite.net,,
+2020-04-15,covidtracingtest.com,184.168.131.241,US,North America
 2020-04-15,covidtracingtest.com,covidtracingtest.com,,
 2020-04-15,cpanel.coronavirustest.no,185.126.39.34,NO,Europe
 2020-04-15,cpanel.covid19-test.no,185.126.39.34,NO,Europe
@@ -258,6 +258,7 @@
 2020-04-15,gocovidtest.org,ns1099.ui-dns.org,,
 2020-04-15,gocovidtest.org,ns1106.ui-dns.de,,
 2020-04-15,gocovidtest.org,ns1119.ui-dns.com,,
+2020-04-15,kitsicurezzacovid.com,kitsicurezzacovid.com,,
 2020-04-15,mycovidtestathome.com,mycovidtestathome.com,,
 2020-04-15,onlinecovid-19test.com,91.195.240.103,DE,Europe
 2020-04-15,onlinecovid-19test.com,dns1.name-services.com,,
