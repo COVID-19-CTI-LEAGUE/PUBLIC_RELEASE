@@ -4,7 +4,6 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-14,accreditedcovidtest.com,184.168.131.241,US,North America
 2020-04-14,act2020covid19testing.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-04-14,act2020covid19testing.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-04-14,certifiedcovidtesting.com,184.168.131.241,US,North America
 2020-04-14,coronavirushometestus.com,184.168.221.43,US,North America
 2020-04-14,corona-virus-latest.com,7mailconf=https://envoy.aserv.co.za/mail/config-v1.1.xml,,
@@ -87,7 +86,6 @@
 2020-04-14,latestcovid19.com,ns3.systemdns.com,,
 2020-04-14,latestcovid19.com,$v=spf1 include:servers.mcsv.net ?all,,
 2020-04-14,montestcovid19.fr,dns111.ovh.net,,
-2020-04-14,montestcovid19.fr,FzF8d3d3Lm1vbnRlc3Rjb3ZpZDE5LmZy,,
 2020-04-14,montestcovid19.fr,ns111.ovh.net,,
 2020-04-14,quicktest-covid19.com,194.9.94.85,SE,Europe
 2020-04-14,quicktest-covid19.com,194.9.94.86,SE,Europe
@@ -230,6 +228,7 @@
 2020-04-15,covidsneltest.nl,covidsneltest.nl,,
 2020-04-15,covidtestal.com,50.63.202.54,US,North America
 2020-04-15,covidtestal.com,covidtestal.com,,
+2020-04-15,covid-test.expert,50.63.202.49,US,North America
 2020-04-15,covid-test.expert,covid-test.expert,,
 2020-04-15,covidtesting.io,covidtesting.io,,
 2020-04-15,covidtestkit.com.au,covidtestkit.com.au,,
@@ -241,6 +240,7 @@
 2020-04-15,covidtestregistry.com,covidtestregistry.com,,
 2020-04-15,covidtestsite.net,91.195.240.103,DE,Europe
 2020-04-15,covidtestsite.net,covidtestsite.net,,
+2020-04-15,covidtracingtest.com,covidtracingtest.com,,
 2020-04-15,cpanel.coronavirustest.no,185.126.39.34,NO,Europe
 2020-04-15,cpanel.covid19-test.no,185.126.39.34,NO,Europe
 2020-04-15,curecovid.ca,158.85.87.76,CA,North America
