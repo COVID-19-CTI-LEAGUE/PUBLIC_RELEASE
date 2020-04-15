@@ -7,8 +7,6 @@
 2020-04-14,act2020covid19testing.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-04-14,certifiedcovidtesting.com,184.168.131.241,US,North America
 2020-04-14,coronavirushometestus.com,184.168.221.43,US,North America
-2020-04-14,coronavirushometestus.com,50.63.202.50,US,North America
-2020-04-14,coronavirushometestus.com,coronavirushometestus.com,,
 2020-04-14,corona-virus-latest.com,7mailconf=https://envoy.aserv.co.za/mail/config-v1.1.xml,,
 2020-04-14,corona-virus-latest.com,KnY9c3BmMSArYSArbXggaW5jbHVkZTpzcGYuYXNlcnYuY28uemEgfmFsbA==,,
 2020-04-14,corona-virus-latest.com,mail.corona-virus-latest.com,,
@@ -50,11 +48,9 @@
 2020-04-14,covid19testtruck.ph,covid19testtruck.ph,,
 2020-04-14,covid19testtrucks.com.ph,45.79.222.138,US,North America
 2020-04-14,covidcleartesting.com,69.27.111.70,CA,North America
-2020-04-14,covidcoronavirusathometest.com.au,101.0.122.194,AU,Oceania
 2020-04-14,covidiggtest.com,50.63.202.33,US,North America
 2020-04-14,covidsalivatests.com,ns1.fabulous.com,,
 2020-04-14,covidsalivatests.com,ns2.fabulous.com,,
-2020-04-14,covid-sneltest.com,141.138.169.201,NL,Europe
 2020-04-14,covid-sneltest.com,aXY9c3BmMSBhIG14IGlwNDoxOTUuMjExLjcyLjAvMjIgaXA0OjE0MS4xMzguMTY4LjAvMjEgaXA2OjJhMDM6M2MwMDphMDAxOjovNDggaXA2OjJhMDM6M2MwMDphMDAyOjovNDggfmFsbA==,,
 2020-04-14,covid-sneltest.com,iv=spf1 a mx ip4:195.211.72.0/22 ip4:141.138.168.0/21 ip6:2a03:3c00:a001::/48 ip6:2a03:3c00:a002::/48 ~all,,
 2020-04-14,covid-sneltest.com,ns1.webhostingserver.nl,,
@@ -107,7 +103,6 @@
 2020-04-14,quicktest-covid19.com,194.9.94.86,SE,Europe
 2020-04-14,quicktest-covid19.com,ns1.loopia.se,,
 2020-04-14,quicktest-covid19.com,registry@loopia.se,,
-2020-04-14,rapidcovid19test.org,rapidcovid19test.org,,
 2020-04-14,rapide-test-sars-cov2.fr,192.185.139.6,US,North America
 2020-04-14,rapide-test-sars-cov2.fr,ns1.bkintera.com,,
 2020-04-14,rapide-test-sars-cov2.fr,ns2.bkintera.com,,
@@ -327,11 +322,13 @@
 2020-04-15,testyourcovid19.fm,testyourcovid19.fm,,
 2020-04-15,testyourcovid19.ph,testyourcovid19.ph,,
 2020-04-15,usacovidtesting.com,usacovidtesting.com,,
+2020-04-15,uscovidtest.info,uscovidtest.info,,
 2020-04-15,uscovidtests.com,uscovidtests.com,,
 2020-04-15,webdisk.covid19-test.no,185.126.39.34,NO,Europe
 2020-04-15,www.cdphcovid19testing.org,184.168.131.241,US,North America
 2020-04-15,www.cdphcovid19testing.org,cdphcovid19testing.org,,
 2020-04-15,www.columbuscoronavirustest.com,columbuscoronavirustest.com,,
+2020-04-15,www.coronavirustestrapidos.cl,covid19.jumpseller.com,,
 2020-04-15,www.covid-19cured.com,184.168.221.59,US,North America
 2020-04-15,www.covid-19cured.com,covid-19cured.com,,
 2020-04-15,www.covid19-test.no,185.126.39.34,NO,Europe
@@ -347,3 +344,5 @@
 2020-04-15,www.seattlecovid-19tests.com,seattlecovid-19tests.com,,
 2020-04-15,www.securecovid19.shop,195.110.124.133,IT,Europe
 2020-04-15,www.securecovid19.shop,securecovid19.shop,,
+2020-04-15,www.testnow-covid-19.com,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,,
+2020-04-15,www.testnow-covid-19.com,testnow-covid-19.com,,
