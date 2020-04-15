@@ -21,7 +21,6 @@
 2020-04-14,corona-virus-latest.com,ns.otherdns.net,,
 2020-04-14,corona-virus-latest.com,*v=spf1 +a +mx include:spf.aserv.co.za ~all,,
 2020-04-14,coronavirusserologytesting.ph,45.79.222.138,US,North America
-2020-04-14,coronavirusserologytesting.ph,coronavirusserologytesting.ph,,
 2020-04-14,coronavirustestsuk.com,94.136.40.51,GB,Europe
 2020-04-14,coronavirustestsuk.com,coronavirustestsuk.com,,
 2020-04-14,coronavirustestsuk.com,ns.123-reg.co.uk,,
@@ -85,7 +84,6 @@
 2020-04-14,covid19testtrucks.com,ns-237.awsdns-29.com,,
 2020-04-14,covid19testtrucks.com,ns-695.awsdns-22.net,,
 2020-04-14,covid19testtrucks.com.ph,45.79.222.138,US,North America
-2020-04-14,covid19testtrucks.com.ph,covid19testtrucks.com.ph,,
 2020-04-14,covidantibodiestesting4u.com,209.99.64.55,US,North America
 2020-04-14,covidantibodiestesting4u.com,covidantibodiestesting4u.com,,
 2020-04-14,covidantibodytestinglabs.com,50.63.202.49,US,North America
@@ -146,7 +144,6 @@
 2020-04-14,latestcovid19.com,$v=spf1 include:servers.mcsv.net ?all,,
 2020-04-14,latestcovid19.ph,45.79.222.138,US,North America
 2020-04-14,latestcovid19.ph,latestcovid19.ph,,
-2020-04-14,lillyccovid19testing.ph,lillyccovid19testing.ph,,
 2020-04-14,lillycovid19testiing.ph,lillycovid19testiing.ph,,
 2020-04-14,lillycovid19ttesting.ph,45.79.222.138,US,North America
 2020-04-14,lillycovid19ttesting.ph,lillycovid19ttesting.ph,,
@@ -169,6 +166,7 @@
 2020-04-14,rapide-test-sars-cov2.fr,ns1.bkintera.com,,
 2020-04-14,rapide-test-sars-cov2.fr,ns2.bkintera.com,,
 2020-04-14,rapidtest4covid19.ph,45.79.222.138,US,North America
+2020-04-14,scaletestscovid19.com,184.168.221.48,US,North America
 2020-04-14,scaletestscovid19.com,50.63.202.42,US,North America
 2020-04-14,scaletestscovid19.com.ph,45.79.222.138,US,North America
 2020-04-14,scaletestscovid19.com.ph,scaletestscovid19.com.ph,,
@@ -190,6 +188,7 @@
 2020-04-14,www.covid19antibodytest.health,covid19antibodytest.health,,
 2020-04-14,www.covid19antibodytest.health,ns1.factorshub.com,,
 2020-04-14,www.covid19antibodytest.health,ns2.factorshub.com,,
+2020-04-14,www.covid19workplacetest.com,103.42.108.46,AU,Oceania
 2020-04-14,www.covidsafetestsites.com,covidsafetestsites.com,,
 2020-04-14,www.covidsitestore.com,104.200.25.156,US,North America
 2020-04-14,www.covid-sneltest.com,141.138.169.201,NL,Europe
@@ -315,6 +314,7 @@
 2020-04-15,securecovid19.net,securecovid19.net,,
 2020-04-15,securecovid19.org,195.110.124.133,IT,Europe
 2020-04-15,securecovid19.org,securecovid19.org,,
+2020-04-15,securecovid19.shop,securecovid19.shop,,
 2020-04-15,securecovid.net,195.110.124.133,IT,Europe
 2020-04-15,securecovid.net,securecovid.net,,
 2020-04-15,securecovid.org,195.110.124.133,IT,Europe
