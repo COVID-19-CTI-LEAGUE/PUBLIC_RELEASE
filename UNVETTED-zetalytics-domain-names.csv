@@ -2,91 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-13,coronavirusantibodiestesting.com,209.99.64.55,US,North America
-2020-04-13,coronaviruslatestupdate.com,184.168.221.43,US,North America
-2020-04-13,coronaviruslatestupdate.com,184.168.221.46,US,North America
-2020-04-13,coronavirustestcentre.com,ns43.domaincontrol.com,,
-2020-04-13,coronavirustestcentre.com,ns44.domaincontrol.com,,
-2020-04-13,covid-19cured.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
-2020-04-13,covid-19cured.fm,covid-19cured.fm,,
-2020-04-13,covid-19cured.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-04-13,covid-19cured.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-04-13,covid-19cured.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-04-13,covid-19-hometests.com,184.168.221.35,US,North America
-2020-04-13,covid-19-hometests.com,50.63.202.61,US,North America
-2020-04-13,covid19moleculartesting.com,ns43.domaincontrol.com,,
-2020-04-13,covid19moleculartesting.com,ns44.domaincontrol.com,,
-2020-04-13,covid19testclinic.com,ns19.domaincontrol.com,,
-2020-04-13,covid19testclinic.com,ns20.domaincontrol.com,,
-2020-04-13,covid19testforhome.com,184.168.221.54,US,North America
-2020-04-13,covid-19testingclinics.com,184.168.221.60,US,North America
-2020-04-13,covid-19testingkit.today,50.63.202.40,US,North America
-2020-04-13,covid-19testing.vegas,ns1.dnsowl.com,,
-2020-04-13,covid-19testing.vegas,ns2.dnsowl.com,,
-2020-04-13,covid-19testing.vegas,ns3.dnsowl.com,,
-2020-04-13,covid-19-test-kit.org,184.168.221.59,US,North America
-2020-04-13,covid19testnowdallas.com,184.168.221.46,US,North America
-2020-04-13,covid19testnowdallas.com,50.63.202.42,US,North America
-2020-04-13,covid19test.tech,2a06:6440::2d54:0:0:0:1,,
-2020-04-13,covid19test.tech,J3Y9c3BmMSBpbmNsdWRlOl9zcGYudWtyYWluZS5jb20udWEgfmFsbA==,,
-2020-04-13,covid19test.tech,'v=spf1 include:_spf.ukraine.com.ua ~all,,
-2020-04-13,covid19thecure.com,covid19thecure.com,,
-2020-04-13,covid1daytest.com,184.168.221.46,US,North America
-2020-04-13,covid2020cure.com,184.168.221.36,US,North America
-2020-04-13,covid2020cure.com,50.63.202.48,US,North America
-2020-04-13,covid2020cure.com,covid2020cure.com,,
-2020-04-13,covidantibodytesting.org,50.63.202.34,US,North America
-2020-04-13,covidcarerapidtest.com,50.63.202.39,US,North America
-2020-04-13,covidcure19.ph,covidcure19.ph,,
-2020-04-13,covidhomeantigentest.com,50.63.202.46,US,North America
-2020-04-13,covidsecure.de,81.169.145.82,DE,Europe
-2020-04-13,covidsecure.de,covidsecure.de,,
-2020-04-13,covidstriptest.com,184.168.221.54,US,North America
-2020-04-13,covidstriptest.com,184.168.221.59,US,North America
-2020-04-13,covidtestingproject.com,184.168.221.56,US,North America
-2020-04-13,covidtestingproject.com,50.63.202.46,US,North America
-2020-04-13,federalcovid19testing.com,184.168.221.55,US,North America
-2020-04-13,federalcovid19testing.com,50.63.202.53,US,North America
-2020-04-13,liilycovid19testing.com,I3Y9c3BmMSBpcDY6ZmQxYjoyMTJjOmE1Zjk6Oi80OCAtYWxs,,
-2020-04-13,liilycovid19testing.com,#v=spf1 ip6:fd1b:212c:a5f9::/48 -all,,
-2020-04-13,mobilecovidantibodytesting.com,184.168.221.49,US,North America
-2020-04-13,msecure8-facebookcovid19petition.ga,142.93.73.124,US,North America
-2020-04-13,msecure8-facebookcovid19petition.ga,msecure8-facebookcovid19petition.ga,,
-2020-04-13,nsecure4-facebookcovid19petition.ga,134.209.200.239,US,North America
-2020-04-13,nsecure4-facebookcovid19petition.ga,nsecure4-facebookcovid19petition.ga,,
-2020-04-13,nsecure8-facebookcovid19petition.ga,134.209.200.239,US,North America
-2020-04-13,nsecure8-facebookcovid19petition.ga,ns01.freenom.com,,
-2020-04-13,nsecure8-facebookcovid19petition.ga,ns02.freenom.com,,
-2020-04-13,nsecure8-facebookcovid19petition.ga,ns03.freenom.com,,
-2020-04-13,nsecure8-facebookcovid19petition.ga,ns04.freenom.com,,
-2020-04-13,nsecure8-facebookcovid19petition.ga,nsecure8-facebookcovid19petition.ga,,
-2020-04-13,sars-cov2-test.com,admin@home.pl,,
-2020-04-13,sars-cov2-test.com,dns.home.pl,,
-2020-04-13,unitedstatescovid19testing.com,184.168.221.39,US,North America
-2020-04-13,unitedstatescovid-19testing.com,50.63.202.45,US,North America
-2020-04-13,unitedstatescovid19testing.com,50.63.202.56,US,North America
-2020-04-13,unitedstatescovid19testing.com,ns77.domaincontrol.com,,
-2020-04-13,unitedstatescovid19testing.com,ns78.domaincontrol.com,,
-2020-04-13,www.covid-19antibodytesting.com,50.63.202.52,US,North America
-2020-04-13,www.covid-19antibodytesting.com,covid-19antibodytesting.com,,
-2020-04-13,www.covid19rapidtestingkit.org,50.63.202.63,US,North America
-2020-04-13,www.covid19rapidtestingkit.org,covid19rapidtestingkit.org,,
-2020-04-13,www.covid19test.tech,185.104.45.84,GB,Europe
-2020-04-13,xmysecure2-facebookcovid19petition.ga,ns01.freenom.com,,
-2020-04-13,xmysecure2-facebookcovid19petition.ga,soa@freenom.com,,
-2020-04-13,xmysecure2-facebookcovid19petition.ga,xmysecure2-facebookcovid19petition.ga,,
-2020-04-13,xmysecure4-facebookcovid19petition.ga,138.68.241.104,US,North America
-2020-04-13,xmysecure4-facebookcovid19petition.ga,xmysecure4-facebookcovid19petition.ga,,
-2020-04-13,xmysecure6-facebookcovid19petition.ga,138.68.241.104,US,North America
-2020-04-13,xmysecure6-facebookcovid19petition.ga,xmysecure6-facebookcovid19petition.ga,,
-2020-04-13,xmysecure7-facebookcovid19petition.ga,138.68.241.104,US,North America
-2020-04-13,xmysecure7-facebookcovid19petition.ga,xmysecure7-facebookcovid19petition.ga,,
-2020-04-13,xsecure9-facebookcovid19petition.ga,134.209.200.239,US,North America
-2020-04-13,xsecure9-facebookcovid19petition.ga,ns01.freenom.com,,
-2020-04-13,xsecure9-facebookcovid19petition.ga,ns02.freenom.com,,
-2020-04-13,xsecure9-facebookcovid19petition.ga,ns03.freenom.com,,
-2020-04-13,xsecure9-facebookcovid19petition.ga,ns04.freenom.com,,
-2020-04-13,xsecure9-facebookcovid19petition.ga,xsecure9-facebookcovid19petition.ga,,
 2020-04-14,accreditedcovidtest.com,accreditedcovidtest.com,,
 2020-04-14,act2020covid19testing.ws,64.70.19.203,US,North America
 2020-04-14,act2020covid19testing.ws,act2020covid19testing.ws,,
@@ -101,6 +16,8 @@
 2020-04-14,coronavirusserologytesting.ph,coronavirusserologytesting.ph,,
 2020-04-14,coronavirustestsuk.com,94.136.40.51,GB,Europe
 2020-04-14,coronavirustestsuk.com,coronavirustestsuk.com,,
+2020-04-14,coronavirustestsuk.com,ns.123-reg.co.uk,,
+2020-04-14,coronavirustestsuk.com,ns2.123-reg.co.uk,,
 2020-04-14,coronavirustestsuk.ws,64.70.19.203,US,North America
 2020-04-14,coronavirustestsuk.ws,coronavirustestsuk.ws,,
 2020-04-14,covid19antibodytest.com.au,103.67.235.120,AU,Oceania
@@ -228,6 +145,7 @@
 2020-04-14,covidsitestore.com,covidsitestore.com,,
 2020-04-14,covid-sneltest.com,141.138.169.201,NL,Europe
 2020-04-14,covid-sneltest.com,covid-sneltest.com,,
+2020-04-14,covid-sneltest.nl,141.138.169.201,NL,Europe
 2020-04-14,covid-sneltest.nl,covid-sneltest.nl,,
 2020-04-14,covidtestandhelp.com,50.63.202.47,US,North America
 2020-04-14,covidtestandhelp.com,50.63.202.55,US,North America
@@ -327,6 +245,7 @@
 2020-04-14,testcovid19fromhome.com,testcovid19fromhome.com,,
 2020-04-14,testkitcoronavirus.com.au,202.124.241.178,AU,Oceania
 2020-04-14,testkitcoronavirus.com.au,testkitcoronavirus.com.au,,
+2020-04-14,testrapidcovid19.com,testrapidcovid19.com,,
 2020-04-14,testyourcoronavirus.com,165.227.80.250,US,North America
 2020-04-14,testyourcoronavirus.com,dns1.nominalia.com,,
 2020-04-14,testyourcoronavirus.com,dns2.nominalia.com,,
