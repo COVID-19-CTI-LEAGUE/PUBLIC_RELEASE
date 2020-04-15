@@ -202,7 +202,9 @@
 2020-04-14,lacovidtest.org,184.168.221.41,US,North America
 2020-04-14,lacovidtest.org,lacovidtest.org,,
 2020-04-14,latestcovid19.com,148.105.251.17,US,North America
+2020-04-14,latestcovid19.com,JHY9c3BmMSBpbmNsdWRlOnNlcnZlcnMubWNzdi5uZXQgP2FsbA==,,
 2020-04-14,latestcovid19.com,latestcovid19.com,,
+2020-04-14,latestcovid19.com,$v=spf1 include:servers.mcsv.net ?all,,
 2020-04-14,latestcovid19.ph,45.79.222.138,US,North America
 2020-04-14,latestcovid19.ph,latestcovid19.ph,,
 2020-04-14,lillyccovid19testing.com,I3Y9c3BmMSBpcDY6ZmQxYjoyMTJjOmE1Zjk6Oi80OCAtYWxs,,
@@ -237,7 +239,11 @@
 2020-04-14,montestcovid19.fr,HnY9c3BmMSBpbmNsdWRlOm14Lm92aC5jb20gfmFsbA==,,
 2020-04-14,montestcovid19.fr,montestcovid19.fr,,
 2020-04-14,montestcovid19.fr,v=spf1 include:mx.ovh.com ~all,,
+2020-04-14,quicktest-covid19.com,194.9.94.85,SE,Europe
+2020-04-14,quicktest-covid19.com,194.9.94.86,SE,Europe
+2020-04-14,quicktest-covid19.com,ns1.loopia.se,,
 2020-04-14,quicktest-covid19.com,quicktest-covid19.com,,
+2020-04-14,quicktest-covid19.com,registry@loopia.se,,
 2020-04-14,rapidcovid19test.org,rapidcovid19test.org,,
 2020-04-14,rapidcovidtest.org,rapidcovidtest.org,,
 2020-04-14,rapide-test-sars-cov2.fr,rapide-test-sars-cov2.fr,,
@@ -284,6 +290,8 @@
 2020-04-14,xmysecure9-facebookcovid19petition.ga,138.68.241.104,US,North America
 2020-04-14,xmysecure9-facebookcovid19petition.ga,xmysecure9-facebookcovid19petition.ga,,
 2020-04-15,columbuscoronavirustests.com,columbuscoronavirustests.com,,
+2020-04-15,columbuscoronavirustests.com,ns33.domaincontrol.com,,
+2020-04-15,columbuscoronavirustests.com,ns34.domaincontrol.com,,
 2020-04-15,covid19testcentre.com,covid19testcentre.com,,
 2020-04-15,covid19-testnow.info,85.214.45.45,DE,Europe
 2020-04-15,covid19-testnow.info,covid19-testnow.info,,
