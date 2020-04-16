@@ -4,11 +4,11 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-15,atlantacovid-19test.com,ns65.domaincontrol.com,,
 2020-04-15,atlantacovid-19test.com,ns66.domaincontrol.com,,
+2020-04-15,autodiscover.sexcurecovid19.com,192.185.48.123,US,North America
 2020-04-15,cdphcovid19testing.org,cdphcovid19testing.org,,
 2020-04-15,coronavirusantibodiestestkit.ph,coronavirusantibodiestestkit.ph,,
 2020-04-15,coronavirusantibodiestestkits.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-04-15,coronavirusantibodiestestkits.fm,coronavirusantibodiestestkits.fm,,
-2020-04-15,coronavirusantibodiestestkits.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-04-15,coronavirusantibodiestestkits.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-04-15,coronavirusantibodiestestkits.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-04-15,coronavirussalivatesting.com,184.168.221.40,US,North America
@@ -38,7 +38,6 @@
 2020-04-15,covid19-kit-test.com,ns32.infomaniak.com,,
 2020-04-15,covid19re-entrytestkit.com.ph,covid19re-entrytestkit.com.ph,,
 2020-04-15,covid-19serologytest.com,184.168.221.54,US,North America
-2020-04-15,covid19testal.ws,mail.hope-mail.com,,
 2020-04-15,covid19testdocs.ph,covid19testdocs.ph,,
 2020-04-15,covid19testingindfw.com.ph,covid19testingindfw.com.ph,,
 2020-04-15,covid19testingkits.melbourne,covid19testingkits.melbourne,,
@@ -154,6 +153,7 @@
 2020-04-16,antibodyforcoronavirustest.com,antibodyforcoronavirustest.com,,
 2020-04-16,antibodyforcoronavirustest.com,ns69.domaincontrol.com,,
 2020-04-16,antibodyforcoronavirustest.com,ns70.domaincontrol.com,,
+2020-04-16,buycoronavirustestingkits.com,buycoronavirustestingkits.com,,
 2020-04-16,columbuscovid19test.com,columbuscovid19test.com,,
 2020-04-16,columbuscovid-19testing.com,50.63.202.50,US,North America
 2020-04-16,columbuscovid-19testing.com,columbuscovid-19testing.com,,
@@ -314,6 +314,7 @@
 2020-04-16,raceforcovidcure.com,50.63.202.37,US,North America
 2020-04-16,raceforcovidcure.com,50.63.202.43,US,North America
 2020-04-16,raceforcovidcure.com,raceforcovidcure.com,,
+2020-04-16,savannahcovidtesting.com,savannahcovidtesting.com,,
 2020-04-16,sicurezzacovid19.it,62.149.128.151,IT,Europe
 2020-04-16,sicurezzacovid19.it,62.149.128.154,IT,Europe
 2020-04-16,sicurezzacovid19.it,62.149.128.157,IT,Europe
