@@ -2,8 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-15,atlantacovid-19test.com,ns65.domaincontrol.com,,
-2020-04-15,atlantacovid-19test.com,ns66.domaincontrol.com,,
 2020-04-15,autodiscover.sexcurecovid19.com,192.185.48.123,US,North America
 2020-04-15,certifiedcovidtest.com,184.168.131.241,US,North America
 2020-04-15,coronavirussalivatesting.com,184.168.221.40,US,North America
@@ -231,6 +229,8 @@
 2020-04-16,covidtester.nu,covidtester.nu,,
 2020-04-16,covidtester.nu,ns1.metaregistrar.nl,,
 2020-04-16,covidtester.nu,ns2.metaregistrar.nl,,
+2020-04-16,covidtester.shop,188.93.150.44,NL,Europe
+2020-04-16,covidtester.shop,2a00:4e40:1:1::2:204,,
 2020-04-16,covidtester.shop,covidtester.shop,,
 2020-04-16,covidtester.shop,ns1.metaregistrar.nl,,
 2020-04-16,covidtester.shop,ns2.metaregistrar.nl,,
@@ -297,7 +297,6 @@
 2020-04-16,onlinetestcovid19.net,184.168.221.40,US,North America
 2020-04-16,onlinetestcovid19.net,onlinetestcovid19.net,,
 2020-04-16,onlinetestcovid19.org,50.63.202.56,US,North America
-2020-04-16,onlinetestcovid19.org,onlinetestcovid19.org,,
 2020-04-16,onlinetestcovid19.store,onlinetestcovid19.store,,
 2020-04-16,onsitecovid19testing.com,50.63.202.48,US,North America
 2020-04-16,onsitecovid19testing.com,onsitecovid19testing.com,,
@@ -336,6 +335,7 @@
 2020-04-16,testforcovidantibody.com,2607:f1c0:100f:f000::27f,,
 2020-04-16,testforcovidantibody.com,74.208.236.65,US,North America
 2020-04-16,testforcovidantibody.com,testforcovidantibody.com,,
+2020-04-16,testforcovid.co.uk,50.63.202.63,US,North America
 2020-04-16,testforcovid.co.uk,testforcovid.co.uk,,
 2020-04-16,testing4covid19.ph,testing4covid19.ph,,
 2020-04-16,testing4covid19.ws,mail.hope-mail.com,,
