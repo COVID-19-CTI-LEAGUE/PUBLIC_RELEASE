@@ -2,8 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-15,act2020covid19testing.com,64.98.145.30,CA,North America
-2020-04-15,act2020covid19testing.com,act2020covid19testing.com,,
 2020-04-15,atlantacovid-19test.com,ns65.domaincontrol.com,,
 2020-04-15,atlantacovid-19test.com,ns66.domaincontrol.com,,
 2020-04-15,cdphcovid19testing.org,cdphcovid19testing.org,,
@@ -100,7 +98,6 @@
 2020-04-15,onlinecovid-19testing.ws,onlinecovid-19testing.ws,,
 2020-04-15,raceforthecovidcure.com,50.63.202.34,US,North America
 2020-04-15,raceforthecovidcure.com,raceforthecovidcure.com,,
-2020-04-15,sanfranciscocovid-19testing.com,sanfranciscocovid-19testing.com,,
 2020-04-15,securecovid19.net,ns1.register.it,,
 2020-04-15,securecovid19.net,ns2.register.it,,
 2020-04-15,securecovid19.net,securecovid19.net,,
@@ -245,6 +242,7 @@
 2020-04-16,covid19testingmn.com,covid19testingmn.com,,
 2020-04-16,covid-19testingsites.org,208.91.197.27,US,North America
 2020-04-16,covid-19testingsites.org,covid-19testingsites.org,,
+2020-04-16,covid19testms.com,50.63.202.55,US,North America
 2020-04-16,covid19testms.com,50.63.202.56,US,North America
 2020-04-16,covid19testms.com,covid19testms.com,,
 2020-04-16,covid19-testnow.de,covid19-testnow.de,,
@@ -260,6 +258,7 @@
 2020-04-16,covid19worktesting.com,covid19worktesting.com,,
 2020-04-16,covid19worktesting.com,ns53.domaincontrol.com,,
 2020-04-16,covid19worktesting.com,ns54.domaincontrol.com,,
+2020-04-16,covidantibodytestkits.com,184.168.221.61,US,North America
 2020-04-16,covidantibodytestkits.com,covidantibodytestkits.com,,
 2020-04-16,covidbordertest.com,184.168.131.241,US,North America
 2020-04-16,covidbordertest.com,covidbordertest.com,,
@@ -328,6 +327,7 @@
 2020-04-16,test-covid19.shop,test-covid19.shop,,
 2020-04-16,testforcoronavirusantibody.com,50.63.202.36,US,North America
 2020-04-16,testforcoronavirusantibody.com,testforcoronavirusantibody.com,,
+2020-04-16,testforcovidantibody.com,74.208.236.65,US,North America
 2020-04-16,testforcovidantibody.com,testforcovidantibody.com,,
 2020-04-16,testing4covid19.com,216.239.32.21,US,North America
 2020-04-16,testing4covid19.com,216.239.34.21,US,North America
