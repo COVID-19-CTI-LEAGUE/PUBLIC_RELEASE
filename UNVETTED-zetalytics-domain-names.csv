@@ -29,7 +29,6 @@
 2020-04-15,covid-19serologytest.com,184.168.221.54,US,North America
 2020-04-15,covid-19testingmaps.com,208.91.197.27,US,North America
 2020-04-15,covid-19testingmaps.com,covid-19testingmaps.com,,
-2020-04-15,covid19testkitusa.llp,covid19testkitusa.llp,,
 2020-04-15,covid-19-testnow.com,hostmaster@strato-rz.de,,
 2020-04-15,covid-19-testnow.com,ns3.stratoserver.net,,
 2020-04-15,covid19testshop.eu,covid19testshop.eu,,
@@ -52,6 +51,7 @@
 2020-04-15,curecovid.ca,158.85.87.76,CA,North America
 2020-04-15,curecovid.ca,curecovid.ca,,
 2020-04-15,curedofcovid.org,curedofcovid.org,,
+2020-04-15,_dmarc.covid-19-testnow.com,covid-19-testnow.com,,
 2020-04-15,gocovidtest.org,hostmaster@1und1.com,,
 2020-04-15,gocovidtest.org,ns1099.ui-dns.org,,
 2020-04-15,kitsicurezzacovid.com,163.172.146.44,FR,Europe
@@ -62,6 +62,10 @@
 2020-04-15,raceforthecovidcure.com,50.63.202.34,US,North America
 2020-04-15,raceforthecovidcure.com,50.63.202.48,US,North America
 2020-04-15,raceforthecovidcure.com,raceforthecovidcure.com,,
+2020-04-15,ricovid19testing.com,216.239.32.21,US,North America
+2020-04-15,ricovid19testing.com,216.239.34.21,US,North America
+2020-04-15,ricovid19testing.com,216.239.36.21,US,North America
+2020-04-15,ricovid19testing.com,216.239.38.21,US,North America
 2020-04-15,securecovid19.net,195.110.124.133,IT,Europe
 2020-04-15,securecovid19.net,ns1.register.it,,
 2020-04-15,securecovid19.net,ns2.register.it,,
@@ -85,9 +89,7 @@
 2020-04-15,sexcurecovid19.com,+v=spf1 a mx include:websitewelcome.com ~all,,
 2020-04-15,testnow-covid19.com,ns3.stratoserver.net,,
 2020-04-15,testnow-covid19.com,ns4.stratoserver.net,,
-2020-04-15,usacovidtests.com,184.168.221.45,US,North America
 2020-04-15,usacovidtests.com,50.63.202.62,US,North America
-2020-04-15,usacovidtests.com,usacovidtests.com,,
 2020-04-15,uscovidtest.info,184.168.221.41,US,North America
 2020-04-15,virtualcovid19test.com,104.27.158.104,US,North America
 2020-04-15,virtualcovid19test.com,104.27.159.104,US,North America
@@ -106,9 +108,7 @@
 2020-04-15,www.covid-19cured.com,covid-19cured.com,,
 2020-04-15,www.covid-19serologytest.com,184.168.221.63,US,North America
 2020-04-15,www.covid-19serologytest.com,covid-19serologytest.com,,
-2020-04-15,www.covid19testingkits.melbourne,103.42.108.46,AU,Oceania
 2020-04-15,www.covid-19testingmaps.com,208.91.197.27,US,North America
-2020-04-15,www.covid19testkitusa.llp,127.0.53.53,,
 2020-04-15,www.covidoraltest.com,184.168.221.48,US,North America
 2020-04-15,www.covidoraltest.com,covidoraltest.com,,
 2020-04-15,www.ricovid19testing.com,2607:f8b0:4005:808::2013,,
