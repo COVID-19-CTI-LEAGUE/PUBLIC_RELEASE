@@ -4,8 +4,6 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-16,antibodycovid19simpletest.com.ph,45.79.222.138,US,North America
 2020-04-16,antibodycovid19simpletest.com.ph,antibodycovid19simpletest.com.ph,,
-2020-04-16,antibodyforcoronavirustest.com,antibodyforcoronavirustest.com,,
-2020-04-16,antibodyforcoronavirustest.com,ns69.domaincontrol.com,,
 2020-04-16,antibodyforcoronavirustest.com,ns70.domaincontrol.com,,
 2020-04-16,buycoronavirustestingkits.com,buycoronavirustestingkits.com,,
 2020-04-16,cacovid-19test.com.ph,45.79.222.138,US,North America
@@ -91,11 +89,10 @@
 2020-04-16,covidtest.nu,ns2.metaregistrar.nl,,
 2020-04-16,covid-test.pl,213.186.33.5,FR,Europe
 2020-04-16,covid-test.pl,covid-test.pl,,
-2020-04-16,covidtests.care,50.63.202.45,US,North America
 2020-04-16,covidtesttraining.com,184.168.221.34,US,North America
-2020-04-16,covidtracetest.com,184.168.131.241,US,North America
-2020-04-16,covidworktest.com,184.168.131.241,US,North America
-2020-04-16,covidworktest.com,covidworktest.com,,
+2020-04-16,covidzelftest.nl,ns0.transip.net,,
+2020-04-16,covidzelftest.nl,ns1.transip.nl,,
+2020-04-16,covidzelftest.nl,ns2.transip.eu,,
 2020-04-16,driveupcovidtesting.com,160.153.136.3,US,North America
 2020-04-16,driveupcovidtesting.com,driveupcovidtesting.com,,
 2020-04-16,employeecovid19test.com,184.168.131.241,US,North America
@@ -209,6 +206,7 @@
 2020-04-17,coronavirustestcentersusa.com,coronavirustestcentersusa.com,,
 2020-04-17,coronavirustestcentersusa.com,ns19.domaincontrol.com,,
 2020-04-17,coronavirustestcentersusa.com,ns20.domaincontrol.com,,
+2020-04-17,coronavirustestingnear.me,184.168.221.61,US,North America
 2020-04-17,coronavirustestingnear.me,coronavirustestingnear.me,,
 2020-04-17,coronavirustestingonline.com,coronavirustestingonline.com,,
 2020-04-17,coronavirustestuk.co.uk,coronavirustestuk.co.uk,,
@@ -265,6 +263,7 @@
 2020-04-17,kccovid19testing.com,198.49.23.144,US,North America
 2020-04-17,kccovid19testing.com,198.49.23.145,US,North America
 2020-04-17,kccovid19testing.com,kccovid19testing.com,,
+2020-04-17,lasvegascovidtest.com,lasvegascovidtest.com,,
 2020-04-17,mail.covid19test.icu,207.180.229.136,DE,Europe
 2020-04-17,mail.covid19test.icu,covid19test.icu,,
 2020-04-17,mail.covid19testrapid.ro,89.42.218.141,RO,Europe
@@ -298,8 +297,10 @@
 2020-04-17,testi-na-coronavirus.ru,217.172.24.13,RU,Europe
 2020-04-17,testi-na-coronavirus.ru,testi-na-coronavirus.ru,,
 2020-04-17,testsforcovid.com,testsforcovid.com,,
+2020-04-17,uktestcovid19.com,50.63.202.61,US,North America
 2020-04-17,uktestcovid19.com,uktestcovid19.com,,
 2020-04-17,usacovidtests.us,usacovidtests.us,,
+2020-04-17,uscovidcures.com,50.63.202.38,US,North America
 2020-04-17,uscovidcures.com,uscovidcures.com,,
 2020-04-17,vance.covidtestinginfo.com,66.96.162.133,US,North America
 2020-04-17,www.antibodytestforcovid19.com,50.63.202.59,US,North America
