@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-04-16,columbuscovid19test.com,184.168.221.44,US,North America
 2020-04-16,companycovid19test.com,(a913928c423237072c7e4b06fc6b8b94d63d1ed6,,
 2020-04-16,companycovid19test.com,KGE5MTM5MjhjNDIzMjM3MDcyYzdlNGIwNmZjNmI4Yjk0ZDYzZDFlZDY=,,
 2020-04-16,coronavirusantibodiestestkits.com,184.168.221.58,US,North America
@@ -70,6 +71,7 @@
 2020-04-17,antibodycovid19simpletest.com,antibodycovid19simpletest.com,,
 2020-04-17,antibodycovid19simpletest.com,ns03.domaincontrol.com,,
 2020-04-17,antibodycovid19simpletest.com,ns04.domaincontrol.com,,
+2020-04-17,athomecovid19test.org,athomecovid19test.org,,
 2020-04-17,athometestkitcovid.com,184.168.221.53,US,North America
 2020-04-17,athometestkitcovid.com,athometestkitcovid.com,,
 2020-04-17,athometestkitcovid.info,athometestkitcovid.info,,
@@ -79,7 +81,6 @@
 2020-04-17,atlantacovid19tests.com,atlantacovid19tests.com,,
 2020-04-17,attestationcovid.fr,213.186.33.5,FR,Europe
 2020-04-17,attestationcovid.fr,attestationcovid.fr,,
-2020-04-17,autotestcovid19.es,autotestcovid19.es,,
 2020-04-17,azcovidtesting.com,50.63.202.57,US,North America
 2020-04-17,azcovidtesting.com,azcovidtesting.com,,
 2020-04-17,bloodtestcovid19.net,bloodtestcovid19.net,,
@@ -119,7 +120,6 @@
 2020-04-17,covid19completetest.com,covid19completetest.com,,
 2020-04-17,covid19employeetest.com,184.168.131.241,US,North America
 2020-04-17,covid19employeetest.com,covid19employeetest.com,,
-2020-04-17,covid19-intestino.it,ns1.register.it,,
 2020-04-17,covid19-intestino.it,ns2.register.it,,
 2020-04-17,covid19personaltest.com,covid19personaltest.com,,
 2020-04-17,covid19personaltestkit.ws,covid19personaltestkit.ws,,
@@ -185,10 +185,12 @@
 2020-04-17,covidtest.eu,covidtest.eu,,
 2020-04-17,covidtesteurex.cz,178.238.47.34,CZ,Europe
 2020-04-17,covidtesteurex.cz,covidtesteurex.cz,,
+2020-04-17,covidtesteurex.cz,LHY9c3BmMSBhIG14IGluY2x1ZGU6c3BmdXNlci53ZWJub2RlLmNvbSAtYWxs,,
 2020-04-17,covidtesteurex.cz,mta-01.webnode.com,,
 2020-04-17,covidtesteurex.cz,ns-3mhd5n3mfd.dnswnd.be,,
 2020-04-17,covidtesteurex.cz,ns-9yjzbv9yed.dnswnd.de,,
 2020-04-17,covidtesteurex.cz,ns-9yrpbf9ygd.dnswnd.eu,,
+2020-04-17,covidtesteurex.cz,,v=spf1 a mx include:spfuser.webnode.com -all,,
 2020-04-17,covidtestinginfo.com,covidtestinginfo.com,,
 2020-04-17,covidtestinglasvegas.com,184.168.221.56,US,North America
 2020-04-17,covidtestinglasvegas.com,184.168.221.61,US,North America
@@ -304,12 +306,11 @@
 2020-04-17,testcovidpavia.it,testcovidpavia.it,,
 2020-04-17,testeparacovid.com,50.116.112.123,US,North America
 2020-04-17,testeparacovid.com,testeparacovid.com,,
-2020-04-17,testi-na-coronavirus.ru,217.172.24.13,RU,Europe
-2020-04-17,testi-na-coronavirus.ru,testi-na-coronavirus.ru,,
 2020-04-17,uktestcovid19.com,50.63.202.61,US,North America
 2020-04-17,uktestcovid19.com,uktestcovid19.com,,
 2020-04-17,usacovidtests.us,usacovidtests.us,,
 2020-04-17,uscovidcures.com,50.63.202.38,US,North America
+2020-04-17,uscovidcures.com,50.63.202.56,US,North America
 2020-04-17,uscovidcures.com,uscovidcures.com,,
 2020-04-17,uscovidtests.info,uscovidtests.info,,
 2020-04-17,utahcoronavirustest.com,104.196.237.226,US,North America
@@ -322,6 +323,7 @@
 2020-04-17,vance.covidtestinginfo.com,66.96.162.133,US,North America
 2020-04-17,vegascovidtesting.com,50.63.202.43,US,North America
 2020-04-17,vegascovidtesting.com,vegascovidtesting.com,,
+2020-04-17,wecurecovid-19.com,184.168.221.61,US,North America
 2020-04-17,wecurecovid-19.com,wecurecovid-19.com,,
 2020-04-17,www.2dcovid19test.com,2dcovid19test.com,,
 2020-04-17,www.2dcovid19test.com,50.63.202.32,US,North America
