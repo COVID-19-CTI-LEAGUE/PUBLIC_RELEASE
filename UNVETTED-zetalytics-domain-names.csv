@@ -38,6 +38,7 @@
 2020-04-16,mycovid-19hometest.com,mail.h-email.net,,
 2020-04-16,mycovid-19hometest.com,ns1.panamans.com,,
 2020-04-16,mycovid-19hometest.com,ns2.panamans.com,,
+2020-04-16,mycovidhonetest.com,81.17.18.194,CH,Europe
 2020-04-16,mycovidhonetest.com,I3Y9c3BmMSBpcDY6ZmQ5YzpkMDMwOjE2OGM6Oi80OCAtYWxs,,
 2020-04-16,mycovidhonetest.com,#v=spf1 ip6:fd9c:d030:168c::/48 -all,,
 2020-04-16,raceforcovidcure.com,184.168.221.33,US,North America
@@ -100,6 +101,9 @@
 2020-04-17,coronavirustestcentersusa.com,ns20.domaincontrol.com,,
 2020-04-17,coronavirustestinghawaii.com,173.236.156.75,US,North America
 2020-04-17,coronavirustestinghawaii.com,coronavirustestinghawaii.com,,
+2020-04-17,coronavirustestinghawaii.com,ns1.dreamhost.com,,
+2020-04-17,coronavirustestinghawaii.com,ns2.dreamhost.com,,
+2020-04-17,coronavirustestinghawaii.com,ns3.dreamhost.com,,
 2020-04-17,coronavirustestinghawaii.com.ph,45.79.222.138,US,North America
 2020-04-17,coronavirustestinghawaii.com.ph,coronavirustestinghawaii.com.ph,,
 2020-04-17,coronavirustestinghawaii.ph,coronavirustestinghawaii.ph,,
@@ -141,14 +145,7 @@
 2020-04-17,covid19-tester.nl,covid19-tester.nl,,
 2020-04-17,covid19-tester.nl,ns1.metaregistrar.nl,,
 2020-04-17,covid19-tester.nl,ns2.metaregistrar.nl,,
-2020-04-17,covid-19testingclinics.ws,64.70.19.203,US,North America
-2020-04-17,covid-19testingclinics.ws,covid-19testingclinics.ws,,
 2020-04-17,covid19testingresources.com.ph,covid19testingresources.com.ph,,
-2020-04-17,covid-19-test-kit.co.uk,covid-19-test-kit.co.uk,,
-2020-04-17,covid-19-test-kit.co.uk,ns-1506.awsdns-60.org,,
-2020-04-17,covid-19-test-kit.co.uk,ns-1587.awsdns-06.co.uk,,
-2020-04-17,covid-19-test-kit.co.uk,ns-357.awsdns-44.com,,
-2020-04-17,covid-19-test-kit.co.uk,ns-787.awsdns-34.net,,
 2020-04-17,covid-19-test-kit.info,covid-19-test-kit.info,,
 2020-04-17,covid19testkit.llp,covid19testkit.llp,,
 2020-04-17,covid19testnews.ph,covid19testnews.ph,,
@@ -167,6 +164,8 @@
 2020-04-17,covid19-test.store,covid19-test.store,,
 2020-04-17,covid19testwristband.ws,64.70.19.203,US,North America
 2020-04-17,covid19testwristband.ws,covid19testwristband.ws,,
+2020-04-17,covid19thuistest.nl,covid19thuistest.nl,,
+2020-04-17,covid19thuistest.nl,mail.covid19thuistest.nl,,
 2020-04-17,covid19tracingtest.com,184.168.131.241,US,North America
 2020-04-17,covid19worldcure.com,209.15.37.6,CA,North America
 2020-04-17,covid19worldcure.com,covid19worldcure.com,,
@@ -189,8 +188,6 @@
 2020-04-17,covidtestcoalition.com,covidtestcoalition.com,,
 2020-04-17,covidtestdirect.com,50.63.202.48,US,North America
 2020-04-17,covidtestdirect.com,covidtestdirect.com,,
-2020-04-17,covidtested.co,50.63.202.55,US,North America
-2020-04-17,covidtested.co,covidtested.co,,
 2020-04-17,covidtesteurex.cz,178.238.47.34,CZ,Europe
 2020-04-17,covidtesteurex.cz,covidtesteurex.cz,,
 2020-04-17,covidtesteurex.cz,LHY9c3BmMSBhIG14IGluY2x1ZGU6c3BmdXNlci53ZWJub2RlLmNvbSAtYWxs,,
@@ -199,7 +196,7 @@
 2020-04-17,covidtesteurex.cz,ns-9yjzbv9yed.dnswnd.de,,
 2020-04-17,covidtesteurex.cz,ns-9yrpbf9ygd.dnswnd.eu,,
 2020-04-17,covidtesteurex.cz,,v=spf1 a mx include:spfuser.webnode.com -all,,
-2020-04-17,covidtestinginfo.com,covidtestinginfo.com,,
+2020-04-17,covidtestinghawaii.com,covidtestinghawaii.com,,
 2020-04-17,covidtestinglasvegas.com,184.168.221.56,US,North America
 2020-04-17,covidtestinglasvegas.com,184.168.221.61,US,North America
 2020-04-17,covidtestinglasvegas.com,50.63.202.37,US,North America
@@ -258,6 +255,7 @@
 2020-04-17,getcovidtesttoday.com,50.63.202.40,US,North America
 2020-04-17,getcovidtesttoday.com,getcovidtesttoday.com,,
 2020-04-17,homecovidtest.online,homecovidtest.online,,
+2020-04-17,hometestkitscoronavirus.llp,hometestkitscoronavirus.llp,,
 2020-04-17,hostmaster.coronavirusselftestingkit.com,94.136.40.51,GB,Europe
 2020-04-17,lacovidtesting.com,184.168.221.47,US,North America
 2020-04-17,lacovidtesting.com,lacovidtesting.com,,
@@ -266,19 +264,21 @@
 2020-04-17,lasvegascovidtest.com,lasvegascovidtest.com,,
 2020-04-17,lasvegascovidtest.com,ns03.domaincontrol.com,,
 2020-04-17,lasvegascovidtest.com,ns04.domaincontrol.com,,
-2020-04-17,mail.covid19test.icu,207.180.229.136,DE,Europe
-2020-04-17,mail.covid19test.icu,covid19test.icu,,
 2020-04-17,mail.covid19testrapid.ro,89.42.218.141,RO,Europe
 2020-04-17,mail.covid19testrapid.ro,covid19testrapid.ro,,
-2020-04-17,miamicoronavirustests.com,184.168.221.54,US,North America
-2020-04-17,miamicoronavirustests.com,miamicoronavirustests.com,,
 2020-04-17,mitestcovid19.com,217.70.184.38,FR,Europe
 2020-04-17,mitestcovid19.com,mitestcovid19.com,,
 2020-04-17,mncovid19testing.com,mncovid19testing.com,,
+2020-04-17,montestcoronavirus.com,fb.mail.gandi.net,,
+2020-04-17,montestcoronavirus.com,montestcoronavirus.com,,
+2020-04-17,montestcoronavirus.com,spool.mail.gandi.net,,
 2020-04-17,mycovidrapidtest.com,mycovidrapidtest.com,,
 2020-04-17,mytestcovid-19.fr,mytestcovid-19.fr,,
 2020-04-17,mytestforcoronavirus.com,217.70.184.38,FR,Europe
 2020-04-17,mytestforcoronavirus.com,mytestforcoronavirus.com,,
+2020-04-17,mytestforcoronavirus.com,ns-222-b.gandi.net,,
+2020-04-17,mytestforcoronavirus.com,ns-42-c.gandi.net,,
+2020-04-17,mytestforcoronavirus.com,ns-85-a.gandi.net,,
 2020-04-17,mytexascovidtest.com,50.63.202.36,US,North America
 2020-04-17,mytexascovidtest.com,mytexascovidtest.com,,
 2020-04-17,naturalcovidcure.com,13.239.119.154,AU,Oceania
@@ -291,9 +291,9 @@
 2020-04-17,quest4covidcures.com,quest4covidcures.com,,
 2020-04-17,questforcovidcures.com,184.168.221.32,US,North America
 2020-04-17,questforcovidcures.com,questforcovidcures.com,,
-2020-04-17,rapidcovidtestinglocations.com,184.168.221.44,US,North America
-2020-04-17,rapidcovidtestinglocations.com,184.168.221.46,US,North America
 2020-04-17,realcovidtests.com,realcovidtests.com,,
+2020-04-17,sacovidtest.com,202.124.241.178,AU,Oceania
+2020-04-17,sacovidtest.com,sacovidtest.com,,
 2020-04-17,sanfranciscocovid19test.com,50.63.202.52,US,North America
 2020-04-17,sanfranciscocovid19test.com,sanfranciscocovid19test.com,,
 2020-04-17,sexcurecovid19.com.ph,sexcurecovid19.com.ph,,
@@ -309,7 +309,6 @@
 2020-04-17,test-covid.net,test-covid.net,,
 2020-04-17,testcovidpavia.it,81.31.147.110,IT,Europe
 2020-04-17,testcovidpavia.it,testcovidpavia.it,,
-2020-04-17,testeparacovid.com,testeparacovid.com,,
 2020-04-17,uktestcovid19.com,50.63.202.61,US,North America
 2020-04-17,uktestcovid19.com,uktestcovid19.com,,
 2020-04-17,uscovidcures.com,184.168.221.60,US,North America
@@ -343,8 +342,10 @@
 2020-04-17,www.covidserologicaltest.com,162.249.125.79,US,North America
 2020-04-17,www.covidserologicaltest.com,covidserologicaltest.com,,
 2020-04-17,www.covidtesteurex.cz,web-1051.webnode.com,,
+2020-04-17,www.hometestkitscoronavirus.llp,127.0.53.53,,
 2020-04-17,www.realcovidtests.com,50.63.202.63,US,North America
 2020-04-17,www.realcovidtests.com,realcovidtests.com,,
+2020-04-17,www.sacovidtest.com,202.124.241.178,AU,Oceania
 2020-04-17,www.sicurezza-covid.it,35.214.255.244,US,North America
 2020-04-17,www.sicurezza-covid.it,62.149.128.40,IT,Europe
 2020-04-17,www.test-covid.net,91.195.240.94,DE,Europe
