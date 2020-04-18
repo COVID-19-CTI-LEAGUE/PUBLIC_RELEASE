@@ -3,15 +3,14 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-17,2dcovid19test.com,184.168.221.49,US,North America
-2020-04-17,athomecovid19test.org,athomecovid19test.org,,
 2020-04-17,athometestkitcovid.org,184.168.221.38,US,North America
 2020-04-17,coronaviruscure.best,coronaviruscure.best,,
+2020-04-17,coronavirustestcentersusa.com,184.168.221.52,US,North America
 2020-04-17,coronavirustestinghawaii.com,ns1.dreamhost.com,,
 2020-04-17,coronavirustestinghawaii.com,ns2.dreamhost.com,,
 2020-04-17,coronavirustestinghawaii.com,ns3.dreamhost.com,,
 2020-04-17,coronavirustestinghawaii.ph,45.79.222.138,US,North America
 2020-04-17,coronavirustestingonline.com,174.127.112.40,US,North America
-2020-04-17,coronavirustestlakehavasu.com,50.63.202.46,US,North America
 2020-04-17,covid-19antibodytestsites.com,208.91.197.27,US,North America
 2020-04-17,covid19onlinetests.com,91.195.240.126,DE,Europe
 2020-04-17,covid19onlinetests.com,covid19onlinetests.com,,
@@ -22,9 +21,7 @@
 2020-04-17,covid19-test.com.pl,ns2.aftermarket.pl,,
 2020-04-17,covid19testkit.llp,covid19testkit.llp,,
 2020-04-17,covid19testnews.ph,45.79.222.138,US,North America
-2020-04-17,covid19testrapid.ro,ns1.romarg.com,,
 2020-04-17,covid19testrapid.ro,ns2.romarg.com,,
-2020-04-17,covid19testrapid.ro,ns3.romarg.com,,
 2020-04-17,covid19testrapid.ro,ns4.romarg.com,,
 2020-04-17,covid19testrapid.ro,�v=spf1 a:01.spf.whmpanels.com/24 a:02.spf.whmpanels.com/24 a:03.spf.whmpanels.com/24 a:04.spf.whmpanels.com/24 a:05.spf.whmpanels.com/24 a:06.spf.whmpanels.com/24 a:07.spf.whmpanels.com/24 -all,,
 2020-04-17,covid19testrapid.ro,wXY9c3BmMSBhOjAxLnNwZi53aG1wYW5lbHMuY29tLzI0IGE6MDIuc3BmLndobXBhbmVscy5jb20vMjQgYTowMy5zcGYud2htcGFuZWxzLmNvbS8yNCBhOjA0LnNwZi53aG1wYW5lbHMuY29tLzI0IGE6MDUuc3BmLndobXBhbmVscy5jb20vMjQgYTowNi5zcGYud2htcGFuZWxzLmNvbS8yNCBhOjA3LnNwZi53aG1wYW5lbHMuY29tLzI0IC1hbGw=,,
@@ -48,7 +45,6 @@
 2020-04-17,covidserologicaltest.com,covidserologicaltest.com,,
 2020-04-17,covidtestband.com,91.195.240.94,DE,Europe
 2020-04-17,covidtestband.com,covidtestband.com,,
-2020-04-17,covidtesteurex.cz,,v=spf1 a mx include:spfuser.webnode.com -all,,
 2020-04-17,covidtestinghawaii.com,173.236.156.75,US,North America
 2020-04-17,covidtestinghawaii.com,covidtestinghawaii.com,,
 2020-04-17,covidtestingpanhandle.com,184.168.221.62,US,North America
@@ -134,7 +130,6 @@
 2020-04-17,testcoronavirusadomicile.com,217.70.184.38,FR,Europe
 2020-04-17,testcoronavirusadomicile.com,hostmaster@gandi.net,,
 2020-04-17,testcoronavirusadomicile.com,ns1.gandi.net,,
-2020-04-17,testcoronavirusadomicile.com,testcoronavirusadomicile.com,,
 2020-04-17,testcoronavirusadomicilio.com,217.70.184.38,FR,Europe
 2020-04-17,testcoronavirusadomicilio.com,ns-199-b.gandi.net,,
 2020-04-17,testcoronavirusadomicilio.com,ns-219-a.gandi.net,,
@@ -153,6 +148,7 @@
 2020-04-17,wecurecovid-19.com,184.168.221.61,US,North America
 2020-04-17,wecurecovid-19.com,50.63.202.34,US,North America
 2020-04-17,wecurecovid-19.com,wecurecovid-19.com,,
+2020-04-17,www.coronavirustestlakehavasu.com,funnels.msgsndr.com,,
 2020-04-17,www.covid19-intestino.it,covid19-intestino.it,,
 2020-04-17,www.covidserologicaltest.com,162.249.125.79,US,North America
 2020-04-17,www.covidserologicaltest.com,covidserologicaltest.com,,
@@ -205,6 +201,8 @@
 2020-04-18,covid19quickresponsetest.com,covid19quickresponsetest.com,,
 2020-04-18,covid-19testingkit.co,184.168.131.241,US,North America
 2020-04-18,covid-19testingkit.co,covid-19testingkit.co,,
+2020-04-18,covid19testnews.com,184.168.221.40,US,North America
+2020-04-18,covid19testnews.com,covid19testnews.com,,
 2020-04-18,covid19testnowdfw.com,184.168.221.45,US,North America
 2020-04-18,covid19testnowdfw.com,covid19testnowdfw.com,,
 2020-04-18,covid19testproviders.com,216.40.47.17,CA,North America
@@ -214,6 +212,8 @@
 2020-04-18,covid19testrapid.com,covid19testrapid.com,,
 2020-04-18,covid19testrapido.com,covid19testrapido.com,,
 2020-04-18,covid-19test.ro,covid-19test.ro,,
+2020-04-18,covid19tests.info,184.168.131.241,US,North America
+2020-04-18,covid19tests.info,covid19tests.info,,
 2020-04-18,covid-19-tests.nl,188.93.150.38,NL,Europe
 2020-04-18,covid-19-tests.nl,2a00:4e40:1:1::2:206,,
 2020-04-18,covid-19-tests.nl,covid-19-tests.nl,,
