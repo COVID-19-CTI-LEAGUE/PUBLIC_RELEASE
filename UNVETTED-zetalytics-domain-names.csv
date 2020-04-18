@@ -3,9 +3,7 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-17,2dcovid19test.com,2dcovid19test.com,,
-2020-04-17,antibodycovid19simpletest.com,184.168.221.33,US,North America
 2020-04-17,antibodycovid19simpletest.com,50.63.202.33,US,North America
-2020-04-17,antibodycovid19simpletest.com,antibodycovid19simpletest.com,,
 2020-04-17,antibodycovid19simpletest.com,ns03.domaincontrol.com,,
 2020-04-17,antibodycovid19simpletest.com,ns04.domaincontrol.com,,
 2020-04-17,athomecovid19test.org,athomecovid19test.org,,
@@ -28,9 +26,6 @@
 2020-04-17,companycovidtest.com,companycovidtest.com,,
 2020-04-17,coronaviruscure.best,coronaviruscure.best,,
 2020-04-17,coronavirusselftestingkit.com,coronavirusselftestingkit.com,,
-2020-04-17,coronavirustestcentersusa.com,coronavirustestcentersusa.com,,
-2020-04-17,coronavirustestcentersusa.com,ns19.domaincontrol.com,,
-2020-04-17,coronavirustestcentersusa.com,ns20.domaincontrol.com,,
 2020-04-17,coronavirustestinghawaii.com,173.236.156.75,US,North America
 2020-04-17,coronavirustestinghawaii.com,coronavirustestinghawaii.com,,
 2020-04-17,coronavirustestinghawaii.com,ns1.dreamhost.com,,
@@ -84,7 +79,6 @@
 2020-04-17,covid19testnigeria.ws,covid19testnigeria.ws,,
 2020-04-17,covid-19-testnow.co,covid-19-testnow.co,,
 2020-04-17,covid19-testnow.co,covid19-testnow.co,,
-2020-04-17,covid19testrapid.ro,89.42.218.141,RO,Europe
 2020-04-17,covid19testrapid.ro,ns1.romarg.com,,
 2020-04-17,covid19testrapid.ro,ns2.romarg.com,,
 2020-04-17,covid19testrapid.ro,ns3.romarg.com,,
@@ -156,6 +150,7 @@
 2020-04-17,covidwuhan-cure.com,covidwuhan-cure.com,,
 2020-04-17,covidwuhancure.com,covidwuhancure.com,,
 2020-04-17,cpanel.coronavirustestingonline.com,174.127.112.40,US,North America
+2020-04-17,cpcalendars.covidserologicaltest.com,162.249.125.79,US,North America
 2020-04-17,cpcontacts.coronavirustestingonline.com,174.127.112.40,US,North America
 2020-04-17,curecovids.com,184.168.221.46,US,North America
 2020-04-17,curecovids.com,curecovids.com,,
@@ -274,8 +269,10 @@
 2020-04-17,vegascovidtesting.com,50.63.202.43,US,North America
 2020-04-17,vegascovidtesting.com,vegascovidtesting.com,,
 2020-04-17,webmail.deliveredcoronavirustest.com,webmail.gandi.net,,
+2020-04-17,webmail.mytestforcovid19.com,webmail.gandi.net,,
 2020-04-17,webmail.sacovidtest.com,202.124.241.208,AU,Oceania
 2020-04-17,webmail.sacovidtest.com,webmail.netregistry.net,,
+2020-04-17,webmail.testcoronavirusadomicile.com,webmail.gandi.net,,
 2020-04-17,wecurecovid-19.com,184.168.221.61,US,North America
 2020-04-17,wecurecovid-19.com,wecurecovid-19.com,,
 2020-04-17,www.2dcovid19test.com,2dcovid19test.com,,
@@ -287,7 +284,6 @@
 2020-04-17,www.covid19-testnow.co,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,,
 2020-04-17,www.covid-19-testnow.co,covid-19-testnow.co,,
 2020-04-17,www.covid19-testnow.co,covid19-testnow.co,,
-2020-04-17,www.covid19testrapid.ro,covid19testrapid.ro,,
 2020-04-17,www.covidserologicaltest.com,162.249.125.79,US,North America
 2020-04-17,www.covidserologicaltest.com,covidserologicaltest.com,,
 2020-04-17,www.covidtesteurex.cz,web-1051.webnode.com,,
@@ -325,9 +321,14 @@
 2020-04-18,e3covidtest.com,e3covidtest.com,,
 2020-04-18,ftp.sicurezza-covid.com,62.149.128.40,IT,Europe
 2020-04-18,ftp.sicurezza-covid.com,www.sicurezza-covid.com,,
+2020-04-18,montestcovid19.com,217.70.184.38,FR,Europe
+2020-04-18,montestcovid19.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-04-18,montestcovid19.com,montestcovid19.com,,
+2020-04-18,montestcovid19.com,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-04-18,ohiocovid19test.com,184.168.221.34,US,North America
 2020-04-18,ohiocovid19test.com,ohiocovid19test.com,,
+2020-04-18,safecovidtesting.com,50.63.202.44,US,North America
+2020-04-18,safecovidtesting.com,safecovidtesting.com,,
 2020-04-18,securecovid.it,ns1.register.it,,
 2020-04-18,securecovid.it,ns2.register.it,,
 2020-04-18,securecovid.it,securecovid.it,,
