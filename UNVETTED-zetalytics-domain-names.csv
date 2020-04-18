@@ -3,6 +3,8 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-17,2dcovid19test.com,184.168.221.49,US,North America
+2020-04-17,athometestkitcovid.com,ns29.domaincontrol.com,,
+2020-04-17,athometestkitcovid.com,ns30.domaincontrol.com,,
 2020-04-17,athometestkitcovid.org,184.168.221.38,US,North America
 2020-04-17,coronaviruscure.best,coronaviruscure.best,,
 2020-04-17,coronavirustestcentersusa.com,184.168.221.52,US,North America
@@ -12,8 +14,6 @@
 2020-04-17,coronavirustestinghawaii.ph,45.79.222.138,US,North America
 2020-04-17,coronavirustestingonline.com,174.127.112.40,US,North America
 2020-04-17,covid-19antibodytestsites.com,208.91.197.27,US,North America
-2020-04-17,covid19onlinetests.com,91.195.240.126,DE,Europe
-2020-04-17,covid19onlinetests.com,covid19onlinetests.com,,
 2020-04-17,covid19-rapidtesting.com.ph,45.79.222.138,US,North America
 2020-04-17,covid19secure.xyz,covid19secure.xyz,,
 2020-04-17,covid19-test.com.pl,covid19-test.com.pl,,
@@ -21,8 +21,6 @@
 2020-04-17,covid19-test.com.pl,ns2.aftermarket.pl,,
 2020-04-17,covid19testkit.llp,covid19testkit.llp,,
 2020-04-17,covid19testnews.ph,45.79.222.138,US,North America
-2020-04-17,covid19testrapid.ro,ns2.romarg.com,,
-2020-04-17,covid19testrapid.ro,ns4.romarg.com,,
 2020-04-17,covid19testrapid.ro,�v=spf1 a:01.spf.whmpanels.com/24 a:02.spf.whmpanels.com/24 a:03.spf.whmpanels.com/24 a:04.spf.whmpanels.com/24 a:05.spf.whmpanels.com/24 a:06.spf.whmpanels.com/24 a:07.spf.whmpanels.com/24 -all,,
 2020-04-17,covid19testrapid.ro,wXY9c3BmMSBhOjAxLnNwZi53aG1wYW5lbHMuY29tLzI0IGE6MDIuc3BmLndobXBhbmVscy5jb20vMjQgYTowMy5zcGYud2htcGFuZWxzLmNvbS8yNCBhOjA0LnNwZi53aG1wYW5lbHMuY29tLzI0IGE6MDUuc3BmLndobXBhbmVscy5jb20vMjQgYTowNi5zcGYud2htcGFuZWxzLmNvbS8yNCBhOjA3LnNwZi53aG1wYW5lbHMuY29tLzI0IC1hbGw=,,
 2020-04-17,covid19-test.store,37.9.175.25,SK,Europe
@@ -44,9 +42,9 @@
 2020-04-17,covidserologicaltest.com,162.249.125.79,US,North America
 2020-04-17,covidserologicaltest.com,covidserologicaltest.com,,
 2020-04-17,covidtestband.com,91.195.240.94,DE,Europe
-2020-04-17,covidtestband.com,covidtestband.com,,
 2020-04-17,covidtestinghawaii.com,173.236.156.75,US,North America
 2020-04-17,covidtestinghawaii.com,covidtestinghawaii.com,,
+2020-04-17,covidtestingpanhandle.com,184.168.221.32,US,North America
 2020-04-17,covidtestingpanhandle.com,184.168.221.62,US,North America
 2020-04-17,covidtocures.com,13.226.198.27,US,North America
 2020-04-17,covidtocures.com,13.226.198.75,US,North America
@@ -101,8 +99,6 @@
 2020-04-17,montestcoronavirus.com,ns-225-c.gandi.net,,
 2020-04-17,montestcoronavirus.com,spool.mail.gandi.net,,
 2020-04-17,mycovidrapidtest.com,184.168.131.241,US,North America
-2020-04-17,mytestforcoronavirus.com,217.70.184.38,FR,Europe
-2020-04-17,mytestforcoronavirus.com,mytestforcoronavirus.com,,
 2020-04-17,mytestforcoronavirus.com,ns-222-b.gandi.net,,
 2020-04-17,mytestforcoronavirus.com,ns-42-c.gandi.net,,
 2020-04-17,mytestforcoronavirus.com,ns-85-a.gandi.net,,
@@ -130,11 +126,11 @@
 2020-04-17,testcoronavirusadomicile.com,217.70.184.38,FR,Europe
 2020-04-17,testcoronavirusadomicile.com,hostmaster@gandi.net,,
 2020-04-17,testcoronavirusadomicile.com,ns1.gandi.net,,
-2020-04-17,testcoronavirusadomicilio.com,217.70.184.38,FR,Europe
+2020-04-17,testcoronavirusadomicilio.com,hostmaster@gandi.net,,
 2020-04-17,testcoronavirusadomicilio.com,ns-199-b.gandi.net,,
+2020-04-17,testcoronavirusadomicilio.com,ns1.gandi.net,,
 2020-04-17,testcoronavirusadomicilio.com,ns-219-a.gandi.net,,
 2020-04-17,testcoronavirusadomicilio.com,ns-54-c.gandi.net,,
-2020-04-17,testcoronavirusadomicilio.com,testcoronavirusadomicilio.com,,
 2020-04-17,uscovidcures.com,184.168.221.60,US,North America
 2020-04-17,uscovidcures.com,50.63.202.38,US,North America
 2020-04-17,uscovidcures.com,50.63.202.56,US,North America
@@ -257,6 +253,7 @@
 2020-04-18,covidtestingtoday.live,184.168.221.56,US,North America
 2020-04-18,covidtestingtoday.live,covidtestingtoday.live,,
 2020-04-18,covidtestkit.ca,covidtestkit.ca,,
+2020-04-18,covidtestkitphilippines.com,covidtestkitphilippines.com,,
 2020-04-18,covidtestlogistics.com,35.186.238.101,US,North America
 2020-04-18,covidtestlogistics.com,covidtestlogistics.com,,
 2020-04-18,covid-test.me,covid-test.me,,
@@ -301,6 +298,7 @@
 2020-04-18,medsancovid19test.com,medsancovid19test.com,,
 2020-04-18,micovidtest.com,108.179.194.9,US,North America
 2020-04-18,micovidtest.com,micovidtest.com,,
+2020-04-18,mobilecovidtesting.net,mobilecovidtesting.net,,
 2020-04-18,montestcovid19.com,217.70.184.38,FR,Europe
 2020-04-18,montestcovid19.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-04-18,montestcovid19.com,montestcovid19.com,,
@@ -320,6 +318,7 @@
 2020-04-18,onlinecovid-19testing.com,onlinecovid-19testing.com,,
 2020-04-18,oralcovid19test.com,50.63.202.57,US,North America
 2020-04-18,oralcovid19test.com,oralcovid19test.com,,
+2020-04-18,oraltestforcovid19.com,184.168.221.44,US,North America
 2020-04-18,oraltestforcovid19.com,50.63.202.51,US,North America
 2020-04-18,oraltestforcovid19.com,oraltestforcovid19.com,,
 2020-04-18,physiciancovidtesting.com,50.63.202.49,US,North America
@@ -351,6 +350,7 @@
 2020-04-18,testnowcovid.com,ns29.domaincontrol.com,,
 2020-04-18,testnowcovid.com,ns30.domaincontrol.com,,
 2020-04-18,testnowcovid.com,testnowcovid.com,,
+2020-04-18,test.vscovid-19.org,ghs.googlehosted.com,,
 2020-04-18,ww25.krogerhealthcovidtesting.com,parking.bodis.com,,
 2020-04-18,www.athometestkitcovid.us,50.63.202.41,US,North America
 2020-04-18,www.athometestkitcovid.us,athometestkitcovid.us,,
