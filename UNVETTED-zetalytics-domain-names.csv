@@ -11,8 +11,6 @@
 2020-04-18,48hourcovid19testkit.com,50.63.202.49,US,North America
 2020-04-18,autodiscover.coronaviruscure.live,74.220.219.216,US,North America
 2020-04-18,coronaviruscure.live,coronaviruscure.live,,
-2020-04-18,coronavirustestingspots.com,50.63.202.40,US,North America
-2020-04-18,coronavirustestingspots.com,coronavirustestingspots.com,,
 2020-04-18,covid19protests.com,192.254.233.49,US,North America
 2020-04-18,covid19quickresponsetest.com,184.168.221.59,US,North America
 2020-04-18,covid19testrapid.com,104.154.100.138,US,North America
@@ -58,7 +56,6 @@
 2020-04-18,medsancovid19test.com,ns1071.ui-dns.com,,
 2020-04-18,montestcovid19.com,fb.mail.gandi.net,,
 2020-04-18,montestcovid19.com,spool.mail.gandi.net,,
-2020-04-18,oraltestforcovid19.com,184.168.221.44,US,North America
 2020-04-18,securecovid.it,ns1.register.it,,
 2020-04-18,securecovid.it,ns2.register.it,,
 2020-04-18,securecovid.it,securecovid.it,,
@@ -70,7 +67,6 @@
 2020-04-18,testcovid19adomicile.fr,ns-218-b.gandi.net,,
 2020-04-18,testcovid19adomicile.fr,ns-30-c.gandi.net,,
 2020-04-18,testcovid19adomicile.fr,ns-81-a.gandi.net,,
-2020-04-18,testcovid19adomicilio.com,217.70.184.38,FR,Europe
 2020-04-18,testcovid19adomicilio.com,fb.mail.gandi.net,,
 2020-04-18,testcovid19adomicilio.com,hostmaster@gandi.net,,
 2020-04-18,testcovid19adomicilio.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
@@ -99,12 +95,6 @@
 2020-04-18,www.testcovid19adomicile.com,webredir.vip.gandi.net,,
 2020-04-19,48hourcovid19test.com.ph,48hourcovid19test.com.ph,,
 2020-04-19,antibodytestforcovid19.org,216.40.47.17,CA,North America
-2020-04-19,antibodytestforcovid19.org,antibodytestforcovid19.org,,
-2020-04-19,antibodytestforcovid19.org,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
-2020-04-19,antibodytestforcovid19.org,hostmaster@mdnsservice.com,,
-2020-04-19,antibodytestforcovid19.org,mx.antibodytestforcovid19.org,,
-2020-04-19,antibodytestforcovid19.org,ns1.mdnsservice.com,,
-2020-04-19,antibodytestforcovid19.org,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
 2020-04-19,athomecovidtests.com,50.63.202.36,US,North America
 2020-04-19,athomecovidtests.com,athomecovidtests.com,,
 2020-04-19,azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
@@ -184,12 +174,14 @@
 2020-04-19,covid-19testantibody.com,50.63.202.42,US,North America
 2020-04-19,covid-19testantibody.com,covid-19testantibody.com,,
 2020-04-19,covid19-test.co,covid19-test.co,,
+2020-04-19,covid19-test.co.nz,covid19-test.co.nz,,
 2020-04-19,covid-19testdirect.com,94.136.40.51,GB,Europe
 2020-04-19,covid-19testdirect.com,covid-19testdirect.com,,
 2020-04-19,covid19testingaz.com,covid19testingaz.com,,
 2020-04-19,covid19testinglocations.info,covid19testinglocations.info,,
 2020-04-19,covid19testingtoday.com,50.63.202.38,US,North America
 2020-04-19,covid19testingtoday.com,covid19testingtoday.com,,
+2020-04-19,covid19testingtucson.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,covid19testingtucson.com,covid19testingtucson.com,,
 2020-04-19,covid19test.llp,covid19test.llp,,
 2020-04-19,covid-19-testnow.de,85.214.45.45,DE,Europe
@@ -323,6 +315,7 @@
 2020-04-19,testviruscovid19.com,testviruscovid19.com,,
 2020-04-19,testviruscovid19.com,!v=spf1 include:spf.dondominio.com,,
 2020-04-19,testviruscovid19.ph,testviruscovid19.ph,,
+2020-04-19,tucsoncovid19testing.com,74.208.236.16,US,North America
 2020-04-19,tucsoncovid19testing.com,tucsoncovid19testing.com,,
 2020-04-19,txcovidtests.org,184.168.221.38,US,North America
 2020-04-19,txcovidtests.org,txcovidtests.org,,
@@ -330,16 +323,24 @@
 2020-04-19,vegascovidtest.com,vegascovidtest.com,,
 2020-04-19,whocovid19test.com,whocovid19test.com,,
 2020-04-19,www.antibodytestforcovid19.org,146.148.102.201,US,North America
-2020-04-19,www.cityofcovidtest.cityofcovid.com,85.187.153.249,US,North America
+2020-04-19,www.azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
+2020-04-19,www.azcovid19testing.com,74.208.236.16,US,North America
 2020-04-19,www.coronavirus-autotests.com,www.coronavirus-autotests.com.s.strikinglydns.com,,
 2020-04-19,www.covid19antibodytestprovider.com,146.148.102.201,US,North America
+2020-04-19,www.covid19testingaz.com,74.208.236.16,US,North America
 2020-04-19,www.covid19testinglocations.info,192.185.0.218,US,North America
+2020-04-19,www.covid19testingtucson.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.covid19test.llp,127.0.53.53,,
 2020-04-19,www.covid19testproviders.org,146.148.102.201,US,North America
+2020-04-19,www.covidtestingtucson.com,2607:f1c0:100f:f000::2cf,,
+2020-04-19,www.covidtestingtucson.com,74.208.236.16,US,North America
 2020-04-19,www.covidtest.uno,87.98.239.5,PL,Europe
+2020-04-19,www.freecovidtestingtucson.com,74.208.236.16,US,North America
 2020-04-19,www.hometestcovid19antibody.com,146.148.102.201,US,North America
+2020-04-19,www.pimacountycovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.sicurezzacovid.it,62.149.128.40,IT,Europe
 2020-04-19,www.testviruscovid19.com,37.152.88.54,ES,Europe
 2020-04-19,www.testviruscovid19.com,parkingsrv0.dondominio.com,,
+2020-04-19,www.tucsoncovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.www.covid19antibodytestprovider.com,146.148.102.201,US,North America
 2020-04-19,www.www.covid19antibodytestprovider.org,146.148.102.201,US,North America
