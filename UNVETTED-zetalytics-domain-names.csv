@@ -5,6 +5,8 @@
 2020-04-18,10minutecovid19test.com,10minutecovid19test.com,,
 2020-04-18,10minutecovid19test.com,2607:f1c0:100f:f000::24c,,
 2020-04-18,10minutecovid19test.com,74.208.236.53,US,North America
+2020-04-18,10minutecovid19test.com,hostmaster@1und1.com,,
+2020-04-18,10minutecovid19test.com,ns1028.ui-dns.org,,
 2020-04-18,19covidtest.com,184.168.221.40,US,North America
 2020-04-18,19covidtest.com,19covidtest.com,,
 2020-04-18,48hourcovid19test.com,184.168.221.63,US,North America
@@ -14,7 +16,6 @@
 2020-04-18,approvedcovid19test.com,approvedcovid19test.com,,
 2020-04-18,athometestkitcovid.us,athometestkitcovid.us,,
 2020-04-18,autodiscover.coronaviruscure.live,74.220.219.216,US,North America
-2020-04-18,bestcovid19test.com,64.98.145.30,CA,North America
 2020-04-18,bestcovid19test.com,bestcovid19test.com,,
 2020-04-18,buycovid19antibodytest.com,52.0.217.44,US,North America
 2020-04-18,buycovid19antibodytest.com,buycovid19antibodytest.com,,
@@ -105,6 +106,7 @@
 2020-04-18,covidtestlogistics.com,covidtestlogistics.com,,
 2020-04-18,covid-test.me,covid-test.me,,
 2020-04-18,covidtestrating.com,184.168.221.33,US,North America
+2020-04-18,covidtestrating.com,50.63.202.63,US,North America
 2020-04-18,covidtestrating.com,covidtestrating.com,,
 2020-04-18,covidtestsupplies.com,35.186.238.101,US,North America
 2020-04-18,covidtestsupplies.com,covidtestsupplies.com,,
@@ -152,15 +154,23 @@
 2020-04-18,medsancovid19test.com,2607:f1c0:100f:f000::24c,,
 2020-04-18,medsancovid19test.com,74.208.236.53,US,North America
 2020-04-18,medsancovid19test.com,medsancovid19test.com,,
+2020-04-18,medsancovid19test.com,mx00.ionos.com,,
+2020-04-18,medsancovid19test.com,mx01.ionos.com,,
+2020-04-18,medsancovid19test.com,ns1028.ui-dns.org,,
+2020-04-18,medsancovid19test.com,ns1041.ui-dns.biz,,
+2020-04-18,medsancovid19test.com,ns1065.ui-dns.de,,
+2020-04-18,medsancovid19test.com,ns1071.ui-dns.com,,
 2020-04-18,micovidtest.com,108.179.194.9,US,North America
 2020-04-18,micovidtest.com,micovidtest.com,,
 2020-04-18,mobilecovidtesting.net,mobilecovidtesting.net,,
 2020-04-18,montestcovid19.com,217.70.184.38,FR,Europe
+2020-04-18,montestcovid19.com,fb.mail.gandi.net,,
 2020-04-18,montestcovid19.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-04-18,montestcovid19.com,montestcovid19.com,,
 2020-04-18,montestcovid19.com,ns-107-c.gandi.net,,
 2020-04-18,montestcovid19.com,ns-119-a.gandi.net,,
 2020-04-18,montestcovid19.com,ns-14-b.gandi.net,,
+2020-04-18,montestcovid19.com,spool.mail.gandi.net,,
 2020-04-18,montestcovid19.com,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-04-18,mytexascovid19test.net,50.63.202.61,US,North America
 2020-04-18,mytexascovid19test.net,mytexascovid19test.net,,
@@ -168,8 +178,6 @@
 2020-04-18,nationaltestingcovid19.com,nationaltestingcovid19.com,,
 2020-04-18,newyorkcovid-19test.com,50.63.202.46,US,North America
 2020-04-18,newyorkcovid-19test.com,newyorkcovid-19test.com,,
-2020-04-18,ohiocovid19test.com,184.168.221.34,US,North America
-2020-04-18,ohiocovid19test.com,ohiocovid19test.com,,
 2020-04-18,onlinecovid-19testing.com,91.195.240.103,DE,Europe
 2020-04-18,onlinecovid-19testing.com,onlinecovid-19testing.com,,
 2020-04-18,oralcovid19test.com,50.63.202.57,US,North America
@@ -262,6 +270,7 @@
 2020-04-19,covid19-schnelltest.online,covid19-schnelltest.online,,
 2020-04-19,covid19speedtest.pl,covid19speedtest.pl,,
 2020-04-19,covid19-test.co,covid19-test.co,,
+2020-04-19,covid19testinglocations.info,covid19testinglocations.info,,
 2020-04-19,covid19testingtoday.com,50.63.202.38,US,North America
 2020-04-19,covid19testingtoday.com,covid19testingtoday.com,,
 2020-04-19,covid-19-testnow.de,85.214.45.45,DE,Europe
@@ -273,9 +282,16 @@
 2020-04-19,covidtestingbirmingham.com,covidtestingbirmingham.com,,
 2020-04-19,covid-testing.online,covid-testing.online,,
 2020-04-19,covidtestingtoday.com,covidtestingtoday.com,,
+2020-04-19,covidtest.uno,87.98.239.5,PL,Europe
+2020-04-19,covidtest.uno,covidtest.uno,,
+2020-04-19,covidzelftestkit.nl,covidzelftestkit.nl,,
+2020-04-19,covidzelftestkit.nl,ns1.metaregistrar.nl,,
+2020-04-19,covidzelftestkit.nl,ns2.metaregistrar.nl,,
 2020-04-19,gettestedcovid.com,gettestedcovid.com,,
 2020-04-19,gettestedcovid.com,ns21.domaincontrol.com,,
 2020-04-19,gettestedcovid.com,ns22.domaincontrol.com,,
+2020-04-19,hometestcovid19antibody.com,216.40.47.17,CA,North America
+2020-04-19,hometestcovid19antibody.com,hometestcovid19antibody.com,,
 2020-04-19,hometestcovid19.org,216.40.47.17,CA,North America
 2020-04-19,hometestcovid19.org,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
 2020-04-19,hometestcovid19.org,hometestcovid19.org,,
@@ -289,7 +305,13 @@
 2020-04-19,salivacovid19test.com,salivacovid19test.com,,
 2020-04-19,test-covid19.be,213.186.33.5,FR,Europe
 2020-04-19,test-covid19.be,test-covid19.be,,
+2020-04-19,txcovidtests.org,184.168.221.38,US,North America
+2020-04-19,txcovidtests.org,txcovidtests.org,,
 2020-04-19,vegascovidtest.com,vegascovidtest.com,,
+2020-04-19,whocovid19test.com,whocovid19test.com,,
 2020-04-19,www.cityofcovidtest.cityofcovid.com,85.187.153.249,US,North America
 2020-04-19,www.covid19antibodytestprovider.com,146.148.102.201,US,North America
+2020-04-19,www.covid19testinglocations.info,192.185.0.218,US,North America
+2020-04-19,www.covidtest.uno,87.98.239.5,PL,Europe
+2020-04-19,www.hometestcovid19antibody.com,146.148.102.201,US,North America
 2020-04-19,www.www.covid19antibodytestprovider.com,146.148.102.201,US,North America
