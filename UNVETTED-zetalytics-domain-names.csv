@@ -111,6 +111,8 @@
 2020-04-18,covidviraltest.com,covidviraltest.com,,
 2020-04-18,covid-zelftest.nl,188.93.150.113,NL,Europe
 2020-04-18,covid-zelftest.nl,covid-zelftest.nl,,
+2020-04-18,covid-zelftest.nl,ns1.metaregistrar.nl,,
+2020-04-18,covid-zelftest.nl,ns2.metaregistrar.nl,,
 2020-04-18,cpanel.covid19protests.com,192.254.233.49,US,North America
 2020-04-18,cpanel.covid19protests.com,covid19protests.com,,
 2020-04-18,cpanel.covid19testrapido.com,79.137.116.49,ES,Europe
@@ -124,10 +126,15 @@
 2020-04-18,ftp.sicurezza-covid.com,www.sicurezza-covid.com,,
 2020-04-18,gettestedforcovid-19.com,50.63.202.63,US,North America
 2020-04-18,gettestedforcovid-19.com,gettestedforcovid-19.com,,
+2020-04-18,hometestcovid19antibody.org,216.40.47.17,CA,North America
+2020-04-18,hometestcovid19antibody.org,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
 2020-04-18,hometestcovid19antibody.org,hometestcovid19antibody.org,,
+2020-04-18,hometestcovid19antibody.org,hostmaster@mdnsservice.com,,
+2020-04-18,hometestcovid19antibody.org,mx.hometestcovid19antibody.org,,
 2020-04-18,hometestcovid19antibody.org,ns1.mdnsservice.com,,
 2020-04-18,hometestcovid19antibody.org,ns2.mdnsservice.com,,
 2020-04-18,hometestcovid19antibody.org,ns3.mdnsservice.com,,
+2020-04-18,hometestcovid19antibody.org,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
 2020-04-18,illinoiscoronavirustest.com,illinoiscoronavirustest.com,,
 2020-04-18,iwantacovid19test.help,208.91.197.27,US,North America
 2020-04-18,iwantacovid19test.help,iwantacovid19test.help,,
@@ -202,3 +209,13 @@
 2020-04-18,www.ohiocovid19test.com,ohiocovid19test.com,,
 2020-04-18,www.sicurezza-covid.com,62.149.128.40,IT,Europe
 2020-04-18,www.testcopy.covidorders.co.nz,180.92.196.47,AU,Oceania
+2020-04-19,antibodytestforcovid19.org,antibodytestforcovid19.org,,
+2020-04-19,antibodytestforcovid19.org,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
+2020-04-19,antibodytestforcovid19.org,hostmaster@mdnsservice.com,,
+2020-04-19,antibodytestforcovid19.org,mx.antibodytestforcovid19.org,,
+2020-04-19,antibodytestforcovid19.org,ns1.mdnsservice.com,,
+2020-04-19,antibodytestforcovid19.org,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
+2020-04-19,cityofcovidtest.cityofcovid.com,85.187.153.249,US,North America
+2020-04-19,coronavirus-autotests.com,coronavirus-autotests.com,,
+2020-04-19,montestcoronavirus.fr,montestcoronavirus.fr,,
+2020-04-19,www.cityofcovidtest.cityofcovid.com,85.187.153.249,US,North America
