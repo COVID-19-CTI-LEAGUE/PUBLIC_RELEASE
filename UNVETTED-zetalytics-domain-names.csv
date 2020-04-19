@@ -77,6 +77,7 @@
 2020-04-18,covidimmunitytesting.com,covidimmunitytesting.com,,
 2020-04-18,covid-immunity-tests.net,covid-immunity-tests.net,,
 2020-04-18,covid-immunity-tests.org,covid-immunity-tests.org,,
+2020-04-18,covidpcrtesting.com,184.168.221.36,US,North America
 2020-04-18,covidpcrtesting.com,covidpcrtesting.com,,
 2020-04-18,covidrapidtest.hu,covidrapidtest.hu,,
 2020-04-18,covidrapidtestsnow.com,107.180.40.116,US,North America
@@ -202,10 +203,16 @@
 2020-04-18,testcovid19adomicile.fr,ns-81-a.gandi.net,,
 2020-04-18,testcovid19adomicile.fr,testcovid19adomicile.fr,,
 2020-04-18,testcovid19adomicilio.com,217.70.184.38,FR,Europe
+2020-04-18,testcovid19adomicilio.com,fb.mail.gandi.net,,
+2020-04-18,testcovid19adomicilio.com,hostmaster@gandi.net,,
+2020-04-18,testcovid19adomicilio.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-04-18,testcovid19adomicilio.com,ns-154-a.gandi.net,,
+2020-04-18,testcovid19adomicilio.com,ns1.gandi.net,,
 2020-04-18,testcovid19adomicilio.com,ns-201-c.gandi.net,,
 2020-04-18,testcovid19adomicilio.com,ns-33-b.gandi.net,,
+2020-04-18,testcovid19adomicilio.com,spool.mail.gandi.net,,
 2020-04-18,testcovid19adomicilio.com,testcovid19adomicilio.com,,
+2020-04-18,testcovid19adomicilio.com,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-04-18,testcovid.sk,testcovid.sk,,
 2020-04-18,testdetectioncovid.com,37.152.88.55,ES,Europe
 2020-04-18,testdetectioncovid.com,testdetectioncovid.com,,
@@ -241,8 +248,12 @@
 2020-04-19,covid-19antibodiestest.com,184.168.221.42,US,North America
 2020-04-19,covid-19antibodiestest.com,50.63.202.43,US,North America
 2020-04-19,covid-19antibodiestest.com,covid-19antibodiestest.com,,
+2020-04-19,covid-19antibodytestonline.org,covid-19antibodytestonline.org,,
 2020-04-19,covid19antibodytestprovider.com,216.40.47.17,CA,North America
 2020-04-19,covid19antibodytestprovider.com,covid19antibodytestprovider.com,,
+2020-04-19,covid19antibodytests.info,184.168.221.40,US,North America
+2020-04-19,covid19antibodytests.info,50.63.202.61,US,North America
+2020-04-19,covid19antibodytests.info,covid19antibodytests.info,,
 2020-04-19,covid-19antibodytestsites.org,208.91.197.27,US,North America
 2020-04-19,covid-19antibodytestsites.org,covid-19antibodytestsites.org,,
 2020-04-19,covid19rapidtests.info,184.168.131.241,US,North America
@@ -265,6 +276,13 @@
 2020-04-19,gettestedcovid.com,gettestedcovid.com,,
 2020-04-19,gettestedcovid.com,ns21.domaincontrol.com,,
 2020-04-19,gettestedcovid.com,ns22.domaincontrol.com,,
+2020-04-19,hometestcovid19.org,216.40.47.17,CA,North America
+2020-04-19,hometestcovid19.org,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
+2020-04-19,hometestcovid19.org,hometestcovid19.org,,
+2020-04-19,hometestcovid19.org,hostmaster@mdnsservice.com,,
+2020-04-19,hometestcovid19.org,mx.hometestcovid19.org,,
+2020-04-19,hometestcovid19.org,ns1.mdnsservice.com,,
+2020-04-19,hometestcovid19.org,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
 2020-04-19,montestcoronavirus.fr,217.70.184.38,FR,Europe
 2020-04-19,montestcoronavirus.fr,montestcoronavirus.fr,,
 2020-04-19,salivacovid19test.com,50.63.202.45,US,North America
