@@ -19,8 +19,6 @@
 2020-04-19,coronavirusflashtest.com.ph,45.79.222.138,US,North America
 2020-04-19,coronavirusflashtest.com.ph,coronavirusflashtest.com.ph,,
 2020-04-19,coronavirustestingspots.ph,coronavirustestingspots.ph,,
-2020-04-19,covid19antibodytestprovider.org,216.40.47.17,CA,North America
-2020-04-19,covid19antibodytestprovider.org,covid19antibodytestprovider.org,,
 2020-04-19,covid19antibodytestprovider.org,hostmaster@mdnsservice.com,,
 2020-04-19,covid19antibodytestprovider.org,mx.covid19antibodytestprovider.org,,
 2020-04-19,covid19antibodytestprovider.org,ns1.mdnsservice.com,,
@@ -81,6 +79,8 @@
 2020-04-19,deliveredcoronavirustest.ph,deliveredcoronavirustest.ph,,
 2020-04-19,freecovidtestingtucson.com,74.208.236.16,US,North America
 2020-04-19,freecovidtestingtucson.com,freecovidtestingtucson.com,,
+2020-04-19,hometestcovid19antibody.com,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
+2020-04-19,hometestcovid19antibody.com,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
 2020-04-19,miamicovid-19tests.com,ns45.domaincontrol.com,,
 2020-04-19,miamicovid-19tests.com,ns46.domaincontrol.com,,
 2020-04-19,mitestcoronavirus.es,217.70.184.38,FR,Europe
@@ -139,8 +139,6 @@
 2020-04-19,protocollosicurezzacovid.com,62.149.128.163,IT,Europe
 2020-04-19,protocollosicurezzacovid.com,62.149.128.166,IT,Europe
 2020-04-19,protocollosicurezzacovid.com,protocollosicurezzacovid.com,,
-2020-04-19,rapidcovid-19testing.com,23.236.62.147,US,North America
-2020-04-19,rapidcovid-19testing.com,rapidcovid-19testing.com,,
 2020-04-19,rapidtestcovid.org,rapidtestcovid.org,,
 2020-04-19,sicurezzacovid.it,62.149.128.151,IT,Europe
 2020-04-19,sicurezzacovid.it,62.149.128.154,IT,Europe
@@ -191,7 +189,6 @@
 2020-04-19,www.tucsoncovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.whocovid19test.com,77.78.104.3,CZ,Europe
 2020-04-19,www.whocovid19test.com,whocovid19test.com,,
-2020-04-19,www.www.covid19antibodytestprovider.org,146.148.102.201,US,North America
 2020-04-20,chicagocoronavirustest.com,chicagocoronavirustest.com,,
 2020-04-20,columbuscovid19testing.com,50.63.202.40,US,North America
 2020-04-20,columbuscovid19testing.com,columbuscovid19testing.com,,
@@ -322,6 +319,7 @@
 2020-04-20,outdoorcoronavirustests.com,outdoorcoronavirustests.com,,
 2020-04-20,philadelphiacoronavirustest.com,184.168.221.49,US,North America
 2020-04-20,philadelphiacoronavirustest.com,philadelphiacoronavirustest.com,,
+2020-04-20,quickcoronavirustests.com,quickcoronavirustests.com,,
 2020-04-20,rapidresponsecovidtest.com,rapidresponsecovidtest.com,,
 2020-04-20,rapidtest-covid-19.info,rapidtest-covid-19.info,,
 2020-04-20,rapidtestkitsforcovid19.com,50.63.202.60,US,North America
@@ -337,6 +335,8 @@
 2020-04-20,thecovid19test.org,thecovid19test.org,,
 2020-04-20,thecovid19test.org,v=spf1 include:spf.lcn.com ?all,,
 2020-04-20,topcovidtest.com,topcovidtest.com,,
+2020-04-20,txcovidtest.org,2606:4700:20::681a:273,,
+2020-04-20,txcovidtest.org,2606:4700:20::681a:373,,
 2020-04-20,txcovidtest.org,txcovidtest.org,,
 2020-04-20,www.chicagocoronavirustest.com,184.168.221.42,US,North America
 2020-04-20,www.chicagocoronavirustest.com,chicagocoronavirustest.com,,
