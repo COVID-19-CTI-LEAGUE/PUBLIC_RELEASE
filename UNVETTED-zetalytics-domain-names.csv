@@ -2,99 +2,14 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-18,10minutecovid19test.com,hostmaster@1und1.com,,
-2020-04-18,10minutecovid19test.com,ns1028.ui-dns.org,,
-2020-04-18,10minutecovid19test.com,ns1065.ui-dns.de,,
-2020-04-18,10minutecovid19test.com,ns1071.ui-dns.com,,
-2020-04-18,10minutecovid19test.com,ns1085.ui-dns.biz,,
-2020-04-18,48hourcovid19test.com,184.168.221.45,US,North America
-2020-04-18,48hourcovid19testkit.com,50.63.202.49,US,North America
-2020-04-18,autodiscover.coronaviruscure.live,74.220.219.216,US,North America
-2020-04-18,coronaviruscure.live,coronaviruscure.live,,
-2020-04-18,covid19protests.com,192.254.233.49,US,North America
-2020-04-18,covid19quickresponsetest.com,184.168.221.59,US,North America
-2020-04-18,covid19testrapid.com,104.154.100.138,US,North America
-2020-04-18,covid19testrapid.com,hostmaster@1und1.com,,
-2020-04-18,covid19testrapid.com,ns1028.ui-dns.org,,
-2020-04-18,covidacure.com,208.91.197.91,VG,North America
-2020-04-18,covidacure.com,covidacure.com,,
-2020-04-18,covidcure4u.com,208.91.197.91,VG,North America
-2020-04-18,covidcure4u.com,covidcure4u.com,,
-2020-04-18,covidcure.news,209.99.40.219,US,North America
-2020-04-18,covidcure.news,covidcure.news,,
-2020-04-18,covidicures.com,208.91.197.91,VG,North America
-2020-04-18,covidicures.com,covidicures.com,,
-2020-04-18,covidpcrtesting.com,184.168.221.36,US,North America
-2020-04-18,covidtestcorp.com,184.168.221.33,US,North America
-2020-04-18,covidtestrating.com,50.63.202.63,US,North America
-2020-04-18,coviducure.com,208.91.197.91,VG,North America
-2020-04-18,coviducure.com,coviducure.com,,
-2020-04-18,covid-zelftest.nl,ns1.metaregistrar.nl,,
-2020-04-18,covid-zelftest.nl,ns2.metaregistrar.nl,,
-2020-04-18,curecoronavirus.ca,curecoronavirus.ca,,
-2020-04-18,curemycovid19.net,208.91.197.27,US,North America
-2020-04-18,curemycovid19.net,curemycovid19.net,,
-2020-04-18,ftp.sicurezza-covid.com,62.149.128.40,IT,Europe
-2020-04-18,ftp.sicurezza-covid.com,www.sicurezza-covid.com,,
-2020-04-18,gettestedforcovid-19.com,184.168.131.241,US,North America
-2020-04-18,hometestcovid19antibody.org,216.40.47.17,CA,North America
-2020-04-18,hometestcovid19antibody.org,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
-2020-04-18,hometestcovid19antibody.org,hostmaster@mdnsservice.com,,
-2020-04-18,hometestcovid19antibody.org,mx.hometestcovid19antibody.org,,
-2020-04-18,hometestcovid19antibody.org,ns1.mdnsservice.com,,
-2020-04-18,hometestcovid19antibody.org,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
-2020-04-18,hostmaster.coviducure.com,208.91.197.91,VG,North America
-2020-04-18,mail.covid19testrapido.com,covid19testrapido.com,,
-2020-04-18,mail.covid19testrapido.com,ns50121.webempresa.eu,,
-2020-04-18,mail.covid19testrapido.com,ns50122.webempresa.eu,,
-2020-04-18,medsancovid19test.com,hostmaster@1und1.com,,
-2020-04-18,medsancovid19test.com,mx00.ionos.com,,
-2020-04-18,medsancovid19test.com,mx01.ionos.com,,
-2020-04-18,medsancovid19test.com,ns1028.ui-dns.org,,
-2020-04-18,medsancovid19test.com,ns1041.ui-dns.biz,,
-2020-04-18,medsancovid19test.com,ns1065.ui-dns.de,,
-2020-04-18,medsancovid19test.com,ns1071.ui-dns.com,,
-2020-04-18,montestcovid19.com,fb.mail.gandi.net,,
-2020-04-18,montestcovid19.com,spool.mail.gandi.net,,
-2020-04-18,securecovid.it,ns1.register.it,,
-2020-04-18,securecovid.it,ns2.register.it,,
-2020-04-18,securecovid.it,securecovid.it,,
-2020-04-18,sicurezza-covid.com,sicurezza-covid.com,,
-2020-04-18,testcoronavirusadomicile.fr,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
-2020-04-18,testcoronavirusadomicile.fr,'v=spf1 include:_mailcust.gandi.net ?all,,
-2020-04-18,testcovid19adomicile.com,hostmaster@gandi.net,,
-2020-04-18,testcovid19adomicile.com,ns1.gandi.net,,
-2020-04-18,testcovid19adomicile.fr,ns-218-b.gandi.net,,
-2020-04-18,testcovid19adomicile.fr,ns-30-c.gandi.net,,
-2020-04-18,testcovid19adomicile.fr,ns-81-a.gandi.net,,
-2020-04-18,testcovid19adomicilio.com,fb.mail.gandi.net,,
-2020-04-18,testcovid19adomicilio.com,hostmaster@gandi.net,,
-2020-04-18,testcovid19adomicilio.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
-2020-04-18,testcovid19adomicilio.com,ns-154-a.gandi.net,,
-2020-04-18,testcovid19adomicilio.com,ns1.gandi.net,,
-2020-04-18,testcovid19adomicilio.com,ns-201-c.gandi.net,,
-2020-04-18,testcovid19adomicilio.com,ns-33-b.gandi.net,,
-2020-04-18,testcovid19adomicilio.com,spool.mail.gandi.net,,
-2020-04-18,testcovid19adomicilio.com,'v=spf1 include:_mailcust.gandi.net ?all,,
-2020-04-18,testnowcovid.com,50.63.202.46,US,North America
-2020-04-18,testnowcovid.com,50.63.202.53,US,North America
-2020-04-18,webmail.montestcovid19.com,webmail.gandi.net,,
-2020-04-18,www.10minutecovid19test.com,2607:f1c0:100f:f000::24c,,
-2020-04-18,www.10minutecovid19test.com,74.208.236.53,US,North America
-2020-04-18,www.coronavirus-latestupdate.com,parking.namesilo.com,,
-2020-04-18,www.coronavirustestrapid.com,2607:f1c0:100f:f000::24c,,
-2020-04-18,www.coronavirustestrapid.com,74.208.236.53,US,North America
-2020-04-18,www.covid19protests.com,192.254.233.49,US,North America
-2020-04-18,www.covid19protests.com,covid19protests.com,,
-2020-04-18,www.covid19testproviders.com,146.148.102.201,US,North America
-2020-04-18,www.covid19testrapid.com,host.websitepro.hosting,,
-2020-04-18,www.covidrapidtestsnow.com,covidrapidtestsnow.com,,
-2020-04-18,www.medsancovid19test.com,74.208.236.53,US,North America
-2020-04-18,www.montestcovid19.com,webredir.vip.gandi.net,,
-2020-04-18,www.sicurezza-covid.com,62.149.128.40,IT,Europe
-2020-04-18,www.testcovid19adomicile.com,webredir.vip.gandi.net,,
 2020-04-19,48hourcovid19test.com.ph,48hourcovid19test.com.ph,,
 2020-04-19,antibodytestforcovid19.org,216.40.47.17,CA,North America
+2020-04-19,antibodytestforcovid19.org,antibodytestforcovid19.org,,
+2020-04-19,antibodytestforcovid19.org,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
+2020-04-19,antibodytestforcovid19.org,hostmaster@mdnsservice.com,,
+2020-04-19,antibodytestforcovid19.org,mx.antibodytestforcovid19.org,,
+2020-04-19,antibodytestforcovid19.org,ns1.mdnsservice.com,,
+2020-04-19,antibodytestforcovid19.org,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
 2020-04-19,athomecovidtests.com,50.63.202.36,US,North America
 2020-04-19,athomecovidtests.com,athomecovidtests.com,,
 2020-04-19,azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
@@ -325,6 +240,7 @@
 2020-04-19,www.antibodytestforcovid19.org,146.148.102.201,US,North America
 2020-04-19,www.azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.azcovid19testing.com,74.208.236.16,US,North America
+2020-04-19,www.cityofcovidtest.cityofcovid.com,85.187.153.249,US,North America
 2020-04-19,www.coronavirus-autotests.com,www.coronavirus-autotests.com.s.strikinglydns.com,,
 2020-04-19,www.covid19antibodytestprovider.com,146.148.102.201,US,North America
 2020-04-19,www.covid19testingaz.com,74.208.236.16,US,North America
