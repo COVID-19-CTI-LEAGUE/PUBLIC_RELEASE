@@ -2,7 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-19,48hourcovid19test.com.ph,48hourcovid19test.com.ph,,
 2020-04-19,azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,azcovid19testing.com,74.208.236.16,US,North America
 2020-04-19,azcovid19testing.com,azcovid19testing.com,,
@@ -191,6 +190,7 @@
 2020-04-20,covid19-cure-coronavirus.com,covid19-cure-coronavirus.com,,
 2020-04-20,covid19employeetesting.com,50.63.202.33,US,North America
 2020-04-20,covid19employeetesting.com,covid19employeetesting.com,,
+2020-04-20,covid19-kit-test.fr,covid19-kit-test.fr,,
 2020-04-20,covid19latest.ml,185.27.134.213,GB,Europe
 2020-04-20,covid19latest.ml,covid19latest.ml,,
 2020-04-20,covid19onsitetesting.com,184.168.221.48,US,North America
