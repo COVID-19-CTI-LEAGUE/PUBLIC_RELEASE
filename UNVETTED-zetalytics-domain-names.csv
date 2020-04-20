@@ -4,14 +4,11 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-19,48hourcovid19test.com.ph,48hourcovid19test.com.ph,,
 2020-04-19,antibodytestforcovid19.org,216.40.47.17,CA,North America
-2020-04-19,athomecovidtests.com,50.63.202.36,US,North America
-2020-04-19,athomecovidtests.com,athomecovidtests.com,,
 2020-04-19,azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,azcovid19testing.com,74.208.236.16,US,North America
 2020-04-19,azcovid19testing.com,azcovid19testing.com,,
 2020-04-19,buscovid19testing.com,206.188.192.154,US,North America
 2020-04-19,buscovid19testing.com,buscovid19testing.com,,
-2020-04-19,buscovid19testing.online,208.91.197.39,VG,North America
 2020-04-19,campaignforcoronaviruscure.com,162.255.119.87,US,North America
 2020-04-19,campaignforcoronaviruscure.com,campaignforcoronaviruscure.com,,
 2020-04-19,coronavirusantibodiestesting.org,coronavirusantibodiestesting.org,,
@@ -25,8 +22,6 @@
 2020-04-19,coronavirusflashtest.com,coronavirusflashtest.com,,
 2020-04-19,coronavirusflashtest.com.ph,45.79.222.138,US,North America
 2020-04-19,coronavirusflashtest.com.ph,coronavirusflashtest.com.ph,,
-2020-04-19,coronavirusflashtests.com,184.168.221.62,US,North America
-2020-04-19,coronavirusflashtests.com,coronavirusflashtests.com,,
 2020-04-19,coronavirussalivatestkit.com,50.63.202.35,US,North America
 2020-04-19,coronavirussalivatestkit.com,coronavirussalivatestkit.com,,
 2020-04-19,coronavirussalivatestkits.com,184.168.221.63,US,North America
@@ -103,7 +98,6 @@
 2020-04-19,covidtestingtucson.com,74.208.236.16,US,North America
 2020-04-19,covidtestingtucson.com,covidtestingtucson.com,,
 2020-04-19,covidtestkit.org,covidtestkit.org,,
-2020-04-19,covidtestkitphilippines.org,covidtestkitphilippines.org,,
 2020-04-19,covidtest.uno,1|www.covidtest.uno,,
 2020-04-19,covidtest.uno,dns16.ovh.net,,
 2020-04-19,covidtest.uno,EzF8d3d3LmNvdmlkdGVzdC51bm8=,,
@@ -111,9 +105,6 @@
 2020-04-19,covidtest.uno,redirect.ovh.net,,
 2020-04-19,covidtest.uno,tech@ovh.net,,
 2020-04-19,covidtest.uno,v=spf1 include:mx.ovh.com ~all,,
-2020-04-19,covidzelftestkit.nl,covidzelftestkit.nl,,
-2020-04-19,covidzelftestkit.nl,ns1.metaregistrar.nl,,
-2020-04-19,covidzelftestkit.nl,ns2.metaregistrar.nl,,
 2020-04-19,deliveredcoronavirustest.ph,45.79.222.138,US,North America
 2020-04-19,deliveredcoronavirustest.ph,deliveredcoronavirustest.ph,,
 2020-04-19,freecovidtestingtucson.com,74.208.236.16,US,North America
@@ -213,15 +204,16 @@
 2020-04-19,testcovid19mobile.com,testcovid19mobile.com,,
 2020-04-19,testlocationscovid19.com,184.168.221.47,US,North America
 2020-04-19,testlocationscovid19.com,testlocationscovid19.com,,
+2020-04-19,testnacovid.sk,91.223.69.11,SK,Europe
 2020-04-19,testnacovid.sk,testnacovid.sk,,
 2020-04-19,testviruscovid19.com,37.152.88.55,ES,Europe
 2020-04-19,testviruscovid19.com,IXY9c3BmMSBpbmNsdWRlOnNwZi5kb25kb21pbmlvLmNvbQ==,,
 2020-04-19,testviruscovid19.com,testviruscovid19.com,,
 2020-04-19,testviruscovid19.com,!v=spf1 include:spf.dondominio.com,,
 2020-04-19,testviruscovid19.ph,testviruscovid19.ph,,
+2020-04-19,tucsoncovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,tucsoncovid19testing.com,74.208.236.16,US,North America
 2020-04-19,tucsoncovid19testing.com,tucsoncovid19testing.com,,
-2020-04-19,txcovidtests.org,184.168.221.38,US,North America
 2020-04-19,uscovid19testkits.com.ph,uscovid19testkits.com.ph,,
 2020-04-19,whocovid19test.com,77.78.104.3,CZ,Europe
 2020-04-19,www.antibodytestforcovid19.org,146.148.102.201,US,North America
@@ -254,6 +246,8 @@
 2020-04-20,covid19-cure-coronavirus.com,covid19-cure-coronavirus.com,,
 2020-04-20,covid19employeetesting.com,50.63.202.33,US,North America
 2020-04-20,covid19employeetesting.com,covid19employeetesting.com,,
+2020-04-20,covid19latest.ml,185.27.134.213,GB,Europe
+2020-04-20,covid19latest.ml,covid19latest.ml,,
 2020-04-20,covid19onsitetesting.com,covid19onsitetesting.com,,
 2020-04-20,covid19-secure.net,104.18.42.226,US,North America
 2020-04-20,covid19-secure.net,104.18.43.226,US,North America
@@ -262,6 +256,7 @@
 2020-04-20,covid19-secure.net,covid19-secure.net,,
 2020-04-20,covid19testdocs.com,covid19testdocs.com,,
 2020-04-20,covid19testingsites.org,covid19testingsites.org,,
+2020-04-20,covid19testrating.com,184.168.221.41,US,North America
 2020-04-20,covid19testrating.com,covid19testrating.com,,
 2020-04-20,covid9teentesting.com,50.63.202.39,US,North America
 2020-04-20,covid9teentesting.com,covid9teentesting.com,,
@@ -318,16 +313,20 @@
 2020-04-20,iamcovidtested.com,iamcovidtested.com,,
 2020-04-20,lasvegascovidtesting.com,184.168.221.48,US,North America
 2020-04-20,lasvegascovidtesting.com,lasvegascovidtesting.com,,
+2020-04-20,lillycovid19testng.com,lillycovid19testng.com,,
 2020-04-20,lillycovid19testting.com,185.53.178.10,DE,Europe
 2020-04-20,lillycovid19testting.com,lillycovid19testting.com,,
 2020-04-20,mailincovidantibodytestkits.com,184.168.221.51,US,North America
 2020-04-20,mailincovidantibodytestkits.com,mailincovidantibodytestkits.com,,
+2020-04-20,mncovidtest.com,mncovidtest.com,,
+2020-04-20,nationalhealthcovidtesting.com,nationalhealthcovidtesting.com,,
 2020-04-20,newyorkcovid-19testing.com,50.63.202.38,US,North America
 2020-04-20,newyorkcovid-19testing.com,newyorkcovid-19testing.com,,
 2020-04-20,outdoorcoronavirustests.com,50.63.202.61,US,North America
 2020-04-20,outdoorcoronavirustests.com,outdoorcoronavirustests.com,,
 2020-04-20,philadelphiacoronavirustest.com,184.168.221.49,US,North America
 2020-04-20,philadelphiacoronavirustest.com,philadelphiacoronavirustest.com,,
+2020-04-20,rapidresponsecovidtest.com,rapidresponsecovidtest.com,,
 2020-04-20,rapidtest-covid-19.info,rapidtest-covid-19.info,,
 2020-04-20,rapidtestkitsforcovid19.com,50.63.202.60,US,North America
 2020-04-20,rapidtestkitsforcovid19.com,rapidtestkitsforcovid19.com,,
@@ -343,3 +342,4 @@
 2020-04-20,topcovidtest.com,topcovidtest.com,,
 2020-04-20,www.covidsneltestservice.com,141.138.169.201,NL,Europe
 2020-04-20,www.covidtestrapide.fr,213.186.33.5,FR,Europe
+2020-04-20,www.ino.lillycovid19testng.com,185.53.177.54,DE,Europe
