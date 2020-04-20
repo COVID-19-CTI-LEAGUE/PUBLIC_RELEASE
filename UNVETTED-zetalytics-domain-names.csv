@@ -65,10 +65,10 @@
 2020-04-19,covid19-test.co.nz,covid19-test.co.nz,,
 2020-04-19,covid-19testdirect.com,94.136.40.51,GB,Europe
 2020-04-19,covid-19testdirect.com,covid-19testdirect.com,,
+2020-04-19,covid19testingaz.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,covid19testingaz.com,74.208.236.16,US,North America
 2020-04-19,covid19testingaz.com,covid19testingaz.com,,
 2020-04-19,covid19testinglocations.info,192.185.0.218,US,North America
-2020-04-19,covid19testinglocations.info,covid19testinglocations.info,,
 2020-04-19,covid19testingtucson.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,covid19testingtucson.com,74.208.236.16,US,North America
 2020-04-19,covid19testingtucson.com,covid19testingtucson.com,,
@@ -99,13 +99,12 @@
 2020-04-19,covidtesting-lab.com,184.168.221.48,US,North America
 2020-04-19,covidtesting-lab.com,covidtesting-lab.com,,
 2020-04-19,covid-testing.online,87.236.16.65,RU,Europe
+2020-04-19,covidtestingtucson.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,covidtestingtucson.com,74.208.236.16,US,North America
 2020-04-19,covidtestingtucson.com,covidtestingtucson.com,,
 2020-04-19,covidtestkit.org,covidtestkit.org,,
 2020-04-19,covidtestkitphilippines.org,covidtestkitphilippines.org,,
 2020-04-19,covidtest.uno,1|www.covidtest.uno,,
-2020-04-19,covidtest.uno,87.98.239.5,PL,Europe
-2020-04-19,covidtest.uno,covidtest.uno,,
 2020-04-19,covidtest.uno,dns16.ovh.net,,
 2020-04-19,covidtest.uno,EzF8d3d3LmNvdmlkdGVzdC51bm8=,,
 2020-04-19,covidtest.uno,HnY9c3BmMSBpbmNsdWRlOm14Lm92aC5jb20gfmFsbA==,,
@@ -122,8 +121,6 @@
 2020-04-19,gettestedcoronavirus.com,72.167.191.69,US,North America
 2020-04-19,gettestedcoronavirus.com,gettestedcoronavirus.com,,
 2020-04-19,gettestedcovid.com,184.168.131.241,US,North America
-2020-04-19,hometestcovid19antibody.com,216.40.47.17,CA,North America
-2020-04-19,hometestcovid19antibody.com,hometestcovid19antibody.com,,
 2020-04-19,iwantacovid19test.com,208.91.197.27,US,North America
 2020-04-19,iwantacovid19test.com,iwantacovid19test.com,,
 2020-04-19,iwantacovidtest.com,208.91.197.27,US,North America
@@ -173,6 +170,11 @@
 2020-04-19,oralcovid19test.com.ph,45.79.222.138,US,North America
 2020-04-19,oralcovid19test.com.ph,oralcovid19test.com.ph,,
 2020-04-19,oraltestforcovid19.ph,oraltestforcovid19.ph,,
+2020-04-19,pimacountycovid19testing.com,74.208.236.16,US,North America
+2020-04-19,pimacountycovid19testing.com,ns1019.ui-dns.de,,
+2020-04-19,pimacountycovid19testing.com,ns1031.ui-dns.biz,,
+2020-04-19,pimacountycovid19testing.com,ns1043.ui-dns.com,,
+2020-04-19,pimacountycovid19testing.com,ns1110.ui-dns.org,,
 2020-04-19,pimacountycovid19testing.com,pimacountycovid19testing.com,,
 2020-04-19,protocollosicurezzacovid19.com,62.149.128.151,IT,Europe
 2020-04-19,protocollosicurezzacovid19.com,62.149.128.154,IT,Europe
@@ -220,10 +222,8 @@
 2020-04-19,tucsoncovid19testing.com,74.208.236.16,US,North America
 2020-04-19,tucsoncovid19testing.com,tucsoncovid19testing.com,,
 2020-04-19,txcovidtests.org,184.168.221.38,US,North America
-2020-04-19,txcovidtests.org,txcovidtests.org,,
 2020-04-19,uscovid19testkits.com.ph,uscovid19testkits.com.ph,,
 2020-04-19,whocovid19test.com,77.78.104.3,CZ,Europe
-2020-04-19,whocovid19test.com,whocovid19test.com,,
 2020-04-19,www.antibodytestforcovid19.org,146.148.102.201,US,North America
 2020-04-19,www.azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.azcovid19testing.com,74.208.236.16,US,North America
@@ -231,16 +231,13 @@
 2020-04-19,www.covid19antibodytestprovider.org,146.148.102.201,US,North America
 2020-04-19,www.covid19-schnelltest.online,89.31.143.1,DE,Europe
 2020-04-19,www.covid19testingaz.com,74.208.236.16,US,North America
-2020-04-19,www.covid19testinglocations.info,192.185.0.218,US,North America
 2020-04-19,www.covid19testingtucson.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.covid19testingtucson.com,74.208.236.16,US,North America
 2020-04-19,www.covid19test.llp,127.0.53.53,,
 2020-04-19,www.covid19testproviders.org,146.148.102.201,US,North America
 2020-04-19,www.covidtestingtucson.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.covidtestingtucson.com,74.208.236.16,US,North America
-2020-04-19,www.covidtest.uno,87.98.239.5,PL,Europe
 2020-04-19,www.freecovidtestingtucson.com,74.208.236.16,US,North America
-2020-04-19,www.hometestcovid19antibody.com,146.148.102.201,US,North America
 2020-04-19,www.hometestcovid19.org,146.148.102.201,US,North America
 2020-04-19,www.pimacountycovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.sicurezzacovid.it,62.149.128.40,IT,Europe
@@ -257,6 +254,7 @@
 2020-04-20,covid19-cure-coronavirus.com,covid19-cure-coronavirus.com,,
 2020-04-20,covid19employeetesting.com,50.63.202.33,US,North America
 2020-04-20,covid19employeetesting.com,covid19employeetesting.com,,
+2020-04-20,covid19onsitetesting.com,covid19onsitetesting.com,,
 2020-04-20,covid19-secure.net,104.18.42.226,US,North America
 2020-04-20,covid19-secure.net,104.18.43.226,US,North America
 2020-04-20,covid19-secure.net,2606:4700:3030::6812:2ae2,,
@@ -264,6 +262,7 @@
 2020-04-20,covid19-secure.net,covid19-secure.net,,
 2020-04-20,covid19testdocs.com,covid19testdocs.com,,
 2020-04-20,covid19testingsites.org,covid19testingsites.org,,
+2020-04-20,covid19testrating.com,covid19testrating.com,,
 2020-04-20,covid9teentesting.com,50.63.202.39,US,North America
 2020-04-20,covid9teentesting.com,covid9teentesting.com,,
 2020-04-20,covidcure.ch,covidcure.ch,,
@@ -296,6 +295,7 @@
 2020-04-20,covidtestalabama.com,50.63.202.42,US,North America
 2020-04-20,covidtestalabama.com,covidtestalabama.com,,
 2020-04-20,covidtesthub.com,covidtesthub.com,,
+2020-04-20,covidtestingaz.com,2607:f1c0:100f:f000::2cf,,
 2020-04-20,covidtestingaz.com,74.208.236.16,US,North America
 2020-04-20,covidtestingaz.com,covidtestingaz.com,,
 2020-04-20,covidtesting.vegas,covidtesting.vegas,,
