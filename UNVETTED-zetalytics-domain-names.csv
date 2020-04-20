@@ -4,12 +4,6 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-19,48hourcovid19test.com.ph,48hourcovid19test.com.ph,,
 2020-04-19,antibodytestforcovid19.org,216.40.47.17,CA,North America
-2020-04-19,antibodytestforcovid19.org,antibodytestforcovid19.org,,
-2020-04-19,antibodytestforcovid19.org,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
-2020-04-19,antibodytestforcovid19.org,hostmaster@mdnsservice.com,,
-2020-04-19,antibodytestforcovid19.org,mx.antibodytestforcovid19.org,,
-2020-04-19,antibodytestforcovid19.org,ns1.mdnsservice.com,,
-2020-04-19,antibodytestforcovid19.org,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
 2020-04-19,athomecovidtests.com,50.63.202.36,US,North America
 2020-04-19,athomecovidtests.com,athomecovidtests.com,,
 2020-04-19,azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
@@ -115,6 +109,7 @@
 2020-04-19,covid19testspots.ph,covid19testspots.ph,,
 2020-04-19,covid2tests.com,66.96.162.139,US,North America
 2020-04-19,covid2tests.com,covid2tests.com,,
+2020-04-19,covidabtest.com,184.168.221.61,US,North America
 2020-04-19,covidabtest.com,covidabtest.com,,
 2020-04-19,covidflashtest.com,50.63.202.51,US,North America
 2020-04-19,covidflashtest.com,covidflashtest.com,,
@@ -301,7 +296,12 @@
 2020-04-19,www.tucsoncovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.www.covid19antibodytestprovider.com,146.148.102.201,US,North America
 2020-04-19,www.www.covid19antibodytestprovider.org,146.148.102.201,US,North America
+2020-04-20,corona-covid19test.com.ph,45.79.222.138,US,North America
+2020-04-20,corona-covid19test.com.ph,corona-covid19test.com.ph,,
+2020-04-20,corona-virus19testing.com,corona-virus19testing.com,,
 2020-04-20,coronavirusteste.com,coronavirusteste.com,,
+2020-04-20,covid19-cure-coronavirus.com,covid19-cure-coronavirus.com,,
+2020-04-20,covid19employeetesting.com,covid19employeetesting.com,,
 2020-04-20,covid19-secure.net,104.18.42.226,US,North America
 2020-04-20,covid19-secure.net,104.18.43.226,US,North America
 2020-04-20,covid19-secure.net,2606:4700:3030::6812:2ae2,,
@@ -313,12 +313,16 @@
 2020-04-20,covidhometestingkits.com,35.169.225.248,US,North America
 2020-04-20,covidhometestingkits.com,52.0.7.30,US,North America
 2020-04-20,covidhometestingkits.com,covidhometestingkits.com,,
+2020-04-20,covidnineteentesting.com,covidnineteentesting.com,,
+2020-04-20,covidtestalabama.com,covidtestalabama.com,,
 2020-04-20,covidtesthub.com,covidtesthub.com,,
 2020-04-20,covidtesting.vegas,covidtesting.vegas,,
 2020-04-20,covidtestmichigan.com,2607:f1c0:100f:f000::2e9,,
 2020-04-20,covidtestmichigan.com,74.208.236.108,US,North America
 2020-04-20,covidtestmichigan.com,covidtestmichigan.com,,
 2020-04-20,covidtestrapide.fr,covidtestrapide.fr,,
+2020-04-20,covidtestslab.com,covidtestslab.com,,
+2020-04-20,covidvirushometesting.com,covidvirushometesting.com,,
 2020-04-20,cure4covid.org,cure4covid.org,,
 2020-04-20,outdoorcoronavirustests.com,50.63.202.61,US,North America
 2020-04-20,outdoorcoronavirustests.com,outdoorcoronavirustests.com,,
@@ -326,6 +330,8 @@
 2020-04-20,philadelphiacoronavirustest.com,philadelphiacoronavirustest.com,,
 2020-04-20,rapidtestkitsforcovid19.com,50.63.202.60,US,North America
 2020-04-20,rapidtestkitsforcovid19.com,rapidtestkitsforcovid19.com,,
+2020-04-20,tampacovid-19test.com,184.168.221.40,US,North America
+2020-04-20,tampacovid-19test.com,tampacovid-19test.com,,
 2020-04-20,testcovid19.com.au,testcovid19.com.au,,
 2020-04-20,thecovid19test.org,94.126.40.42,GB,Europe
 2020-04-20,thecovid19test.org,H3Y9c3BmMSBpbmNsdWRlOnNwZi5sY24uY29tID9hbGw=,,
