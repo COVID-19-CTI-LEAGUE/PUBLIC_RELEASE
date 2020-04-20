@@ -8,12 +8,9 @@
 2020-04-19,azcovid19testing.com,azcovid19testing.com,,
 2020-04-19,campaignforcoronaviruscure.com,162.255.119.87,US,North America
 2020-04-19,campaignforcoronaviruscure.com,campaignforcoronaviruscure.com,,
-2020-04-19,coronavirusantibodytesting.org,coronavirusantibodytesting.org,,
-2020-04-19,coronavirus-autotests.com,fb.mail.gandi.net,,
 2020-04-19,coronavirus-autotests.com,ns-141-c.gandi.net,,
 2020-04-19,coronavirus-autotests.com,ns-160-b.gandi.net,,
 2020-04-19,coronavirus-autotests.com,ns-2-a.gandi.net,,
-2020-04-19,coronavirus-autotests.com,spool.mail.gandi.net,,
 2020-04-19,coronavirusflashtest.com,50.63.202.43,US,North America
 2020-04-19,coronavirusflashtest.com,coronavirusflashtest.com,,
 2020-04-19,coronavirusflashtest.com.ph,45.79.222.138,US,North America
@@ -79,6 +76,10 @@
 2020-04-19,deliveredcoronavirustest.ph,deliveredcoronavirustest.ph,,
 2020-04-19,freecovidtestingtucson.com,74.208.236.16,US,North America
 2020-04-19,freecovidtestingtucson.com,freecovidtestingtucson.com,,
+2020-04-19,freecovidtestingtucson.com,ns1031.ui-dns.biz,,
+2020-04-19,freecovidtestingtucson.com,ns1032.ui-dns.de,,
+2020-04-19,freecovidtestingtucson.com,ns1053.ui-dns.org,,
+2020-04-19,freecovidtestingtucson.com,ns1065.ui-dns.com,,
 2020-04-19,hometestcovid19antibody.com,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
 2020-04-19,hometestcovid19antibody.com,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
 2020-04-19,miamicovid-19tests.com,ns45.domaincontrol.com,,
@@ -139,7 +140,6 @@
 2020-04-19,protocollosicurezzacovid.com,62.149.128.163,IT,Europe
 2020-04-19,protocollosicurezzacovid.com,62.149.128.166,IT,Europe
 2020-04-19,protocollosicurezzacovid.com,protocollosicurezzacovid.com,,
-2020-04-19,rapidtestcovid.org,rapidtestcovid.org,,
 2020-04-19,sicurezzacovid.it,62.149.128.151,IT,Europe
 2020-04-19,sicurezzacovid.it,62.149.128.154,IT,Europe
 2020-04-19,sicurezzacovid.it,62.149.128.157,IT,Europe
@@ -170,7 +170,6 @@
 2020-04-19,uscovid19testkits.com.ph,uscovid19testkits.com.ph,,
 2020-04-19,whocovid19test.com,77.78.104.3,CZ,Europe
 2020-04-19,whocovid19test.com,mail.whocovid19test.com,,
-2020-04-19,www.antibodytestforcovid19.org,146.148.102.201,US,North America
 2020-04-19,www.azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
 2020-04-19,www.azcovid19testing.com,74.208.236.16,US,North America
 2020-04-19,www.coronavirus-autotests.com,www.coronavirus-autotests.com.s.strikinglydns.com,,
@@ -335,6 +334,7 @@
 2020-04-20,thecovid19test.org,thecovid19test.org,,
 2020-04-20,thecovid19test.org,v=spf1 include:spf.lcn.com ?all,,
 2020-04-20,topcovidtest.com,topcovidtest.com,,
+2020-04-20,trackcovid19tests.com,trackcovid19tests.com,,
 2020-04-20,txcovidtest.org,2606:4700:20::681a:273,,
 2020-04-20,txcovidtest.org,2606:4700:20::681a:373,,
 2020-04-20,txcovidtest.org,txcovidtest.org,,
