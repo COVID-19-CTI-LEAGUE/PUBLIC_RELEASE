@@ -19,7 +19,6 @@
 2020-04-20,covid19-kit-test.fr,ns31.infomaniak.com,,
 2020-04-20,covid19-kit-test.fr,ns32.infomaniak.com,,
 2020-04-20,covid19latest.ml,mx.covid19latest.ml,,
-2020-04-20,covid19onsitetesting.com,184.168.221.48,US,North America
 2020-04-20,covid19-secure.net,104.18.42.226,US,North America
 2020-04-20,covid19-secure.net,104.18.43.226,US,North America
 2020-04-20,covid19-secure.net,2606:4700:3030::6812:2ae2,,
@@ -46,9 +45,11 @@
 2020-04-20,covidsecure.nl,IHY9c3BmMSBhIG14IGlwNDoxODUuOTYuNi42MiB+YWxs,,
 2020-04-20,covidsecure.nl, v=spf1 a mx ip4:185.96.6.62 ~all,,
 2020-04-20,covid-sneltestservice.com,141.138.169.201,NL,Europe
+2020-04-20,covid-sneltestservice.com,ns1.webhostingserver.nl,,
+2020-04-20,covid-sneltestservice.com,ns2.webhostingserver.nl,,
+2020-04-20,covid-sneltestservice.com,ns3.webhostingserver.nl,,
 2020-04-20,covid-test.company,covid-test.company,,
 2020-04-20,covidtested.org.uk,184.168.221.37,US,North America
-2020-04-20,covidtested.org.uk,covidtested.org.uk,,
 2020-04-20,covidtesthub.com,50.63.202.49,US,North America
 2020-04-20,covidtesthub.com,50.63.202.54,US,North America
 2020-04-20,covidtestingaz.com,ns1019.ui-dns.de,,
@@ -59,9 +60,7 @@
 2020-04-20,covidtestingkits.io,ns06.domaincontrol.com,,
 2020-04-20,covidtestnow.co.uk,184.168.221.34,US,North America
 2020-04-20,covidtestnow.co.uk,covidtestnow.co.uk,,
-2020-04-20,covidtestonline.co.uk,184.168.221.52,US,North America
 2020-04-20,covidtestonline.co.uk,50.63.202.56,US,North America
-2020-04-20,covidtestonline.co.uk,covidtestonline.co.uk,,
 2020-04-20,covidtestslab.com,184.168.221.47,US,North America
 2020-04-20,covidtestslab.com,184.168.221.51,US,North America
 2020-04-20,covidtestslab.com,184.168.221.58,US,North America
@@ -91,12 +90,11 @@
 2020-04-20,securecovid19.it,securecovid19.it,,
 2020-04-20,securecovid19.it,#v=spf1 include:spf.webapps.net ~all,,
 2020-04-20,testcovid19.com.ar,testcovid19.com.ar,,
-2020-04-20,trackcovid19tests.com,184.168.221.46,US,North America
 2020-04-20,trackcovid19tests.com,50.63.202.62,US,North America
 2020-04-20,trackcovid19tests.com,50.63.202.63,US,North America
-2020-04-20,trackcovid19tests.com,trackcovid19tests.com,,
 2020-04-20,uscovidtest.us,50.63.202.39,US,North America
 2020-04-20,uscovidtest.us,uscovidtest.us,,
+2020-04-20,www.corona-covid19test.com.ph,45.79.222.138,US,North America
 2020-04-20,www.covid19crewtest.com,covid19crewtest.com,,
 2020-04-20,www.covidonlinetest.co.uk,covidonlinetest.co.uk,,
 2020-04-20,www.covidsecure.nl,185.96.6.62,NL,Europe
@@ -138,6 +136,7 @@
 2020-04-21,coronavirustest.ch,coronavirustest.ch,,
 2020-04-21,coronavirustestingkits.io,184.168.221.61,US,North America
 2020-04-21,coronavirustestingkits.io,coronavirustestingkits.io,,
+2020-04-21,coronavirustest.pt,coronavirustest.pt,,
 2020-04-21,coronavirusthuistest.nl,37.72.98.155,NL,Europe
 2020-04-21,coronavirusthuistest.nl,coronavirusthuistest.nl,,
 2020-04-21,coronavirusthuistest.nl,mail.coronavirusthuistest.nl,,
@@ -268,6 +267,8 @@
 2020-04-21,lacovid19-test.com,184.168.221.54,US,North America
 2020-04-21,lacovid19-test.com,50.63.202.40,US,North America
 2020-04-21,lacovid19-test.com,lacovid19-test.com,,
+2020-04-21,letscurecovid19.com,184.168.221.43,US,North America
+2020-04-21,letscurecovid19.com,letscurecovid19.com,,
 2020-04-21,lillycovid19testung.com,185.53.178.10,DE,Europe
 2020-04-21,lillycovid19testung.com,lillycovid19testung.com,,
 2020-04-21,losangelescovid19tests.com,184.168.221.34,US,North America
@@ -331,6 +332,7 @@
 2020-04-21,testrapidocovid19.es,ns1078.ui-dns.org,,
 2020-04-21,testrapidocovid19.es,ns1122.ui-dns.biz,,
 2020-04-21,testrapidocovid19.es,testrapidocovid19.es,,
+2020-04-21,testtrackcovid.com,50.63.202.46,US,North America
 2020-04-21,testtrackcovid.com,testtrackcovid.com,,
 2020-04-21,testycovid19.pl,testycovid19.pl,,
 2020-04-21,therapidcovid19testkits.com,50.63.202.45,US,North America
