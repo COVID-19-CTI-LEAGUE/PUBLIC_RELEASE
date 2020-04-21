@@ -2,12 +2,12 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-04-20,corona-virus19testing.com,184.168.221.55,US,North America
 2020-04-20,coronavirushomestesting.co.uk,184.168.221.58,US,North America
 2020-04-20,coronavirushomestesting.co.uk,50.63.202.52,US,North America
 2020-04-20,coronavirushomestesting.co.uk,coronavirushomestesting.co.uk,,
 2020-04-20,coronavirus-hometestkit.co.uk,184.168.221.32,US,North America
 2020-04-20,coronavirus-hometestkit.co.uk,coronavirus-hometestkit.co.uk,,
-2020-04-20,covid19crewtesting.com,50.63.202.59,US,North America
 2020-04-20,covid19-cure-coronavirus.com,62.210.16.23,FR,Europe
 2020-04-20,covid19-cure-coronavirus.com,covid19-cure-coronavirus.com,,
 2020-04-20,covid19employeetesting.com,184.168.221.40,US,North America
@@ -49,8 +49,7 @@
 2020-04-20,covid-test.company,covid-test.company,,
 2020-04-20,covidtested.org.uk,184.168.221.37,US,North America
 2020-04-20,covidtested.org.uk,covidtested.org.uk,,
-2020-04-20,covidtester.be,2a00:4e40:1:1::2:207,,
-2020-04-20,covidtester.be,covidtester.be,,
+2020-04-20,covidtesthub.com,50.63.202.49,US,North America
 2020-04-20,covidtesthub.com,50.63.202.54,US,North America
 2020-04-20,covidtestingaz.com,ns1019.ui-dns.de,,
 2020-04-20,covidtestingaz.com,ns1031.ui-dns.biz,,
@@ -66,7 +65,7 @@
 2020-04-20,covidtestslab.com,184.168.221.47,US,North America
 2020-04-20,covidtestslab.com,184.168.221.51,US,North America
 2020-04-20,covidtestslab.com,184.168.221.58,US,North America
-2020-04-20,covidtest.vegas,covidtest.vegas,,
+2020-04-20,covidtest.vegas,50.63.202.56,US,North America
 2020-04-20,covidtest.vegas,ns17.domaincontrol.com,,
 2020-04-20,covidtest.vegas,ns18.domaincontrol.com,,
 2020-04-20,covidtest.zone,184.168.221.43,US,North America
@@ -80,7 +79,6 @@
 2020-04-20,lillycovid19testting.com,mail.h-email.net,,
 2020-04-20,philadelphiacoronavirustest.com,ns31.domaincontrol.com,,
 2020-04-20,philadelphiacoronavirustest.com,ns32.domaincontrol.com,,
-2020-04-20,quickcoronavirustests.com,quickcoronavirustests.com,,
 2020-04-20,rapidtestcovid19.be,dns16.ovh.net,,
 2020-04-20,rapidtestcovid19.be,ns16.ovh.net,,
 2020-04-20,rapidtestcovid19.be,rapidtestcovid19.be,,
@@ -97,9 +95,6 @@
 2020-04-20,trackcovid19tests.com,50.63.202.62,US,North America
 2020-04-20,trackcovid19tests.com,50.63.202.63,US,North America
 2020-04-20,trackcovid19tests.com,trackcovid19tests.com,,
-2020-04-20,txcovidtest.org,2606:4700:20::681a:273,,
-2020-04-20,txcovidtest.org,2606:4700:20::681a:373,,
-2020-04-20,txcovidtest.org,txcovidtest.org,,
 2020-04-20,uscovidtest.us,50.63.202.39,US,North America
 2020-04-20,uscovidtest.us,uscovidtest.us,,
 2020-04-20,www.covid19crewtest.com,covid19crewtest.com,,
@@ -128,6 +123,8 @@
 2020-04-21,campaignforcoronaviruscures.com,dns2.registrar-servers.com,,
 2020-04-21,chicagocovid19tests.com,chicagocovid19tests.com,,
 2020-04-21,corona19-testing.com,corona19-testing.com,,
+2020-04-21,corona19-testing.com,ns07.domaincontrol.com,,
+2020-04-21,corona19-testing.com,ns08.domaincontrol.com,,
 2020-04-21,coronavirus-19-testkits.com,35.186.238.101,US,North America
 2020-04-21,coronavirus-19-testkits.com,coronavirus-19-testkits.com,,
 2020-04-21,coronavirusantibodytest.org,coronavirusantibodytest.org,,
@@ -273,6 +270,7 @@
 2020-04-21,lacovid19-test.com,lacovid19-test.com,,
 2020-04-21,lillycovid19testung.com,185.53.178.10,DE,Europe
 2020-04-21,lillycovid19testung.com,lillycovid19testung.com,,
+2020-04-21,losangelescovid19tests.com,184.168.221.34,US,North America
 2020-04-21,losangelescovid19tests.com,losangelescovid19tests.com,,
 2020-04-21,newcovid19test.ws,64.70.19.203,US,North America
 2020-04-21,newcovid19test.ws,newcovid19test.ws,,
@@ -289,6 +287,7 @@
 2020-04-21,rapidtestingcovid-19.com,50.63.202.39,US,North America
 2020-04-21,rapidtestingcovid-19.com,50.63.202.45,US,North America
 2020-04-21,rapidtestingcovid-19.com,rapidtestingcovid-19.com,,
+2020-04-21,safetest-covid-19.com,50.63.202.33,US,North America
 2020-04-21,safetest-covid-19.com,50.63.202.53,US,North America
 2020-04-21,safetest-covid-19.com,safetest-covid-19.com,,
 2020-04-21,speedtestcovid19.online,91.198.146.247,PL,Europe
@@ -335,6 +334,7 @@
 2020-04-21,testtrackcovid.com,testtrackcovid.com,,
 2020-04-21,testycovid19.pl,testycovid19.pl,,
 2020-04-21,therapidcovid19testkits.com,50.63.202.45,US,North America
+2020-04-21,therapidcovid19testkits.com,50.63.202.49,US,North America
 2020-04-21,therapidcovid19testkits.com,therapidcovid19testkits.com,,
 2020-04-21,txcovidtest.com,184.168.221.50,US,North America
 2020-04-21,txcovidtest.com,txcovidtest.com,,
