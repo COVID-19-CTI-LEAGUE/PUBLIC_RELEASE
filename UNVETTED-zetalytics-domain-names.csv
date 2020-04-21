@@ -2,170 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-19,azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,azcovid19testing.com,74.208.236.16,US,North America
-2020-04-19,azcovid19testing.com,azcovid19testing.com,,
-2020-04-19,campaignforcoronaviruscure.com,162.255.119.87,US,North America
-2020-04-19,campaignforcoronaviruscure.com,campaignforcoronaviruscure.com,,
-2020-04-19,coronavirusflashtest.com,184.168.221.55,US,North America
-2020-04-19,coronavirusflashtest.com.ph,45.79.222.138,US,North America
-2020-04-19,coronavirusflashtest.com.ph,coronavirusflashtest.com.ph,,
-2020-04-19,coronavirustestingspots.ph,coronavirustestingspots.ph,,
-2020-04-19,covid19antibodytestprovider.org,hostmaster@mdnsservice.com,,
-2020-04-19,covid19antibodytestprovider.org,mx.covid19antibodytestprovider.org,,
-2020-04-19,covid19antibodytestprovider.org,ns1.mdnsservice.com,,
-2020-04-19,covid19antibodytests.org,covid19antibodytests.org,,
-2020-04-19,covid19employerwristtagtestkit.ph,covid19employerwristtagtestkit.ph,,
-2020-04-19,covid19employerwristtagtestkit.ws,64.70.19.203,US,North America
-2020-04-19,covid19employerwristtagtestkit.ws,covid19employerwristtagtestkit.ws,,
-2020-04-19,covid19-labtest.nl,52.19.197.101,IE,Europe
-2020-04-19,covid19-labtest.nl,covid19-labtest.nl,,
-2020-04-19,covid19quickresponsetest.com.ph,covid19quickresponsetest.com.ph,,
-2020-04-19,covid19rapidtests.info,ns05.domaincontrol.com,,
-2020-04-19,covid19rapidtests.info,ns06.domaincontrol.com,,
-2020-04-19,covid19-schnelltest.online,hostmaster@united-domains.de,,
-2020-04-19,covid19-schnelltest.online,ns.udag.de,,
-2020-04-19,covid19surfacetest.co.uk,94.136.40.51,GB,Europe
-2020-04-19,covid19surfacetest.co.uk,covid19surfacetest.co.uk,,
-2020-04-19,covid19testal.com,covid19testal.com,,
-2020-04-19,covid19testal.com,ns33.domaincontrol.com,,
-2020-04-19,covid19testal.com,ns34.domaincontrol.com,,
-2020-04-19,covid19-test.co.nz,covid19-test.co.nz,,
-2020-04-19,covid19testingaz.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,covid19testingaz.com,74.208.236.16,US,North America
-2020-04-19,covid19testingaz.com,covid19testingaz.com,,
-2020-04-19,covid19testinglocations.info,192.185.0.218,US,North America
-2020-04-19,covid19testingtucson.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,covid19testingtucson.com,74.208.236.16,US,North America
-2020-04-19,covid19testingtucson.com,covid19testingtucson.com,,
-2020-04-19,covid19testingtucson.com,hostmaster@1und1.com,,
-2020-04-19,covid19testingtucson.com,ns1110.ui-dns.org,,
-2020-04-19,covid19-test-kit.ch,217.26.48.101,CH,Europe
-2020-04-19,covid19-test-kit.ch,covid19-test-kit.ch,,
-2020-04-19,covid19test.llp,covid19test.llp,,
-2020-04-19,covid19testspots.ph,45.79.222.138,US,North America
-2020-04-19,covid19testspots.ph,covid19testspots.ph,,
-2020-04-19,covidabtest.com,184.168.221.61,US,North America
-2020-04-19,covidicure.com,208.91.197.91,VG,North America
-2020-04-19,covidicure.com,covidicure.com,,
-2020-04-19,covidspottest.com,50.63.202.41,US,North America
-2020-04-19,covid-testing.online,GXY9c3BmMSByZWRpcmVjdD1iZWdldC5jb20=,,
-2020-04-19,covid-testing.online,hostmaster@beget.com,,
-2020-04-19,covid-testing.online,mx1.beget.com,,
-2020-04-19,covid-testing.online,mx2.beget.com,,
-2020-04-19,covid-testing.online,ns1.beget.com,,
-2020-04-19,covid-testing.online,v=spf1 redirect=beget.com,,
-2020-04-19,covidtestingtucson.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,covidtestingtucson.com,74.208.236.16,US,North America
-2020-04-19,covidtestingtucson.com,covidtestingtucson.com,,
-2020-04-19,covidtestkit.org,covidtestkit.org,,
-2020-04-19,covidtest.uno,1|www.covidtest.uno,,
-2020-04-19,covidtest.uno,dns16.ovh.net,,
-2020-04-19,covidtest.uno,EzF8d3d3LmNvdmlkdGVzdC51bm8=,,
-2020-04-19,covidtest.uno,HnY9c3BmMSBpbmNsdWRlOm14Lm92aC5jb20gfmFsbA==,,
-2020-04-19,covidtest.uno,redirect.ovh.net,,
-2020-04-19,covidtest.uno,tech@ovh.net,,
-2020-04-19,covidtest.uno,v=spf1 include:mx.ovh.com ~all,,
-2020-04-19,freecovidtestingtucson.com,74.208.236.16,US,North America
-2020-04-19,freecovidtestingtucson.com,freecovidtestingtucson.com,,
-2020-04-19,freecovidtestingtucson.com,ns1031.ui-dns.biz,,
-2020-04-19,freecovidtestingtucson.com,ns1032.ui-dns.de,,
-2020-04-19,freecovidtestingtucson.com,ns1053.ui-dns.org,,
-2020-04-19,freecovidtestingtucson.com,ns1065.ui-dns.com,,
-2020-04-19,hometestcovid19antibody.com,Dv=spf1 ip4:38.113.1.0/24 ip4:38.113.20.0/24 ip4:65.254.224.0/19 ?all,,
-2020-04-19,hometestcovid19antibody.com,RHY9c3BmMSBpcDQ6MzguMTEzLjEuMC8yNCBpcDQ6MzguMTEzLjIwLjAvMjQgaXA0OjY1LjI1NC4yMjQuMC8xOSA/YWxs,,
-2020-04-19,mitestcoronavirus.es,hostmaster@gandi.net,,
-2020-04-19,mitestcoronavirus.es,ns1.gandi.net,,
-2020-04-19,mitestcovid19.es,217.70.184.38,FR,Europe
-2020-04-19,mitestcovid19.es,fb.mail.gandi.net,,
-2020-04-19,mitestcovid19.es,mitestcovid19.es,,
-2020-04-19,mitestcovid19.es,spool.mail.gandi.net,,
-2020-04-19,montestcoronavirus.ws,64.70.19.203,US,North America
-2020-04-19,mx.covid19testproviders.org,66.96.142.50,US,North America
-2020-04-19,mx.covid19testproviders.org,66.96.142.51,US,North America
-2020-04-19,mx.covid19testproviders.org,66.96.142.52,US,North America
-2020-04-19,mx.hometestcovid19.org,66.96.142.50,US,North America
-2020-04-19,mx.hometestcovid19.org,66.96.142.51,US,North America
-2020-04-19,mx.hometestcovid19.org,66.96.142.52,US,North America
-2020-04-19,mx.sicurezzacovid.it,62.149.128.151,IT,Europe
-2020-04-19,mx.sicurezzacovid.it,62.149.128.154,IT,Europe
-2020-04-19,mx.sicurezzacovid.it,62.149.128.157,IT,Europe
-2020-04-19,mx.sicurezzacovid.it,62.149.128.160,IT,Europe
-2020-04-19,mx.sicurezzacovid.it,62.149.128.163,IT,Europe
-2020-04-19,mx.sicurezzacovid.it,62.149.128.166,IT,Europe
-2020-04-19,mytestforcoronavirus.com.ph,45.79.222.138,US,North America
-2020-04-19,mytestforcoronavirus.com.ph,mytestforcoronavirus.com.ph,,
-2020-04-19,newcovid19test.com,ns63.domaincontrol.com,,
-2020-04-19,newcovid19test.com,ns64.domaincontrol.com,,
-2020-04-19,oakbrookcovid19test.com,ns-cloud-b1.googledomains.com,,
-2020-04-19,oakbrookcovid19test.com,ns-cloud-b2.googledomains.com,,
-2020-04-19,oakbrookcovid19test.com,ns-cloud-b3.googledomains.com,,
-2020-04-19,oakbrookcovid19test.com,ns-cloud-b4.googledomains.com,,
-2020-04-19,oraltestforcovid19.ph,45.79.222.138,US,North America
-2020-04-19,pimacountycovid19testing.com,74.208.236.16,US,North America
-2020-04-19,pimacountycovid19testing.com,ns1019.ui-dns.de,,
-2020-04-19,pimacountycovid19testing.com,ns1031.ui-dns.biz,,
-2020-04-19,pimacountycovid19testing.com,ns1043.ui-dns.com,,
-2020-04-19,pimacountycovid19testing.com,ns1110.ui-dns.org,,
-2020-04-19,pimacountycovid19testing.com,pimacountycovid19testing.com,,
-2020-04-19,protocollosicurezzacovid19.com,62.149.128.151,IT,Europe
-2020-04-19,protocollosicurezzacovid19.com,62.149.128.154,IT,Europe
-2020-04-19,protocollosicurezzacovid19.com,62.149.128.157,IT,Europe
-2020-04-19,protocollosicurezzacovid19.com,62.149.128.160,IT,Europe
-2020-04-19,protocollosicurezzacovid19.com,62.149.128.163,IT,Europe
-2020-04-19,protocollosicurezzacovid19.com,62.149.128.166,IT,Europe
-2020-04-19,protocollosicurezzacovid19.com,protocollosicurezzacovid19.com,,
-2020-04-19,protocollosicurezzacovid.com,62.149.128.151,IT,Europe
-2020-04-19,protocollosicurezzacovid.com,62.149.128.154,IT,Europe
-2020-04-19,protocollosicurezzacovid.com,62.149.128.157,IT,Europe
-2020-04-19,protocollosicurezzacovid.com,62.149.128.160,IT,Europe
-2020-04-19,protocollosicurezzacovid.com,62.149.128.163,IT,Europe
-2020-04-19,protocollosicurezzacovid.com,62.149.128.166,IT,Europe
-2020-04-19,protocollosicurezzacovid.com,protocollosicurezzacovid.com,,
-2020-04-19,sicurezzacovid.it,62.149.128.151,IT,Europe
-2020-04-19,sicurezzacovid.it,62.149.128.154,IT,Europe
-2020-04-19,sicurezzacovid.it,62.149.128.157,IT,Europe
-2020-04-19,sicurezzacovid.it,62.149.128.160,IT,Europe
-2020-04-19,sicurezzacovid.it,62.149.128.163,IT,Europe
-2020-04-19,sicurezzacovid.it,62.149.128.166,IT,Europe
-2020-04-19,sicurezzacovid.it,sicurezzacovid.it,,
-2020-04-19,testcoronavirusadomicilio.com.ph,45.79.222.138,US,North America
-2020-04-19,testcovid19adomicilio.es,217.70.184.38,FR,Europe
-2020-04-19,testcovid19adomicilio.es,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
-2020-04-19,testcovid19adomicilio.es,testcovid19adomicilio.es,,
-2020-04-19,testcovid19adomicilio.es,'v=spf1 include:_mailcust.gandi.net ?all,,
-2020-04-19,testcovid19mobile.com,184.168.221.49,US,North America
-2020-04-19,testcovid19mobile.com,testcovid19mobile.com,,
-2020-04-19,testlocationscovid19.com,184.168.221.47,US,North America
-2020-04-19,testlocationscovid19.com,testlocationscovid19.com,,
-2020-04-19,testnacovid.sk,91.223.69.11,SK,Europe
-2020-04-19,testnacovid.sk,testnacovid.sk,,
-2020-04-19,testviruscovid19.com,ns1.dondominio.com,,
-2020-04-19,testviruscovid19.com,ns2.dondominio.com,,
-2020-04-19,tucsoncovid19testing.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,tucsoncovid19testing.com,74.208.236.16,US,North America
-2020-04-19,tucsoncovid19testing.com,tucsoncovid19testing.com,,
-2020-04-19,whocovid19test.com,77.78.104.3,CZ,Europe
-2020-04-19,whocovid19test.com,mail.whocovid19test.com,,
-2020-04-19,www.azcovid19testing.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,www.azcovid19testing.com,74.208.236.16,US,North America
-2020-04-19,www.coronavirus-autotests.com,www.coronavirus-autotests.com.s.strikinglydns.com,,
-2020-04-19,www.covid19antibodytestprovider.org,146.148.102.201,US,North America
-2020-04-19,www.covid19quickresponsetest.com.ph,45.79.222.138,US,North America
-2020-04-19,www.covid19-schnelltest.online,89.31.143.1,DE,Europe
-2020-04-19,www.covid19testingaz.com,74.208.236.16,US,North America
-2020-04-19,www.covid19testingtucson.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,www.covid19testingtucson.com,74.208.236.16,US,North America
-2020-04-19,www.covid19test.llp,127.0.53.53,,
-2020-04-19,www.covidtestingtucson.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,www.covidtestingtucson.com,74.208.236.16,US,North America
-2020-04-19,www.freecovidtestingtucson.com,74.208.236.16,US,North America
-2020-04-19,www.hometestcovid19.org,146.148.102.201,US,North America
-2020-04-19,www.pimacountycovid19testing.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,www.sicurezzacovid.it,62.149.128.40,IT,Europe
-2020-04-19,www.tucsoncovid19testing.com,2607:f1c0:100f:f000::2cf,,
-2020-04-19,www.whocovid19test.com,77.78.104.3,CZ,Europe
-2020-04-19,www.whocovid19test.com,whocovid19test.com,,
 2020-04-20,chicagocoronavirustest.com,chicagocoronavirustest.com,,
 2020-04-20,columbuscovid19testing.com,50.63.202.40,US,North America
 2020-04-20,columbuscovid19testing.com,columbuscovid19testing.com,,
@@ -191,6 +27,8 @@
 2020-04-20,covid19employeetesting.com,50.63.202.33,US,North America
 2020-04-20,covid19employeetesting.com,covid19employeetesting.com,,
 2020-04-20,covid19-kit-test.fr,covid19-kit-test.fr,,
+2020-04-20,covid19-kit-test.fr,ns31.infomaniak.com,,
+2020-04-20,covid19-kit-test.fr,ns32.infomaniak.com,,
 2020-04-20,covid19latest.ml,185.27.134.213,GB,Europe
 2020-04-20,covid19latest.ml,covid19latest.ml,,
 2020-04-20,covid19onsitetesting.com,184.168.221.48,US,North America
@@ -216,6 +54,8 @@
 2020-04-20,covidcure.ch,covidcure.ch,,
 2020-04-20,covidcure.co.uk,46.32.240.47,GB,Europe
 2020-04-20,covidcure.co.uk,covidcure.co.uk,,
+2020-04-20,covidcure.de,185.181.104.74,DE,Europe
+2020-04-20,covidcure.de,covidcure.de,,
 2020-04-20,covidfreemanicure.com,covidfreemanicure.com,,
 2020-04-20,covidfreemanicure.com,ns3.epik.com,,
 2020-04-20,covidfreemanicure.com,ns4.epik.com,,
@@ -252,6 +92,7 @@
 2020-04-20,covidsneltestservice.com,ns3.webhostingserver.nl,,
 2020-04-20,covidtestalabama.com,50.63.202.42,US,North America
 2020-04-20,covidtestalabama.com,covidtestalabama.com,,
+2020-04-20,covid-test.company,covid-test.company,,
 2020-04-20,covidtested.org.uk,covidtested.org.uk,,
 2020-04-20,covidtester.be,2a00:4e40:1:1::2:207,,
 2020-04-20,covidtester.be,covidtester.be,,
@@ -294,6 +135,9 @@
 2020-04-20,gettestedcovid-19.com,gettestedcovid-19.com,,
 2020-04-20,iamcovidtested.com,208.91.197.91,VG,North America
 2020-04-20,iamcovidtested.com,iamcovidtested.com,,
+2020-04-20,iwantacovidtest.org,iwantacovidtest.org,,
+2020-04-20,iwantacovidtest.org,ns29.worldnic.com,,
+2020-04-20,iwantacovidtest.org,ns30.worldnic.com,,
 2020-04-20,lasvegascovidtesting.com,184.168.221.48,US,North America
 2020-04-20,lasvegascovidtesting.com,lasvegascovidtesting.com,,
 2020-04-20,lillycovid19testng.com,lillycovid19testng.com,,
@@ -320,8 +164,12 @@
 2020-04-20,rapidtestcovid19.fr,ns16.ovh.net,,
 2020-04-20,rapidtestcovid19.fr,rapidtestcovid19.fr,,
 2020-04-20,rapidtest-covid-19.info,rapidtest-covid-19.info,,
+2020-04-20,rapidtestkitsforcovid19.com,184.168.221.32,US,North America
 2020-04-20,rapidtestkitsforcovid19.com,50.63.202.60,US,North America
 2020-04-20,rapidtestkitsforcovid19.com,rapidtestkitsforcovid19.com,,
+2020-04-20,securecovid19.it,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
+2020-04-20,securecovid19.it,securecovid19.it,,
+2020-04-20,securecovid19.it,#v=spf1 include:spf.webapps.net ~all,,
 2020-04-20,tampacovid-19test.com,184.168.221.40,US,North America
 2020-04-20,tampacovid-19test.com,tampacovid-19test.com,,
 2020-04-20,testcovid19.com.ar,testcovid19.com.ar,,
@@ -339,13 +187,17 @@
 2020-04-20,txcovidtest.org,2606:4700:20::681a:273,,
 2020-04-20,txcovidtest.org,2606:4700:20::681a:373,,
 2020-04-20,txcovidtest.org,txcovidtest.org,,
+2020-04-20,uscovidtest.us,50.63.202.39,US,North America
+2020-04-20,uscovidtest.us,uscovidtest.us,,
 2020-04-20,www.chicagocoronavirustest.com,184.168.221.42,US,North America
 2020-04-20,www.chicagocoronavirustest.com,chicagocoronavirustest.com,,
 2020-04-20,www.covid-19thuistest.nl,188.93.150.84,NL,Europe
 2020-04-20,www.covidsecure.nl,185.96.6.62,NL,Europe
+2020-04-20,www.covid-sneltestservice.be,141.138.169.201,NL,Europe
 2020-04-20,www.covidsneltestservice.com,141.138.169.201,NL,Europe
 2020-04-20,www.covidtest.ph,45.79.222.138,US,North America
 2020-04-20,www.covidtestrapide.fr,213.186.33.5,FR,Europe
 2020-04-20,www.ino.lillycovid19testng.com,185.53.177.54,DE,Europe
+2020-04-20,www.iwantacovidtest.org,208.91.197.27,US,North America
 2020-04-20,yourcovid19testkit.ph,45.79.222.138,US,North America
 2020-04-20,yourcovid19testkit.ph,yourcovid19testkit.ph,,
