@@ -3,8 +3,6 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-20,chicagocoronavirustest.com,chicagocoronavirustest.com,,
-2020-04-20,columbuscovid19testing.com,50.63.202.40,US,North America
-2020-04-20,columbuscovid19testing.com,columbuscovid19testing.com,,
 2020-04-20,coronavirushomestesting.co.uk,184.168.221.58,US,North America
 2020-04-20,coronavirushomestesting.co.uk,50.63.202.52,US,North America
 2020-04-20,coronavirushomestesting.co.uk,coronavirushomestesting.co.uk,,
@@ -56,8 +54,6 @@
 2020-04-20,covidfreemanicure.com,covidfreemanicure.com,,
 2020-04-20,covidfreemanicure.com,ns3.epik.com,,
 2020-04-20,covidfreemanicure.com,ns4.epik.com,,
-2020-04-20,covidonlinetest.co.uk,50.63.202.38,US,North America
-2020-04-20,covidonlinetest.co.uk,covidonlinetest.co.uk,,
 2020-04-20,covidsecure.nl,185.96.6.62,NL,Europe
 2020-04-20,covidsecure.nl,covidsecure.nl,,
 2020-04-20,covidsecure.nl,IHY9c3BmMSBhIG14IGlwNDoxODUuOTYuNi42MiB+YWxs,,
@@ -81,6 +77,7 @@
 2020-04-20,covidtestonline.co.uk,184.168.221.52,US,North America
 2020-04-20,covidtestonline.co.uk,50.63.202.56,US,North America
 2020-04-20,covidtestonline.co.uk,covidtestonline.co.uk,,
+2020-04-20,covidtestslab.com,184.168.221.47,US,North America
 2020-04-20,covidtestslab.com,184.168.221.51,US,North America
 2020-04-20,covidtestslab.com,184.168.221.58,US,North America
 2020-04-20,covidtest.vegas,covidtest.vegas,,
@@ -151,6 +148,7 @@
 2020-04-21,coronavirus-19-testkits.com,coronavirus-19-testkits.com,,
 2020-04-21,coronavirusbloodtesting.com,50.63.202.32,US,North America
 2020-04-21,coronavirusbloodtesting.com,coronavirusbloodtesting.com,,
+2020-04-21,coronaviruslatest.online,coronaviruslatest.online,,
 2020-04-21,coronavirus-latestupdate.ph,45.79.222.138,US,North America
 2020-04-21,coronavirus-latestupdate.ph,coronavirus-latestupdate.ph,,
 2020-04-21,coronavirussalivatestkits.ph,45.79.222.138,US,North America
@@ -182,6 +180,7 @@
 2020-04-21,covid19latest.info,192.161.187.200,US,North America
 2020-04-21,covid19latest.info,209.141.38.71,US,North America
 2020-04-21,covid19latest.info,covid19latest.info,,
+2020-04-21,covid19rapidtesttaken.com,covid19rapidtesttaken.com,,
 2020-04-21,covid19salivatestkits.fm,mail.h-email.net,,
 2020-04-21,covid-19-test.co,184.168.221.54,US,North America
 2020-04-21,covid-19-test.co,covid-19-test.co,,
@@ -215,6 +214,7 @@
 2020-04-21,covid-19test.shop.hu,'v=spf1 mx a ptr ip4:92.43.200.0/21 ?all,,
 2020-04-21,covid-19worksitetesting.com,50.63.202.44,US,North America
 2020-04-21,covid-19worksitetesting.com,covid-19worksitetesting.com,,
+2020-04-21,covid2testresults.com,66.96.162.139,US,North America
 2020-04-21,covid2testresults.com,covid2testresults.com,,
 2020-04-21,covidantibodytesting.net,covidantibodytesting.net,,
 2020-04-21,covidcrewtesting.com,covidcrewtesting.com,,
@@ -222,6 +222,7 @@
 2020-04-21,covidcure.fr,covidcure.fr,,
 2020-04-21,covidcure.fr,ns81.domaincontrol.com,,
 2020-04-21,covidcure.fr,ns82.domaincontrol.com,,
+2020-04-21,covidcure.nl,50.63.202.44,US,North America
 2020-04-21,covidcure.nl,covidcure.nl,,
 2020-04-21,covidcures.live,145.14.144.197,US,North America
 2020-04-21,covidcures.live,2a02:4780:dead:3617::1,,
