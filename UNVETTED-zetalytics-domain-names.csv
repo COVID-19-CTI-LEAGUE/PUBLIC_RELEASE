@@ -31,6 +31,7 @@
 2020-04-20,covid19-kit-test.fr,ns32.infomaniak.com,,
 2020-04-20,covid19latest.ml,185.27.134.213,GB,Europe
 2020-04-20,covid19latest.ml,covid19latest.ml,,
+2020-04-20,covid19latest.ml,mx.covid19latest.ml,,
 2020-04-20,covid19onsitetesting.com,184.168.221.48,US,North America
 2020-04-20,covid19onsitetesting.com,covid19onsitetesting.com,,
 2020-04-20,covid19-secure.net,104.18.42.226,US,North America
@@ -73,22 +74,11 @@
 2020-04-20,covidsecure.nl,covidsecure.nl,,
 2020-04-20,covidsecure.nl,IHY9c3BmMSBhIG14IGlwNDoxODUuOTYuNi42MiB+YWxs,,
 2020-04-20,covidsecure.nl, v=spf1 a mx ip4:185.96.6.62 ~all,,
-2020-04-20,covid-sneltestservice.be,141.138.169.201,NL,Europe
-2020-04-20,covid-sneltestservice.be,covid-sneltestservice.be,,
-2020-04-20,covidsneltestservice.be,covidsneltestservice.be,,
 2020-04-20,covid-sneltestservice.be,mail.covid-sneltestservice.be,,
-2020-04-20,covidsneltestservice.be,mail.covidsneltestservice.be,,
-2020-04-20,covid-sneltestservice.be,ns1.webhostingserver.nl,,
 2020-04-20,covid-sneltestservice.be,ns2.webhostingserver.nl,,
 2020-04-20,covid-sneltestservice.be,ns3.webhostingserver.nl,,
 2020-04-20,covid-sneltestservice.com,141.138.169.201,NL,Europe
-2020-04-20,covidsneltestservice.com,141.138.169.201,NL,Europe
 2020-04-20,covid-sneltestservice.com,covid-sneltestservice.com,,
-2020-04-20,covidsneltestservice.com,covidsneltestservice.com,,
-2020-04-20,covidsneltestservice.com,mail.covidsneltestservice.com,,
-2020-04-20,covidsneltestservice.com,ns1.webhostingserver.nl,,
-2020-04-20,covidsneltestservice.com,ns2.webhostingserver.nl,,
-2020-04-20,covidsneltestservice.com,ns3.webhostingserver.nl,,
 2020-04-20,covid-test.company,covid-test.company,,
 2020-04-20,covidtested.org.uk,covidtested.org.uk,,
 2020-04-20,covidtester.be,2a00:4e40:1:1::2:207,,
@@ -182,7 +172,6 @@
 2020-04-20,www.covidonlinetest.co.uk,covidonlinetest.co.uk,,
 2020-04-20,www.covidsecure.nl,185.96.6.62,NL,Europe
 2020-04-20,www.covid-sneltestservice.be,141.138.169.201,NL,Europe
-2020-04-20,www.covidsneltestservice.com,141.138.169.201,NL,Europe
 2020-04-20,www.covidtest.ph,45.79.222.138,US,North America
 2020-04-20,www.ino.lillycovid19testng.com,185.53.177.54,DE,Europe
 2020-04-20,www.iwantacovidtest.org,208.91.197.27,US,North America
@@ -195,6 +184,8 @@
 2020-04-21,bestcovidtests.com,ns2.monikerdns.net,,
 2020-04-21,bestcovidtests.com,ns3.monikerdns.net,,
 2020-04-21,bestcovidtests.com,ns4.monikerdns.net,,
+2020-04-21,birminghamcovid19testing.com,184.168.131.241,US,North America
+2020-04-21,birminghamcovid19testing.com,birminghamcovid19testing.com,,
 2020-04-21,birminghamcovidtesting.com,184.168.131.241,US,North America
 2020-04-21,birminghamcovidtesting.com,birminghamcovidtesting.com,,
 2020-04-21,chicagocovid19tests.com,chicagocovid19tests.com,,
@@ -246,6 +237,8 @@
 2020-04-21,covid19-tests.co.uk,ns2.123-reg.co.uk,,
 2020-04-21,covid-19test.shop.hu,covid-19test.shop.hu,,
 2020-04-21,covid-19test.shop.hu,J3Y9c3BmMSBteCBhIHB0ciBpcDQ6OTIuNDMuMjAwLjAvMjEgP2FsbA==,,
+2020-04-21,covid-19test.shop.hu,ns1.mediacenter.hu,,
+2020-04-21,covid-19test.shop.hu,ns2.mediacenter.hu,,
 2020-04-21,covid-19test.shop.hu,'v=spf1 mx a ptr ip4:92.43.200.0/21 ?all,,
 2020-04-21,covid-19worksitetesting.com,50.63.202.44,US,North America
 2020-04-21,covid-19worksitetesting.com,covid-19worksitetesting.com,,
@@ -292,6 +285,7 @@
 2020-04-21,healthyworksitecovid-19testing.com,healthyworksitecovid-19testing.com,,
 2020-04-21,huntsvillecovid19testing.com,50.63.202.51,US,North America
 2020-04-21,huntsvillecovid19testing.com,huntsvillecovid19testing.com,,
+2020-04-21,illinoiscovid19test.com,198.71.232.3,US,North America
 2020-04-21,lacovid19-test.com,184.168.221.54,US,North America
 2020-04-21,lacovid19-test.com,lacovid19-test.com,,
 2020-04-21,newyorkcoronavirustests.com,newyorkcoronavirustests.com,,
@@ -304,11 +298,15 @@
 2020-04-21,safetest-covid-19.com,50.63.202.53,US,North America
 2020-04-21,safetest-covid-19.com,safetest-covid-19.com,,
 2020-04-21,test4covid.center,test4covid.center,,
+2020-04-21,testcoronavirusadomicilio.es,217.70.184.38,FR,Europe
 2020-04-21,testcoronavirusadomicilio.es,fb.mail.gandi.net,,
 2020-04-21,testcoronavirusadomicilio.es,ns-20-c.gandi.net,,
 2020-04-21,testcoronavirusadomicilio.es,ns-62-b.gandi.net,,
 2020-04-21,testcoronavirusadomicilio.es,spool.mail.gandi.net,,
 2020-04-21,testcoronavirusadomicilio.es,testcoronavirusadomicilio.es,,
+2020-04-21,testcoronavirus.tk,ns01.freenom.com,,
+2020-04-21,testcoronavirus.tk,ns03.freenom.com,,
+2020-04-21,testcoronavirus.tk,testcoronavirus.tk,,
 2020-04-21,tested4covid.co.uk,50.63.202.49,US,North America
 2020-04-21,tested4covid.co.uk,tested4covid.co.uk,,
 2020-04-21,tested4covid.net,50.63.202.54,US,North America
@@ -322,6 +320,8 @@
 2020-04-21,testrapidcovid19.pt,dns3.host-redirect.com,,
 2020-04-21,testrapidcovid19.pt,dns4.host-redirect.com,,
 2020-04-21,testrapidcovid19.pt,testrapidcovid19.pt,,
+2020-04-21,test-rapide-covid.com,23.227.38.65,CA,North America
+2020-04-21,test-rapide-covid.com,test-rapide-covid.com,,
 2020-04-21,testrapidocovid19.es,ns1037.ui-dns.com,,
 2020-04-21,testrapidocovid19.es,ns1041.ui-dns.de,,
 2020-04-21,testrapidocovid19.es,ns1078.ui-dns.org,,
