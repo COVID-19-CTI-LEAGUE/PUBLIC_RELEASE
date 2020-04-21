@@ -3,7 +3,6 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-20,corona-virus19testing.com,184.168.221.55,US,North America
-2020-04-20,coronavirushomestesting.co.uk,184.168.221.58,US,North America
 2020-04-20,coronavirushomestesting.co.uk,50.63.202.52,US,North America
 2020-04-20,covid19-cure-coronavirus.com,62.210.16.23,FR,Europe
 2020-04-20,covid19-cure-coronavirus.com,covid19-cure-coronavirus.com,,
@@ -11,7 +10,6 @@
 2020-04-20,covid19employeetesting.com,184.168.221.46,US,North America
 2020-04-20,covid19employeetesting.com,184.168.221.53,US,North America
 2020-04-20,covid19employeetesting.com,50.63.202.48,US,North America
-2020-04-20,covid19employeetestkit.com,covid19employeetestkit.com,,
 2020-04-20,covid19-kit-test.fr,hostmaster@infomaniak.ch,,
 2020-04-20,covid19-kit-test.fr,ns31.infomaniak.com,,
 2020-04-20,covid19latest.ml,mx.covid19latest.ml,,
@@ -298,6 +296,8 @@
 2020-04-21,safetest-covid-19.com,safetest-covid-19.com,,
 2020-04-21,speedtestcovid19.online,91.198.146.247,PL,Europe
 2020-04-21,speedtestcovid19.online,speedtestcovid19.online,,
+2020-04-21,swiftcovid19test.com,50.63.202.54,US,North America
+2020-04-21,swiftcovid19test.com,swiftcovid19test.com,,
 2020-04-21,test4covid.center,test4covid.center,,
 2020-04-21,testcoronavirusadomicilio.es,217.70.184.38,FR,Europe
 2020-04-21,testcoronavirusadomicilio.es,fb.mail.gandi.net,,
