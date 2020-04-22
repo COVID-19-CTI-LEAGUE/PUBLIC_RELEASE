@@ -2,8 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-21,antibodycovid-19test.com,64.98.145.30,CA,North America
-2020-04-21,antibodycovid-19test.com,antibodycovid-19test.com,,
 2020-04-21,autodiscover.test-covid19.store,162.241.244.79,US,North America
 2020-04-21,bestcovidtests.com,bestcovidtests.com,,
 2020-04-21,bestcovidtests.com,ns1.monikerdns.net,,
@@ -150,6 +148,9 @@
 2020-04-21,covidhometestkits.com,35.169.225.248,US,North America
 2020-04-21,covidhometestkits.com,52.0.7.30,US,North America
 2020-04-21,covidhometestkits.com,covidhometestkits.com,,
+2020-04-21,covidrapidtesting.store,104.18.46.8,US,North America
+2020-04-21,covidrapidtesting.store,104.18.47.8,US,North America
+2020-04-21,covidrapidtesting.store,covidrapidtesting.store,,
 2020-04-21,covidserumtesting.org,covidserumtesting.org,,
 2020-04-21,covid-sneltestservice.nl,141.138.169.201,NL,Europe
 2020-04-21,covidsneltestservice.nl,141.138.169.201,NL,Europe
@@ -237,6 +238,8 @@
 2020-04-21,rapidtestingcovid-19.com,rapidtestingcovid-19.com,,
 2020-04-21,safetest-covid-19.com,50.63.202.33,US,North America
 2020-04-21,safetest-covid-19.com,50.63.202.53,US,North America
+2020-04-21,safetest-covid-19.com,ns23.domaincontrol.com,,
+2020-04-21,safetest-covid-19.com,ns24.domaincontrol.com,,
 2020-04-21,safetest-covid-19.com,safetest-covid-19.com,,
 2020-04-21,speedtestcovid19.online,91.198.146.247,PL,Europe
 2020-04-21,speedtestcovid19.online,speedtestcovid19.online,,
@@ -304,12 +307,27 @@
 2020-04-21,www.covidtestsreview.com,50.63.202.37,US,North America
 2020-04-21,www.covidtestsreview.com,covidtestsreview.com,,
 2020-04-22,autodiscover.immunitytestcovid19.com,194.39.124.224,PT,Europe
+2020-04-22,coronavirusdnatestkits.ph,45.79.222.138,US,North America
+2020-04-22,coronavirusdnatestkits.ph,coronavirusdnatestkits.ph,,
+2020-04-22,coronavirusdnatestkits.ws,coronavirusdnatestkits.ws,,
+2020-04-22,covid19-antibody-test.com,66.96.162.140,US,North America
 2020-04-22,covid19-antibody-test.com,covid19-antibody-test.com,,
+2020-04-22,covid19surfacetest.uk,covid19surfacetest.uk,,
 2020-04-22,covid-19-test.at,35.197.250.147,,Europe
 2020-04-22,covid-19-test.at,covid-19-test.at,,
 2020-04-22,covid19testdepot.com,covid19testdepot.com,,
+2020-04-22,covid-19-tester.nl,covid-19-tester.nl,,
+2020-04-22,covid19testspots.com,50.63.202.51,US,North America
 2020-04-22,covid19testspots.com,covid19testspots.com,,
+2020-04-22,covid-19testtruck.com,covid-19testtruck.com,,
+2020-04-22,covid-19testtruck.com,ns-1487.awsdns-57.org,,
+2020-04-22,covid-19testtruck.com,ns-1565.awsdns-03.co.uk,,
+2020-04-22,covid-19testtruck.com,ns-231.awsdns-28.com,,
+2020-04-22,covid-19testtruck.com,ns-910.awsdns-49.net,,
 2020-04-22,immunitytestcovid19.com,immunitytestcovid19.com,,
+2020-04-22,seattlecovidtest.com,ns21.domaincontrol.com,,
+2020-04-22,seattlecovidtest.com,ns22.domaincontrol.com,,
+2020-04-22,seattlecovidtest.com,seattlecovidtest.com,,
 2020-04-22,www.covid-19-test.at,35.197.250.147,,Europe
 2020-04-22,www.immunitytestcovid19.com,194.39.124.224,PT,Europe
 2020-04-22,www.immunitytestcovid19.com,immunitytestcovid19.com,,
