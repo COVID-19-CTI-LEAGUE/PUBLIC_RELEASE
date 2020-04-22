@@ -24,6 +24,8 @@
 2020-04-21,corona19-testing.com,corona19-testing.com,,
 2020-04-21,corona19-testing.com,ns07.domaincontrol.com,,
 2020-04-21,corona19-testing.com,ns08.domaincontrol.com,,
+2020-04-21,coronavirus-19-testkits.com,0,,
+2020-04-21,coronavirus-19-testkits.com,10,,
 2020-04-21,coronavirus-19-testkits.com,35.186.238.101,US,North America
 2020-04-21,coronavirus-19-testkits.com,coronavirus-19-testkits.com,,
 2020-04-21,coronavirusantibodytest.org,coronavirusantibodytest.org,,
@@ -94,7 +96,6 @@
 2020-04-21,covid19testonline.co.uk,covid19testonline.co.uk,,
 2020-04-21,covid-19test.shop.hu,ns1.mediacenter.hu,,
 2020-04-21,covid-19test.shop.hu,ns2.mediacenter.hu,,
-2020-04-21,covid-19test.shop.hu,'v=spf1 mx a ptr ip4:92.43.200.0/21 ?all,,
 2020-04-21,covid19ushometest.com,covid19ushometest.com,,
 2020-04-21,covid19ushometest.com,ns01.domaincontrol.com,,
 2020-04-21,covid19ushometest.com,ns02.domaincontrol.com,,
@@ -125,9 +126,6 @@
 2020-04-21,covidcures.live,145.14.144.197,US,North America
 2020-04-21,covidcures.live,2a02:4780:dead:3617::1,,
 2020-04-21,covidcures.live,covidcures.live,,
-2020-04-21,covidfingerbloodtest.com,covidfingerbloodtest.com,,
-2020-04-21,covidfingerbloodtest.com,ns47.domaincontrol.com,,
-2020-04-21,covidfingerbloodtest.com,ns48.domaincontrol.com,,
 2020-04-21,covidhometestkit.org,34.202.122.77,US,North America
 2020-04-21,covidhometestkit.org,35.169.225.248,US,North America
 2020-04-21,covidhometestkit.org,52.0.7.30,US,North America
@@ -161,7 +159,6 @@
 2020-04-21,fckcovidfindacure.com,fckcovidfindacure.com,,
 2020-04-21,findcovidtesting.co,findcovidtesting.co,,
 2020-04-21,findcovidtesting.co,mail.h-email.net,,
-2020-04-21,fingerprickbloodtestsamplesforcovid-19.com,fingerprickbloodtestsamplesforcovid-19.com,,
 2020-04-21,getcovid-tested.com,184.168.221.58,US,North America
 2020-04-21,getcovid-tested.com,getcovid-tested.com,,
 2020-04-21,getcovidtestingnow.com,216.239.32.21,US,North America
@@ -202,11 +199,7 @@
 2020-04-21,nwhcovid19testkit.info,50.63.202.39,US,North America
 2020-04-21,nwhcovid19testkit.info,50.63.202.41,US,North America
 2020-04-21,nwhcovid19testkit.info,nwhcovid19testkit.info,,
-2020-04-21,rapidtestcovid19.it,1|www.rapidtestcovid19.it,,
 2020-04-21,rapidtestcovid19.it,GTF8d3d3LnJhcGlkdGVzdGNvdmlkMTkuaXQ=,,
-2020-04-21,rapidtestcovid19.it,HnY9c3BmMSBpbmNsdWRlOm14Lm92aC5jb20gfmFsbA==,,
-2020-04-21,rapidtestcovid19.it,rapidtestcovid19.it,,
-2020-04-21,rapidtestcovid19.it,v=spf1 include:mx.ovh.com ~all,,
 2020-04-21,rapidtestingcovid-19.com,50.63.202.39,US,North America
 2020-04-21,rapidtestingcovid-19.com,50.63.202.45,US,North America
 2020-04-21,rapidtestingcovid-19.com,50.63.202.62,US,North America
@@ -276,6 +269,7 @@
 2020-04-22,coronavirusdnatestkits.ph,45.79.222.138,US,North America
 2020-04-22,coronavirusdnatestkits.ph,coronavirusdnatestkits.ph,,
 2020-04-22,coronavirusdnatestkits.ws,coronavirusdnatestkits.ws,,
+2020-04-22,coronavirustested.org,coronavirustested.org,,
 2020-04-22,covid19anitbodytest.com,50.63.202.33,US,North America
 2020-04-22,covid19anitbodytest.com,covid19anitbodytest.com,,
 2020-04-22,covid19-antibody-test.com,66.96.162.140,US,North America
@@ -294,6 +288,7 @@
 2020-04-22,covid19testingaz.ws,mail.hope-mail.com,,
 2020-04-22,covid19test-kits.co.uk,covid19test-kits.co.uk,,
 2020-04-22,covid-19testlab.com,covid-19testlab.com,,
+2020-04-22,covid19test.pt,covid19test.pt,,
 2020-04-22,covid19testspots.com,50.63.202.51,US,North America
 2020-04-22,covid19testspots.com,covid19testspots.com,,
 2020-04-22,covid-19testtruck.com,covid-19testtruck.com,,
@@ -313,6 +308,7 @@
 2020-04-22,seattlecovidtest.com,ns21.domaincontrol.com,,
 2020-04-22,seattlecovidtest.com,ns22.domaincontrol.com,,
 2020-04-22,seattlecovidtest.com,seattlecovidtest.com,,
+2020-04-22,test.covid-19canada.org,205.144.171.223,US,North America
 2020-04-22,testcovid19direct.com,217.76.142.207,ES,Europe
 2020-04-22,testcovid19direct.com,mx.serviciodecorreo.es,,
 2020-04-22,testcovid19direct.com,testcovid19direct.com,,
@@ -321,6 +317,9 @@
 2020-04-22,testdepistagecovid19.fr,HTF8d3d3LnRlc3RkZXBpc3RhZ2Vjb3ZpZDE5LmZy,,
 2020-04-22,testdepistagecovid19.fr,testdepistagecovid19.fr,,
 2020-04-22,testdepistagecovid19.fr,v=spf1 include:mx.ovh.com ~all,,
+2020-04-22,teste.covid-19canada.org,205.144.171.223,US,North America
+2020-04-22,testnacovid19.com.pl,testnacovid19.com.pl,,
+2020-04-22,topcovidtests.com,topcovidtests.com,,
 2020-04-22,tucsoncovid19testing.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-04-22,tucsoncovid19testing.ws,tucsoncovid19testing.ws,,
 2020-04-22,tucsoncovid19testing.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
@@ -332,3 +331,4 @@
 2020-04-22,www.covid19test-kits.co.uk,covid19test-kits.co.uk,,
 2020-04-22,www.immunitytestcovid19.com,194.39.124.224,PT,Europe
 2020-04-22,www.immunitytestcovid19.com,immunitytestcovid19.com,,
+2020-04-22,www.test.covid-19canada.org,205.144.171.223,US,North America
