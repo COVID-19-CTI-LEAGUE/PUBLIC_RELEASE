@@ -2,78 +2,8 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-20,corona-virus19testing.com,184.168.221.55,US,North America
-2020-04-20,coronavirushomestesting.co.uk,50.63.202.52,US,North America
-2020-04-20,covid19-cure-coronavirus.com,62.210.16.23,FR,Europe
-2020-04-20,covid19-cure-coronavirus.com,covid19-cure-coronavirus.com,,
-2020-04-20,covid19employeetesting.com,184.168.221.40,US,North America
-2020-04-20,covid19employeetesting.com,184.168.221.46,US,North America
-2020-04-20,covid19employeetesting.com,184.168.221.53,US,North America
-2020-04-20,covid19employeetesting.com,50.63.202.48,US,North America
-2020-04-20,covid19-kit-test.fr,hostmaster@infomaniak.ch,,
-2020-04-20,covid19-kit-test.fr,ns31.infomaniak.com,,
-2020-04-20,covid19latest.ml,mx.covid19latest.ml,,
-2020-04-20,covid19-secure.net,104.18.42.226,US,North America
-2020-04-20,covid19-secure.net,104.18.43.226,US,North America
-2020-04-20,covid19-secure.net,2606:4700:3030::6812:2ae2,,
-2020-04-20,covid19-secure.net,2606:4700:3036::6812:2be2,,
-2020-04-20,covid19-secure.net,covid19-secure.net,,
-2020-04-20,covid19testingsites.org,208.91.197.27,US,North America
-2020-04-20,covidcure.ch,covidcure.ch,,
-2020-04-20,covidcure.co.uk,46.32.240.47,GB,Europe
-2020-04-20,covidcure.co.uk,covidcure.co.uk,,
-2020-04-20,covidcure.de,185.181.104.74,DE,Europe
-2020-04-20,covidcure.de,covidcure.de,,
-2020-04-20,covidfreemanicure.com,88.214.207.96,GB,Europe
-2020-04-20,covidfreemanicure.com,covidfreemanicure.com,,
-2020-04-20,covidfreemanicure.com,ns3.epik.com,,
-2020-04-20,covidfreemanicure.com,ns4.epik.com,,
-2020-04-20,covidsecure.nl,185.96.6.62,NL,Europe
-2020-04-20,covidsecure.nl,covidsecure.nl,,
-2020-04-20,covidsecure.nl,IHY9c3BmMSBhIG14IGlwNDoxODUuOTYuNi42MiB+YWxs,,
-2020-04-20,covidsecure.nl, v=spf1 a mx ip4:185.96.6.62 ~all,,
-2020-04-20,covidsneltestservice.be,141.138.169.201,NL,Europe
-2020-04-20,covid-sneltestservice.com,141.138.169.201,NL,Europe
-2020-04-20,covid-sneltestservice.com,ns1.webhostingserver.nl,,
-2020-04-20,covid-sneltestservice.com,ns2.webhostingserver.nl,,
-2020-04-20,covid-sneltestservice.com,ns3.webhostingserver.nl,,
-2020-04-20,covidtested.org.uk,184.168.221.37,US,North America
-2020-04-20,covidtesthub.com,50.63.202.49,US,North America
-2020-04-20,covidtesthub.com,50.63.202.54,US,North America
-2020-04-20,covidtestingaz.com,ns1019.ui-dns.de,,
-2020-04-20,covidtestingaz.com,ns1031.ui-dns.biz,,
-2020-04-20,covidtestingaz.com,ns1043.ui-dns.com,,
-2020-04-20,covidtestingaz.com,ns1110.ui-dns.org,,
-2020-04-20,covidtestonline.co.uk,50.63.202.56,US,North America
-2020-04-20,covidtestslab.com,184.168.221.47,US,North America
-2020-04-20,covidtestslab.com,184.168.221.51,US,North America
-2020-04-20,covidtestslab.com,184.168.221.58,US,North America
-2020-04-20,covidtestslab.com,50.63.202.42,US,North America
-2020-04-20,covidtest.vegas,50.63.202.56,US,North America
-2020-04-20,covidtest.vegas,ns17.domaincontrol.com,,
-2020-04-20,covidtest.vegas,ns18.domaincontrol.com,,
-2020-04-20,covidtest.zone,184.168.221.43,US,North America
-2020-04-20,covidtest.zone,ns63.domaincontrol.com,,
-2020-04-20,covidtest.zone,ns64.domaincontrol.com,,
-2020-04-20,cure4covid.org,cure4covid.org,,
-2020-04-20,curecorona19.com,184.168.221.62,US,North America
-2020-04-20,curecorona19.com,50.63.202.45,US,North America
-2020-04-20,curecorona19.com,curecorona19.com,,
-2020-04-20,lillycovid19testting.com,mail.h-email.net,,
-2020-04-20,philadelphiacoronavirustest.com,ns31.domaincontrol.com,,
-2020-04-20,philadelphiacoronavirustest.com,ns32.domaincontrol.com,,
-2020-04-20,rapidtestkitsforcovid19.com,50.63.202.49,US,North America
-2020-04-20,securecovid19.it,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
-2020-04-20,securecovid19.it,securecovid19.it,,
-2020-04-20,securecovid19.it,#v=spf1 include:spf.webapps.net ~all,,
-2020-04-20,trackcovid19tests.com,184.168.221.55,US,North America
-2020-04-20,trackcovid19tests.com,50.63.202.62,US,North America
-2020-04-20,trackcovid19tests.com,50.63.202.63,US,North America
-2020-04-20,www.corona-covid19test.com.ph,45.79.222.138,US,North America
-2020-04-20,www.covid19crewtest.com,covid19crewtest.com,,
-2020-04-20,www.covidonlinetest.co.uk,covidonlinetest.co.uk,,
-2020-04-20,www.covidsecure.nl,185.96.6.62,NL,Europe
-2020-04-20,www.covidtestingaz.com,2607:f1c0:100f:f000::2cf,,
+2020-04-21,antibodycovid-19test.com,64.98.145.30,CA,North America
+2020-04-21,antibodycovid-19test.com,antibodycovid-19test.com,,
 2020-04-21,autodiscover.test-covid19.store,162.241.244.79,US,North America
 2020-04-21,bestcovidtests.com,bestcovidtests.com,,
 2020-04-21,bestcovidtests.com,ns1.monikerdns.net,,
@@ -83,6 +13,7 @@
 2020-04-21,birminghamcovid19testing.com,184.168.131.241,US,North America
 2020-04-21,birminghamcovid19testing.com,birminghamcovid19testing.com,,
 2020-04-21,birminghamcovidtesting.com,184.168.131.241,US,North America
+2020-04-21,birminghamcovidtesting.com,birminghamcovidtesting.com,,
 2020-04-21,buscovid-19testing.online,buscovid-19testing.online,,
 2020-04-21,buycovid19testingkit.com,buycovid19testingkit.com,,
 2020-04-21,buycovid19testingkit.ws,64.70.19.203,US,North America
@@ -117,6 +48,8 @@
 2020-04-21,coronavirusthuistest.nl,mail.coronavirusthuistest.nl,,
 2020-04-21,covid-19antibodyrapidtesting.com,50.63.202.33,US,North America
 2020-04-21,covid-19antibodyrapidtesting.com,covid-19antibodyrapidtesting.com,,
+2020-04-21,covid19antibodytest.de,185.181.104.74,DE,Europe
+2020-04-21,covid19antibodytest.de,covid19antibodytest.de,,
 2020-04-21,covid19antibodytest.de,ns2.inwx.de,,
 2020-04-21,covid19antibodytest.de,ns3.inwx.eu,,
 2020-04-21,covid19antibodytest.de,ns4.inwx.com,,
@@ -281,6 +214,7 @@
 2020-04-21,losangelescovid19tests.com,losangelescovid19tests.com,,
 2020-04-21,newcovid19test.ws,64.70.19.203,US,North America
 2020-04-21,newcovid19test.ws,newcovid19test.ws,,
+2020-04-21,newyorkcoronavirustests.com,newyorkcoronavirustests.com,,
 2020-04-21,novelcovid-19hometestkit.com,novelcovid-19hometestkit.com,,
 2020-04-21,nwhcovid19testkit.com,nwhcovid19testkit.com,,
 2020-04-21,nwhcovid19testkit.info,184.168.221.32,US,North America
