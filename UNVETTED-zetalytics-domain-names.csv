@@ -2,7 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-22,antibodytestingforcovid19.com,antibodytestingforcovid19.com,,
 2020-04-22,autotests-covid-smartphone.com,217.70.184.38,FR,Europe
 2020-04-22,autotests-covid-smartphone.com,hostmaster@gandi.net,,
 2020-04-22,autotests-covid-smartphone.com,ns1.gandi.net,,
@@ -12,7 +11,7 @@
 2020-04-22,coronaviruscovid-19cure.ws,coronaviruscovid-19cure.ws,,
 2020-04-22,coronaviruscovid-19cure.ws,mail.hope-mail.com,,
 2020-04-22,coronavirustested.org,108.60.15.210,CA,North America
-2020-04-22,coronavirustestinglocator.com.ph,coronavirustestinglocator.com.ph,,
+2020-04-22,covid19anitbodytest.com,50.63.202.39,US,North America
 2020-04-22,covid19-antibody-test.com,mx.covid19-antibody-test.com,,
 2020-04-22,covid19-coronavirus-cure.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-04-22,covid19-coronavirus-cure.fm,covid19-coronavirus-cure.fm,,
@@ -34,10 +33,6 @@
 2020-04-22,covid19testdepot.com,184.168.221.33,US,North America
 2020-04-22,covid-19testingindfw.com,50.63.202.45,US,North America
 2020-04-22,covid-19testingindfw.com,covid-19testingindfw.com,,
-2020-04-22,covid19testkitt.ph,45.79.222.138,US,North America
-2020-04-22,covid19testkitt.ph,covid19testkitt.ph,,
-2020-04-22,covid19testnj.com,93.119.122.210,RO,Europe
-2020-04-22,covid19testnj.com,covid19testnj.com,,
 2020-04-22,covid-19testonline.org,206.188.192.48,US,North America
 2020-04-22,covid19testtome.com,50.63.202.63,US,North America
 2020-04-22,covid2testing.com,66.96.162.139,US,North America
@@ -50,6 +45,7 @@
 2020-04-22,covidtestreview.com,184.168.221.47,US,North America
 2020-04-22,covidtestreview.com,covidtestreview.com,,
 2020-04-22,covidtest.today,35.213.187.59,US,North America
+2020-04-22,covidtesttome.com,184.168.221.52,US,North America
 2020-04-22,cpanel.covid19testnj.com,93.119.122.210,RO,Europe
 2020-04-22,cpcalendars.covid19latest.co.ke,199.231.86.11,US,North America
 2020-04-22,fdacovid19test.com,ns09.domaincontrol.com,,
@@ -66,8 +62,8 @@
 2020-04-22,immunitytestcovid19.com,n1.spambusters.email,,
 2020-04-22,immunitytestcovid19.com,ns1.weboost.pt,,
 2020-04-22,immunitytestcovid19.com,ns2.weboost.pt,,
+2020-04-22,onlinecovid19test.com,50.63.202.58,US,North America
 2020-04-22,rapidcovid19test.today,50.63.202.37,US,North America
-2020-04-22,seattlecovidtest.com,184.168.221.60,US,North America
 2020-04-22,seattlecovidtest.com,50.63.202.34,US,North America
 2020-04-22,seattlecovidtest.com,ns6.wixdns.net,,
 2020-04-22,seattlecovidtest.com,ns7.wixdns.net,,
@@ -88,8 +84,6 @@
 2020-04-22,tests-coronavirus-smartphone.com,spool.mail.gandi.net,,
 2020-04-22,tests-covid-smartphone.com,fb.mail.gandi.net,,
 2020-04-22,tests-covid-smartphone.com,spool.mail.gandi.net,,
-2020-04-22,testycovid19.com,85.128.128.104,PL,Europe
-2020-04-22,testycovid19.com,testycovid19.com,,
 2020-04-22,thecovid19testdepot.com,184.168.221.42,US,North America
 2020-04-22,topcovidtests.com,ns1.monikerdns.net,,
 2020-04-22,topcovidtests.com,ns2.monikerdns.net,,
@@ -100,6 +94,9 @@
 2020-04-22,www.covidtesttome.com,50.63.202.53,US,North America
 2020-04-22,www.covidtesttome.com,covidtesttome.com,,
 2020-04-22,www.fdacovidtesting.com,d1ws4affatx2hn.cloudfront.net,,
+2020-04-22,www.seattlecovidtest.com,balancer.wixdns.net,,
+2020-04-22,www.seattlecovidtest.com,www211.wixdns.net,,
+2020-04-22,www.test-covid-19.org,37.140.192.171,RU,Europe
 2020-04-22,www.testrapidecovid19.com,testrapidecovid19.com,,
 2020-04-23,48hourcovid19testkit.com.ph,48hourcovid19testkit.com.ph,,
 2020-04-23,48hourcovid19test.ph,48hourcovid19test.ph,,
@@ -109,6 +106,7 @@
 2020-04-23,antibodytestcoronavirus.com,ns71.domaincontrol.com,,
 2020-04-23,antibodytestcoronavirus.com,ns72.domaincontrol.com,,
 2020-04-23,approvedcovid19test.com.ph,approvedcovid19test.com.ph,,
+2020-04-23,at-homecoronavirustest.com,at-homecoronavirustest.com,,
 2020-04-23,at-homecoronavirustesting.com,98.124.199.97,US,North America
 2020-04-23,at-homecoronavirustesting.com,at-homecoronavirustesting.com,,
 2020-04-23,at-homecovid-19testing.com,91.195.240.103,DE,Europe
@@ -303,6 +301,7 @@
 2020-04-23,newcovid19test.ph,newcovid19test.ph,,
 2020-04-23,officialcovidtest.com,50.63.202.43,US,North America
 2020-04-23,officialcovidtest.com,officialcovidtest.com,,
+2020-04-23,officialcovidtesting.com,officialcovidtesting.com,,
 2020-04-23,oraltestforcovid19.com.ph,oraltestforcovid19.com.ph,,
 2020-04-23,protocollosicurezzacovid19.it,mx.protocollosicurezzacovid19.it,,
 2020-04-23,protocollosicurezzacovid19.it,protocollosicurezzacovid19.it,,
