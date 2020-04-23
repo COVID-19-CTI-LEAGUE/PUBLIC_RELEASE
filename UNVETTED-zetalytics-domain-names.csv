@@ -2,91 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-21,campaignforcoronaviruscures.com,campaignforcoronaviruscures.com,,
-2020-04-21,campaignforcoronaviruscures.com,dns1.registrar-servers.com,,
-2020-04-21,campaignforcoronaviruscures.com,dns2.registrar-servers.com,,
-2020-04-21,coronavirus-19-testkits.com,0,,
-2020-04-21,coronavirus-19-testkits.com,10,,
-2020-04-21,covid19cureall.com,66.96.162.139,US,North America
-2020-04-21,covid19cureall.com,covid19cureall.com,,
-2020-04-21,covid19cureall.com,ns1.domain.com,,
-2020-04-21,covid19cureall.com,ns2.domain.com,,
-2020-04-21,covid19cureofficial.com,41.185.8.92,ZA,Africa
-2020-04-21,covid19cureofficial.com,covid19cureofficial.com,,
-2020-04-21,covid19hoaxcure.com,184.168.221.60,US,North America
-2020-04-21,covid19hoaxcure.com,50.63.202.43,US,North America
-2020-04-21,covid19hoaxcure.com,covid19hoaxcure.com,,
-2020-04-21,covid19testkitkorea.com,69.90.160.35,CA,North America
-2020-04-21,covid-19worksitetesting.com,184.168.221.33,US,North America
-2020-04-21,covidcure.be,covidcure.be,,
-2020-04-21,covidcureforall.com,208.91.197.91,VG,North America
-2020-04-21,covidcureforall.com,covidcureforall.com,,
-2020-04-21,covidcure.fr,covidcure.fr,,
-2020-04-21,covidcure.fr,ns81.domaincontrol.com,,
-2020-04-21,covidcure.fr,ns82.domaincontrol.com,,
-2020-04-21,covidcure.nl,50.63.202.44,US,North America
-2020-04-21,covidcure.nl,covidcure.nl,,
-2020-04-21,covidcure.ph,covidcure.ph,,
-2020-04-21,covidcure.ph,dns1.domains.ph,,
-2020-04-21,covidcure.ph,dns2.domains.ph,,
-2020-04-21,covidcures.live,145.14.144.116,US,North America
-2020-04-21,covidcures.live,145.14.144.196,US,North America
-2020-04-21,covidcures.live,145.14.144.197,US,North America
-2020-04-21,covidcures.live,145.14.144.212,US,North America
-2020-04-21,covidcures.live,145.14.144.29,US,North America
-2020-04-21,covidcures.live,145.14.145.191,US,North America
-2020-04-21,covidcures.live,2a02:4780:dead:3617::1,,
-2020-04-21,covidcures.live,2a02:4780:dead:3cf2::1,,
-2020-04-21,covidcures.live,2a02:4780:dead:a63b::1,,
-2020-04-21,covidcures.live,covidcures.live,,
-2020-04-21,covidcures.live,hostmaster@000webhost.com,,
-2020-04-21,covidcures.live,ns01.000webhost.com,,
-2020-04-21,covidrapidtesting.store,2606:4700:3033::6812:2e08,,
-2020-04-21,covidrapidtesting.store,2606:4700:3033::6812:2f08,,
-2020-04-21,covidrapidtesting.store,covidrapidtesting.store,,
-2020-04-21,covidsneltestservice.nl,mail.covidsneltestservice.nl,,
-2020-04-21,covidsneltestservice.nl,ns1.webhostingserver.nl,,
-2020-04-21,covidsneltestservice.nl,ns2.webhostingserver.nl,,
-2020-04-21,covidsneltestservice.nl,ns3.webhostingserver.nl,,
-2020-04-21,cpanel.covid19testkitkorea.com,69.90.160.35,CA,North America
-2020-04-21,cpanel.covidtestingla.com,85.187.139.146,US,North America
-2020-04-21,curedofcovid19.com,184.168.221.48,US,North America
-2020-04-21,curedofcovid19.com,curedofcovid19.com,,
-2020-04-21,diycovidtests.com,50.63.202.38,US,North America
-2020-04-21,fckcovidfindacure.com,184.168.221.41,US,North America
-2020-04-21,fckcovidfindacure.com,50.63.202.61,US,North America
-2020-04-21,fckcovidfindacure.com,fckcovidfindacure.com,,
-2020-04-21,fckcovidfindacure.com,ns07.domaincontrol.com,,
-2020-04-21,fckcovidfindacure.com,ns08.domaincontrol.com,,
-2020-04-21,globalcovidtests.com,ns1.dominios.uol.com.br,,
-2020-04-21,globalcovidtests.com,ns2.dominios.uol.com.br,,
-2020-04-21,globalcovidtests.com,ns3.dominios.uol.com.br,,
-2020-04-21,healthyworksitecovid-19testing.com,50.63.202.33,US,North America
-2020-04-21,letscurecovid19.com,184.168.221.43,US,North America
-2020-04-21,letscurecovid19.com,letscurecovid19.com,,
-2020-04-21,lillycovid19testung.com,I3Y9c3BmMSBpcDY6ZmQxYjoyMTJjOmE1Zjk6Oi80OCAtYWxs,,
-2020-04-21,lillycovid19testung.com,#v=spf1 ip6:fd1b:212c:a5f9::/48 -all,,
-2020-04-21,nwhcovid19testkit.com,ns31.domaincontrol.com,,
-2020-04-21,nwhcovid19testkit.com,ns32.domaincontrol.com,,
-2020-04-21,rapidtestingcovid-19.com,50.63.202.62,US,North America
-2020-04-21,safetest-covid-19.com,ns23.domaincontrol.com,,
-2020-04-21,safetest-covid-19.com,ns24.domaincontrol.com,,
-2020-04-21,test-covid19.store,162.241.244.79,US,North America
-2020-04-21,testedcovid-19.com,ns1.register.be,,
-2020-04-21,testedcovid-19.com,ns2.register.be,,
-2020-04-21,testedcovid-19.com,ns3.register.be,,
-2020-04-21,wecuredcovid.com,wecuredcovid.com,,
-2020-04-21,wherecanigetcoronavirustest.com,ns31.domaincontrol.com,,
-2020-04-21,wherecanigetcoronavirustest.com,ns32.domaincontrol.com,,
-2020-04-21,www.coronavirussalivatestkits.ph,45.79.222.138,US,North America
-2020-04-21,www.covid19cureofficial.com,41.185.8.92,ZA,Africa
-2020-04-21,www.covid19cureofficial.com,covid19cureofficial.com,,
-2020-04-21,www.covid-19worksitetesting.com,184.168.221.33,US,North America
-2020-04-21,www.covid-19worksitetesting.com,covid-19worksitetesting.com,,
-2020-04-21,www.covidtestingnyc.com,www.covidtestingnyc.com.s.strikinglydns.com,,
-2020-04-21,www.testcoronavirus.tk,172.217.6.147,US,North America
-2020-04-21,www.testcoronavirus.tk,2607:f8b0:4000:802::2013,,
-2020-04-21,www.testcoronavirus.tk,ghs.google.com,,
 2020-04-22,antibodycoronavirustest.com,184.168.221.33,US,North America
 2020-04-22,antibodycoronavirustest.com,antibodycoronavirustest.com,,
 2020-04-22,antibodytestingforcovid19.com,antibodytestingforcovid19.com,,
@@ -183,6 +98,7 @@
 2020-04-22,covid-19testers.com,ns-cloud-a3.googledomains.com,,
 2020-04-22,covid-19testers.com,ns-cloud-a4.googledomains.com,,
 2020-04-22,covid19testingaz.ws,mail.hope-mail.com,,
+2020-04-22,covid-19testingindfw.com,covid-19testingindfw.com,,
 2020-04-22,covid-19testingkit.net,35.209.104.184,US,North America
 2020-04-22,covid-19testingkit.net,covid-19testingkit.net,,
 2020-04-22,covid-19testingkit.net,mx10.mailspamprotection.com,,
