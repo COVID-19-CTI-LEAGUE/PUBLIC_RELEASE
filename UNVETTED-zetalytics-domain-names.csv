@@ -2,7 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-22,autotests-covid-smartphone.com,217.70.184.38,FR,Europe
 2020-04-22,autotests-covid-smartphone.com,hostmaster@gandi.net,,
 2020-04-22,autotests-covid-smartphone.com,ns-112-b.gandi.net,,
 2020-04-22,autotests-covid-smartphone.com,ns1.gandi.net,,
@@ -89,6 +88,7 @@
 2020-04-22,www.seattlecovidtest.com,www211.wixdns.net,,
 2020-04-22,www.test-covid-19.org,37.140.192.171,RU,Europe
 2020-04-22,www.testrapidecovid19.com,testrapidecovid19.com,,
+2020-04-22,www.tests-coronavirus-smartphone.com,webredir.vip.gandi.net,,
 2020-04-23,48hourcovid19testkit.com.ph,48hourcovid19testkit.com.ph,,
 2020-04-23,48hourcovid19test.ph,48hourcovid19test.ph,,
 2020-04-23,antibodycoronavirustest.ph,45.79.222.138,US,North America
@@ -178,6 +178,7 @@
 2020-04-23,covid19latestupdate.com,covid19latestupdate.com,,
 2020-04-23,covid19latestupdate.com.ph,45.79.222.138,US,North America
 2020-04-23,covid19latestupdate.com.ph,covid19latestupdate.com.ph,,
+2020-04-23,covid19mouthwashtest.com,146.112.61.107,,Europe
 2020-04-23,covid19mouthwashtest.com,covid19mouthwashtest.com,,
 2020-04-23,covid19mouthwashtest.com.ph,covid19mouthwashtest.com.ph,,
 2020-04-23,covid19onsitetesting.com.ph,covid19onsitetesting.com.ph,,
@@ -211,6 +212,7 @@
 2020-04-23,covid19test.com.ph,45.79.222.138,US,North America
 2020-04-23,covid19-test.com.ph,covid19-test.com.ph,,
 2020-04-23,covid19test.com.ph,covid19test.com.ph,,
+2020-04-23,covid19test.cpa,covid19test.cpa,,
 2020-04-23,covid19testdepot.com.ph,45.79.222.138,US,North America
 2020-04-23,covid19testdepot.com.ph,covid19testdepot.com.ph,,
 2020-04-23,covid-19testdirect.ph,45.79.222.138,US,North America
@@ -228,6 +230,7 @@
 2020-04-23,covid-19testing.store,covid-19testing.store,,
 2020-04-23,covid19testkitsuk.com,184.168.131.241,US,North America
 2020-04-23,covid19testkitsuk.com,covid19testkitsuk.com,,
+2020-04-23,covid19testkitusa.cpa,covid19testkitusa.cpa,,
 2020-04-23,covid19testproviders.ph,covid19testproviders.ph,,
 2020-04-23,covid-19tests.com.ph,covid-19tests.com.ph,,
 2020-04-23,covid-19tests.nl,1v=spf1 a mx include:spf.mijndomeinhosting.nl ~all,,
@@ -235,11 +238,8 @@
 2020-04-23,covid-19tests.nl,MXY9c3BmMSBhIG14IGluY2x1ZGU6c3BmLm1pam5kb21laW5ob3N0aW5nLm5sIH5hbGw=,,
 2020-04-23,covid-19tests.nl,ns1.metaregistrar.nl,,
 2020-04-23,covid-19tests.nl,ns2.metaregistrar.nl,,
-2020-04-23,covid19testsusa.com,covid19testsusa.com,,
 2020-04-23,covid19testsusa.com.ph,45.79.222.138,US,North America
 2020-04-23,covid19testsusa.com.ph,covid19testsusa.com.ph,,
-2020-04-23,covidantibodytestingonthego.com,184.168.221.41,US,North America
-2020-04-23,covidantibodytestingonthego.com,covidantibodytestingonthego.com,,
 2020-04-23,covid-antikoerpertest.ch,193.36.36.96,CH,Europe
 2020-04-23,covid-antikoerpertest.ch,covid-antikoerpertest.ch,,
 2020-04-23,covid-antikoerpertest.ch,smtpin1.covid-antikoerpertest.ch,,
@@ -271,15 +271,15 @@
 2020-04-23,covidtesting.ru,covidtesting.ru,,
 2020-04-23,covidtestingstation.com,184.168.221.57,US,North America
 2020-04-23,covidtestingstation.com,covidtestingstation.com,,
+2020-04-23,covidvaccinetest.com,covidvaccinetest.com,,
 2020-04-23,curecorona19.ws,64.70.19.203,US,North America
 2020-04-23,curecorona19.ws,curecorona19.ws,,
 2020-04-23,curedofcovid19.com.ph,45.79.222.138,US,North America
 2020-04-23,curedofcovid19.com.ph,curedofcovid19.com.ph,,
 2020-04-23,docscovidtesting.com,184.168.131.241,US,North America
 2020-04-23,docscovidtesting.com,docscovidtesting.com,,
+2020-04-23,examtestcovid19.store,examtestcovid19.store,,
 2020-04-23,getcovid19test.org,getcovid19test.org,,
-2020-04-23,getcovidtesttoday.net,184.168.221.32,US,North America
-2020-04-23,getcovidtesttoday.net,getcovidtesttoday.net,,
 2020-04-23,globalcoronavirushometestkit.com.ph,45.79.222.138,US,North America
 2020-04-23,globalcoronavirushometestkit.com.ph,globalcoronavirushometestkit.com.ph,,
 2020-04-23,globalcovid-19hometestkit.com,globalcovid-19hometestkit.com,,
