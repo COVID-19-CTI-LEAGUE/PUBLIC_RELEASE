@@ -3,8 +3,6 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-22,antibodytestingforcovid19.com,antibodytestingforcovid19.com,,
-2020-04-22,atomocovid-19test.com.au,50.63.202.43,US,North America
-2020-04-22,atomocovid-19test.com.au,atomocovid-19test.com.au,,
 2020-04-22,autotests-covid-smartphone.com,217.70.184.38,FR,Europe
 2020-04-22,autotests-covid-smartphone.com,autotests-covid-smartphone.com,,
 2020-04-22,autotests-covid-smartphone.com,fb.mail.gandi.net,,
@@ -50,11 +48,11 @@
 2020-04-22,covid19testkitt.ph,covid19testkitt.ph,,
 2020-04-22,covid19testnj.com,93.119.122.210,RO,Europe
 2020-04-22,covid19testnj.com,covid19testnj.com,,
+2020-04-22,covid-19testonline.org,206.188.192.48,US,North America
 2020-04-22,covid-19testonline.org,covid-19testonline.org,,
 2020-04-22,covid19testtome.com,50.63.202.63,US,North America
 2020-04-22,covid2testing.com,66.96.162.139,US,North America
 2020-04-22,covid2testing.com,covid2testing.com,,
-2020-04-22,covid2testing.com,HnY9c3BmMSBpcDQ6NjYuOTYuMTI4LjAvMTggP2FsbA==,,
 2020-04-22,covid2testing.com,v=spf1 ip4:66.96.128.0/18 ?all,,
 2020-04-22,covidantibodytest.net,covidantibodytest.net,,
 2020-04-22,covidcure.es,covidcure.es,,
@@ -78,8 +76,6 @@
 2020-04-22,immunitytestcovid19.com,ns2.weboost.pt,,
 2020-04-22,mytexascovid19test.com,184.168.221.38,US,North America
 2020-04-22,mytexascovid19test.com,mytexascovid19test.com,,
-2020-04-22,onlinecovid19test.com,50.63.202.47,US,North America
-2020-04-22,onlinecovid19test.com,onlinecovid19test.com,,
 2020-04-22,rapidcovid19test.today,50.63.202.32,US,North America
 2020-04-22,rapidcovid19test.today,50.63.202.37,US,North America
 2020-04-22,rapidcovid19test.today,rapidcovid19test.today,,
@@ -204,9 +200,13 @@
 2020-04-23,covid19quickresponsetest.ws,covid19quickresponsetest.ws,,
 2020-04-23,covid19quicktest.nl,covid19quicktest.nl,,
 2020-04-23,covid19quicktest.nl,mailfilter.hostnet.nl,,
+2020-04-23,covid19-rapidtesting.com,50.63.202.41,US,North America
+2020-04-23,covid19-rapidtesting.com,covid19-rapidtesting.com,,
 2020-04-23,covid19-rapidtestingkit.com,2607:f1c0:100f:f000::21e,,
 2020-04-23,covid19-rapidtestingkit.com,74.208.236.161,US,North America
 2020-04-23,covid19-rapidtestingkit.com,covid19-rapidtestingkit.com,,
+2020-04-23,covid19-rapidtestingkit.com,hostmaster@1und1.com,,
+2020-04-23,covid19-rapidtestingkit.com,ns1081.ui-dns.org,,
 2020-04-23,covid19rapidtests.ws,64.70.19.203,US,North America
 2020-04-23,covid19rapidtests.ws,covid19rapidtests.ws,,
 2020-04-23,covid19rapidtestusa.com.ph,covid19rapidtestusa.com.ph,,
@@ -332,6 +332,7 @@
 2020-04-23,tucsoncovid19testing.com.ph,tucsoncovid19testing.com.ph,,
 2020-04-23,uscovid19testing.ws,64.70.19.203,US,North America
 2020-04-23,uscovid19testing.ws,uscovid19testing.ws,,
+2020-04-23,wwwcoronaviruscure.ws,wwwcoronaviruscure.ws,,
 2020-04-23,www.covid19hometestingkit.uk,50.63.202.35,US,North America
 2020-04-23,www.covid19hometestingkit.uk,covid19hometestingkit.uk,,
 2020-04-23,xn--test-covid-19--domicile-i5b.ph,xn--test-covid-19--domicile-i5b.ph,,
