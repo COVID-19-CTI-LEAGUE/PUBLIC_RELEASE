@@ -8,7 +8,6 @@
 2020-04-22,atomocovid-19test.com.au,50.63.202.43,US,North America
 2020-04-22,atomocovid-19test.com.au,atomocovid-19test.com.au,,
 2020-04-22,autodiscover.covid19latest.co.ke,199.231.86.11,US,North America
-2020-04-22,autodiscover.immunitytestcovid19.com,194.39.124.224,PT,Europe
 2020-04-22,autotestcovid19.fr,1|www.autotestcovid19.fr,,
 2020-04-22,autotestcovid19.fr,autotestcovid19.fr,,
 2020-04-22,autotestcovid19.fr,GDF8d3d3LmF1dG90ZXN0Y292aWQxOS5mcg==,,
@@ -16,6 +15,7 @@
 2020-04-22,autotestcovid19.fr,v=spf1 include:mx.ovh.com ~all,,
 2020-04-22,autotests-coronavirus-smartphone.com,217.70.184.38,FR,Europe
 2020-04-22,autotests-coronavirus-smartphone.com,autotests-coronavirus-smartphone.com,,
+2020-04-22,autotests-covid-smartphone.com,217.70.184.38,FR,Europe
 2020-04-22,autotests-covid-smartphone.com,autotests-covid-smartphone.com,,
 2020-04-22,autotests-covid-smartphone.com,fb.mail.gandi.net,,
 2020-04-22,autotests-covid-smartphone.com,spool.mail.gandi.net,,
@@ -45,8 +45,6 @@
 2020-04-22,coronavisionsongcontest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-04-22,covid19anitbodytest.com,50.63.202.33,US,North America
 2020-04-22,covid19anitbodytest.com,covid19anitbodytest.com,,
-2020-04-22,covid19-antibody-test.com,66.96.162.140,US,North America
-2020-04-22,covid19-antibody-test.com,covid19-antibody-test.com,,
 2020-04-22,covid19-antibody-test.com,mx.covid19-antibody-test.com,,
 2020-04-22,covid19-antibodytest.co.uk,94.229.164.214,GB,Europe
 2020-04-22,covid19-antibodytest.co.uk,covid19-antibodytest.co.uk,,
@@ -120,8 +118,6 @@
 2020-04-22,covid19testnj.com,covid19testnj.com,,
 2020-04-22,covid-19testonline.org,covid-19testonline.org,,
 2020-04-22,covid19test.pt,covid19test.pt,,
-2020-04-22,covid19testspots.com,50.63.202.51,US,North America
-2020-04-22,covid19testspots.com,covid19testspots.com,,
 2020-04-22,covid19testsuppliers.com,184.168.221.45,US,North America
 2020-04-22,covid19testsuppliers.com,covid19testsuppliers.com,,
 2020-04-22,covid19testtome.com,184.168.221.51,US,North America
@@ -130,7 +126,7 @@
 2020-04-22,covid-19testtruck.com,ns-1487.awsdns-57.org,,
 2020-04-22,covid-19testtruck.com,ns-1565.awsdns-03.co.uk,,
 2020-04-22,covid-19testtruck.com,ns-231.awsdns-28.com,,
-2020-04-22,covid-19testtruck.com,ns-910.awsdns-49.net,,
+2020-04-22,covid2testing.com,66.96.162.139,US,North America
 2020-04-22,covid2testing.com,covid2testing.com,,
 2020-04-22,covid2testing.com,HnY9c3BmMSBpcDQ6NjYuOTYuMTI4LjAvMTggP2FsbA==,,
 2020-04-22,covid2testing.com,v=spf1 ip4:66.96.128.0/18 ?all,,
@@ -206,9 +202,6 @@
 2020-04-22,seattlecovidtest.com,184.168.221.60,US,North America
 2020-04-22,seattlecovidtest.com,50.63.202.33,US,North America
 2020-04-22,seattlecovidtest.com,50.63.202.58,US,North America
-2020-04-22,seattlecovidtest.com,ns21.domaincontrol.com,,
-2020-04-22,seattlecovidtest.com,ns22.domaincontrol.com,,
-2020-04-22,seattlecovidtest.com,seattlecovidtest.com,,
 2020-04-22,selftestcovid-19.com.au,184.168.221.39,US,North America
 2020-04-22,selftestcovid-19.com.au,selftestcovid-19.com.au,,
 2020-04-22,sicurezza-covid19.it,89.46.105.76,IT,Europe
@@ -295,11 +288,16 @@
 2020-04-23,coronavirus-rapidtesting.com,ns1109.ui-dns.biz,,
 2020-04-23,coronavirus-rapidtesting.com,ns1124.ui-dns.de,,
 2020-04-23,covid19hometestingkit.uk,covid19hometestingkit.uk,,
+2020-04-23,covid19pcrtest.com,covid19pcrtest.com,,
+2020-04-23,covid19pcrtest.com,ns39.domaincontrol.com,,
+2020-04-23,covid19pcrtest.com,ns40.domaincontrol.com,,
 2020-04-23,covid19quicktest.nl,covid19quicktest.nl,,
 2020-04-23,covid19smelltest.com,covid19smelltest.com,,
 2020-04-23,covid19testsusa.com,covid19testsusa.com,,
 2020-04-23,covidantibodytestingonthego.com,184.168.221.41,US,North America
 2020-04-23,covidantibodytestingonthego.com,covidantibodytestingonthego.com,,
+2020-04-23,covid-antikoerpertest.ch,193.36.36.96,CH,Europe
+2020-04-23,covid-antikoerpertest.ch,covid-antikoerpertest.ch,,
 2020-04-23,covidtestcenter.org,184.168.221.61,US,North America
 2020-04-23,covidtestcenter.org,covidtestcenter.org,,
 2020-04-23,covidtestingprogram.com,184.168.131.241,US,North America
@@ -308,5 +306,6 @@
 2020-04-23,getcovidtesttoday.net,getcovidtesttoday.net,,
 2020-04-23,globalcovid19hometestkit.com,globalcovid19hometestkit.com,,
 2020-04-23,mycovid19rapidtest.com,mycovid19rapidtest.com,,
+2020-04-23,testycovid19dlapolski.pl,testycovid19dlapolski.pl,,
 2020-04-23,www.covid19hometestingkit.uk,50.63.202.35,US,North America
 2020-04-23,www.covid19hometestingkit.uk,covid19hometestingkit.uk,,
