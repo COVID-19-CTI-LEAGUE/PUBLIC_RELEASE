@@ -2,8 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-23,48hourcovid19testkit.com.ph,48hourcovid19testkit.com.ph,,
-2020-04-23,48hourcovid19test.ph,48hourcovid19test.ph,,
 2020-04-23,at-homecoronavirustest.com,at-homecoronavirustest.com,,
 2020-04-23,at-homecoronavirustest.com,dns1.name-services.com,,
 2020-04-23,at-homecoronavirustest.com,dns2.name-services.com,,
@@ -19,6 +17,9 @@
 2020-04-23,attestationcovid.info,attestationcovid.info,,
 2020-04-23,biosynex-testcovid19.com,2001:41d0:b:a74:5:39:10:93,,
 2020-04-23,biosynex-testcovid19.com,5.39.10.93,FR,Europe
+2020-04-23,biosynex-testcovid19.com,mail.imena.com.ua,,
+2020-04-23,biosynex-testcovid19.com,nsa1.srv53.net,,
+2020-04-23,biosynex-testcovid19.com,support@dnshosting.org,,
 2020-04-23,buscovid19testing.ws,64.70.19.203,US,North America
 2020-04-23,buscovid19testing.ws,buscovid19testing.ws,,
 2020-04-23,buycovid19rapidtest.ph,45.79.222.138,US,North America
@@ -65,7 +66,6 @@
 2020-04-23,covid19coronatest.com,184.168.221.55,US,North America
 2020-04-23,covid19cureofficial.com.ph,covid19cureofficial.com.ph,,
 2020-04-23,covid19cureofficial.ph,covid19cureofficial.ph,,
-2020-04-23,covid19employertesting.ph,covid19employertesting.ph,,
 2020-04-23,covid19employerwristtagtestkit.com,184.168.221.48,US,North America
 2020-04-23,covid19employerwristtagtestkit.com,covid19employerwristtagtestkit.com,,
 2020-04-23,covid-19fasttest.com,covid-19fasttest.com,,
@@ -78,7 +78,6 @@
 2020-04-23,covid19mouthwashtest.com,146.112.61.107,,Europe
 2020-04-23,covid19mouthwashtest.com,covid19mouthwashtest.com,,
 2020-04-23,covid19mouthwashtest.com.ph,covid19mouthwashtest.com.ph,,
-2020-04-23,covid19onsitetesting.com.ph,covid19onsitetesting.com.ph,,
 2020-04-23,covid19quickresponsetest.ws,64.70.19.203,US,North America
 2020-04-23,covid19quickresponsetest.ws,covid19quickresponsetest.ws,,
 2020-04-23,covid19quicktesting.com,covid19quicktesting.com,,
@@ -110,12 +109,7 @@
 2020-04-23,covid19surfacetest.com,covid19surfacetest.com,,
 2020-04-23,covid-19testantibody.ph,45.79.222.138,US,North America
 2020-04-23,covid-19testantibody.ph,covid-19testantibody.ph,,
-2020-04-23,covid19test.com.ph,45.79.222.138,US,North America
-2020-04-23,covid19-test.com.ph,covid19-test.com.ph,,
-2020-04-23,covid19test.com.ph,covid19test.com.ph,,
 2020-04-23,covid19test.cpa,covid19test.cpa,,
-2020-04-23,covid19testdepot.com.ph,45.79.222.138,US,North America
-2020-04-23,covid19testdepot.com.ph,covid19testdepot.com.ph,,
 2020-04-23,covid-19testdirect.ph,45.79.222.138,US,North America
 2020-04-23,covid19test.hr,covid19test.hr,,
 2020-04-23,covid19testing4u.com,184.168.221.38,US,North America
@@ -124,8 +118,6 @@
 2020-04-23,covid19testing4u.com,covid19testing4u.com,,
 2020-04-23,covid19testingservice.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-04-23,covid19testingservice.fm,covid19testingservice.fm,,
-2020-04-23,covid19testingservice.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-04-23,covid19testingservice.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-04-23,covid19testingservice.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-04-23,covid19testkit.gov.ge,covid19testkit.gov.ge,,
 2020-04-23,covid19testkitusa.cpa,covid19testkitusa.cpa,,
@@ -196,10 +188,6 @@
 2020-04-23,globalcovid19hometestkit.ws,globalcovid19hometestkit.ws,,
 2020-04-23,hometestkitscoronavirus.cpa,127.0.53.53,,
 2020-04-23,hometestkitscoronavirus.cpa,hometestkitscoronavirus.cpa,,
-2020-04-23,illinoiscovid19test.fm,198.74.54.240,US,North America
-2020-04-23,illinoiscovid19test.fm,illinoiscovid19test.fm,,
-2020-04-23,immunitytestcovid19.ph,immunitytestcovid19.ph,,
-2020-04-23,iwantacovid19test.com.ph,iwantacovid19test.com.ph,,
 2020-04-23,kccovid19testing.ws,64.70.19.203,US,North America
 2020-04-23,kccovid19testing.ws,kccovid19testing.ws,,
 2020-04-23,newcovid19test.ph,newcovid19test.ph,,
@@ -250,6 +238,7 @@
 2020-04-23,www.covidtestingstation.com,covidtestingstation.com,,
 2020-04-23,www.curecovid.care,www153.wixdns.net,,
 2020-04-23,xn--test-covid-19--domicile-i5b.ph,xn--test-covid-19--domicile-i5b.ph,,
+2020-04-24,athomecovid-19test.com,athomecovid-19test.com,,
 2020-04-24,at-home-covid-19-testing.com,13.35.126.30,US,North America
 2020-04-24,at-home-covid-19-testing.com,13.35.126.53,US,North America
 2020-04-24,at-home-covid-19-testing.com,13.35.126.54,US,North America
@@ -274,7 +263,9 @@
 2020-04-24,covid19fecaltest.com,ns2.monikerdns.net,,
 2020-04-24,covid19fecaltest.com,ns3.monikerdns.net,,
 2020-04-24,covid19fecaltest.com,ns4.monikerdns.net,,
+2020-04-24,covid19hometest4u.com,208.91.197.39,VG,North America
 2020-04-24,covid19hometest4u.com,covid19hometest4u.com,,
+2020-04-24,covid19mouthtest.com,covid19mouthtest.com,,
 2020-04-24,covid19personaltestkit.com,covid19personaltestkit.com,,
 2020-04-24,covid19protest.com,covid19protest.com,,
 2020-04-24,covid19protest.com,ns39.domaincontrol.com,,
@@ -288,7 +279,10 @@
 2020-04-24,covidhometest.info,covidhometest.info,,
 2020-04-24,covidinstanttests.com,173.231.220.116,GB,Europe
 2020-04-24,covidinstanttests.com,covidinstanttests.com,,
+2020-04-24,covidmouthtest.com,104.27.138.129,US,North America
+2020-04-24,covidmouthtest.com,104.27.139.129,US,North America
 2020-04-24,covidmouthtest.com,covidmouthtest.com,,
+2020-04-24,covidsnifftest.com,covidsnifftest.com,,
 2020-04-24,covidtestexams.com,184.168.221.54,US,North America
 2020-04-24,covidtestexams.com,covidtestexams.com,,
 2020-04-24,covidtestingresources.com,184.168.221.41,US,North America
@@ -305,12 +299,17 @@
 2020-04-24,covidteststrip.com,ns16.indiaservers.net,,
 2020-04-24,curecovidconsortium.info,50.63.202.57,US,North America
 2020-04-24,curecovidconsortium.info,curecovidconsortium.info,,
+2020-04-24,easycovidtests.com,184.168.221.40,US,North America
+2020-04-24,easycovidtests.com,easycovidtests.com,,
 2020-04-24,fasttestcovid-19.com,fasttestcovid-19.com,,
 2020-04-24,get-covid-19-test.com,get-covid-19-test.com,,
 2020-04-24,hometestingforcovid19.com,50.63.202.63,US,North America
 2020-04-24,hometestingforcovid19.com,hometestingforcovid19.com,,
 2020-04-24,iwantacovid19test.org,iwantacovid19test.org,,
 2020-04-24,latamcovidtests.com.br,latamcovidtests.com.br,,
+2020-04-24,newyorkcoronavirustest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
+2020-04-24,newyorkcoronavirustest.ws,newyorkcoronavirustest.ws,,
+2020-04-24,newyorkcoronavirustest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-04-24,selftestcovid-19.com,50.63.202.43,US,North America
 2020-04-24,selftestcovid-19.com,selftestcovid-19.com,,
 2020-04-24,sicurezzacovid19.ch,ns1.dnsitalia.net,,
@@ -322,6 +321,7 @@
 2020-04-24,testexam-covid19.com,testexam-covid19.com,,
 2020-04-24,testexam-covid19.website,195.110.124.133,IT,Europe
 2020-04-24,testexam-covid19.website,testexam-covid19.website,,
+2020-04-24,testforcovidnow.com,23.227.38.32,CA,North America
 2020-04-24,testforcovidnow.com,testforcovidnow.com,,
 2020-04-24,uscovid19testing.us,uscovid19testing.us,,
 2020-04-24,www.at-home-covid-19-testing.com,13.225.210.105,US,North America
