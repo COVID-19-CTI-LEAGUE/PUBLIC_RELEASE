@@ -4,15 +4,12 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-24,adlabcovidtest.com,81.17.18.195,CH,Europe
 2020-04-24,adlabcovidtest.com,adlabcovidtest.com,,
+2020-04-24,athomecovid-19test.com,208.91.197.27,US,North America
 2020-04-24,biosynex-testcovid19.com.ua,5.39.10.93,FR,Europe
 2020-04-24,biosynex-testcovid19.com.ua,biosynex-testcovid19.com.ua,,
 2020-04-24,biosynex-testcovid19.com.ua,mail.imena.com.ua,,
 2020-04-24,corona19testkit.llp,corona19testkit.llp,,
-2020-04-24,coronavirusprotest.com,91.195.240.94,DE,Europe
-2020-04-24,coronavirusprotest.com,coronavirusprotest.com,,
 2020-04-24,corona-virus-test.me,corona-virus-test.me,,
-2020-04-24,coronavirustestnationwide.com,184.168.221.45,US,North America
-2020-04-24,coronavirustestnationwide.com,coronavirustestnationwide.com,,
 2020-04-24,coronavirustest.nyc,50.63.202.54,US,North America
 2020-04-24,coronavirustest.nyc,coronavirustest.nyc,,
 2020-04-24,covid19antibodyrapidtestkit.org,50.63.202.50,US,North America
@@ -22,8 +19,6 @@
 2020-04-24,covidcureidea.com,50.63.202.44,US,North America
 2020-04-24,covidcureidea.com,50.63.202.62,US,North America
 2020-04-24,covidcureidea.com,covidcureidea.com,,
-2020-04-24,coviddriveuptesting.com,35.186.238.101,US,North America
-2020-04-24,coviddriveuptesting.com,coviddriveuptesting.com,,
 2020-04-24,covidselftests.com,184.168.221.38,US,North America
 2020-04-24,covidselftests.com,covidselftests.com,,
 2020-04-24,covidtest.at,covidtest.at,,
@@ -36,12 +31,6 @@
 2020-04-24,covidtestsaz.com,covidtestsaz.com,,
 2020-04-24,covidtestsaz.com,ns39.domaincontrol.com,,
 2020-04-24,covidtestsaz.com,ns40.domaincontrol.com,,
-2020-04-24,covidtestsfl.com,50.63.202.36,US,North America
-2020-04-24,covidtestsfl.com,50.63.202.60,US,North America
-2020-04-24,covidtestsfl.com,covidtestsfl.com,,
-2020-04-24,covidtesttulsa.com,50.63.202.57,US,North America
-2020-04-24,covidtesttulsa.com,50.63.202.58,US,North America
-2020-04-24,covidtesttulsa.com,covidtesttulsa.com,,
 2020-04-24,curecovidconsortium.info,50.63.202.57,US,North America
 2020-04-24,curecovidconsortium.info,curecovidconsortium.info,,
 2020-04-24,curecovidtogether.com,curecovidtogether.com,,
@@ -49,7 +38,6 @@
 2020-04-24,curecovidtogether.com,ns2fgv.name.com,,
 2020-04-24,curecovidtogether.com,ns3fqs.name.com,,
 2020-04-24,curecovidtogether.com,ns4dmx.name.com,,
-2020-04-24,doityourselfcoronavirustests.com,184.168.221.34,US,North America
 2020-04-24,doityourselfcoronavirustests.com,184.168.221.58,US,North America
 2020-04-24,doityourselfcoronavirustests.com,50.63.202.45,US,North America
 2020-04-24,doityourselfcoronavirustests.com,doityourselfcoronavirustests.com,,
@@ -60,6 +48,10 @@
 2020-04-24,flcovidtest.com,flcovidtest.com,,
 2020-04-24,flcovidtest.com,ns19.domaincontrol.com,,
 2020-04-24,flcovidtest.com,ns20.domaincontrol.com,,
+2020-04-24,get-covid-19-test.com,99.84.235.27,US,North America
+2020-04-24,get-covid-19-test.com,99.84.235.32,US,North America
+2020-04-24,get-covid-19-test.com,99.84.235.76,US,North America
+2020-04-24,get-covid-19-test.com,99.84.235.93,US,North America
 2020-04-24,getcovid19tested.org,getcovid19tested.org,,
 2020-04-24,getcovid19testingathome.info,184.168.221.36,US,North America
 2020-04-24,getcovid19testingathome.info,getcovid19testingathome.info,,
@@ -87,6 +79,10 @@
 2020-04-24,testcovid19express.ru,testcovid19express.ru,,
 2020-04-24,testexam-covid19.com,mail.register.it,,
 2020-04-24,test-for-coronavirus.cpa,test-for-coronavirus.cpa,,
+2020-04-24,testparacovid19.com,2001:4860:4802:32::15,,
+2020-04-24,testparacovid19.com,2001:4860:4802:34::15,,
+2020-04-24,testparacovid19.com,2001:4860:4802:36::15,,
+2020-04-24,testparacovid19.com,2001:4860:4802:38::15,,
 2020-04-24,testparacovid19.com,216.239.32.21,US,North America
 2020-04-24,testparacovid19.com,216.239.34.21,US,North America
 2020-04-24,testparacovid19.com,216.239.36.21,US,North America
@@ -103,11 +99,8 @@
 2020-04-24,testparacovid.com,testparacovid.com,,
 2020-04-24,wecuredcovid-19.ws,mail.hope-mail.com,,
 2020-04-24,wecuredcovid-19.ws,wecuredcovid-19.ws,,
-2020-04-24,wetestcovid19.ws,mail.hope-mail.com,,
-2020-04-24,wetestcovid19.ws,wetestcovid19.ws,,
 2020-04-24,whatiscoronaviruscure.ph,45.79.222.138,US,North America
 2020-04-24,whatiscoronaviruscure.ph,whatiscoronaviruscure.ph,,
-2020-04-24,wheretotestcoronavirus.ph,45.79.222.138,US,North America
 2020-04-24,ww1.adlabcovidtest.com,050290.parkingcrew.net,,
 2020-04-24,www.remotecovidtesting.com,198.54.117.210,US,North America
 2020-04-24,www.remotecovidtesting.com,198.54.117.211,US,North America
@@ -190,6 +183,7 @@
 2020-04-25,covid-19testdirect.co.uk,covid-19testdirect.co.uk,,
 2020-04-25,covid-19testdirect.co.uk,mx0.123-reg.co.uk,,
 2020-04-25,covid-19testdirect.co.uk,mx1.123-reg.co.uk,,
+2020-04-25,covid19testfordso.com,covid19testfordso.com,,
 2020-04-25,covid19testingresults.com.ph,45.79.222.138,US,North America
 2020-04-25,covid19testingresults.com.ph,covid19testingresults.com.ph,,
 2020-04-25,covid19testingresults.ph,45.79.222.138,US,North America
@@ -219,6 +213,7 @@
 2020-04-25,covid-19testpoint.store,62.149.128.163,IT,Europe
 2020-04-25,covid-19testpoint.store,62.149.128.166,IT,Europe
 2020-04-25,covid-19testpoint.store,covid-19testpoint.store,,
+2020-04-25,covid19testsfordentists.com,covid19testsfordentists.com,,
 2020-04-25,covid19testsforsale.ph,covid19testsforsale.ph,,
 2020-04-25,covid19testsuppliers.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-04-25,covid19testsuppliers.fm,covid19testsuppliers.fm,,
@@ -228,6 +223,8 @@
 2020-04-25,covid19test.ws,64.70.19.203,US,North America
 2020-04-25,covid19test.ws,covid19test.ws,,
 2020-04-25,covid-9teentesting.ph,covid-9teentesting.ph,,
+2020-04-25,covidcoronatesting.com,184.168.221.56,US,North America
+2020-04-25,covidcoronatesting.com,covidcoronatesting.com,,
 2020-04-25,covidmobiletests.com,72.18.134.36,US,North America
 2020-04-25,covidmobiletests.com,covidmobiletests.com,,
 2020-04-25,covidtestmanager.com,185.53.177.30,DE,Europe
@@ -311,6 +308,7 @@
 2020-04-25,thelastestnewsoncoronavirusandcovid-19.com.ph,thelastestnewsoncoronavirusandcovid-19.com.ph,,
 2020-04-25,webmail.njcovidtests.com,72.18.134.36,US,North America
 2020-04-25,www.coronavisioncontest.com,ext-cust.squarespace.com,,
+2020-04-25,www.covidmobiletests.com,72.18.134.36,US,North America
 2020-04-25,www.covidmobiletests.com,covidmobiletests.com,,
 2020-04-25,www.covidtestsasap.com,50.63.202.59,US,North America
 2020-04-25,www.covidtestsasap.com,covidtestsasap.com,,
