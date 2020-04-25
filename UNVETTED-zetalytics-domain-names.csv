@@ -10,10 +10,7 @@
 2020-04-24,adlabcovidtest.com,ns2.panamans.com,,
 2020-04-24,adlabcovidtest.com,#v=spf1 ip6:fd9c:d030:168c::/48 -all,,
 2020-04-24,athomecovid-19test.com,208.91.197.27,US,North America
-2020-04-24,biosynex-testcovid19.com.ua,5.39.10.93,FR,Europe
-2020-04-24,biosynex-testcovid19.com.ua,biosynex-testcovid19.com.ua,,
 2020-04-24,biosynex-testcovid19.com.ua,mail.imena.com.ua,,
-2020-04-24,covid-19testingonline.org,covid-19testingonline.org,,
 2020-04-24,covidcureidea.com,184.168.221.62,US,North America
 2020-04-24,covidcureidea.com,50.63.202.44,US,North America
 2020-04-24,covidcureidea.com,50.63.202.62,US,North America
@@ -58,7 +55,6 @@
 2020-04-25,antibodytestingcovid19.ws,64.70.19.203,US,North America
 2020-04-25,antibodytestingcovid19.ws,antibodytestingcovid19.ws,,
 2020-04-25,antibodytestingforcovid19.com.ph,antibodytestingforcovid19.com.ph,,
-2020-04-25,at-homecoronavirustest.ph,45.79.222.138,US,North America
 2020-04-25,at-homecoronavirustest.ph,at-homecoronavirustest.ph,,
 2020-04-25,at-home-covid-19-testing.ph,at-home-covid-19-testing.ph,,
 2020-04-25,at-homecovid-19testkit.com,98.124.199.51,US,North America
@@ -128,6 +124,8 @@
 2020-04-25,covid-19testdirect.co.uk,mx0.123-reg.co.uk,,
 2020-04-25,covid-19testdirect.co.uk,mx1.123-reg.co.uk,,
 2020-04-25,covid19testfordso.com,covid19testfordso.com,,
+2020-04-25,covid19testing4u.info,184.168.221.54,US,North America
+2020-04-25,covid19testing4u.info,covid19testing4u.info,,
 2020-04-25,covid19testingresults.com.ph,45.79.222.138,US,North America
 2020-04-25,covid19testingresults.com.ph,covid19testingresults.com.ph,,
 2020-04-25,covid19testingresults.ph,45.79.222.138,US,North America
@@ -193,6 +191,10 @@
 2020-04-25,cpcontacts.njcovidtests.com,72.18.134.36,US,North America
 2020-04-25,curecovidamerica.com,35.186.238.101,US,North America
 2020-04-25,curecovidamerica.com,curecovidamerica.com,,
+2020-04-25,curecovidconsortium.com,50.63.202.60,US,North America
+2020-04-25,curecovidconsortium.com,curecovidconsortium.com,,
+2020-04-25,curecovidconsortium.net,184.168.221.37,US,North America
+2020-04-25,curecovidconsortium.net,50.63.202.38,US,North America
 2020-04-25,curecovidconsortium.net,50.63.202.43,US,North America
 2020-04-25,curecovidconsortium.net,curecovidconsortium.net,,
 2020-04-25,doineedcovid19test.com.ph,doineedcovid19test.com.ph,,
@@ -270,8 +272,6 @@
 2020-04-25,testcovid19test.com.ph,testcovid19test.com.ph,,
 2020-04-25,testcovid19test.ph,45.79.222.138,US,North America
 2020-04-25,testcovid19test.ph,testcovid19test.ph,,
-2020-04-25,testedcovid-19.ws,64.70.19.203,US,North America
-2020-04-25,testedcovid-19.ws,testedcovid-19.ws,,
 2020-04-25,testexam-covid19.ph,testexam-covid19.ph,,
 2020-04-25,testkitcovid-19.com,testkitcovid-19.com,,
 2020-04-25,testkits-coronavirus.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
@@ -280,6 +280,7 @@
 2020-04-25,testnacovid19.com.ph,testnacovid19.com.ph,,
 2020-04-25,thelastestnewsoncoronavirusandcovid-19.com.ph,45.79.222.138,US,North America
 2020-04-25,thelastestnewsoncoronavirusandcovid-19.com.ph,thelastestnewsoncoronavirusandcovid-19.com.ph,,
+2020-04-25,webmail.fdaapprovedcovid19test.com,192.185.89.80,US,North America
 2020-04-25,webmail.fdaapprovedcovid19test.com,Dgoogle-site-verification=fqFNrqJnL6uO3wa30Dfpih0vheiHq645ebTTrl1atVA,,
 2020-04-25,webmail.fdaapprovedcovid19test.com,fdaapprovedcovid19test.com,,
 2020-04-25,webmail.fdaapprovedcovid19test.com,K3Y9c3BmMSBhIG14IGluY2x1ZGU6d2Vic2l0ZXdlbGNvbWUuY29tIH5hbGw=,,
