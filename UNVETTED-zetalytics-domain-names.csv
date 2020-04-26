@@ -2,8 +2,9 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-04-25,antibodytestingforcovid19.com.ph,45.79.222.138,US,North America
+2020-04-25,athomecovid19testkit.ph,45.79.222.138,US,North America
 2020-04-25,atomocovid19test.com.au,atomocovid19test.com.au,,
-2020-04-25,atomocovid-19test.co.nz,atomocovid-19test.co.nz,,
 2020-04-25,autodiscover.fdaapprovedcovid19test.com,192.185.89.80,US,North America
 2020-04-25,buycovid-19testkit.com,107.161.23.204,US,North America
 2020-04-25,buycovid-19testkit.com,192.161.187.200,US,North America
@@ -20,30 +21,20 @@
 2020-04-25,coronavirushealthycures.ws,coronavirushealthycures.ws,,
 2020-04-25,coronavirushealthycures.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-04-25,coronavirushealthycures.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-04-25,coronavirustesterkit.com,184.168.221.61,US,North America
-2020-04-25,coronavirustesterkit.com,coronavirustesterkit.com,,
-2020-04-25,coronavirustestingnearme.fm,198.74.54.240,US,North America
-2020-04-25,coronavirustestingnearme.fm,coronavirustestingnearme.fm,,
-2020-04-25,coronavirustestingnearme.fm,mail.h-email.net,,
 2020-04-25,coronavirustestsnationwide.com,184.168.221.41,US,North America
 2020-04-25,coronavirustestsnationwide.com,50.63.202.46,US,North America
 2020-04-25,coronavirustestsnationwide.com,coronavirustestsnationwide.com,,
-2020-04-25,covid19antibodyrapidtestkit.ph,45.79.222.138,US,North America
 2020-04-25,covid19-antibody-test-kit.com,23.236.62.147,US,North America
 2020-04-25,covid19-antibody-test-kit.com,covid19-antibody-test-kit.com,,
 2020-04-25,covid19cure.gq,covid19cure.gq,,
 2020-04-25,covid19cure.gq,mx-host.dot.tk,,
 2020-04-25,covid19cure.tk,195.20.43.252,NL,Europe
 2020-04-25,covid19cure.tk,covid19cure.tk,,
-2020-04-25,covid-19rapidtest.cpa,127.0.53.53,,
-2020-04-25,covid-19rapidtest.cpa,covid-19rapidtest.cpa,,
 2020-04-25,covid19-schnelltester.de,covid19-schnelltester.de,,
+2020-04-25,covid-19tester.se,hostmaster@one.com,,
+2020-04-25,covid-19tester.se,ns01.one.com,,
 2020-04-25,covid19testingsolution.com,184.168.221.37,US,North America
 2020-04-25,covid19testingsolution.com,covid19testingsolution.com,,
-2020-04-25,covid-19testnetwork.com,ns-1086.awsdns-07.org,,
-2020-04-25,covid-19testnetwork.com,ns-1583.awsdns-05.co.uk,,
-2020-04-25,covid-19testnetwork.com,ns-212.awsdns-26.com,,
-2020-04-25,covid-19testnetwork.com,ns-840.awsdns-41.net,,
 2020-04-25,covid-19tigertoptest.com,50.63.202.34,US,North America
 2020-04-25,covid-19tigertoptest.com,50.63.202.61,US,North America
 2020-04-25,covid-19tigertoptest.com,covid-19tigertoptest.com,,
@@ -51,7 +42,6 @@
 2020-04-25,covidantibody-test.com,50.63.202.52,US,North America
 2020-04-25,covidantibody-test.com,50.63.202.59,US,North America
 2020-04-25,covidantibody-test.com,covidantibody-test.com,,
-2020-04-25,covidtestinglocator.com,covidtestinglocator.com,,
 2020-04-25,covidtestpack.net,184.168.221.47,US,North America
 2020-04-25,covidtestpack.net,50.63.202.42,US,North America
 2020-04-25,covidtestpack.net,covidtestpack.net,,
@@ -77,6 +67,8 @@
 2020-04-25,doineedacovidtest.com,45.79.19.196,US,North America
 2020-04-25,doineedacovidtest.com,96.126.123.244,US,North America
 2020-04-25,doineedacovidtest.com,doineedacovidtest.com,,
+2020-04-25,doityourselfcoronavirustest.com,ns03.domaincontrol.com,,
+2020-04-25,doityourselfcoronavirustest.com,ns04.domaincontrol.com,,
 2020-04-25,doityourselfcovid19testing.com,184.168.221.57,US,North America
 2020-04-25,doityourselfcovid19testing.com,184.168.221.59,US,North America
 2020-04-25,doityourselfcovid19testing.com,184.168.221.60,US,North America
@@ -104,8 +96,12 @@
 2020-04-25,labcorp-coronavirus-test.com,labcorp-coronavirus-test.com,,
 2020-04-25,mail.covidmobiletests.com,72.18.134.36,US,North America
 2020-04-25,mail.covidmobiletests.com,covidmobiletests.com,,
-2020-04-25,mail.njcovidtests.com,72.18.134.36,US,North America
-2020-04-25,mail.njcovidtests.com,njcovidtests.com,,
+2020-04-25,mx.covid-19testpoint.com,62.149.128.151,IT,Europe
+2020-04-25,mx.covid-19testpoint.com,62.149.128.154,IT,Europe
+2020-04-25,mx.covid-19testpoint.com,62.149.128.157,IT,Europe
+2020-04-25,mx.covid-19testpoint.com,62.149.128.160,IT,Europe
+2020-04-25,mx.covid-19testpoint.com,62.149.128.163,IT,Europe
+2020-04-25,mx.covid-19testpoint.com,62.149.128.166,IT,Europe
 2020-04-25,mx.covid-19testpoint.store,62.149.128.151,IT,Europe
 2020-04-25,mx.covid-19testpoint.store,62.149.128.154,IT,Europe
 2020-04-25,mx.covid-19testpoint.store,62.149.128.157,IT,Europe
@@ -114,27 +110,21 @@
 2020-04-25,mx.covid-19testpoint.store,62.149.128.166,IT,Europe
 2020-04-25,njcovidtest.com,JHY9c3BmMSArYSArbXggK2lwNDo3Mi4xOC4xMzQuMzQgfmFsbA==,,
 2020-04-25,njcovidtest.com,$v=spf1 +a +mx +ip4:72.18.134.34 ~all,,
+2020-04-25,njcovidtests.com,ns1.ssdlinux33.com,,
+2020-04-25,njcovidtests.com,ns2.ssdlinux33.com,,
 2020-04-25,protocollosicurezzacovid19.ph,protocollosicurezzacovid19.ph,,
 2020-04-25,rapidcovid19test.com.ph,45.79.222.138,US,North America
 2020-04-25,selfcoronavirustesting.com,ns53.domaincontrol.com,,
 2020-04-25,selfcoronavirustesting.com,ns54.domaincontrol.com,,
-2020-04-25,selftestcovid-19.co.nz,selftestcovid-19.co.nz,,
 2020-04-25,sicurezzacovid.net,sicurezzacovid.net,,
 2020-04-25,testcovid19here.com,50.63.202.52,US,North America
 2020-04-25,testcovid19here.com,ns03.domaincontrol.com,,
 2020-04-25,testcovid19here.com,ns04.domaincontrol.com,,
-2020-04-25,thelastestnewsoncoronavirusandcovid-19.com,50.63.202.52,US,North America
 2020-04-25,thelastestnewsoncoronavirusandcovid-19.com,50.63.202.59,US,North America
-2020-04-25,thelastestnewsoncoronavirusandcovid-19.com,thelastestnewsoncoronavirusandcovid-19.com,,
 2020-04-25,trucovid19test.ph,trucovid19test.ph,,
-2020-04-25,ukcovid19test.ph,45.79.222.138,US,North America
-2020-04-25,ukcovid19test.ph,ukcovid19test.ph,,
-2020-04-25,webdisk.fdaapprovedcovid19test.com,192.185.89.80,US,North America
-2020-04-25,webdisk.njcovidtests.com,72.18.134.36,US,North America
 2020-04-25,webmail.fdaapprovedcovid19test.com,fdaapprovedcovid19test.com,,
 2020-04-25,webmail.fdaapprovedcovid19test.com,ns129.websitewelcome.com,,
 2020-04-25,webmail.fdaapprovedcovid19test.com,ns130.websitewelcome.com,,
-2020-04-25,www.antibodytestingforcovid19.com.ph,45.79.222.138,US,North America
 2020-04-25,www.athomecovid-19tests.fm,198.74.54.240,US,North America
 2020-04-25,www.buscovid-19testing.com.ph,45.79.222.138,US,North America
 2020-04-25,www.coronavirustestforhome.com.ph,45.79.222.138,US,North America
@@ -143,11 +133,9 @@
 2020-04-25,www.covid19-antibody-test-kit.com,www207.wixdns.net,,
 2020-04-25,www.covid19cure.gq,195.20.53.100,NL,Europe
 2020-04-25,www.covid19cure.gq,covid19cure.gq,,
-2020-04-25,www.covid19testsforsale.ph,45.79.222.138,US,North America
 2020-04-25,www.covidantibody-test.com,184.168.221.49,US,North America
 2020-04-25,www.covidantibody-test.com,184.168.221.56,US,North America
 2020-04-25,www.covidantibody-test.com,covidantibody-test.com,,
-2020-04-25,www.doineedcovid19test.com.ph,45.79.222.138,US,North America
 2020-04-25,www.getacovidtesttoday.com,parking.namesilo.com,,
 2020-04-25,www.protocollosicurezzacovid19.ph,45.79.222.138,US,North America
 2020-04-25,www.sicurezzacovid.net,sitestudio.it,,
@@ -288,6 +276,7 @@
 2020-04-26,selfcovid-19testing.com,184.168.221.35,US,North America
 2020-04-26,selfcovid-19testing.com,50.63.202.44,US,North America
 2020-04-26,selfcovid-19testing.com,selfcovid-19testing.com,,
+2020-04-26,selfcovid19tests.com,184.168.221.51,US,North America
 2020-04-26,selfcovid-19tests.com,184.168.221.55,US,North America
 2020-04-26,selfcovid19tests.com,50.63.202.43,US,North America
 2020-04-26,selfcovid-19tests.com,50.63.202.50,US,North America
@@ -300,6 +289,8 @@
 2020-04-26,test4coronavirus.pl,test4coronavirus.pl,,
 2020-04-26,testcoronavirusadomicilio.ws,64.70.19.203,US,North America
 2020-04-26,testcoronavirusadomicilio.ws,testcoronavirusadomicilio.ws,,
+2020-04-26,testcovid19.cloud,81.31.145.134,IT,Europe
+2020-04-26,testcovid19.cloud,testcovid19.cloud,,
 2020-04-26,testcovid19doma.ru,testcovid19doma.ru,,
 2020-04-26,testcovid19.hu,alt1.aspmx.l.google.com,,
 2020-04-26,testcovid19.hu,alt2.aspmx.l.google.com,,
@@ -313,13 +304,24 @@
 2020-04-26,testforcovid19.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-04-26,testforcovid19.ws,testforcovid19.ws,,
 2020-04-26,testforcovid19.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
+2020-04-26,testiowacovid19.com,103.224.182.242,AU,Oceania
+2020-04-26,testiowacovid19.com,testiowacovid19.com,,
+2020-04-26,tigercovidtesting.com,209.17.116.160,US,North America
+2020-04-26,tigercovidtesting.com,tigercovidtesting.com,,
 2020-04-26,trumptakescoronavirustest.com.ph,45.79.222.138,US,North America
 2020-04-26,trumptakescoronavirustest.com.ph,trumptakescoronavirustest.com.ph,,
+2020-04-26,uscovidtestcenter.com,208.91.197.27,US,North America
+2020-04-26,uscovidtestcenter.com,uscovidtestcenter.com,,
+2020-04-26,validcovid19test.com,184.168.221.35,US,North America
+2020-04-26,validcovid19test.com,validcovid19test.com,,
+2020-04-26,validcovidtest.com,50.63.202.53,US,North America
+2020-04-26,validcovidtest.com,validcovidtest.com,,
 2020-04-26,workplacecovidtesting.com,ns1.bluehost.com,,
 2020-04-26,workplacecovidtesting.com,ns2.bluehost.com,,
 2020-04-26,workplacecovidtesting.com,workplacecovidtesting.com,,
 2020-04-26,www42.doineedcovidtest.com,185.53.179.29,DE,Europe
 2020-04-26,www42.doineedcovidtest.com,473162.parkingcrew.net,,
+2020-04-26,www6.doineedcovidtest.com,www10.smartname.com,,
 2020-04-26,www.covidtesterkit.com,50.63.202.34,US,North America
 2020-04-26,www.covidtesterkit.com,covidtesterkit.com,,
 2020-04-26,www.instantcovidtestathome.com,parking.namesilo.com,,
