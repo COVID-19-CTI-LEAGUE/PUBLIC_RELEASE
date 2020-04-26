@@ -2,8 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-25,actcovidtesting.com,50.63.202.34,US,North America
-2020-04-25,actcovidtesting.com,actcovidtesting.com,,
 2020-04-25,antibodytestingcovid19.com,35.186.238.101,US,North America
 2020-04-25,antibodytestingcovid19.com,antibodytestingcovid19.com,,
 2020-04-25,approvedcovidtest.com,209.99.64.55,US,North America
@@ -34,7 +32,6 @@
 2020-04-25,coronavisioncontest.com,198.185.159.145,US,North America
 2020-04-25,coronavisioncontest.com,198.49.23.144,US,North America
 2020-04-25,coronavisioncontest.com,198.49.23.145,US,North America
-2020-04-25,coronavisioncontest.com,coronavisioncontest.com,,
 2020-04-25,covid10mintest.com,covid10mintest.com,,
 2020-04-25,covid19antibodyrapidtestkit.ph,45.79.222.138,US,North America
 2020-04-25,covid19-antibody-test-kit.com,23.236.62.147,US,North America
@@ -48,8 +45,6 @@
 2020-04-25,covid19hometestkits.cpa,covid19hometestkits.cpa,,
 2020-04-25,covid19kits-test.com,192.116.109.70,IL,Asia
 2020-04-25,covid19kits-test.com,covid19kits-test.com,,
-2020-04-25,covid19kits-test.com,ns1.spd.co.il,,
-2020-04-25,covid19kits-test.com,ns2.spd.co.il,,
 2020-04-25,covid-19rapidtest.cpa,127.0.53.53,,
 2020-04-25,covid-19rapidtest.cpa,covid-19rapidtest.cpa,,
 2020-04-25,covid19-schnelltester.de,covid19-schnelltester.de,,
@@ -60,7 +55,6 @@
 2020-04-25,covid19testing4u.info,covid19testing4u.info,,
 2020-04-25,covid19testingsolution.com,184.168.221.37,US,North America
 2020-04-25,covid19testingsolution.com,covid19testingsolution.com,,
-2020-04-25,covid19testnetwork.com,covid19testnetwork.com,,
 2020-04-25,covid-19testnetwork.com,ns-1086.awsdns-07.org,,
 2020-04-25,covid19testnetwork.com,ns-1490.awsdns-58.org,,
 2020-04-25,covid-19testnetwork.com,ns-1583.awsdns-05.co.uk,,
@@ -137,6 +131,7 @@
 2020-04-25,employeecovidtesting.com,50.63.202.47,US,North America
 2020-04-25,employeecovidtesting.com,employeecovidtesting.com,,
 2020-04-25,fdaapprovedcovid19test.com,192.185.89.80,US,North America
+2020-04-25,fdaapprovedcovid19test.com,charles@velocityseobocaraton.com,,
 2020-04-25,fdaapprovedcovid19test.com,fdaapprovedcovid19test.com,,
 2020-04-25,fdaapprovedcovid19test.com,ns129.websitewelcome.com,,
 2020-04-25,fdaapprovedcovid19test.com,ns130.websitewelcome.com,,
@@ -147,15 +142,11 @@
 2020-04-25,getcovid19testingathome.org,184.168.221.54,US,North America
 2020-04-25,getcovid19testingathome.org,50.63.202.49,US,North America
 2020-04-25,getcovid19testingathome.org,getcovid19testingathome.org,,
-2020-04-25,getcovidtestingathome.com,getcovidtestingathome.com,,
-2020-04-25,getcovidtestingathome.com,ns-cloud-c1.googledomains.com,,
-2020-04-25,getcovidtestingathome.com,ns-cloud-c2.googledomains.com,,
-2020-04-25,getcovidtestingathome.com,ns-cloud-c3.googledomains.com,,
-2020-04-25,getcovidtestingathome.com,ns-cloud-c4.googledomains.com,,
 2020-04-25,hometestcovid19.net,208.91.197.39,VG,North America
 2020-04-25,hometestcovid19.net,dns103.register.com,,
 2020-04-25,hometestcovid19.net,dns104.register.com,,
 2020-04-25,hometestcovid19.net,hometestcovid19.net,,
+2020-04-25,inhomecovid-19test.com,50.63.202.33,US,North America
 2020-04-25,inhomecovid-19test.com,inhomecovid-19test.com,,
 2020-04-25,instanttestcovid-19.com,instanttestcovid-19.com,,
 2020-04-25,instanttestcovid19.com,instanttestcovid19.com,,
@@ -204,9 +195,8 @@
 2020-04-25,speedtestcovid19.pl,91.198.146.247,PL,Europe
 2020-04-25,speedtestcovid19.pl,speedtestcovid19.pl,,
 2020-04-25,teste-covid.ro,teste-covid.ro,,
-2020-04-25,testkitcovid-19.com,testkitcovid-19.com,,
 2020-04-25,thelastestnewsoncoronavirusandcovid-19.com,50.63.202.52,US,North America
-2020-04-25,thelastestnewsoncoronavirusandcovid-19.com.ph,45.79.222.138,US,North America
+2020-04-25,thelastestnewsoncoronavirusandcovid-19.com,50.63.202.59,US,North America
 2020-04-25,thelastestnewsoncoronavirusandcovid-19.com,thelastestnewsoncoronavirusandcovid-19.com,,
 2020-04-25,tigercoronavirustesting.net,208.91.197.27,US,North America
 2020-04-25,tigercoronavirustesting.net,tigercoronavirustesting.net,,
@@ -232,13 +222,14 @@
 2020-04-25,webmail.fdaapprovedcovid19test.com,Dgoogle-site-verification=fqFNrqJnL6uO3wa30Dfpih0vheiHq645ebTTrl1atVA,,
 2020-04-25,webmail.fdaapprovedcovid19test.com,fdaapprovedcovid19test.com,,
 2020-04-25,webmail.fdaapprovedcovid19test.com,K3Y9c3BmMSBhIG14IGluY2x1ZGU6d2Vic2l0ZXdlbGNvbWUuY29tIH5hbGw=,,
+2020-04-25,webmail.fdaapprovedcovid19test.com,ns129.websitewelcome.com,,
+2020-04-25,webmail.fdaapprovedcovid19test.com,ns130.websitewelcome.com,,
 2020-04-25,webmail.fdaapprovedcovid19test.com,RGdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1mcUZOcnFKbkw2dU8zd2EzMERmcGloMHZoZWlIcTY0NWViVFRybDFhdFZB,,
 2020-04-25,webmail.fdaapprovedcovid19test.com,+v=spf1 a mx include:websitewelcome.com ~all,,
 2020-04-25,www.antibodytestingforcovid19.com.ph,45.79.222.138,US,North America
 2020-04-25,www.athomecovid-19tests.fm,198.74.54.240,US,North America
 2020-04-25,www.buscovid-19testing.com.ph,45.79.222.138,US,North America
 2020-04-25,www.coronavirustestforhome.com.ph,45.79.222.138,US,North America
-2020-04-25,www.coronavisioncontest.com,ext-cust.squarespace.com,,
 2020-04-25,www.covid19-antibody-test-kit.com,185.230.63.177,IL,Asia
 2020-04-25,www.covid19-antibody-test-kit.com,balancer.wixdns.net,,
 2020-04-25,www.covid19-antibody-test-kit.com,www207.wixdns.net,,
@@ -277,6 +268,7 @@
 2020-04-25,youcovidtesting.com,youcovidtesting.com,,
 2020-04-26,athomecovid-19test.org,athomecovid-19test.org,,
 2020-04-26,atomocovid19test.co.nz,atomocovid19test.co.nz,,
+2020-04-26,coronavirussecure.rs,coronavirussecure.rs,,
 2020-04-26,covid19antybodytesting.ws,64.70.19.203,US,North America
 2020-04-26,covid19antybodytesting.ws,covid19antybodytesting.ws,,
 2020-04-26,covid19testingnationwide.com,184.168.221.62,US,North America
@@ -287,18 +279,24 @@
 2020-04-26,doityourselfcovid-19testing.com,doityourselfcovid-19testing.com,,
 2020-04-26,doityourselfcovid-19tests.com,50.63.202.42,US,North America
 2020-04-26,doityourselfcovid-19tests.com,doityourselfcovid-19tests.com,,
+2020-04-26,inhomecovid19testing.com,184.168.221.53,US,North America
+2020-04-26,inhomecovid19testing.com,inhomecovid19testing.com,,
 2020-04-26,mycovid19testing.info,107.161.23.204,US,North America
 2020-04-26,mycovid19testing.info,192.161.187.200,US,North America
 2020-04-26,mycovid19testing.info,209.141.38.71,US,North America
 2020-04-26,mycovid19testing.info,mycovid19testing.info,,
 2020-04-26,selfcovid-19testing.com,184.168.221.35,US,North America
 2020-04-26,selfcovid-19testing.com,selfcovid-19testing.com,,
+2020-04-26,selfcovid-19tests.com,50.63.202.50,US,North America
+2020-04-26,selfcovid-19tests.com,selfcovid-19tests.com,,
+2020-04-26,testcovid19doma.ru,testcovid19doma.ru,,
 2020-04-26,testcovid19.hu,alt1.aspmx.l.google.com,,
 2020-04-26,testcovid19.hu,alt2.aspmx.l.google.com,,
 2020-04-26,testcovid19.hu,alt3.aspmx.l.google.com,,
 2020-04-26,testcovid19.hu,alt4.aspmx.l.google.com,,
 2020-04-26,testcovid19.hu,aspmx.l.google.com,,
 2020-04-26,testcovid19.hu,testcovid19.hu,,
+2020-04-26,testcovid19.lu,testcovid19.lu,,
 2020-04-26,trumptakescoronavirustest.com.ph,45.79.222.138,US,North America
 2020-04-26,trumptakescoronavirustest.com.ph,trumptakescoronavirustest.com.ph,,
 2020-04-26,www.covidtesterkit.com,50.63.202.34,US,North America
