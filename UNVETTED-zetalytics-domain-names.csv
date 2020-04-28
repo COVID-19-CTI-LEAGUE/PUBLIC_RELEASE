@@ -104,6 +104,10 @@
 2020-04-27,getmycovid19test.com,192.161.187.200,US,North America
 2020-04-27,getmycovid19test.com,209.141.38.71,US,North America
 2020-04-27,getmycovid19test.com,getmycovid19test.com,,
+2020-04-27,getmycovid19test.com,hostmaster@dnsowl.com,,
+2020-04-27,getmycovid19test.com,ns1.dnsowl.com,,
+2020-04-27,getmycovid19test.com,ns2.dnsowl.com,,
+2020-04-27,getmycovid19test.com,ns3.dnsowl.com,,
 2020-04-27,getmycovidtest.info,107.161.23.204,US,North America
 2020-04-27,getmycovidtest.info,192.161.187.200,US,North America
 2020-04-27,getmycovidtest.info,209.141.38.71,US,North America
@@ -207,6 +211,8 @@
 2020-04-27,www.covidcureidea.us,covidcureidea.us,,
 2020-04-27,www.covidtestingfl.com,198.71.232.3,US,North America
 2020-04-27,www.covidtestingfl.com,covidtestingfl.com,,
+2020-04-27,www.covidtestla.com,2607:f1c0:100f:f000::2ca,,
+2020-04-27,www.covidtestla.com,74.208.236.161,US,North America
 2020-04-27,www.getmycovid19test.com,parking.namesilo.com,,
 2020-04-27,www.getmycovidtest.info,parking.namesilo.com,,
 2020-04-27,www.mailmycovid19test.com,192.185.0.218,US,North America
@@ -220,13 +226,29 @@
 2020-04-28,covid19-antibody-test-kit.fm,covid19-antibody-test-kit.fm,,
 2020-04-28,covid19testnv.com,covid19testnv.com,,
 2020-04-28,covid19testnv.org,covid19testnv.org,,
+2020-04-28,covidtestingalliance.com,covidtestingalliance.com,,
+2020-04-28,covidtest.nyc,50.63.202.38,US,North America
+2020-04-28,covidtest.nyc,covidtest.nyc,,
+2020-04-28,covidtests.fr,213.186.33.5,FR,Europe
 2020-04-28,covidtests.fr,covidtests.fr,,
 2020-04-28,cvscoronavirustest.com,184.168.221.42,US,North America
 2020-04-28,cvscoronavirustest.com,cvscoronavirustest.com,,
 2020-04-28,cvscoronavirustesting.com,cvscoronavirustesting.com,,
+2020-04-28,hawaiicovid19testing.com,184.168.221.36,US,North America
+2020-04-28,hawaiicovid19testing.com,hawaiicovid19testing.com,,
 2020-04-28,helpcurecovid19.com,160.153.136.3,US,North America
 2020-04-28,helpcurecovid19.com,helpcurecovid19.com,,
+2020-04-28,ineedacovid19test.com,,bio=cd5542453bd47807b6a02dc4688c863c567da68f,,
+2020-04-28,ineedacovid19test.com,I3Y9c3BmMSBpcDY6ZmQ0MzpjMGQxOmMwOTA6Oi80OCAtYWxs,,
+2020-04-28,ineedacovid19test.com,I3Y9c3BmMSBpcDY6ZmQ3MzpiYzhiOmZiOGI6Oi80OCAtYWxs,,
+2020-04-28,ineedacovid19test.com,ineedacovid19test.com,,
+2020-04-28,ineedacovid19test.com,LGJpbz1jZDU1NDI0NTNiZDQ3ODA3YjZhMDJkYzQ2ODhjODYzYzU2N2RhNjhm,,
+2020-04-28,ineedacovid19test.com,#v=spf1 ip6:fd43:c0d1:c090::/48 -all,,
+2020-04-28,ineedacovid19test.com,#v=spf1 ip6:fd73:bc8b:fb8b::/48 -all,,
 2020-04-28,mailmycovid19test.com.ph,mailmycovid19test.com.ph,,
+2020-04-28,ourcovidcure.com,ourcovidcure.com,,
+2020-04-28,sklep-testcovid19.ph,sklep-testcovid19.ph,,
+2020-04-28,testcoronavirus.cat,81.88.48.71,IT,Europe
 2020-04-28,testcoronavirus.cat,dns1.nominalia.com,,
 2020-04-28,testcoronavirus.cat,dns2.nominalia.com,,
 2020-04-28,testcoronavirus.cat,testcoronavirus.cat,,
@@ -238,6 +260,8 @@
 2020-04-28,testcovid19.cat,dns2.nominalia.com,,
 2020-04-28,test-covid19.cat,test-covid19.cat,,
 2020-04-28,testcovid19.cat,testcovid19.cat,,
+2020-04-28,testcovid.pro,184.168.221.62,US,North America
+2020-04-28,testcovid.pro,testcovid.pro,,
 2020-04-28,testfloridacorona19.ph,testfloridacorona19.ph,,
 2020-04-28,testingcoronavirus.ws,64.70.19.203,US,North America
 2020-04-28,testingcoronavirus.ws,testingcoronavirus.ws,,
