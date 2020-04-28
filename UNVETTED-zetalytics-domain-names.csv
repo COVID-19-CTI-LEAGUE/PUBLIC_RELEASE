@@ -3,7 +3,6 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-27,at-homecovid-19test.com,35.209.201.99,US,North America
-2020-04-27,atomocovid-19test.com,184.168.221.51,US,North America
 2020-04-27,atomocovid-19test.com,50.63.202.51,US,North America
 2020-04-27,checkmycovidtest.com,184.168.221.36,US,North America
 2020-04-27,checkmycovidtest.com,checkmycovidtest.com,,
@@ -28,6 +27,7 @@
 2020-04-27,covid19dmtest.com,184.168.221.33,US,North America
 2020-04-27,covid19dmtest.com,covid19dmtest.com,,
 2020-04-27,covid19employertesting.com,covid19employertesting.com,,
+2020-04-27,covid19plasmatests.com,184.168.221.53,US,North America
 2020-04-27,covid19plasmatests.com,50.63.202.35,US,North America
 2020-04-27,covid19plasmatests.com,covid19plasmatests.com,,
 2020-04-27,covid-19-rapidtestkits.com,covid-19-rapidtestkits.com,,
@@ -46,11 +46,6 @@
 2020-04-27,covid19test.reviews,covid19test.reviews,,
 2020-04-27,covid19tests.fm,198.74.54.240,US,North America
 2020-04-27,covid19tests.fm,covid19tests.fm,,
-2020-04-27,covid19teststation.com,covid19teststation.com,,
-2020-04-27,covid19teststation.com,ns-cloud-a1.googledomains.com,,
-2020-04-27,covid19teststation.com,ns-cloud-a2.googledomains.com,,
-2020-04-27,covid19teststation.com,ns-cloud-a3.googledomains.com,,
-2020-04-27,covid19teststation.com,ns-cloud-a4.googledomains.com,,
 2020-04-27,covidcureidea.us,covidcureidea.us,,
 2020-04-27,covid-cure-now.net,184.168.221.34,US,North America
 2020-04-27,covid-cure-now.net,50.63.202.54,US,North America
@@ -109,7 +104,6 @@
 2020-04-27,hometestkitcovid-19.com,184.168.221.50,US,North America
 2020-04-27,mailmycovid19test.com,192.185.0.218,US,North America
 2020-04-27,mailmycovid19test.com,mailmycovid19test.com,,
-2020-04-27,oxfordcovidtest.com,50.63.202.53,US,North America
 2020-04-27,statecovid19testing.ph,45.79.222.138,US,North America
 2020-04-27,statecovid19testing.ph,statecovid19testing.ph,,
 2020-04-27,supportcovid19cure.ws,mail.hope-mail.com,,
@@ -126,9 +120,6 @@
 2020-04-27,testerapidocovid19.pt,dns2.host-redirect.com,,
 2020-04-27,testerapidocovid19.pt,dns3.host-redirect.com,,
 2020-04-27,testerapidocovid19.pt,dns4.host-redirect.com,,
-2020-04-27,testerapidocovid19.pt,testerapidocovid19.pt,,
-2020-04-27,testflcovid.com,184.168.221.63,US,North America
-2020-04-27,testflcovid.com,testflcovid.com,,
 2020-04-27,testforcovid19antibodies.com,184.168.221.51,US,North America
 2020-04-27,testforcovid19antibodies.com,50.63.202.47,US,North America
 2020-04-27,testforcovid19antibodies.com,testforcovid19antibodies.com,,
@@ -223,6 +214,7 @@
 2020-04-28,cvscoronavirustests.com,ns06.domaincontrol.com,,
 2020-04-28,cvscovid19tests.com,cvscovid19tests.com,,
 2020-04-28,getmycovidtest.com,getmycovidtest.com,,
+2020-04-28,getyourcovidtest.com,getyourcovidtest.com,,
 2020-04-28,hawaiicovid19testing.com,184.168.221.36,US,North America
 2020-04-28,hawaiicovid19testing.com,hawaiicovid19testing.com,,
 2020-04-28,helpcurecovid19.com,160.153.136.3,US,North America
@@ -239,6 +231,7 @@
 2020-04-28,mailmycovid19test.com.ph,mailmycovid19test.com.ph,,
 2020-04-28,medicalcoronavirustest.com,52.0.217.44,US,North America
 2020-04-28,medicalcoronavirustest.com,medicalcoronavirustest.com,,
+2020-04-28,mycovidlabtests.com,184.168.221.59,US,North America
 2020-04-28,mycovidlabtests.com,mycovidlabtests.com,,
 2020-04-28,mycovidlabtests.com,ns13.domaincontrol.com,,
 2020-04-28,mycovidlabtests.com,ns14.domaincontrol.com,,
@@ -250,10 +243,15 @@
 2020-04-28,quickcovidtests.com,quickcovidtests.com,,
 2020-04-28,sars-cov-2-test.info,85.214.45.45,DE,Europe
 2020-04-28,sars-cov-2-test.info,sars-cov-2-test.info,,
+2020-04-28,seattlecoronavirustesting.com.ph,seattlecoronavirustesting.com.ph,,
+2020-04-28,seattlecovid-19test.com.ph,seattlecovid-19test.com.ph,,
+2020-04-28,seattlecovid19tests.ph,45.79.222.138,US,North America
+2020-04-28,seattlecovid19tests.ph,seattlecovid19tests.ph,,
 2020-04-28,selfcovid19test.fm,198.74.54.240,US,North America
 2020-04-28,selfcovid19test.fm,selfcovid19test.fm,,
 2020-04-28,selftestcoronavirus.ph,selftestcoronavirus.ph,,
 2020-04-28,selftestkitcoronavirus.ph,selftestkitcoronavirus.ph,,
+2020-04-28,sendmeacovid19test.ws,64.70.19.203,US,North America
 2020-04-28,sendmeacovid19test.ws,sendmeacovid19test.ws,,
 2020-04-28,shouldigettestedforcovid19.ws,64.70.19.203,US,North America
 2020-04-28,shouldigettestedforcovid19.ws,shouldigettestedforcovid19.ws,,
@@ -286,6 +284,7 @@
 2020-04-28,test-for-coronavirus.gov.uk,test-for-coronavirus.gov.uk,,
 2020-04-28,testingcoronavirus.ws,64.70.19.203,US,North America
 2020-04-28,testingcoronavirus.ws,testingcoronavirus.ws,,
+2020-04-28,testkits4covid.com,testkits4covid.com,,
 2020-04-28,test-serologique-coronavirus.com,217.70.184.38,FR,Europe
 2020-04-28,test-serologique-coronavirus.com,test-serologique-coronavirus.com,,
 2020-04-28,test-serologique-covid19.com,217.70.184.38,FR,Europe
@@ -306,6 +305,7 @@
 2020-04-28,trumpcovidcures.com,ns-cloud-d3.googledomains.com,,
 2020-04-28,trumpcovidcures.com,ns-cloud-d4.googledomains.com,,
 2020-04-28,trumpcovidcures.com,trumpcovidcures.com,,
+2020-04-28,usa-covid-19rapidtestkit.com,usa-covid-19rapidtestkit.com,,
 2020-04-28,uscovidtestcenters.com,208.91.197.27,US,North America
 2020-04-28,uscovidtestcenters.com,uscovidtestcenters.com,,
 2020-04-28,validatedcovid19inhometest.ph,validatedcovid19inhometest.ph,,
