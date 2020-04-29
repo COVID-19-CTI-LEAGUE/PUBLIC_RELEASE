@@ -2,11 +2,8 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-28,arcovidtest.com,arcovidtest.com,,
 2020-04-28,coronavirusbloodtests.com.ph,45.79.222.138,US,North America
 2020-04-28,coronavirusbloodtests.com.ph,coronavirusbloodtests.com.ph,,
-2020-04-28,coronaviruslabortest.ch,217.26.48.101,CH,Europe
-2020-04-28,coronaviruslabortest.ch,coronaviruslabortest.ch,,
 2020-04-28,coronavirus-rapid-test.de,coronavirus-rapid-test.de,,
 2020-04-28,coronavirustestingoc.com,coronavirustestingoc.com,,
 2020-04-28,coronavirustestingoc.com,ns1.ignitionlabs.com,,
@@ -49,8 +46,6 @@
 2020-04-28,covid19testingsolutions.com,184.168.221.63,US,North America
 2020-04-28,covid19testingsolutions.com,covid19testingsolutions.com,,
 2020-04-28,covid19testlasvegas.com,covid19testlasvegas.com,,
-2020-04-28,covid-19-test.me,35.197.250.147,,Europe
-2020-04-28,covid-19-test.me,covid-19-test.me,,
 2020-04-28,covid19-test.ml,covid19-test.ml,,
 2020-04-28,covid19testnv.org,ns-cloud-e1.googledomains.com,,
 2020-04-28,covid19testnv.org,ns-cloud-e2.googledomains.com,,
@@ -141,7 +136,6 @@
 2020-04-28,iwantacovid19test.co,ns55.worldnic.com,,
 2020-04-28,iwantacovid19test.co,ns56.worldnic.com,,
 2020-04-28,mailincovidtest.com,mailincovidtest.com,,
-2020-04-28,medicalcoronavirustest.com,52.0.217.44,US,North America
 2020-04-28,mx.covid19-test.ml,185.27.134.244,GB,Europe
 2020-04-28,mycovidlabtests.com,184.168.221.55,US,North America
 2020-04-28,mycovidlabtests.com,184.168.221.59,US,North America
@@ -273,6 +267,8 @@
 2020-04-29,coronavirus-tests.at,ns1.world4you.at,,
 2020-04-29,coronavirus-tests.at,ns2.world4you.at,,
 2020-04-29,coronavirustest.srl,coronavirustest.srl,,
+2020-04-29,covid19breathtest.com,91.195.240.94,DE,Europe
+2020-04-29,covid19breathtest.com,covid19breathtest.com,,
 2020-04-29,covid19plasmatesting.ph,covid19plasmatesting.ph,,
 2020-04-29,covid19quicktestkits.ws,covid19quicktestkits.ws,,
 2020-04-29,covid-19-rapidtestkit.com,covid-19-rapidtestkit.com,,
@@ -297,7 +293,10 @@
 2020-04-29,doctorcovid19test.com,doctorcovid19test.com,,
 2020-04-29,doctorcovid19test.com.ph,doctorcovid19test.com.ph,,
 2020-04-29,doindeedacovid19test.com,198.58.118.167,US,North America
+2020-04-29,doindeedacovid19test.com,45.33.23.183,US,North America
 2020-04-29,doindeedacovid19test.com,45.33.2.79,US,North America
+2020-04-29,doindeedacovid19test.com,45.56.79.23,US,North America
+2020-04-29,doindeedacovid19test.com,45.79.19.196,US,North America
 2020-04-29,doindeedacovid19test.com,96.126.123.244,US,North America
 2020-04-29,doindeedacovid19test.com,doindeedacovid19test.com,,
 2020-04-29,easycovidantibodytest.com,184.168.221.35,US,North America
@@ -314,10 +313,12 @@
 2020-04-29,testcovid19.pt,dns3.host-redirect.com,,
 2020-04-29,testcovid19.pt,dns4.host-redirect.com,,
 2020-04-29,testcovid19.pt,testcovid19.pt,,
+2020-04-29,testcovidfree.com,50.63.202.58,US,North America
 2020-04-29,testcovidfree.com,testcovidfree.com,,
 2020-04-29,testsierologicicovid19.fm,198.74.54.240,US,North America
 2020-04-29,testsierologicicovid19.fm,testsierologicicovid19.fm,,
 2020-04-29,testsierologicicovid19.it,testsierologicicovid19.it,,
+2020-04-29,testviruscovid.com,81.88.48.71,IT,Europe
 2020-04-29,txcovidtest.net,50.63.202.40,US,North America
 2020-04-29,txcovidtest.net,txcovidtest.net,,
 2020-04-29,www.coronavirustest.srl,195.110.124.133,IT,Europe
