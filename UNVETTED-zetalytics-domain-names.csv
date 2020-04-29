@@ -205,9 +205,6 @@
 2020-04-28,testcoronavirus.cat,81.88.48.71,IT,Europe
 2020-04-28,testcoronaviruscovid.com,testcoronaviruscovid.com,,
 2020-04-28,test-covid19.cat,81.88.48.71,IT,Europe
-2020-04-28,test-covid19.cat,dns1.nominalia.com,,
-2020-04-28,test-covid19.cat,dns2.nominalia.com,,
-2020-04-28,test-covid19.cat,test-covid19.cat,,
 2020-04-28,testcovidadomiciliosevilla.com,2001:8d8:100f:f000::230,,
 2020-04-28,testcovidadomiciliosevilla.com,217.160.0.85,DE,Europe
 2020-04-28,testcovidadomiciliosevilla.com,mx00.ionos.es,,
@@ -271,6 +268,7 @@
 2020-04-28,w4.testy-covid.info,76.164.219.18,US,North America
 2020-04-28,w4.testy-covid.info,HXY9c3BmMSBpcDQ6NzYuMTY0LjIxOS4xOCBhIG14,,
 2020-04-28,w4.testy-covid.info,v=spf1 ip4:76.164.219.18 a mx,,
+2020-04-28,webmail.test-pcr-covid19.com,webmail.gandi.net,,
 2020-04-28,webmail.test-serologique-covid.com,webmail.gandi.net,,
 2020-04-28,www.getmycovidtest.com,parking.namesilo.com,,
 2020-04-28,www.sars-cov-2-test.info,85.214.45.45,DE,Europe
@@ -278,7 +276,6 @@
 2020-04-28,www.seattlecovid19tests.ph,45.79.222.138,US,North America
 2020-04-28,www.testcoronavirus.cat,testcoronavirus.cat,,
 2020-04-28,www.test-covid19.cat,81.88.48.71,IT,Europe
-2020-04-28,www.test-covid19.cat,test-covid19.cat,,
 2020-04-28,www.test-pcr-covid.com,webredir.vip.gandi.net,,
 2020-04-28,www.testy-covid.info,parking.namesilo.com,,
 2020-04-29,adlabcovidtest.fm,adlabcovidtest.fm,,
@@ -290,6 +287,8 @@
 2020-04-29,coronavirusrisktest.com,coronavirusrisktest.com,,
 2020-04-29,coronavirustestingcost.ph,coronavirustestingcost.ph,,
 2020-04-29,coronavirus-tests.at,coronavirus-tests.at,,
+2020-04-29,coronavirus-tests.at,ns1.world4you.at,,
+2020-04-29,coronavirus-tests.at,ns2.world4you.at,,
 2020-04-29,coronavirustest.srl,coronavirustest.srl,,
 2020-04-29,covid19plasmatesting.ph,covid19plasmatesting.ph,,
 2020-04-29,covid19quicktestkits.ws,covid19quicktestkits.ws,,
@@ -297,12 +296,15 @@
 2020-04-29,covid19testimonials.com,covid19testimonials.com,,
 2020-04-29,covid19testingresults.com,covid19testingresults.com,,
 2020-04-29,covid19uktest.com,covid19uktest.com,,
+2020-04-29,covid-immunity-tests.com,covid-immunity-tests.com,,
 2020-04-29,covidlabtestsonline.com,covidlabtestsonline.com,,
 2020-04-29,covidtestingalliance.us,covidtestingalliance.us,,
 2020-04-29,cvscoronavirustest.com.ph,cvscoronavirustest.com.ph,,
 2020-04-29,cvscoronavirustests.ph,cvscoronavirustests.ph,,
 2020-04-29,cvscovid19test.com.ph,cvscovid19test.com.ph,,
 2020-04-29,cvscovid19tests.ph,cvscovid19tests.ph,,
+2020-04-29,doctorcovid19test.com,52.0.217.44,US,North America
+2020-04-29,doctorcovid19test.com,doctorcovid19test.com,,
 2020-04-29,doctorcovid19test.com.ph,doctorcovid19test.com.ph,,
 2020-04-29,doindeedacovid19test.com,198.58.118.167,US,North America
 2020-04-29,doindeedacovid19test.com,45.33.2.79,US,North America
@@ -311,6 +313,7 @@
 2020-04-29,mailmycovid19test.fm,mailmycovid19test.fm,,
 2020-04-29,mycovid19testing.com.ph,mycovid19testing.com.ph,,
 2020-04-29,mycovidlabtest.com,mycovidlabtest.com,,
+2020-04-29,myhomecovidtest.family,myhomecovidtest.family,,
 2020-04-29,securecovid19.com.ph,securecovid19.com.ph,,
 2020-04-29,testcovidfree.com,testcovidfree.com,,
 2020-04-29,testsierologicicovid19.fm,198.74.54.240,US,North America
