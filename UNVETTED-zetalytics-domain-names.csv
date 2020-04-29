@@ -2,86 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-27,at-homecovid-19test.com,35.209.201.99,US,North America
-2020-04-27,atomocovid-19test.com,50.63.202.51,US,North America
-2020-04-27,coronaviruscorsisicurezza.it,dns2.technorail.com,,
-2020-04-27,coronaviruscorsisicurezza.it,dns3.arubadns.net,,
-2020-04-27,coronaviruscorsisicurezza.it,dns4.arubadns.cz,,
-2020-04-27,coronaviruscorsisicurezza.it,dns.technorail.com,,
-2020-04-27,coronaviruscorsisicurezza.it,mx.coronaviruscorsisicurezza.it,,
-2020-04-27,corona-virus-home-testing.com,50.63.202.62,US,North America
-2020-04-27,covid19antibodyrapidtestkit.info,50.63.202.53,US,North America
-2020-04-27,covid19curenow.com,50.63.202.45,US,North America
-2020-04-27,covid19curenow.com,50.63.202.61,US,North America
-2020-04-27,covid19curenow.com,covid19curenow.com,,
-2020-04-27,covid19curenow.info,184.168.221.35,US,North America
-2020-04-27,covid19curenow.info,184.168.221.40,US,North America
-2020-04-27,covid19curenow.info,covid19curenow.info,,
-2020-04-27,covid19curenow.info,ns01.domaincontrol.com,,
-2020-04-27,covid19curenow.info,ns02.domaincontrol.com,,
-2020-04-27,covid19curenow.net,184.168.221.47,US,North America
-2020-04-27,covid19curenow.net,50.63.202.63,US,North America
-2020-04-27,covid19curenow.net,covid19curenow.net,,
-2020-04-27,covid19curenow.net,ns73.domaincontrol.com,,
-2020-04-27,covid19curenow.net,ns74.domaincontrol.com,,
-2020-04-27,covid19plasmatests.com,184.168.221.53,US,North America
-2020-04-27,covid19selftest.eu,ns1.openprovider.nl,,
-2020-04-27,covid19selftest.eu,ns2.openprovider.be,,
-2020-04-27,covid19selftest.eu,ns3.openprovider.eu,,
-2020-04-27,covid-19-test.store,184.168.221.40,US,North America
-2020-04-27,covidcureidea.us,covidcureidea.us,,
-2020-04-27,covid-cure-now.net,184.168.221.34,US,North America
-2020-04-27,covid-cure-now.net,50.63.202.54,US,North America
-2020-04-27,covid-cure-now.net,covid-cure-now.net,,
-2020-04-27,covid-cure-now.org,covid-cure-now.org,,
-2020-04-27,covidrapidabtest.com,50.63.202.38,US,North America
-2020-04-27,covidspittest.com,50.63.202.43,US,North America
-2020-04-27,covidtestingathome.com,50.63.202.58,US,North America
-2020-04-27,covidtestingfl.com,160.153.136.3,US,North America
-2020-04-27,covidtestingfl.com,72.167.191.69,US,North America
-2020-04-27,covidtestla.com,ns1022.ui-dns.org,,
-2020-04-27,covidtestla.com,ns1043.ui-dns.de,,
-2020-04-27,covidtestla.com,ns1119.ui-dns.com,,
-2020-04-27,covidtestla.com,ns1124.ui-dns.biz,,
-2020-04-27,findingthecovidcure.com,50.63.202.57,US,North America
-2020-04-27,findingthecovidcure.com,findingthecovidcure.com,,
-2020-04-27,getmycovid19test.com,hostmaster@dnsowl.com,,
-2020-04-27,getmycovid19test.com,ns1.dnsowl.com,,
-2020-04-27,getmycovid19test.com,ns2.dnsowl.com,,
-2020-04-27,getmycovid19test.com,ns3.dnsowl.com,,
-2020-04-27,hometestkitcovid-19.com,184.168.221.50,US,North America
-2020-04-27,supportcovid19cure.ws,mail.hope-mail.com,,
-2020-04-27,supportcovid19cure.ws,supportcovid19cure.ws,,
-2020-04-27,testcovid19clinica.com.ph,45.79.222.138,US,North America
-2020-04-27,testecovid-19.com.ph,45.79.222.138,US,North America
-2020-04-27,testerapidocovid19.pt,dns1.host-redirect.com,,
-2020-04-27,testerapidocovid19.pt,dns2.host-redirect.com,,
-2020-04-27,testerapidocovid19.pt,dns3.host-redirect.com,,
-2020-04-27,testerapidocovid19.pt,dns4.host-redirect.com,,
-2020-04-27,testforcovid19antibodies.com,50.63.202.37,US,North America
-2020-04-27,testrapidocoronavirus.es,217.160.0.71,DE,Europe
-2020-04-27,www.coronaviruscorsisicurezza.it,89.46.108.68,IT,Europe
-2020-04-27,www.covid19rapidtestresults.com,covid19rapidtestresults.com,,
-2020-04-27,www.covidcureidea.us,50.63.202.57,US,North America
-2020-04-27,www.covidcureidea.us,covidcureidea.us,,
-2020-04-27,www.covidtestla.com,2607:f1c0:100f:f000::2ca,,
-2020-04-27,www.covidtestla.com,74.208.236.161,US,North America
-2020-04-27,www.getmycovid19test.com,parking.namesilo.com,,
-2020-04-27,www.getmycovidtest.info,107.161.23.204,US,North America
-2020-04-27,www.getmycovidtest.info,168.235.88.209,US,North America
-2020-04-27,www.getmycovidtest.info,188.164.131.200,IT,Europe
-2020-04-27,www.getmycovidtest.info,192.161.187.200,US,North America
-2020-04-27,www.getmycovidtest.info,198.251.81.30,US,North America
-2020-04-27,www.getmycovidtest.info,198.251.84.92,US,North America
-2020-04-27,www.getmycovidtest.info,204.188.203.155,US,North America
-2020-04-27,www.getmycovidtest.info,209.141.38.71,US,North America
-2020-04-27,www.getmycovidtest.info,45.58.190.82,US,North America
-2020-04-27,www.getmycovidtest.info,64.32.22.102,US,North America
-2020-04-27,www.getmycovidtest.info,70.39.125.244,US,North America
-2020-04-27,www.getmycovidtest.info,parking.namesilo.com,,
-2020-04-27,www.mailmycovid19test.com,192.185.0.218,US,North America
-2020-04-27,www.testforcovid19antibodies.com,50.63.202.40,US,North America
-2020-04-27,www.testforcovid19antibodies.com,testforcovid19antibodies.com,,
 2020-04-28,antibodytestingforcovid.com,35.186.238.101,US,North America
 2020-04-28,antibodytestingforcovid.com,antibodytestingforcovid.com,,
 2020-04-28,arcovidtest.com,arcovidtest.com,,
@@ -104,6 +24,8 @@
 2020-04-28,corona-virus-test-rapido.it,corona-virus-test-rapido.it,,
 2020-04-28,covid19antibodytestingnyc.com,35.186.238.101,US,North America
 2020-04-28,covid19antibodytestingnyc.com,covid19antibodytestingnyc.com,,
+2020-04-28,covid19-antibody-test-kit.fm,198.74.54.240,US,North America
+2020-04-28,covid19-antibody-test-kit.fm,covid19-antibody-test-kit.fm,,
 2020-04-28,covid19antibodytestnyc.com,35.186.238.101,US,North America
 2020-04-28,covid19antibodytestnyc.com,covid19antibodytestnyc.com,,
 2020-04-28,covid19curehelp.com,50.63.202.43,US,North America
@@ -136,6 +58,7 @@
 2020-04-28,covid-19-test.me,35.197.250.147,,Europe
 2020-04-28,covid-19-test.me,covid-19-test.me,,
 2020-04-28,covid19-test.ml,covid19-test.ml,,
+2020-04-28,covid19testnv.com,covid19testnv.com,,
 2020-04-28,covid19testnv.org,covid19testnv.org,,
 2020-04-28,covid19testsforsale.com,covid19testsforsale.com,,
 2020-04-28,covid19virustest.se,covid19virustest.se,,
@@ -158,6 +81,7 @@
 2020-04-28,covidtestinglab.website,50.63.202.43,US,North America
 2020-04-28,covidtestinglab.website,covidtestinglab.website,,
 2020-04-28,covidtestingresults.com,covidtestingresults.com,,
+2020-04-28,covidtesting.us,50.63.202.47,US,North America
 2020-04-28,covidtesting.us,covidtesting.us,,
 2020-04-28,covidtestla.org,2607:f1c0:100f:f000::2ca,,
 2020-04-28,covidtestla.org,74.208.236.161,US,North America
@@ -225,6 +149,7 @@
 2020-04-28,iwantacovid19test.co,ns55.worldnic.com,,
 2020-04-28,iwantacovid19test.co,ns56.worldnic.com,,
 2020-04-28,mailincovidtest.com,mailincovidtest.com,,
+2020-04-28,mailmycovid19test.com.ph,mailmycovid19test.com.ph,,
 2020-04-28,medicalcoronavirustest.com,52.0.217.44,US,North America
 2020-04-28,medicalcoronavirustest.com,medicalcoronavirustest.com,,
 2020-04-28,mx.covid19-test.ml,185.27.134.244,GB,Europe
@@ -275,11 +200,18 @@
 2020-04-28,shouldigettestedforcovid19.ws,shouldigettestedforcovid19.ws,,
 2020-04-28,sklep-testcovid19.ph,sklep-testcovid19.ph,,
 2020-04-28,testcoronavirus.cat,81.88.48.71,IT,Europe
+2020-04-28,testcoronavirus.cat,dns1.nominalia.com,,
+2020-04-28,testcoronavirus.cat,dns2.nominalia.com,,
+2020-04-28,testcoronavirus.cat,testcoronavirus.cat,,
 2020-04-28,testcoronaviruscovid.com,testcoronaviruscovid.com,,
 2020-04-28,test-covid19.cat,81.88.48.71,IT,Europe
+2020-04-28,testcovid19.cat,81.88.48.71,IT,Europe
 2020-04-28,test-covid19.cat,dns1.nominalia.com,,
+2020-04-28,testcovid19.cat,dns1.nominalia.com,,
 2020-04-28,test-covid19.cat,dns2.nominalia.com,,
+2020-04-28,testcovid19.cat,dns2.nominalia.com,,
 2020-04-28,test-covid19.cat,test-covid19.cat,,
+2020-04-28,testcovid19.cat,testcovid19.cat,,
 2020-04-28,testcovidadomiciliosevilla.com,2001:8d8:100f:f000::230,,
 2020-04-28,testcovidadomiciliosevilla.com,217.160.0.85,DE,Europe
 2020-04-28,testcovidadomiciliosevilla.com,mx00.ionos.es,,
@@ -293,7 +225,10 @@
 2020-04-28,testcovid.pro,184.168.221.62,US,North America
 2020-04-28,testcovid.pro,50.63.202.36,US,North America
 2020-04-28,testcovid.pro,testcovid.pro,,
+2020-04-28,testfloridacorona19.ph,testfloridacorona19.ph,,
 2020-04-28,test-for-coronavirus.gov.uk,test-for-coronavirus.gov.uk,,
+2020-04-28,testingcoronavirus.ws,64.70.19.203,US,North America
+2020-04-28,testingcoronavirus.ws,testingcoronavirus.ws,,
 2020-04-28,testkits4covid.com,testkits4covid.com,,
 2020-04-28,test-pcr-coronavirus.com,test-pcr-coronavirus.com,,
 2020-04-28,test-pcr-covid19.com,217.70.184.38,FR,Europe
@@ -303,12 +238,15 @@
 2020-04-28,test-serologique-coronavirus.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-04-28,test-serologique-coronavirus.com,ns-15-b.gandi.net,,
 2020-04-28,test-serologique-coronavirus.com,ns-234-c.gandi.net,,
+2020-04-28,test-serologique-coronavirus.com,ns-25-a.gandi.net,,
 2020-04-28,test-serologique-coronavirus.com,test-serologique-coronavirus.com,,
 2020-04-28,test-serologique-coronavirus.com,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-04-28,test-serologique-covid19.com,217.70.184.38,FR,Europe
 2020-04-28,test-serologique-covid19.com,test-serologique-covid19.com,,
 2020-04-28,test-serologique-covid.com,217.70.184.38,FR,Europe
 2020-04-28,test-serologique-covid.com,test-serologique-covid.com,,
+2020-04-28,test-serologique-covid.fr,217.70.184.38,FR,Europe
+2020-04-28,test-serologique-covid.fr,test-serologique-covid.fr,,
 2020-04-28,testy-covid19.pl,46.242.239.138,PL,Europe
 2020-04-28,testy-covid.info,107.161.23.204,US,North America
 2020-04-28,testy-covid.info,192.161.187.200,US,North America
@@ -325,6 +263,7 @@
 2020-04-28,usa-covid-19rapidtestkit.com,usa-covid-19rapidtestkit.com,,
 2020-04-28,uscovidtestcenters.com,208.91.197.27,US,North America
 2020-04-28,uscovidtestcenters.com,uscovidtestcenters.com,,
+2020-04-28,validatedcovid19inhometest.ph,validatedcovid19inhometest.ph,,
 2020-04-28,ventatestcoronavirus.online,dns1.nominalia.com,,
 2020-04-28,ventatestcoronavirus.online,dns2.nominalia.com,,
 2020-04-28,ventatestcoronavirus.online,ventatestcoronavirus.online,,
@@ -347,6 +286,8 @@
 2020-04-28,www.testcoronavirus.cat,81.88.48.71,IT,Europe
 2020-04-28,www.testcoronavirus.cat,testcoronavirus.cat,,
 2020-04-28,www.test-covid19.cat,81.88.48.71,IT,Europe
+2020-04-28,www.testcovid19.cat,81.88.48.71,IT,Europe
 2020-04-28,www.test-covid19.cat,test-covid19.cat,,
+2020-04-28,www.testcovid19.cat,testcovid19.cat,,
 2020-04-28,www.test-pcr-covid.com,webredir.vip.gandi.net,,
 2020-04-28,www.testy-covid.info,parking.namesilo.com,,
