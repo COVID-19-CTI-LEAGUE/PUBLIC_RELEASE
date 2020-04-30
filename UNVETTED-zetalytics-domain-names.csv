@@ -222,7 +222,12 @@
 2020-04-29,testocovid.org,dns110.ovh.net,,
 2020-04-29,testocovid.org,ns110.ovh.net,,
 2020-04-29,testocovid.org,testocovid.org,,
+2020-04-29,test-pcr-coronavirus.fr,217.70.184.38,FR,Europe
+2020-04-29,test-pcr-coronavirus.fr,fb.mail.gandi.net,,
+2020-04-29,test-pcr-coronavirus.fr,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
+2020-04-29,test-pcr-coronavirus.fr,spool.mail.gandi.net,,
 2020-04-29,test-pcr-coronavirus.fr,test-pcr-coronavirus.fr,,
+2020-04-29,test-pcr-coronavirus.fr,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-04-29,test-pcr-covid19.fr,217.70.184.38,FR,Europe
 2020-04-29,test-pcr-covid19.fr,test-pcr-covid19.fr,,
 2020-04-29,test-pcr-covid.fr,test-pcr-covid.fr,,
@@ -274,5 +279,30 @@
 2020-04-29,www.rapidcovid-19test.ph,45.79.222.138,US,North America
 2020-04-29,www.test-pcr-covid.fr,webredir.vip.gandi.net,,
 2020-04-29,www.test-serologique-coronavirus.fr,webredir.vip.gandi.net,,
+2020-04-30,cellexcovid19test.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
+2020-04-30,cellexcovid19test.fm,cellexcovid19test.fm,,
+2020-04-30,cellexcovid19test.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
+2020-04-30,cellexcovid19test.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
+2020-04-30,cellexcovid19test.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
+2020-04-30,covid19cure.ga,covid19cure.ga,,
+2020-04-30,covid-19rapidtestusa.com.ph,45.79.222.138,US,North America
+2020-04-30,covid-19rapidtestusa.com.ph,covid-19rapidtestusa.com.ph,,
+2020-04-30,covid-19testsnationwide.ph,45.79.222.138,US,North America
+2020-04-30,covid-19testsnationwide.ph,covid-19testsnationwide.ph,,
+2020-04-30,covid-9teentesting.com,35.186.238.101,US,North America
+2020-04-30,covid-9teentesting.com,covid-9teentesting.com,,
+2020-04-30,cvscovid-19tests.com,184.168.221.42,US,North America
+2020-04-30,cvscovid-19tests.com,50.63.202.41,US,North America
+2020-04-30,cvscovid-19tests.com,50.63.202.43,US,North America
 2020-04-30,cvscovid-19tests.com,cvscovid-19tests.com,,
+2020-04-30,cvscovid-19tests.com.ph,cvscovid-19tests.com.ph,,
+2020-04-30,doctorcoronavirustest.com,52.0.217.44,US,North America
 2020-04-30,doctorcoronavirustest.com,doctorcoronavirustest.com,,
+2020-04-30,getcovid-19tests.ph,45.79.222.138,US,North America
+2020-04-30,getcovid-19tests.ph,getcovid-19tests.ph,,
+2020-04-30,instanttestcovid-19.ph,instanttestcovid-19.ph,,
+2020-04-30,selfcovid-19tests.com.ph,selfcovid-19tests.com.ph,,
+2020-04-30,selfcovid-19tests.ws,selfcovid-19tests.ws,,
+2020-04-30,testkits4coronavirus.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
+2020-04-30,testkits4coronavirus.ws,testkits4coronavirus.ws,,
+2020-04-30,testkits4coronavirus.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
