@@ -24,6 +24,7 @@
 2020-04-29,coronavirustestservices.com,2001:8d8:100f:f000::22d,,
 2020-04-29,coronavirustestservices.com,217.160.0.112,DE,Europe
 2020-04-29,coronavirustestservices.com,coronavirustestservices.com,,
+2020-04-29,coronavirustest.srl,195.110.124.133,IT,Europe
 2020-04-29,coronavirus-traveltest.ch,217.26.48.101,CH,Europe
 2020-04-29,coronavirustraveltest.ch,217.26.48.101,CH,Europe
 2020-04-29,coronavirus-traveltest.ch,2a00:d70::a:0:0:0:166,,
@@ -38,10 +39,6 @@
 2020-04-29,covid19businesstestkit.com,ns-cloud-e2.googledomains.com,,
 2020-04-29,covid19businesstestkit.com,ns-cloud-e3.googledomains.com,,
 2020-04-29,covid19businesstestkit.com,ns-cloud-e4.googledomains.com,,
-2020-04-29,covid19hometestin.com,35.186.238.101,US,North America
-2020-04-29,covid19hometestin.com,covid19hometestin.com,,
-2020-04-29,covid19ilamptest.com,50.63.202.33,US,North America
-2020-04-29,covid19ilamptest.com,covid19ilamptest.com,,
 2020-04-29,covid19pcrtest.info,50.63.202.49,US,North America
 2020-04-29,covid19pcrtest.info,covid19pcrtest.info,,
 2020-04-29,covid19pcrtest.net,184.168.221.35,US,North America
@@ -85,7 +82,6 @@
 2020-04-29,covid-cure.ru,185.165.123.36,RU,Europe
 2020-04-29,covid-cure.ru,covid-cure.ru,,
 2020-04-29,coviddxtest.com,50.63.202.34,US,North America
-2020-04-29,coviddxtest.com,coviddxtest.com,,
 2020-04-29,covidtesting.co,94.136.40.51,GB,Europe
 2020-04-29,covidtesting.co,covidtesting.co,,
 2020-04-29,covidtestingsandiego.com,74.220.199.6,US,North America
@@ -102,7 +98,6 @@
 2020-04-29,cvscovid19test.com,cvscovid19test.com,,
 2020-04-29,cvscovid19testing.com,184.168.221.50,US,North America
 2020-04-29,cvscovid19testing.com,cvscovid19testing.com,,
-2020-04-29,doineedcovid19testing.com,doineedcovid19testing.com,,
 2020-04-29,ezcovid-19test.com,162.255.119.47,US,North America
 2020-04-29,ezcovid-19test.com,ezcovid-19test.com,,
 2020-04-29,kmccovidtest.com,184.168.131.241,US,North America
@@ -192,8 +187,6 @@
 2020-04-29,test.twittercovidhelp.com,96.126.123.244,US,North America
 2020-04-29,testviruscovid.com,dns1.nominalia.com,,
 2020-04-29,testviruscovid.com,dns2.nominalia.com,,
-2020-04-29,thecoronavirustest.online,2001:8d8:100f:f000::22d,,
-2020-04-29,thecoronavirustest.online,217.160.0.112,DE,Europe
 2020-04-29,thecoronavirustest.online,hostmaster@1und1.com,,
 2020-04-29,thecoronavirustest.online,mx00.ionos.co.uk,,
 2020-04-29,thecoronavirustest.online,mx01.ionos.co.uk,,
@@ -201,7 +194,6 @@
 2020-04-29,thecoronavirustest.online,ns1044.ui-dns.com,,
 2020-04-29,thecoronavirustest.online,ns1048.ui-dns.de,,
 2020-04-29,thecoronavirustest.online,ns1104.ui-dns.org,,
-2020-04-29,thecoronavirustest.online,thecoronavirustest.online,,
 2020-04-29,uscovidtests.us,50.63.202.46,US,North America
 2020-04-29,uscovidtests.us,uscovidtests.us,,
 2020-04-29,validatedcovid19inhometest.com,validatedcovid19inhometest.com,,
@@ -213,10 +205,6 @@
 2020-04-29,ventatestcoronavirus.es,ventatestcoronavirus.es,,
 2020-04-29,vivacovid19test.com,dns3.hichina.com,,
 2020-04-29,vivacovid19test.com,dns4.hichina.com,,
-2020-04-29,vivacovid19test.com,hostmaster@hichina.com,,
-2020-04-29,vivacovid19test.com,vivacovid19test.com,,
-2020-04-29,www77.doineedcovid19testing.com,11339.searchmagnified.com,,
-2020-04-29,www77.doineedcovid19testing.com,199.191.50.39,VG,North America
 2020-04-29,www.coronavirus-tests.at,81.19.154.98,AT,Europe
 2020-04-29,www.coronavirustestservices.com,217.160.0.112,DE,Europe
 2020-04-29,www.covid19plasmatesting.ph,45.79.222.138,US,North America
@@ -233,16 +221,25 @@
 2020-04-30,cellexcovid19test.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-04-30,cellexcovid19test.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-04-30,cellexcovid19test.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
+2020-04-30,cheapestcovidtests.com,50.63.202.44,US,North America
+2020-04-30,cheapestcovidtests.com,cheapestcovidtests.com,,
 2020-04-30,coronavirusbusinesstestkit.com,coronavirusbusinesstestkit.com,,
 2020-04-30,coronavirusbusinesstestkit.com,ns-cloud-c1.googledomains.com,,
 2020-04-30,coronavirusbusinesstestkit.com,ns-cloud-c2.googledomains.com,,
 2020-04-30,coronavirusbusinesstestkit.com,ns-cloud-c3.googledomains.com,,
 2020-04-30,coronavirusbusinesstestkit.com,ns-cloud-c4.googledomains.com,,
+2020-04-30,coronavirusdoghometestkit.com,coronavirusdoghometestkit.com,,
 2020-04-30,coronavirusimmunitytests.co.uk,coronavirusimmunitytests.co.uk,,
 2020-04-30,covid19antibodytestkits.info,covid19antibodytestkits.info,,
 2020-04-30,covid19cure.ga,covid19cure.ga,,
 2020-04-30,covid19cures.mobi,covid19cures.mobi,,
+2020-04-30,covid-19igmiggrapidtest.com,covid-19igmiggrapidtest.com,,
+2020-04-30,covid19rapidtestkit.biz,covid19rapidtestkit.biz,,
 2020-04-30,covid19rapidtestkits.info,covid19rapidtestkits.info,,
+2020-04-30,covid19rapidtestkits.info,ns-cloud-c1.googledomains.com,,
+2020-04-30,covid19rapidtestkits.info,ns-cloud-c2.googledomains.com,,
+2020-04-30,covid19rapidtestkits.info,ns-cloud-c3.googledomains.com,,
+2020-04-30,covid19rapidtestkits.info,ns-cloud-c4.googledomains.com,,
 2020-04-30,covid19rapidtestkits.net,covid19rapidtestkits.net,,
 2020-04-30,covid19rapidtestkits.net,ns-cloud-e1.googledomains.com,,
 2020-04-30,covid19rapidtestkits.net,ns-cloud-e2.googledomains.com,,
@@ -259,11 +256,15 @@
 2020-04-30,covid-19testsnationwide.ph,covid-19testsnationwide.ph,,
 2020-04-30,covid-9teentesting.com,35.186.238.101,US,North America
 2020-04-30,covid-9teentesting.com,covid-9teentesting.com,,
+2020-04-30,covidantibodytestingkit.com,covidantibodytestingkit.com,,
 2020-04-30,covidtest.clinic,64.98.145.30,CA,North America
 2020-04-30,covidtest.clinic,covidtest.clinic,,
 2020-04-30,covidtest.clinic,dnsmaster@hover.com,,
 2020-04-30,covidtest.clinic,mx.hover.com.cust.hostedemail.com,,
 2020-04-30,covidtest.clinic,ns1.hover.com,,
+2020-04-30,covidtest.clinic,ns2.hover.com,,
+2020-04-30,covidtestmate.com,50.63.202.38,US,North America
+2020-04-30,covidtestmate.com,covidtestmate.com,,
 2020-04-30,cureforcovid.ca,cureforcovid.ca,,
 2020-04-30,cvscovid-19tests.com,184.168.221.42,US,North America
 2020-04-30,cvscovid-19tests.com,50.63.202.41,US,North America
