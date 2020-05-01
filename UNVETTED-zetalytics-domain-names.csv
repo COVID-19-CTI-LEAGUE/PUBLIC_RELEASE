@@ -3,12 +3,9 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-04-30,cheapestcovidlabtest.com,184.168.221.43,US,North America
-2020-04-30,cheapestcovidtesting.com,184.168.221.45,US,North America
-2020-04-30,cheapestcovidtesting.com,cheapestcovidtesting.com,,
 2020-04-30,cheapestcovidtests.com,184.168.221.43,US,North America
 2020-04-30,cheapestcovidtests.com,50.63.202.50,US,North America
 2020-04-30,coronavirus-reisetest.ch,2a00:d70::a:0:0:0:166,,
-2020-04-30,coronavirus-reisetest.ch,coronavirus-reisetest.ch,,
 2020-04-30,covid19antibodytestkits.net,ns-cloud-c1.googledomains.com,,
 2020-04-30,covid19antibodytestkits.net,ns-cloud-c2.googledomains.com,,
 2020-04-30,covid19antibodytestkits.net,ns-cloud-c3.googledomains.com,,
@@ -33,7 +30,6 @@
 2020-04-30,njcovidtesting.com,systems@handynetworks.com,,
 2020-04-30,njcovidtesting.com,$v=spf1 +a +mx +ip4:72.18.134.34 ~all,,
 2020-04-30,protocollosicurezzacovid.it,protocollosicurezzacovid.it,,
-2020-04-30,testcovidadomiciliosevilla.es,217.160.0.110,DE,Europe
 2020-04-30,ww25.questcovidantibodytest.com,parking.bodis.com,,
 2020-05-01,athomecovidantibodytest.com,184.168.221.33,US,North America
 2020-05-01,athomecovidantibodytest.com,50.63.202.51,US,North America
@@ -145,6 +141,7 @@
 2020-05-01,covid19-testy.com,dns3.home.pl,,
 2020-05-01,covid19-testy.com,dns.home.pl,,
 2020-05-01,covid19-zelftest.nl,covid19-zelftest.nl,,
+2020-05-01,covid2019rapidtest.gov.ge,covid2019rapidtest.gov.ge,,
 2020-05-01,covidanitbodytest.com,184.168.221.46,US,North America
 2020-05-01,covidanitbodytest.com,covidanitbodytest.com,,
 2020-05-01,covidantibodytestingkits.com,covidantibodytestingkits.com,,
@@ -209,6 +206,7 @@
 2020-05-01,fdaapprovedcovid19antibioticstestkit.com.ph,fdaapprovedcovid19antibioticstestkit.com.ph,,
 2020-05-01,fdaapprovedcovid-19antibioticstestkit.ws,fdaapprovedcovid-19antibioticstestkit.ws,,
 2020-05-01,fdaapprovedcovid-19antibioticstestkit.ws,mail.hope-mail.com,,
+2020-05-01,fdaapprovedcovid-19testkit.com,fdaapprovedcovid-19testkit.com,,
 2020-05-01,fdaapprovedcovid-19testkit.ph,45.79.222.138,US,North America
 2020-05-01,fdaapprovedcovid-19testkit.ph,fdaapprovedcovid-19testkit.ph,,
 2020-05-01,fdaapprovedcovid-19virustestkit.com,fdaapprovedcovid-19virustestkit.com,,
@@ -293,6 +291,7 @@
 2020-05-01,testeparacoronavirus.com,testeparacoronavirus.com,,
 2020-05-01,testforcovid19antibody.com,testforcovid19antibody.com,,
 2020-05-01,testujemecovid.sk,testujemecovid.sk,,
+2020-05-01,testynacovid19.pl,testynacovid19.pl,,
 2020-05-01,vacovidtesting.com,vacovidtesting.com,,
 2020-05-01,ventatestcovid19.com.ph,ventatestcovid19.com.ph,,
 2020-05-01,vivadiagcovid19test.com,dns17.hichina.com,,
@@ -300,6 +299,7 @@
 2020-05-01,vivadiagcovid19test.com,vivadiagcovid19test.com,,
 2020-05-01,ww25.mquestcovidtest.com,199.59.242.153,US,North America
 2020-05-01,ww25.mquestcovidtest.com,parking.bodis.com,,
+2020-05-01,ww25.myqiestcovidtest.com,parking.bodis.com,,
 2020-05-01,ww25.myquestcovidtests.com,199.59.242.153,US,North America
 2020-05-01,ww25.myquestcovidtests.com,parking.bodis.com,,
 2020-05-01,ww25.myqusetcovidtest.com,199.59.242.153,US,North America
