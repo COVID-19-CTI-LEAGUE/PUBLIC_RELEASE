@@ -88,8 +88,6 @@
 2020-04-30,fdaapprovedcovid19virustestkit.com,fdaapprovedcovid19virustestkit.com,,
 2020-04-30,localcovidtesting.com,184.168.221.56,US,North America
 2020-04-30,localcovidtesting.com,localcovidtesting.com,,
-2020-04-30,mail.njcovidtesting.com,72.18.134.36,US,North America
-2020-04-30,mail.njcovidtesting.com,njcovidtesting.com,,
 2020-04-30,mostaccuratecovidlabtests.com,184.168.221.52,US,North America
 2020-04-30,mostaccuratecovidlabtests.com,mostaccuratecovidlabtests.com,,
 2020-04-30,mostaccuratecovidtestresults.com,184.168.221.37,US,North America
@@ -102,7 +100,10 @@
 2020-04-30,nationalcovid19test.com,184.168.221.51,US,North America
 2020-04-30,nationalcovid19test.com,nationalcovid19test.com,,
 2020-04-30,njcovidtesting.com,72.18.134.36,US,North America
-2020-04-30,njcovidtesting.com,njcovidtesting.com,,
+2020-04-30,njcovidtesting.com,JHY9c3BmMSArYSArbXggK2lwNDo3Mi4xOC4xMzQuMzQgfmFsbA==,,
+2020-04-30,njcovidtesting.com,ns1.ssdlinux33.com,,
+2020-04-30,njcovidtesting.com,systems@handynetworks.com,,
+2020-04-30,njcovidtesting.com,$v=spf1 +a +mx +ip4:72.18.134.34 ~all,,
 2020-04-30,novelcoronavirushometestkit.ws,mail.hope-mail.com,,
 2020-04-30,novelcoronavirushometestkit.ws,novelcoronavirushometestkit.ws,,
 2020-04-30,onlinetestoncovid19.com.ph,onlinetestoncovid19.com.ph,,
@@ -149,8 +150,6 @@
 2020-04-30,ventatestcoronavirus.ph,45.79.222.138,US,North America
 2020-04-30,ww25.questcovidantibodytest.com,parking.bodis.com,,
 2020-04-30,www.cheapcovid19test.com,45.88.202.115,,
-2020-04-30,www.njcovidtesting.com,72.18.134.36,US,North America
-2020-04-30,www.njcovidtesting.com,njcovidtesting.com,,
 2020-05-01,athomecovidantibodytest.com,184.168.221.33,US,North America
 2020-05-01,athomecovidantibodytest.com,50.63.202.51,US,North America
 2020-05-01,athomecovidantibodytest.com,athomecovidantibodytest.com,,
@@ -210,6 +209,7 @@
 2020-05-01,covid19testcentres.com,ns2.livedns.co.uk,,
 2020-05-01,covid19testcentres.com,ns3.livedns.co.uk,,
 2020-05-01,covid19test.com.ua,185.68.16.17,UA,Europe
+2020-05-01,covid19test.com.ua,23.236.62.147,US,North America
 2020-05-01,covid19test.com.ua,91.206.201.114,UA,Europe
 2020-05-01,covid19test.com.ua,covid19test.com.ua,,
 2020-05-01,covid19test.com.ua,ns11.inhostedns.com,,
@@ -239,6 +239,8 @@
 2020-05-01,covidantibodytestmatch.com,ns06.domaincontrol.com,,
 2020-05-01,coviddrivethrutest.com,184.168.221.32,US,North America
 2020-05-01,coviddrivethrutest.com,coviddrivethrutest.com,,
+2020-05-01,coviddriveuptest.com,184.168.221.53,US,North America
+2020-05-01,coviddriveuptest.com,coviddriveuptest.com,,
 2020-05-01,covidfecaltest.com,covidfecaltest.com,,
 2020-05-01,covidfecaltest.com,dnsadmin@moniker.com,,
 2020-05-01,covidfecaltest.com,ns1.monikerdns.net,,
@@ -284,8 +286,10 @@
 2020-05-01,mobilecovid19testinglab.com,mobilecovid19testinglab.com,,
 2020-05-01,mobilecovid19testinglab.ws,64.70.19.203,US,North America
 2020-05-01,mobilecovid19testinglab.ws,mobilecovid19testinglab.ws,,
+2020-05-01,mostaccuratecovidtesting.com,mostaccuratecovidtesting.com,,
 2020-05-01,mostaccuratecovidtestresult.com,184.168.221.33,US,North America
 2020-05-01,mostaccuratecovidtestresult.com,mostaccuratecovidtestresult.com,,
+2020-05-01,mostaccuratecovidtestresult.fm,mostaccuratecovidtestresult.fm,,
 2020-05-01,ngtest-covid19-info.ph,ngtest-covid19-info.ph,,
 2020-05-01,novelcoronavirustester.ws,64.70.19.203,US,North America
 2020-05-01,novelcoronavirustester.ws,novelcoronavirustester.ws,,
