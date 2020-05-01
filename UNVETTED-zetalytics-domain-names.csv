@@ -2,20 +2,13 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-04-30,buycovidrapidtest.com,45.88.202.115,,
-2020-04-30,buycovidrapidtest.com,buycovidrapidtest.com,,
 2020-04-30,cheapestcovidlabtest.com,184.168.221.43,US,North America
-2020-04-30,cheapestcovidlabtest.com,50.63.202.61,US,North America
-2020-04-30,cheapestcovidlabtest.com,cheapestcovidlabtest.com,,
 2020-04-30,cheapestcovidtesting.com,184.168.221.45,US,North America
 2020-04-30,cheapestcovidtesting.com,cheapestcovidtesting.com,,
-2020-04-30,cheapestcovidtest.live,184.168.221.35,US,North America
-2020-04-30,cheapestcovidtest.live,cheapestcovidtest.live,,
 2020-04-30,cheapestcovidtests.com,184.168.221.43,US,North America
 2020-04-30,cheapestcovidtests.com,50.63.202.50,US,North America
 2020-04-30,coronavirus-reisetest.ch,2a00:d70::a:0:0:0:166,,
 2020-04-30,coronavirus-reisetest.ch,coronavirus-reisetest.ch,,
-2020-04-30,covid19antibodytestkits.net,covid19antibodytestkits.net,,
 2020-04-30,covid19antibodytestkits.net,ns-cloud-c1.googledomains.com,,
 2020-04-30,covid19antibodytestkits.net,ns-cloud-c2.googledomains.com,,
 2020-04-30,covid19antibodytestkits.net,ns-cloud-c3.googledomains.com,,
@@ -23,8 +16,6 @@
 2020-04-30,covid19cure.ga,covid19cure.ga,,
 2020-04-30,covid19cures.mobi,covid19cures.mobi,,
 2020-04-30,covid19-test-tracker.de,2a01:238:20a:202:1095::,,
-2020-04-30,covid19-test-tracker.de,81.169.145.95,DE,Europe
-2020-04-30,covid19-test-tracker.de,covid19-test-tracker.de,,
 2020-04-30,covid-testen.nl,mx1.pub.mailpod9-cph3.one.com,,
 2020-04-30,covid-testen.nl,mx2.pub.mailpod9-cph3.one.com,,
 2020-04-30,covid-testen.nl,mx3.pub.mailpod9-cph3.one.com,,
@@ -35,28 +26,14 @@
 2020-04-30,mostaccuratecovidlabtests.com,184.168.221.52,US,North America
 2020-04-30,mostaccuratecovidlabtests.com,50.63.202.51,US,North America
 2020-04-30,mostaccuratecovidtestresults.com,184.168.221.37,US,North America
-2020-04-30,mostaccuratecovidtestresults.com,184.168.221.51,US,North America
-2020-04-30,mostaccuratecovidtestresults.com,mostaccuratecovidtestresults.com,,
+2020-04-30,mostaccuratecovidtestresults.com,50.63.202.62,US,North America
 2020-04-30,nationalcovid19test.com,184.168.221.54,US,North America
 2020-04-30,njcovidtesting.com,JHY9c3BmMSArYSArbXggK2lwNDo3Mi4xOC4xMzQuMzQgfmFsbA==,,
 2020-04-30,njcovidtesting.com,ns1.ssdlinux33.com,,
 2020-04-30,njcovidtesting.com,systems@handynetworks.com,,
 2020-04-30,njcovidtesting.com,$v=spf1 +a +mx +ip4:72.18.134.34 ~all,,
-2020-04-30,novelcoronavirushometestkit.ws,mail.hope-mail.com,,
-2020-04-30,novelcoronavirushometestkit.ws,novelcoronavirushometestkit.ws,,
-2020-04-30,onlinetestoncovid19.com.ph,onlinetestoncovid19.com.ph,,
-2020-04-30,orderacoronavirustest.ws,64.70.19.203,US,North America
-2020-04-30,orderacoronavirustest.ws,mail.hope-mail.com,,
-2020-04-30,orderacoronavirustest.ws,orderacoronavirustest.ws,,
-2020-04-30,ordercovid19test.com.ph,ordercovid19test.com.ph,,
 2020-04-30,protocollosicurezzacovid.it,protocollosicurezzacovid.it,,
-2020-04-30,rapidtestkitforcovid19.com,rapidtestkitforcovid19.com,,
 2020-04-30,testcovidadomiciliosevilla.es,217.160.0.110,DE,Europe
-2020-04-30,testcovidadomiciliosevilla.es,testcovidadomiciliosevilla.es,,
-2020-04-30,us-covid19testing.org,ns-cloud-c1.googledomains.com,,
-2020-04-30,us-covid19testing.org,ns-cloud-c2.googledomains.com,,
-2020-04-30,us-covid19testing.org,ns-cloud-c3.googledomains.com,,
-2020-04-30,us-covid19testing.org,ns-cloud-c4.googledomains.com,,
 2020-04-30,ww25.questcovidantibodytest.com,parking.bodis.com,,
 2020-05-01,athomecovidantibodytest.com,184.168.221.33,US,North America
 2020-05-01,athomecovidantibodytest.com,50.63.202.51,US,North America
@@ -68,7 +45,10 @@
 2020-05-01,bleachcoronaviruscure.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-05-01,buycovid-19testkit.ph,45.79.222.138,US,North America
 2020-05-01,buycovid-19testkit.ph,buycovid-19testkit.ph,,
+2020-05-01,cheapcoronavirustest.com,45.88.202.115,,
 2020-05-01,cheapcoronavirustest.com,cheapcoronavirustest.com,,
+2020-05-01,cheapcoronavirustest.com,ns3.epik.com,,
+2020-05-01,cheapcoronavirustest.com,support@epik.com,,
 2020-05-01,cheapcovidtest.com,45.88.202.115,,
 2020-05-01,cheapcovidtest.com,cheapcovidtest.com,,
 2020-05-01,cheapestcovidtest.com,184.168.221.32,US,North America
@@ -110,6 +90,9 @@
 2020-05-01,covid19igmiggrapidtest.org,ns-cloud-e2.googledomains.com,,
 2020-05-01,covid19igmiggrapidtest.org,ns-cloud-e3.googledomains.com,,
 2020-05-01,covid19igmiggrapidtest.org,ns-cloud-e4.googledomains.com,,
+2020-05-01,covid19igmrapidtesting.com,covid19igmrapidtesting.com,,
+2020-05-01,covid19igmrapidtesting.com,dns1.registrar-servers.com,,
+2020-05-01,covid19igmrapidtesting.com,hostmaster@registrar-servers.com,,
 2020-05-01,covid19rapidtestkit.net,covid19rapidtestkit.net,,
 2020-05-01,covid19rapidtestkit.net,ns-cloud-a1.googledomains.com,,
 2020-05-01,covid19rapidtestkit.net,ns-cloud-a2.googledomains.com,,
@@ -235,6 +218,7 @@
 2020-05-01,livecovidtest.com,50.63.202.33,US,North America
 2020-05-01,livecovidtest.com,50.63.202.39,US,North America
 2020-05-01,livecovidtest.com,livecovidtest.com,,
+2020-05-01,livecovidtesting.com,184.168.221.42,US,North America
 2020-05-01,livecovidtesting.com,50.63.202.48,US,North America
 2020-05-01,livecovidtesting.com,livecovidtesting.com,,
 2020-05-01,livecovidtests.com,184.168.221.35,US,North America
@@ -244,6 +228,8 @@
 2020-05-01,mobilecovid19testinglab.com,mobilecovid19testinglab.com,,
 2020-05-01,mobilecovid19testinglab.ws,64.70.19.203,US,North America
 2020-05-01,mobilecovid19testinglab.ws,mobilecovid19testinglab.ws,,
+2020-05-01,mostaccuratecovidlabtest.com,50.63.202.61,US,North America
+2020-05-01,mostaccuratecovidlabtest.com,mostaccuratecovidlabtest.com,,
 2020-05-01,mostaccuratecovidlabtesting.com,50.63.202.55,US,North America
 2020-05-01,mostaccuratecovidlabtesting.com,mostaccuratecovidlabtesting.com,,
 2020-05-01,mostaccuratecovidtest.com,mostaccuratecovidtest.com,,
@@ -267,8 +253,11 @@
 2020-05-01,mycovidtests.com,mycovidtests.com,,
 2020-05-01,myqiestcovidtest.com,103.224.182.242,AU,Oceania
 2020-05-01,myqiestcovidtest.com,myqiestcovidtest.com,,
+2020-05-01,myquestcovidtests.com,myquestcovidtests.com,,
 2020-05-01,myquetcovidtest.com,103.224.182.242,AU,Oceania
 2020-05-01,myquetcovidtest.com,myquetcovidtest.com,,
+2020-05-01,myqurstcovidtest.com,myqurstcovidtest.com,,
+2020-05-01,myqusetcovidtest.com,myqusetcovidtest.com,,
 2020-05-01,myqustcovidtest.com,myqustcovidtest.com,,
 2020-05-01,myquwstcovidtest.com,103.224.182.242,AU,Oceania
 2020-05-01,myquwstcovidtest.com,myquwstcovidtest.com,,
@@ -276,6 +265,7 @@
 2020-05-01,myuestcovidtest.com,myuestcovidtest.com,,
 2020-05-01,mywuestcovidtest.com,103.224.182.242,AU,Oceania
 2020-05-01,mywuestcovidtest.com,mywuestcovidtest.com,,
+2020-05-01,needacovid19test.ph,45.79.222.138,US,North America
 2020-05-01,needacovid19test.ph,needacovid19test.ph,,
 2020-05-01,newcovid19testkits.ph,newcovid19testkits.ph,,
 2020-05-01,newyorkcovid-19testing.ph,newyorkcovid-19testing.ph,,
@@ -292,6 +282,7 @@
 2020-05-01,novelcoronavirustest.ws,novelcoronavirustest.ws,,
 2020-05-01,officialcoronavirustest.ws,64.70.19.203,US,North America
 2020-05-01,officialcoronavirustest.ws,officialcoronavirustest.ws,,
+2020-05-01,officialcovidteststation.com,officialcovidteststation.com,,
 2020-05-01,testcovid19athome.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-05-01,testcovid19athome.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-05-01,testcovid19athome.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
@@ -300,12 +291,19 @@
 2020-05-01,testcovid-19.ws,64.70.19.203,US,North America
 2020-05-01,testcovid-19.ws,testcovid-19.ws,,
 2020-05-01,testeparacoronavirus.com,testeparacoronavirus.com,,
+2020-05-01,testforcovid19antibody.com,testforcovid19antibody.com,,
 2020-05-01,testujemecovid.sk,testujemecovid.sk,,
 2020-05-01,vacovidtesting.com,vacovidtesting.com,,
 2020-05-01,ventatestcovid19.com.ph,ventatestcovid19.com.ph,,
+2020-05-01,vivadiagcovid19test.com,dns17.hichina.com,,
+2020-05-01,vivadiagcovid19test.com,dns18.hichina.com,,
 2020-05-01,vivadiagcovid19test.com,vivadiagcovid19test.com,,
 2020-05-01,ww25.mquestcovidtest.com,199.59.242.153,US,North America
 2020-05-01,ww25.mquestcovidtest.com,parking.bodis.com,,
+2020-05-01,ww25.myquestcovidtests.com,199.59.242.153,US,North America
+2020-05-01,ww25.myquestcovidtests.com,parking.bodis.com,,
+2020-05-01,ww25.myqusetcovidtest.com,199.59.242.153,US,North America
+2020-05-01,ww25.myqusetcovidtest.com,parking.bodis.com,,
 2020-05-01,ww25.myquwstcovidtest.com,199.59.242.153,US,North America
 2020-05-01,ww25.myquwstcovidtest.com,parking.bodis.com,,
 2020-05-01,www.covid19testcentres.com,88.208.253.64,GB,Europe
