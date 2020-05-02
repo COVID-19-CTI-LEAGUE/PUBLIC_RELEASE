@@ -86,7 +86,9 @@
 2020-05-01,covid19testantibody.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-05-01,covid19testantibody.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-05-01,covid19testcentres.com,88.208.253.64,GB,Europe
+2020-05-01,covid19testcentres.com,admin@covid19testcentres.com,,
 2020-05-01,covid19testcentres.com,covid19testcentres.com,,
+2020-05-01,covid19testcentres.com,mailserver.covid19testcentres.com,,
 2020-05-01,covid19testcentres.com,ns1.livedns.co.uk,,
 2020-05-01,covid19testcentres.com,ns2.livedns.co.uk,,
 2020-05-01,covid19testcentres.com,ns3.livedns.co.uk,,
@@ -101,14 +103,11 @@
 2020-05-01,covid19test.com.ua,ns31.inhostedns.org,,
 2020-05-01,covid-19-test.fr,213.186.33.5,FR,Europe
 2020-05-01,covid-19-test.fr,covid-19-test.fr,,
-2020-05-01,covid-19test.it,62.149.128.151,IT,Europe
-2020-05-01,covid-19test.it,62.149.128.154,IT,Europe
 2020-05-01,covid-19test.it,62.149.128.157,IT,Europe
-2020-05-01,covid-19test.it,62.149.128.160,IT,Europe
 2020-05-01,covid-19test.it,62.149.128.163,IT,Europe
-2020-05-01,covid-19test.it,62.149.128.166,IT,Europe
 2020-05-01,covid-19test.it,covid-19test.it,,
 2020-05-01,covid-19test.it,mx.covid-19test.it,,
+2020-05-01,covid19testkit.club,covid19testkit.club,,
 2020-05-01,covid19-testy.com,covid19-testy.com,,
 2020-05-01,covid19-testy.com,dns2.home.pl,,
 2020-05-01,covid19-testy.com,dns3.home.pl,,
@@ -161,7 +160,6 @@
 2020-05-01,fastestcovidtesting.com,fastestcovidtesting.com,,
 2020-05-01,fastestcovidtests.com,50.63.202.50,US,North America
 2020-05-01,fastestcovidtests.com,fastestcovidtests.com,,
-2020-05-01,fdaapprovedcoronavirushometestkit.com,fdaapprovedcoronavirushometestkit.com,,
 2020-05-01,fdaapprovedcoronavirustestkit.com,fdaapprovedcoronavirustestkit.com,,
 2020-05-01,fdaapprovedcoronavirustestkit.com,ns-cloud-b1.googledomains.com,,
 2020-05-01,fdaapprovedcoronavirustestkit.com,ns-cloud-b2.googledomains.com,,
@@ -293,12 +291,14 @@
 2020-05-01,ww25.myqiestcovidtest.com,parking.bodis.com,,
 2020-05-01,ww25.myquestcovidtests.com,199.59.242.153,US,North America
 2020-05-01,ww25.myquestcovidtests.com,parking.bodis.com,,
+2020-05-01,ww25.myqurstcovidtest.com,parking.bodis.com,,
 2020-05-01,ww25.myqusetcovidtest.com,199.59.242.153,US,North America
 2020-05-01,ww25.myqusetcovidtest.com,parking.bodis.com,,
 2020-05-01,ww25.myquwstcovidtest.com,199.59.242.153,US,North America
 2020-05-01,ww25.myquwstcovidtest.com,parking.bodis.com,,
 2020-05-01,www.cheapcoronavirustest.com,45.88.202.115,,
 2020-05-01,www.covid19testcentres.com,88.208.253.64,GB,Europe
+2020-05-01,www.fdaapprovedcovid-19antibioticshometestkit.ph,45.79.222.138,US,North America
 2020-05-01,www.testeparacoronavirus.com,198.54.117.210,US,North America
 2020-05-01,www.testeparacoronavirus.com,198.54.117.211,US,North America
 2020-05-01,www.testeparacoronavirus.com,198.54.117.212,US,North America
@@ -307,3 +307,6 @@
 2020-05-01,www.testeparacoronavirus.com,198.54.117.217,US,North America
 2020-05-01,www.testeparacoronavirus.com,198.54.117.218,US,North America
 2020-05-01,www.testeparacoronavirus.com,parkingpage.namecheap.com,,
+2020-05-02,covid19dogtestkit.com,covid19dogtestkit.com,,
+2020-05-02,covid19fasttestt.com,23.236.62.147,US,North America
+2020-05-02,covid19fasttestt.com,covid19fasttestt.com,,
