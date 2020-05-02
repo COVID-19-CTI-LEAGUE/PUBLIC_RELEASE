@@ -2,15 +2,11 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-05-01,athomecovidantibodytest.com,184.168.221.33,US,North America
-2020-05-01,athomecovidantibodytest.com,50.63.202.51,US,North America
-2020-05-01,athomecovidantibodytest.com,athomecovidantibodytest.com,,
 2020-05-01,bleachcoronaviruscure.com,bleachcoronaviruscure.com,,
 2020-05-01,bleachcoronaviruscure.ws,64.70.19.203,US,North America
 2020-05-01,bleachcoronaviruscure.ws,bleachcoronaviruscure.ws,,
 2020-05-01,bleachcoronaviruscure.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-05-01,bleachcoronaviruscure.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-05-01,buycovid-19testkit.ph,45.79.222.138,US,North America
 2020-05-01,cheapcoronavirustest.com,45.88.202.115,,
 2020-05-01,cheapcoronavirustest.com,cheapcoronavirustest.com,,
 2020-05-01,cheapcoronavirustest.com,ns3.epik.com,,
@@ -20,8 +16,6 @@
 2020-05-01,cheapcovidtest.com,ns3.epik.com,,
 2020-05-01,cheapcovidtest.com,ns4.epik.com,,
 2020-05-01,cheapcovidtest.com,support@epik.com,,
-2020-05-01,cheapestcovidtest.com,184.168.221.32,US,North America
-2020-05-01,cheapestcovidtest.com,50.63.202.61,US,North America
 2020-05-01,coronaviruscure2022.com,184.168.221.58,US,North America
 2020-05-01,coronaviruscure2022.com,50.63.202.52,US,North America
 2020-05-01,coronaviruscure2022.com,coronaviruscure2022.com,,
@@ -38,16 +32,6 @@
 2020-05-01,covid-19businesstestkit.com,ns-cloud-b2.googledomains.com,,
 2020-05-01,covid-19businesstestkit.com,ns-cloud-b3.googledomains.com,,
 2020-05-01,covid-19businesstestkit.com,ns-cloud-b4.googledomains.com,,
-2020-05-01,covid19iggiggrapidtest.org,covid19iggiggrapidtest.org,,
-2020-05-01,covid19iggiggrapidtest.org,ns-cloud-c1.googledomains.com,,
-2020-05-01,covid19iggiggrapidtest.org,ns-cloud-c2.googledomains.com,,
-2020-05-01,covid19iggiggrapidtest.org,ns-cloud-c3.googledomains.com,,
-2020-05-01,covid19iggiggrapidtest.org,ns-cloud-c4.googledomains.com,,
-2020-05-01,covid19igmiggrapidtest.com,covid19igmiggrapidtest.com,,
-2020-05-01,covid19igmiggrapidtest.com,ns-cloud-a1.googledomains.com,,
-2020-05-01,covid19igmiggrapidtest.com,ns-cloud-a2.googledomains.com,,
-2020-05-01,covid19igmiggrapidtest.com,ns-cloud-a3.googledomains.com,,
-2020-05-01,covid19igmiggrapidtest.com,ns-cloud-a4.googledomains.com,,
 2020-05-01,covid19igmrapidtesting.com,covid19igmrapidtesting.com,,
 2020-05-01,covid19igmrapidtesting.com,dns1.registrar-servers.com,,
 2020-05-01,covid19igmrapidtesting.com,hostmaster@registrar-servers.com,,
@@ -157,9 +141,6 @@
 2020-05-01,fdaapprovedcovid-19antibioticstestkit.com,ns-cloud-e3.googledomains.com,,
 2020-05-01,fdaapprovedcovid-19antibioticstestkit.com,ns-cloud-e4.googledomains.com,,
 2020-05-01,fdaapprovedcovid-19testkit.com,fdaapprovedcovid-19testkit.com,,
-2020-05-01,fdaapprovedcovid-19testkit.ph,45.79.222.138,US,North America
-2020-05-01,fdaapprovedcovid-19virustestkit.com,fdaapprovedcovid-19virustestkit.com,,
-2020-05-01,fdaapprovedcovid-19virustestkit.ph,45.79.222.138,US,North America
 2020-05-01,livecovidtest.com,184.168.221.48,US,North America
 2020-05-01,livecovidtest.com,50.63.202.33,US,North America
 2020-05-01,livecovidtest.com,50.63.202.39,US,North America
@@ -229,8 +210,6 @@
 2020-05-01,novelcoronavirustestkits.com.ph,45.79.222.138,US,North America
 2020-05-01,novelcoronavirustestkits.com.ph,novelcoronavirustestkits.com.ph,,
 2020-05-01,novelcoronavirustestlab.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-05-01,novelcoronavirustestlab.ws,novelcoronavirustestlab.ws,,
-2020-05-01,novelcoronavirustestlab.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-05-01,novelcoronavirustest.ws,64.70.19.203,US,North America
 2020-05-01,novelcoronavirustest.ws,novelcoronavirustest.ws,,
 2020-05-01,officialcovidtestcenter.com,184.168.221.56,US,North America
@@ -278,11 +257,18 @@
 2020-05-02,coronaviruscathometestkit.com,ns-cloud-e4.googledomains.com,,
 2020-05-02,coronavirustesting.io,coronavirustesting.io,,
 2020-05-02,coronavirustestkit.com.au,coronavirustestkit.com.au,,
+2020-05-02,coronavirustests.fr,51.91.236.255,FR,Europe
+2020-05-02,coronavirustests.fr,coronavirustests.fr,,
 2020-05-02,covid19antibodyrapidtestkit.net,184.168.131.241,US,North America
 2020-05-02,covid19antibodyrapidtestkit.net,covid19antibodyrapidtestkit.net,,
 2020-05-02,covid19cures.ph,covid19cures.ph,,
 2020-05-02,covid19cure.website,covid19cure.website,,
 2020-05-02,covid19dogtestkit.com,covid19dogtestkit.com,,
+2020-05-02,covid19driveuptest.com,covid19driveuptest.com,,
+2020-05-02,covid19driveuptest.com,ns-cloud-d1.googledomains.com,,
+2020-05-02,covid19driveuptest.com,ns-cloud-d2.googledomains.com,,
+2020-05-02,covid19driveuptest.com,ns-cloud-d3.googledomains.com,,
+2020-05-02,covid19driveuptest.com,ns-cloud-d4.googledomains.com,,
 2020-05-02,covid19fasttestt.com,23.236.62.147,US,North America
 2020-05-02,covid19fasttestt.com,covid19fasttestt.com,,
 2020-05-02,covid19igmiggrapidtest.net,covid19igmiggrapidtest.net,,
@@ -295,6 +281,8 @@
 2020-05-02,covid19surfacetesting.com,covid19surfacetesting.com,,
 2020-05-02,covidantitest.com,covidantitest.com,,
 2020-05-02,covidhealthtest.com,covidhealthtest.com,,
+2020-05-02,covidrapidtestkits.co,23.236.62.147,US,North America
+2020-05-02,covidrapidtestkits.co,covidrapidtestkits.co,,
 2020-05-02,covidtestingsocal.com,covidtestingsocal.com,,
 2020-05-02,covidtests.nl,covidtests.nl,,
 2020-05-02,curecovid.es,curecovid.es,,
@@ -305,8 +293,18 @@
 2020-05-02,mycovid-19tests.com,ns-cloud-e2.googledomains.com,,
 2020-05-02,mycovid-19tests.com,ns-cloud-e3.googledomains.com,,
 2020-05-02,mycovid-19tests.com,ns-cloud-e4.googledomains.com,,
+2020-05-02,myqestcovidtest.com,103.224.182.242,AU,Oceania
+2020-05-02,myqestcovidtest.com,myqestcovidtest.com,,
 2020-05-02,myqeustcovidtest.com,myqeustcovidtest.com,,
+2020-05-02,myquescovidtest.com,myquescovidtest.com,,
 2020-05-02,myquestcovid19test.com,myquestcovid19test.com,,
+2020-05-02,myqyestcovidtest.com,103.224.182.242,AU,Oceania
+2020-05-02,myqyestcovidtest.com,myqyestcovidtest.com,,
+2020-05-02,rapidtestscovid19.org,rapidtestscovid19.org,,
+2020-05-02,testedcovid-19safe.ph,testedcovid-19safe.ph,,
+2020-05-02,ww25.myqeustcovidtest.com,199.59.242.153,US,North America
+2020-05-02,ww25.myqeustcovidtest.com,parking.bodis.com,,
+2020-05-02,ww25.myquescovidtest.com,parking.bodis.com,,
 2020-05-02,ww25.myquestcovid19test.com,parking.bodis.com,,
 2020-05-02,www.itestedcovidfree.com,itestedcovidfree.com,,
 2020-05-02,www.myqeustcovidtest.com,103.224.182.242,AU,Oceania
