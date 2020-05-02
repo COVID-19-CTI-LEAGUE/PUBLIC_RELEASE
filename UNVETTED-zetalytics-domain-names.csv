@@ -234,8 +234,6 @@
 2020-05-01,novelcoronavirustestlab.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-05-01,novelcoronavirustest.ws,64.70.19.203,US,North America
 2020-05-01,novelcoronavirustest.ws,novelcoronavirustest.ws,,
-2020-05-01,officialcoronavirustest.ws,64.70.19.203,US,North America
-2020-05-01,officialcoronavirustest.ws,officialcoronavirustest.ws,,
 2020-05-01,officialcovidtestcenter.com,184.168.221.56,US,North America
 2020-05-01,officialcovidtestcenter.com,officialcovidtestcenter.com,,
 2020-05-01,officialcovidteststation.com,officialcovidteststation.com,,
@@ -249,7 +247,6 @@
 2020-05-01,testujemecovid.sk,37.9.175.7,SK,Europe
 2020-05-01,testujemecovid.sk,testujemecovid.sk,,
 2020-05-01,testynacovid19.pl,testynacovid19.pl,,
-2020-05-01,vacovidtesting.com,vacovidtesting.com,,
 2020-05-01,vivadiagcovid19test.com,dns17.hichina.com,,
 2020-05-01,vivadiagcovid19test.com,dns18.hichina.com,,
 2020-05-01,vivadiagcovid19test.com,vivadiagcovid19test.com,,
@@ -281,13 +278,16 @@
 2020-05-02,coronaviruscathometestkit.com,ns-cloud-e3.googledomains.com,,
 2020-05-02,coronaviruscathometestkit.com,ns-cloud-e4.googledomains.com,,
 2020-05-02,coronavirustesting.io,coronavirustesting.io,,
+2020-05-02,coronavirustestkit.com.au,coronavirustestkit.com.au,,
 2020-05-02,covid19antibodyrapidtestkit.net,184.168.131.241,US,North America
 2020-05-02,covid19antibodyrapidtestkit.net,covid19antibodyrapidtestkit.net,,
+2020-05-02,covid19cures.ph,covid19cures.ph,,
 2020-05-02,covid19cure.website,covid19cure.website,,
 2020-05-02,covid19dogtestkit.com,covid19dogtestkit.com,,
 2020-05-02,covid19fasttestt.com,23.236.62.147,US,North America
 2020-05-02,covid19fasttestt.com,covid19fasttestt.com,,
 2020-05-02,covid19igmiggrapidtest.net,covid19igmiggrapidtest.net,,
+2020-05-02,covid19plasmatest.com.ph,covid19plasmatest.com.ph,,
 2020-05-02,covid-19-rapid-testkits.com,covid-19-rapid-testkits.com,,
 2020-05-02,covid-19-rapid-testkits.com,ns-cloud-d1.googledomains.com,,
 2020-05-02,covid-19-rapid-testkits.com,ns-cloud-d2.googledomains.com,,
@@ -297,6 +297,7 @@
 2020-05-02,covidantitest.com,covidantitest.com,,
 2020-05-02,covidhealthtest.com,covidhealthtest.com,,
 2020-05-02,covidtestingsocal.com,covidtestingsocal.com,,
+2020-05-02,covidtests.nl,covidtests.nl,,
 2020-05-02,curecovid.es,curecovid.es,,
 2020-05-02,itestedcovidfree.com,itestedcovidfree.com,,
 2020-05-02,mycovid-19testing.com,mycovid-19testing.com,,
