@@ -1,5 +1,6 @@
 # COVID19 Cyber Threat Coalition blocklist | www.cyberthreatcoalition.org | IOCs has been vetted by humans with love <3
 http://0442d60.wcomhost.com/australia-page/cogeco-webmail/index.php
+http://1.11.132.252:34758/.i
 http://1.246.222.113:1670/Mozi.m
 http://1.246.222.153:3273/Mozi.a
 http://1.246.222.174:2004/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
@@ -921,6 +922,7 @@ http://3mandatesmedia.com/2tz-iuw5-38736/xbvar8va-s2-328692/
 http://402musicfest.com/dokument4398.tar
 http://40buofa40.bankofamericaslpemr.com/redirection/?jim@thejimburkefamily.com=
 http://41.228.175.30:63795/.i
+http://41.32.132.218:61418/.i
 http://42.115.10.67:45087/Mozi.m
 http://42.115.25.55:48700/Mozi.m
 http://42.115.86.142:30999/.i
@@ -1157,6 +1159,7 @@ http://69.167.151.209/files/0cb1556bec340cef0cb980cb4649cbbb/
 http://69.167.151.209/files/0d0828ecfaf09103e827674d621b6fb5
 http://69.167.151.209/files/0ec4881f754088222c1e99e3d6f0d591
 http://69.167.151.209/files/1178843bfc1079e74f550d7e0a955d64
+http://69.167.151.209/files/122988c530c61678d58d2ec46ba0641b/details.php
 http://69.167.151.209/files/139fc0c02c7ee0da31f2134fb781c748/details.php
 http://69.167.151.209/files/168c3a2bc7f35756fb9c1b5388e56e3c
 http://69.167.151.209/files/16c6e1b43b9d7311cf14c82721bd268b
@@ -2939,6 +2942,7 @@ http://indiespace.com/test/wp-admin/css/colors/light/secure09a.verify/logon.php?
 http://indiespace.com/test/wp-admin/css/colors/light/secure09a.verify/logon.php?locale=en-US&Device=60174371525181966&authID=MjMyNjA0MzYxMQ==
 http://indiespace.com/test/wp-admin/css/colors/light/secure09a.verify/logon.php?locale=en-US&Device=84649476023481445&authID=Mzc2NDUxNjY3NzM=
 http://industrialcontroling.ooguy.com/JPChase/info.html?chase_com/verify_id=
+http://industrialcontroling.ooguy.com/JPChase/less-rejected.html
 http://ineedmagnus.com/guce/account/challenge/password/?.src=ym&.intl=us&authMechanism=primary&display=login&email=&done=https://mail.yahoo.com/&sessionIndex=Qg--&acrumb=QsP9qma0
 http://info-service-onlinee.duckdns.org/home/27024d47c9d5ce86f98d936c2fd01731/?cmd=login=www.chaseonline-com/account/service/chase-technical-department
 http://info-service-onlinee.duckdns.org/home/27024d47c9d5ce86f98d936c2fd01731?cmd=login=www.chaseonline-com/account/service/chase-technical-department
@@ -3409,6 +3413,7 @@ http://meljackson.net/adobe/pdf.php?l=_jehfuq_vjoxk0qwhtogydw_payment-ttcopy&use
 http://memoriasusbperu.com/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTIwMjAxNzgzNQ==MTIwMjAxNzgzNQ==&session=MTIwMjAxNzgzNQ==MTIwMjAxNzgzNQ==
 http://memoriasusbperu.com/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=NzQ2OTIyNjQ3NzQ2OTIyNjQ3&session=NzQ2OTIyNjQ3NzQ2OTIyNjQ3
 http://memoriasusbperu.com/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=ODE5Nzk3OTA1ODE5Nzk3OTA1&session=ODE5Nzk3OTA1ODE5Nzk3OTA1
+http://mereliverystables.com/user1/alibaba/alibaba.com/login.php?cmd=login_submit&amp;amp;id=c5e026bd80f2572150f9f87f32b63fc3c5e026bd80f2572150f9f87f32b63fc3&amp;amp;session=c5e026bd80f2572150f9f87f32b63fc3c5e026bd80f2572150f9f87f32b63fc3
 http://mettaanand.org/wp-content/sh9b0-lq00ib2-pter/
 http://mettek.com.tr/Corrections-June/12/2018/
 http://mettek.com.tr/Rechnungsanschrift/Rechnung-fur-Dienstleistungen-046120/
@@ -3507,6 +3512,7 @@ http://oa.fnysw.com/weaverplugin/chinaexcel.exe
 http://obnova.zzux.com/updpars.exe
 http://obnova.zzux.com/updparsm.exe
 http://obseques-conseils.com/wp-content/cache/busting/sserv.jpg
+http://oceanvibes.com.au/usaa.com-sec-inet-auth-logon-ent-logon-logon-redirectjsp8774_/00inet.ent_Logon.logon.path.redirectjsp-true/contact.php
 http://ociofunzone.es/
 http://ofertasprodutosmm.com/hh/meusprodutos/prefetch.php?skullid=c%C3%B3d.592814568)
 http://ofnzwccwgukmjhhyltcqxmr.biz/
@@ -4363,6 +4369,7 @@ http://thetennesseekid.xyz/boa/Boa/b8f7327017104436146e8035a2445f9b/eml.php?cmd=
 http://thetennesseekid.xyz/boa/Boa/b8f7327017104436146e8035a2445f9b/eml2.php?cmd=login_submit&amp;id=65d0370e604e0780c6080a4f0931958665d0370e604e0780c6080a4f09319586&amp;session=65d0370e604e0780c6080a4f0931958665d0370e604e0780c6080a4f09319586
 http://thetennesseekid.xyz/boa/Boa/b8f7327017104436146e8035a2445f9b/eml2.php?cmd=login_submit&amp;id=a37d21b5e82f6bacc4d9c5c4691e4419a37d21b5e82f6bacc4d9c5c4691e4419&amp;session=a37d21b5e82f6bacc4d9c5c4691e4419a37d21b5e82f6bacc4d9c5c4691e4419
 http://thetennesseekid.xyz/boa/Boa/b8f7327017104436146e8035a2445f9b/info.php?cmd=login_submit&amp;id=e2f7feb1eebfd5f084788a5c25f55ad3e2f7feb1eebfd5f084788a5c25f55ad3&amp;session=e2f7feb1eebfd5f084788a5c25f55ad3e2f7feb1eebfd5f084788a5c25f55ad3
+http://thewintershops.com/wp-admin/-/account_americafirstCU_login/login.php?cmd=login_submit&id=MTY0NjUxODM3OA==MTY0NjUxODM3OA==&session=MTY0NjUxODM3OA==MTY0NjUxODM3OA==
 http://thewintershops.com/wp-admin/-/account_americafirstCU_login/login.php?cmd=login_submit&id=NTkyMjAwMDQ3NTkyMjAwMDQ3&session=NTkyMjAwMDQ3NTkyMjAwMDQ3
 http://theycangetitdone.com/login/login/auth.php?country_x=United+States&locale-8731002x=E?_US
 http://thuong.bidiworks.com/wp-content/q2TO1988/
@@ -4687,6 +4694,7 @@ http://viveromonteverde.com/wp-includes/rest-api/endpoints/uj/login.php?cmd=logi
 http://viveromonteverde.com/wp-includes/rest-api/endpoints/uj/login.php?cmd=login_submit&amp;id=cfc5dc6228fabf81fa5df16091e6ed07cfc5dc6228fabf81fa5df16091e6ed07&amp;session=cfc5dc6228fabf81fa5df16091e6ed07cfc5dc6228fabf81fa5df16091e6ed07
 http://viveromonteverde.com/wp-includes/rest-api/endpoints/uj/login.php?cmd=login_submitid=06a0aeb213adce0576d3aa9557c53ef606a0aeb213adce0576d3aa9557c53ef6session=06a0aeb213adce0576d3aa9557c53ef606a0aeb213adce0576d3aa9557c53ef6
 http://viveromonteverde.com/wp-includes/rest-api/endpoints/uj/login.php?cmd=login_submitid=b6e0b33dd5889d764d9fb9af91893a52b6e0b33dd5889d764d9fb9af91893a52session=b6e0b33dd5889d764d9fb9af91893a52b6e0b33dd5889d764d9fb9af91893a52
+http://volare.co.ls/wp-content/themes/enfold/images/tth/hmi/2a4aa247513975219d243de13afd92da
 http://vothageconstruction.com/account/update-t-online.de/login.php
 http://w.zhzy999.net/images/m.exe
 http://w3gator.com/acc/ref/banks/ATB/?securessl=3Dtrue&sessionid=3D5e639134=
@@ -4923,6 +4931,7 @@ http://www.meetabansal.in/googleeee270147eee51e0.html
 http://www.mfevr.com/t2/wmac.exe
 http://www.minoparisi.com/wordpress/wp-content/themes/client.rar
 http://www.moha-group.com/cli/waplord/PurchaseOrder.exe
+http://www.moha-group.com/cli/waplord/doc/PurchaseOrder.doc
 http://www.morba.cz/log/appl/e2842e874022298/?ID=login&Key=92dc1955cf1f2c5aed37556e0fc05afb&login=&path=/signin/?referrer
 http://www.mylifeunlimited.com/sites/default/chad/ChaseClean/Chase%20Clean/login/auth.php?country_x=France&locale-8731002x=E?_FR
 http://www.myyttilukukansasta.fi/Scan531081.doc
