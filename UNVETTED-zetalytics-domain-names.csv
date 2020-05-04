@@ -131,6 +131,9 @@
 2020-05-03,covidtestkiosk.com,192.161.187.200,US,North America
 2020-05-03,covidtestkiosk.com,209.141.38.71,US,North America
 2020-05-03,covidtestkiosk.com,covidtestkiosk.com,,
+2020-05-03,covidtestkiosk.com,ns1.dnsowl.com,,
+2020-05-03,covidtestkiosk.com,ns2.dnsowl.com,,
+2020-05-03,covidtestkiosk.com,ns3.dnsowl.com,,
 2020-05-03,covidtestsnearyou.com,50.63.202.36,US,North America
 2020-05-03,covidtestsnearyou.com,covidtestsnearyou.com,,
 2020-05-03,covidtesttips.com,184.168.221.40,US,North America
@@ -187,6 +190,7 @@
 2020-05-03,testme4covid19.com,testme4covid19.com,,
 2020-05-03,testme4covid19.ph,testme4covid19.ph,,
 2020-05-03,www.covid-19genetictest.com,217.160.0.149,DE,Europe
+2020-05-03,www.covidselftestkits.com,217.160.0.208,DE,Europe
 2020-05-03,www.covidtestcenter.ph,104.238.103.77,US,North America
 2020-05-03,www.covidtestcenter.ph,covidtestcenter.ph,,
 2020-05-03,www.covid-test.com.pl,185.253.212.22,PL,Europe
@@ -210,6 +214,10 @@
 2020-05-04,covid-19doghometestkit.com,ns-cloud-d2.googledomains.com,,
 2020-05-04,covid-19doghometestkit.com,ns-cloud-d3.googledomains.com,,
 2020-05-04,covid-19doghometestkit.com,ns-cloud-d4.googledomains.com,,
+2020-05-04,covid-19testing.be,217.19.237.54,BE,Europe
+2020-05-04,covid19testing.be,217.19.237.54,BE,Europe
+2020-05-04,covid-19testing.be,covid-19testing.be,,
+2020-05-04,covid19testing.be,covid19testing.be,,
 2020-05-04,covid19testing.expert,covid19testing.expert,,
 2020-05-04,covid-19testingsites.net,208.91.197.27,US,North America
 2020-05-04,covid-19testingsites.net,covid-19testingsites.net,,
@@ -232,10 +240,15 @@
 2020-05-04,mycovid19testing.org,ns-cloud-b2.googledomains.com,,
 2020-05-04,mycovid19testing.org,ns-cloud-b3.googledomains.com,,
 2020-05-04,mycovid19testing.org,ns-cloud-b4.googledomains.com,,
+2020-05-04,mycovid19tests.us,mycovid19tests.us,,
+2020-05-04,myquesttcovidtest.com,185.53.177.12,DE,Europe
+2020-05-04,myquesttcovidtest.com,myquesttcovidtest.com,,
+2020-05-04,nationalcoronavirustestcenters.com,88.208.253.64,GB,Europe
 2020-05-04,nationalcoronavirustestcenters.com,nationalcoronavirustestcenters.com,,
 2020-05-04,nationalcoronavirustestcenters.com,ns1.livedns.co.uk,,
 2020-05-04,nationalcoronavirustestcenters.com,ns2.livedns.co.uk,,
 2020-05-04,nationalcoronavirustestcenters.com,ns3.livedns.co.uk,,
+2020-05-04,nationalcoronavirustestcentres.com,88.208.253.64,GB,Europe
 2020-05-04,nationalcoronavirustestcentres.com,nationalcoronavirustestcentres.com,,
 2020-05-04,nationalcoronavirustestcentres.com,ns1.livedns.co.uk,,
 2020-05-04,nationalcoronavirustestcentres.com,ns2.livedns.co.uk,,
@@ -245,13 +258,20 @@
 2020-05-04,nationalcovid19testcenters.com,ns1.livedns.co.uk,,
 2020-05-04,nationalcovid19testcenters.com,ns2.livedns.co.uk,,
 2020-05-04,nationalcovid19testcenters.com,ns3.livedns.co.uk,,
+2020-05-04,safemobilecovidtest.com,50.63.202.46,US,North America
+2020-05-04,safemobilecovidtest.com,safemobilecovidtest.com,,
 2020-05-04,testcovid19.madrid,2001:8d8:100f:f000::27e,,
 2020-05-04,testcovid19.madrid,217.160.0.111,DE,Europe
 2020-05-04,testcovid19.madrid,hostmaster@1und1.com,,
+2020-05-04,testcovid19.madrid,mx00.ionos.es,,
+2020-05-04,testcovid19.madrid,mx01.ionos.es,,
 2020-05-04,testcovid19.madrid,ns1112.ui-dns.org,,
 2020-05-04,testcovid19.madrid,testcovid19.madrid,,
 2020-05-04,testforcovid19.io,testforcovid19.io,,
+2020-05-04,wwwmyquestcovidtest.com,70.32.1.32,US,North America
+2020-05-04,wwwmyquestcovidtest.com,wwwmyquestcovidtest.com,,
 2020-05-04,www.nationalcoronavirustestcenters.com,88.208.253.64,GB,Europe
+2020-05-04,www.nationalcoronavirustestcentres.com,88.208.253.64,GB,Europe
 2020-05-04,www.nationalcovid19testcenters.com,88.208.253.64,GB,Europe
 2020-05-04,www.testcovid19.madrid,2001:8d8:100f:f000::27e,,
 2020-05-04,www.testcovid19.madrid,217.160.0.111,DE,Europe
