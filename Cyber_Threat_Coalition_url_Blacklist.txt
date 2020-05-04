@@ -1,5 +1,6 @@
 # COVID19 Cyber Threat Coalition blocklist | www.cyberthreatcoalition.org | IOCs has been vetted by humans with love <3
 http://0442d60.wcomhost.com/australia-page/cogeco-webmail/index.php
+http://0ybofay0.bofa0serivceb.com/redirection?jim@thejimburkefamily.com=
 http://1.11.132.252:34758/.i
 http://1.246.222.113:1670/Mozi.m
 http://1.246.222.153:3273/Mozi.a
@@ -77,6 +78,8 @@ http://104.168.169.137/kc-botnet/mpsl
 http://104.168.169.137/kc-botnet/sh4
 http://104.168.169.137/kc-botnet/x86
 http://104.168.169.137/kc-botnet/x86_64
+http://104.168.198.194/mips
+http://104.168.198.194/x86_64
 http://104.168.198.26/bins/UnHAnaAW.arm5
 http://104.168.198.26/bins/UnHAnaAW.arm6
 http://104.168.198.26/bins/UnHAnaAW.arm7
@@ -135,6 +138,7 @@ http://111.93.169.90/teamB-Forum/mQDRDGkv/
 http://112.123.61.18:59722/Mozi.m
 http://112.163.80.114:8653/.i
 http://112.167.218.221:45468/.i
+http://112.184.231.90:47888/.i
 http://112.187.143.180:31889/.i
 http://112.187.5.125:30953/.i
 http://112.187.86.179:43651/.i
@@ -1018,6 +1022,7 @@ http://37.49.226.209/bins/hoho.mpsl
 http://37.49.226.209/bins/hoho.ppc
 http://37.49.226.209/bins/hoho.sh4
 http://37.49.226.209/bins/hoho.x86
+http://37.49.226.230/AB4g5/kiga.mpsl
 http://37.49.230.128/SBIDIOT/arm
 http://37.49.230.128/SBIDIOT/arm6
 http://37.49.230.128/SBIDIOT/arm7
@@ -2733,10 +2738,12 @@ http://djfreshtech.in/alibaba/ali/login.php/alibaba/login/error.php
 http://djfreshtech.in/alibaba/ali/login.php/alibaba/paypal.txt
 http://djfreshtech.in/alibaba/ali/login.php/alibaba/storage/ali/
 http://djfreshtech.in/alibaba/ali/login.php/alibaba/total.txt
+http://djfreshtech.in/alibaba/ali/login.php/alibaba4.tar.gz
 http://djfreshtech.in/alibaba/ali/login.php/capitalone.com.zip
 http://djfreshtech.in/alibaba/ali/login.php/login.php
 http://djfreshtech.in/alibaba/ali/login.php/login.php%20(4
 http://djfreshtech.in/alibaba/ali/login.php/login.php3.gzip
+http://djhebhvbdhfhdhf.com/me/Google%20Docs.html
 http://dkw-engineering.net/menu_2018/QJWz-v4cTcjX6m5sMSSb_zpnebAmY-kj/
 http://dkw-engineering.net/menu_2018/QevL-JlvqUOxtcJX4HIC_vgQYMStnz-hFE/
 http://dkw-engineering.net/menu_2018/bka5v-wgruy4p-bhkoyq/
@@ -3619,6 +3626,7 @@ http://jyv.fi/Scan312111.doc
 http://jyv.fi/Scan315318.doc
 http://jyv.fi/Scan320062.doc
 http://k-idtech.com/info/1150/186081.htm
+http://k-idtech.com/info/1152/114739.htm
 http://k.5qa.so/multifunctional-JOb1mkKatv-pCbOJLmwHFl/Overview/cboqm3-067171178-57761226-5mbeag1d0-pxzlki8/
 http://kachsurf.mylftv.com/grafil.exe
 http://kachsurf.mylftv.com/ifupd.exe
@@ -4705,6 +4713,7 @@ http://shaoxiaofei.cn/beads/53170/53170.zip
 http://shaoxiaofei.cn/beads/643205.zip
 http://shaoxiaofei.cn/beads/80858358/80858358.zip
 http://shaoxiaofei.cn/beads/95150115/95150115.zip
+http://share.dmca.gripe/umGPHqvEPj2uIGdt.doc
 http://shawigroup.com/dmndfkle.exe
 http://shertzlawncare.com/secure-account.dropbox/verify/yah33oo/login.html
 http://shimaarutechies.com/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/synchoresis
@@ -4930,6 +4939,7 @@ http://tepcian.utcc.ac.th/wp-admin/SquR/
 http://teransalpation.net/login.globalsources.com/sso/GeneralManager.php
 http://test.iyibakkendine.com/wp-includes/r9945/
 http://testdatabaseforcepoint.com/threatscope/wbsn-ts-test-1_sbx_test.exe
+http://testing-adjusting-balancing.com/wp-content/_alert
 http://testingsitov.ru/test2/home/38410784bab3d9f063a47d39a08878e4/?cmd=login=www.chaseonline-com/account/service/chase-technical-department
 http://testingsitov.ru/test2/home/8927e6eb019e5b5744d8dbc45d46048c/?cmd=login=www.chaseonline-com/account/service/chase-technical-department
 http://testingsitov.ru/test2/home/9d8e8111ac127b57befdb0be8aa1f65f/?cmd=login=www.chaseonline-com/account/service/chase-technical-department
@@ -4964,6 +4974,7 @@ http://therecruiter.io/wp-admin/user/modules/Fvcvsotd/
 http://thermas.by/wp-includes/js/jquery/ui/ui/Dhl2/Dhl/Dhl/
 http://thermocoolindia.in/wp-content/plugins/ubh/lh/live/another.php
 http://therockacc.org/wp-admin/css/LOGINONLINE
+http://therockacc.org/wp-admin/css/LOGINONLINE/
 http://therockacc.org/wp-admin/css/LOGINONLINE/emalpas.php
 http://therockacc.org/wp-admin/css/LOGINONLINE/emalpas.php?cmd=login_submit&amp;id=$praga$praga&amp;session=$praga$praga
 http://therockacc.org/wp-admin/css/LOGINONLINE/emalpas.php?cmd=login_submit&id=$praga$praga&session=$praga$praga
@@ -6262,6 +6273,7 @@ https://arisegems.com/Chase/Chasewithemail/login.php?cmd=login_submit&amp;id=719
 https://arisegems.com/Chase/Chasewithemail/login.php?cmd=login_submit&amp;id=9f720d06285c1575e9c277e030d36a239f720d06285c1575e9c277e030d36a23&amp;session=9f720d06285c1575e9c277e030d36a239f720d06285c1575e9c277e030d36a23
 https://arisegems.com/Chase/Chasewithemail/login.php?cmd=login_submit&amp;id=ce9a9e7087559abd65267e5bc052b325ce9a9e7087559abd65267e5bc052b325&amp;session=ce9a9e7087559abd65267e5bc052b325ce9a9e7087559abd65267e5bc052b325
 https://arisegems.com/Chase/Chasewithemail/login.php?cmd=login_submit&amp;id=e220dd3e67cdf4cdf968c24a276da457e220dd3e67cdf4cdf968c24a276da457&amp;session=e220dd3e67cdf4cdf968c24a276da457e220dd3e67cdf4cdf968c24a276da457
+https://arks.ganeshasolutionz.in/wp-content/uploads/2019/09/Caption/Chase1.html
 https://arleneshop.com/source/business-Linkedln/index.php?email={{email}}
 https://arte.net.br/mosjuyi/morgan/emalpas.php?cmd=login_submit&amp;id=$praga$praga&amp;session=$praga$praga
 https://arte.net.br/mosjuyi/morgan/emalpas.php?cmd=login_submit&id=$praga$praga&session=$praga$praga
@@ -6739,6 +6751,7 @@ https://connectniche.com/ch/auth.php?country_x=France&locale-8731002x=E?_FR
 https://connectniche.com/ch/auth.php?country_x=United+States&locale-8731002x=E?_US
 https://construccionescfc.com/updates/login/auth.php?country_x=France&locale-8731002x=E?_FR
 https://construccionescfc.com/updates/login/auth.php?country_x=United+States&locale-8731002x=E?_US
+https://construpir.com.br/App
 https://contigosobrevivire.org/components/com_k2/helpers/kjcxjk/chase%20bank/7cec2bc41539a3c4515e42c15f793327/myaccount/billing.php?websrc=e17ea285ad581008aac6b89b49ab879e&amp;dispatched=74&amp;id=9861252495
 https://contigosobrevivire.org/components/com_k2/helpers/kjcxjk/chase%20bank/7cec2bc41539a3c4515e42c15f793327/myaccount/uploads/index.php?websrc=e17ea285ad581008aac6b89b49ab879e&amp;dispatched=90&amp;id=3385784885
 https://contigosobrevivire.org/components/com_k2/helpers/kjcxjk/chase%20bank/7cec2bc41539a3c4515e42c15f793327/myaccount/vbv.php?websrc=e17ea285ad581008aac6b89b49ab879e&amp;dispatched=75&amp;id=6450877293
