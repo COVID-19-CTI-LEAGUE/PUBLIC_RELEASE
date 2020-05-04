@@ -69,8 +69,10 @@ http://104.168.169.137/kc-botnet/arm5
 http://104.168.169.137/kc-botnet/arm6
 http://104.168.169.137/kc-botnet/arm7
 http://104.168.169.137/kc-botnet/m68k
+http://104.168.169.137/kc-botnet/mpsl
 http://104.168.169.137/kc-botnet/sh4
 http://104.168.169.137/kc-botnet/x86
+http://104.168.169.137/kc-botnet/x86_64
 http://104.168.198.26/bins/UnHAnaAW.arm5
 http://104.168.198.26/bins/UnHAnaAW.arm6
 http://104.168.198.26/bins/UnHAnaAW.arm7
@@ -87,6 +89,7 @@ http://106.111.41.140:33347/Mozi.m
 http://107.158.154.88/bins/Hilix.arm
 http://107.158.154.88/bins/Hilix.mips
 http://107.158.154.88/bins/Hilix.x86
+http://107.158.154.94/beastmode/b3astmode.mpsl
 http://107.158.154.94/beastmode/b3astmode.ppc
 http://107.158.154.94/beastmode/b3astmode.sh4
 http://107.158.154.99/axisbins.sh
@@ -990,6 +993,7 @@ http://37.49.226.209/bins/hoho.arm5
 http://37.49.226.209/bins/hoho.arm7
 http://37.49.226.209/bins/hoho.m68k
 http://37.49.226.209/bins/hoho.ppc
+http://37.49.226.209/bins/hoho.sh4
 http://37.49.226.209/bins/hoho.x86
 http://37.49.230.128/SBIDIOT/arm
 http://37.49.230.128/SBIDIOT/arm6
@@ -4206,6 +4210,7 @@ http://post.360degreehosting.com/mailsoft/swift/veiwonline/AdobeV20/invoice.php/
 http://post.360degreehosting.com/mailsoft/swift/veiwonline/AdobeV20/invoice.php/system/lib/amiss/src/Type/Identity.php.tar
 http://post.360degreehosting.com/mailsoft/swift/veiwonline/AdobeV20/invoice.php/system/lib/amiss/src/Type/Identity.php/
 http://post.360degreehosting.com/mailsoft/swift/veiwonline/AdobeV20/invoice.php/system/lib/veiwonline%20(2).gzip
+http://post.360degreehosting.com/mailsoft/swift/veiwonline/AdobeV20/invoice.php/theme/classes.tgz.zip
 http://post.360degreehosting.com/mailsoft/swift/veiwonline/AdobeV20/invoice.php/theme/classes/Auth.php
 http://powerbanks.bounceme.net/Chase.com/Fullz/Home.php?https://chaseonline_chase_com/=
 http://powerbanks.bounceme.net/Chase.com/Fullz/Home.php?https://chaseonline_chase_com/Logon_aspx?LOB=RBGLogon
