@@ -7,7 +7,9 @@
 2020-05-05,2daycovid19test.com,'v=spf1 +a +mx +ip4:162.241.253.231 ~all,,
 2020-05-05,contest-covid.com,217.70.184.38,FR,Europe
 2020-05-05,contest-covid.com,contest-covid.com,,
+2020-05-05,contest-covid.com,hostmaster@gandi.net,,
 2020-05-05,contest-covid.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
+2020-05-05,contest-covid.com,ns1.gandi.net,,
 2020-05-05,coronaviruspandemiclatestnews.com,coronaviruspandemiclatestnews.com,,
 2020-05-05,coronaviruspandemiclatestnews.fm,coronaviruspandemiclatestnews.fm,,
 2020-05-05,coronaviruspandemiclatestnews.fm,mail.h-email.net,,
@@ -101,9 +103,14 @@
 2020-05-05,www.reptest.business-resource-facebook-covid-19.com,::ffff:146.112.61.108,,
 2020-05-05,www.secure-pp-check.co.uk.business-resource-facebook-covid-19.com,::ffff:146.112.61.108,,
 2020-05-05,www.test.us.business-resource-facebook-covid-19.com,::ffff:146.112.61.108,,
+2020-05-06,covid-19testkits.ca,35.186.238.101,US,North America
 2020-05-06,covid-19testkits.ca,covid-19testkits.ca,,
+2020-05-06,covidsurfacetesting.com,covidsurfacetesting.com,,
 2020-05-06,covidtestpacks.org,covidtestpacks.org,,
 2020-05-06,covid-test-research.org,covid-test-research.org,,
+2020-05-06,iscoronaviruscuredyet.ws,iscoronaviruscuredyet.ws,,
+2020-05-06,iscoronaviruscuredyet.ws,mail.hope-mail.com,,
+2020-05-06,itestcovid19.ph,itestcovid19.ph,,
 2020-05-06,iwantcovid19test.fm,198.74.54.240,US,North America
 2020-05-06,iwantcovid19test.fm,iwantcovid19test.fm,,
 2020-05-06,lifecovidtest.online,81.88.57.70,IT,Europe
