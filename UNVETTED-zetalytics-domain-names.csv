@@ -10,6 +10,7 @@
 2020-05-05,contest-covid.com,hostmaster@gandi.net,,
 2020-05-05,contest-covid.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-05-05,contest-covid.com,ns1.gandi.net,,
+2020-05-05,contest-covid.com,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-05-05,coronaviruspandemiclatestnews.com,coronaviruspandemiclatestnews.com,,
 2020-05-05,coronaviruspandemiclatestnews.fm,coronaviruspandemiclatestnews.fm,,
 2020-05-05,coronaviruspandemiclatestnews.fm,mail.h-email.net,,
@@ -113,6 +114,8 @@
 2020-05-06,coronavirusrapidtest.be,hostmaster@coronavirusrapidtest.be,,
 2020-05-06,coronavirusrapidtest.be,ns1.register.be,,
 2020-05-06,covid19testing.at,covid19testing.at,,
+2020-05-06,covid19testing.at,hostmaster@domeneshop.no,,
+2020-05-06,covid19testing.at,ns1.hyp.net,,
 2020-05-06,covid19testing.ch,covid19testing.ch,,
 2020-05-06,covid19testing.ch,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.ch,ns1.hyp.net,,
@@ -142,6 +145,8 @@
 2020-05-06,covid19testing.nl,covid19testing.nl,,
 2020-05-06,covid19testing.nl,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.nl,ns1.hyp.net,,
+2020-05-06,covid19testing.nl,ns2.hyp.net,,
+2020-05-06,covid19testing.nl,ns3.hyp.net,,
 2020-05-06,covid19testing.no,covid19testing.no,,
 2020-05-06,covid19testingpdl.com,covid19testingpdl.com,,
 2020-05-06,covid19testing.pl,covid19testing.pl,,
@@ -158,8 +163,10 @@
 2020-05-06,covid-19testkits.ca,35.186.238.101,US,North America
 2020-05-06,covid-19testkits.ca,covid-19testkits.ca,,
 2020-05-06,covidsurfacetesting.com,covidsurfacetesting.com,,
+2020-05-06,covidtest.life,covidtest.life,,
 2020-05-06,covidtestpacks.org,covidtestpacks.org,,
 2020-05-06,covid-test-research.org,covid-test-research.org,,
+2020-05-06,covidtest.top,covidtest.top,,
 2020-05-06,_dmarc.covid19testing.nl,_dmarc.parked.domeneshop.no,,
 2020-05-06,_dmarc.covid19testing.nl,HHY9RE1BUkMxOyBwPXJlamVjdDsgc3A9bm9uZTs=,,
 2020-05-06,_dmarc.covid19testing.nl,v=DMARC1; p=reject; sp=none;,,
@@ -174,15 +181,22 @@
 2020-05-06,iwantcovid19test.fm,iwantcovid19test.fm,,
 2020-05-06,lifecovidtest.online,81.88.57.70,IT,Europe
 2020-05-06,lifecovidtest.online,lifecovidtest.online,,
+2020-05-06,mail.covidtest.life,108.167.165.182,US,North America
+2020-05-06,mail.covidtest.top,108.167.165.182,US,North America
+2020-05-06,montestcovid.com,montestcovid.com,,
 2020-05-06,montestcovid.net,fb.mail.gandi.net,,
 2020-05-06,montestcovid.net,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-05-06,montestcovid.net,montestcovid.net,,
+2020-05-06,montestcovid.net,ns-128-a.gandi.net,,
+2020-05-06,montestcovid.net,ns-219-b.gandi.net,,
+2020-05-06,montestcovid.net,ns-43-c.gandi.net,,
 2020-05-06,montestcovid.net,spool.mail.gandi.net,,
 2020-05-06,myquestcovid-19test.com,199.59.242.153,US,North America
 2020-05-06,myquestcovid-19test.com,myquestcovid-19test.com,,
 2020-05-06,questdiagnostics-coronavirus-test.fm,198.74.54.240,US,North America
 2020-05-06,questdiagnostics-coronavirus-test.fm,questdiagnostics-coronavirus-test.fm,,
 2020-05-06,testcovid19rb.com,testcovid19rb.com,,
+2020-05-06,www.covid19testing.nl,185.134.245.113,NO,Europe
 2020-05-06,www.covid19testingservices.ch,50.63.202.40,US,North America
 2020-05-06,www.covid19testingservices.ch,covid19testingservices.ch,,
 2020-05-06,www.testcovid19rb.com,www77.wixdns.net,,
