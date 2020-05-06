@@ -41,6 +41,8 @@
 2020-05-05,covid19testsource.com,covid19testsource.com,,
 2020-05-05,covidsecureweddings.com,184.168.221.49,US,North America
 2020-05-05,covidsecureweddings.com,covidsecureweddings.com,,
+2020-05-05,covidsecureweddings.com,ns21.domaincontrol.com,,
+2020-05-05,covidsecureweddings.com,ns22.domaincontrol.com,,
 2020-05-05,covid-testkit.co.uk,50.63.202.60,US,North America
 2020-05-05,covid-testkit.co.uk,covid-testkit.co.uk,,
 2020-05-05,covidtestnearme.net,184.168.221.46,US,North America
@@ -250,6 +252,7 @@
 2020-05-06,montestcovid.net,ns-219-b.gandi.net,,
 2020-05-06,montestcovid.net,ns-43-c.gandi.net,,
 2020-05-06,montestcovid.net,spool.mail.gandi.net,,
+2020-05-06,montestcovid.net,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-05-06,_mta-sts.covid19testing.nl,C3Y9c3BmMSAtYWxs,,
 2020-05-06,myquestcovid-19test.com,199.59.242.153,US,North America
 2020-05-06,myquestcovid-19test.com,myquestcovid-19test.com,,
@@ -265,11 +268,15 @@
 2020-05-06,testcovid19.live,testcovid19.live,,
 2020-05-06,testcovid19rb.com,23.236.62.147,US,North America
 2020-05-06,testcovid19rb.com,testcovid19rb.com,,
+2020-05-06,testcovid.in,testcovid.in,,
 2020-05-06,testescovid.pt,94.46.181.196,PT,Europe
 2020-05-06,testescovid.pt,testescovid.pt,,
+2020-05-06,uscovidtesting.com,184.168.221.50,US,North America
 2020-05-06,uscovidtesting.com,uscovidtesting.com,,
 2020-05-06,www.covid19testing.nl,185.134.245.113,NO,Europe
+2020-05-06,www.covid19testing.nl,2a01:5b40::bc03:0:0:0:1,,
 2020-05-06,www.covid19testingservices.ch,50.63.202.40,US,North America
 2020-05-06,www.covid19testingservices.ch,covid19testingservices.ch,,
+2020-05-06,www.montestcovid.com,webredir.vip.gandi.net,,
 2020-05-06,www.montestcovid.fr,webredir.vip.gandi.net,,
 2020-05-06,www.testcovid19rb.com,www77.wixdns.net,,
