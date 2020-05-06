@@ -99,12 +99,16 @@
 2020-05-05,tests4covid19.com,tests4covid19.com,,
 2020-05-05,tests4covid19.co.uk,35.246.112.15,US,North America
 2020-05-05,tests4covid19.co.uk,tests4covid19.co.uk,,
+2020-05-05,thecurecovid19.com,184.168.221.59,US,North America
 2020-05-05,thecurecovid19.com,thecurecovid19.com,,
 2020-05-05,www.reptest.business-resource-facebook-covid-19.com,::ffff:146.112.61.108,,
 2020-05-05,www.secure-pp-check.co.uk.business-resource-facebook-covid-19.com,::ffff:146.112.61.108,,
 2020-05-05,www.test.us.business-resource-facebook-covid-19.com,::ffff:146.112.61.108,,
+2020-05-06,1588750534069._domainkey.covid19testing.nl,C3Y9c3BmMSAtYWxs,,
+2020-05-06,1588750534069._domainkey.covid19testing.nl,v=spf1 -all,,
 2020-05-06,auto-test-covid19.com,23.227.38.65,CA,North America
 2020-05-06,auto-test-covid19.com,auto-test-covid19.com,,
+2020-05-06,coronacovid19test.nl,coronacovid19test.nl,,
 2020-05-06,coronavirusrapidtest.be,coronavirusrapidtest.be,,
 2020-05-06,coronavirusrapidtest.be,hostmaster@coronavirusrapidtest.be,,
 2020-05-06,coronavirusrapidtest.be,ns1.register.be,,
@@ -123,6 +127,8 @@
 2020-05-06,covid19testing.es,covid19testing.es,,
 2020-05-06,covid19testing.es,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.es,ns1.hyp.net,,
+2020-05-06,covid19testing.fi,185.134.245.113,NO,Europe
+2020-05-06,covid19testing.fi,2a01:5b40::bc03:0:0:0:1,,
 2020-05-06,covid19testing.fi,covid19testing.fi,,
 2020-05-06,covid19testing.fi,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.fi,ns1.hyp.net,,
@@ -132,13 +138,16 @@
 2020-05-06,covid19testing.it,covid19testing.it,,
 2020-05-06,covid19testing.it,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.it,ns1.hyp.net,,
+2020-05-06,covid19testing.nl,185.134.245.113,NO,Europe
 2020-05-06,covid19testing.nl,covid19testing.nl,,
 2020-05-06,covid19testing.nl,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.nl,ns1.hyp.net,,
 2020-05-06,covid19testing.no,covid19testing.no,,
+2020-05-06,covid19testingpdl.com,covid19testingpdl.com,,
 2020-05-06,covid19testing.pl,covid19testing.pl,,
 2020-05-06,covid19testing.pl,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.pl,ns1.hyp.net,,
+2020-05-06,covid19testing.pt,2a01:5b40::bc03:0:0:0:1,,
 2020-05-06,covid19testing.pt,covid19testing.pt,,
 2020-05-06,covid19testing.pt,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.pt,ns1.hyp.net,,
@@ -151,6 +160,11 @@
 2020-05-06,covidsurfacetesting.com,covidsurfacetesting.com,,
 2020-05-06,covidtestpacks.org,covidtestpacks.org,,
 2020-05-06,covid-test-research.org,covid-test-research.org,,
+2020-05-06,_dmarc.covid19testing.nl,_dmarc.parked.domeneshop.no,,
+2020-05-06,_dmarc.covid19testing.nl,HHY9RE1BUkMxOyBwPXJlamVjdDsgc3A9bm9uZTs=,,
+2020-05-06,_dmarc.covid19testing.nl,v=DMARC1; p=reject; sp=none;,,
+2020-05-06,_domainkey.covid19testing.nl,C3Y9c3BmMSAtYWxs,,
+2020-05-06,_domainkey.covid19testing.nl,v=spf1 -all,,
 2020-05-06,iscoronaviruscuredyet.ws,iscoronaviruscuredyet.ws,,
 2020-05-06,iscoronaviruscuredyet.ws,mail.hope-mail.com,,
 2020-05-06,iscovid19cured.ws,iscovid19cured.ws,,
@@ -160,6 +174,10 @@
 2020-05-06,iwantcovid19test.fm,iwantcovid19test.fm,,
 2020-05-06,lifecovidtest.online,81.88.57.70,IT,Europe
 2020-05-06,lifecovidtest.online,lifecovidtest.online,,
+2020-05-06,montestcovid.net,fb.mail.gandi.net,,
+2020-05-06,montestcovid.net,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
+2020-05-06,montestcovid.net,montestcovid.net,,
+2020-05-06,montestcovid.net,spool.mail.gandi.net,,
 2020-05-06,myquestcovid-19test.com,199.59.242.153,US,North America
 2020-05-06,myquestcovid-19test.com,myquestcovid-19test.com,,
 2020-05-06,questdiagnostics-coronavirus-test.fm,198.74.54.240,US,North America
