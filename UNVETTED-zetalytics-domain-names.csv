@@ -60,6 +60,7 @@
 2020-05-06,covid19testing.fi,ns1.hyp.net,,
 2020-05-06,covid19testing.fi,v=spf1 -all,,
 2020-05-06,covid19testing.fr,185.134.245.113,NO,Europe
+2020-05-06,covid19testing.fr,194.63.248.52,NO,Europe
 2020-05-06,covid19testing.fr,2a01:5b40::248:0:0:0:52,,
 2020-05-06,covid19testing.fr,covid19testing.fr,,
 2020-05-06,covid19testing.fr,hostmaster@domeneshop.no,,
@@ -178,7 +179,10 @@
 2020-05-06,montestcovid.com,217.70.184.38,FR,Europe
 2020-05-06,montestcovid.com,hostmaster@gandi.net,,
 2020-05-06,montestcovid.com,montestcovid.com,,
+2020-05-06,montestcovid.com,ns-119-b.gandi.net,,
 2020-05-06,montestcovid.com,ns1.gandi.net,,
+2020-05-06,montestcovid.com,ns-30-c.gandi.net,,
+2020-05-06,montestcovid.com,ns-43-a.gandi.net,,
 2020-05-06,montestcovid.fr,montestcovid.fr,,
 2020-05-06,montestcovid.net,fb.mail.gandi.net,,
 2020-05-06,montestcovid.net,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
@@ -212,11 +216,14 @@
 2020-05-06,www.covid19testing.ch,2a01:5b40::bc03:0:0:0:1,,
 2020-05-06,www.covid19testing.de,185.134.245.113,NO,Europe
 2020-05-06,www.covid19testing.fr,185.134.245.113,NO,Europe
+2020-05-06,www.covid19testing.fr,194.63.248.52,NO,Europe
+2020-05-06,www.covid19testing.fr,2a01:5b40::248:0:0:0:52,,
 2020-05-06,www.covid19testing.it,185.134.245.113,NO,Europe
 2020-05-06,www.covid19testing.nl,185.134.245.113,NO,Europe
 2020-05-06,www.covid19testing.nl,2a01:5b40::bc03:0:0:0:1,,
 2020-05-06,www.covid19testing.pt,185.134.245.113,NO,Europe
 2020-05-06,www.covid19testing.se,185.134.245.113,NO,Europe
+2020-05-06,www.covid19testing.se,194.63.248.52,NO,Europe
 2020-05-06,www.covid19testingservices.ch,50.63.202.40,US,North America
 2020-05-06,www.covid19testingservices.ch,covid19testingservices.ch,,
 2020-05-06,www.montestcovid.com,webredir.vip.gandi.net,,
