@@ -216,6 +216,8 @@
 2020-05-06,www.covid19testing.ch,185.134.245.113,NO,Europe
 2020-05-06,www.covid19testing.ch,2a01:5b40::bc03:0:0:0:1,,
 2020-05-06,www.covid19testing.de,185.134.245.113,NO,Europe
+2020-05-06,www.covid19testing.dk,194.63.248.52,NO,Europe
+2020-05-06,www.covid19testing.dk,2a01:5b40::248:0:0:0:52,,
 2020-05-06,www.covid19testing.fr,185.134.245.113,NO,Europe
 2020-05-06,www.covid19testing.fr,194.63.248.52,NO,Europe
 2020-05-06,www.covid19testing.fr,2a01:5b40::248:0:0:0:52,,
@@ -236,6 +238,8 @@
 2020-05-06,your-covidtest.com,your-covidtest.com,,
 2020-05-07,centrotestcoronavirus.eu,195.110.124.133,IT,Europe
 2020-05-07,centrotestcoronavirus.eu,centrotestcoronavirus.eu,,
+2020-05-07,checkcovidtest.com,50.63.202.49,US,North America
+2020-05-07,checkcovidtest.com,checkcovidtest.com,,
 2020-05-07,chicagocovid19test.ws,chicagocovid19test.ws,,
 2020-05-07,chicagocovid19test.ws,mail.hope-mail.com,,
 2020-05-07,coronavirus-testen.de,85.13.161.141,DE,Europe
