@@ -74,6 +74,7 @@
 2020-05-06,covid19testing.nl,ns1.hyp.net,,
 2020-05-06,covid19testing.nl,ns2.hyp.net,,
 2020-05-06,covid19testing.nl,ns3.hyp.net,,
+2020-05-06,covid19testing.nl,v=spf1 -all,,
 2020-05-06,covid19testing.no,covid19testing.no,,
 2020-05-06,covid19testing.no,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.no,ns1.hyp.net,,
@@ -89,6 +90,7 @@
 2020-05-06,covid19testing.pt,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.pt,ns1.hyp.net,,
 2020-05-06,covid19testing.se,185.134.245.113,NO,Europe
+2020-05-06,covid19testing.se,2a01:5b40::bc03:0:0:0:1,,
 2020-05-06,covid19testing.se,covid19testing.se,,
 2020-05-06,covid19testing.se,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.se,ns1.hyp.net,,
@@ -124,6 +126,7 @@
 2020-05-06,covidvirtualtesting.org,192.0.78.25,US,North America
 2020-05-06,covidvirtualtesting.org,covidvirtualtesting.org,,
 2020-05-06,covidvirtualtesting.org,ns1.wordpress.com,,
+2020-05-06,covidvirtualtesting.org,ns2.wordpress.com,,
 2020-05-06,covidvirtualtesting.org,ns3.wordpress.com,,
 2020-05-06,cpanel.testescovid.pt,94.46.181.196,PT,Europe
 2020-05-06,cpcalendars.testescovid.pt,94.46.181.196,PT,Europe
@@ -231,9 +234,13 @@
 2020-05-07,covid19antibodytest.me,covid19antibodytest.me,,
 2020-05-07,covid19antibodytest.me,ns71.domaincontrol.com,,
 2020-05-07,covid19antibodytest.me,ns72.domaincontrol.com,,
+2020-05-07,covid19testingcenternearme.com,covid19testingcenternearme.com,,
 2020-05-07,covid19testnearme.org,covid19testnearme.org,,
+2020-05-07,covidtestkit.london,23.227.38.32,CA,North America
 2020-05-07,covidtestkit.london,covidtestkit.london,,
 2020-05-07,cureagainstcovid19.com.ph,cureagainstcovid19.com.ph,,
+2020-05-07,houstoncovid19test.ws,64.70.19.203,US,North America
+2020-05-07,houstoncovid19test.ws,houstoncovid19test.ws,,
 2020-05-07,howtocurethecoronavirus.fm,howtocurethecoronavirus.fm,,
 2020-05-07,myquestcovidtestt.ws,64.70.19.203,US,North America
 2020-05-07,myquestcovidtestt.ws,myquestcovidtestt.ws,,
