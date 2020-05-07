@@ -177,6 +177,8 @@
 2020-05-06,lifecovidtest.com,#v=spf1 include:spf.webapps.net ~all,,
 2020-05-06,lifecovidtest.online,81.88.57.70,IT,Europe
 2020-05-06,lifecovidtest.online,lifecovidtest.online,,
+2020-05-06,lifecovidtest.online,ns1.amenworld.com,,
+2020-05-06,lifecovidtest.online,root@amen.fr,,
 2020-05-06,mail.covidtest.life,108.167.165.182,US,North America
 2020-05-06,mail.covidtest.top,108.167.165.182,US,North America
 2020-05-06,montestcovid.com,217.70.184.38,FR,Europe
