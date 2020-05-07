@@ -19,8 +19,6 @@
 2020-05-06,cheapestcovidlabtests.com,cheapestcovidlabtests.com,,
 2020-05-06,coronacovid19test.nl,coronacovid19test.nl,,
 2020-05-06,coronaviruscure.io,coronaviruscure.io,,
-2020-05-06,coronavirusrapidtest.be,hostmaster@coronavirusrapidtest.be,,
-2020-05-06,coronavirusrapidtest.be,ns1.register.be,,
 2020-05-06,coronavirustestcentres.org,coronavirustestcentres.org,,
 2020-05-06,coronavirustestingmaps.net,208.91.197.27,US,North America
 2020-05-06,coronavirustestingmaps.net,coronavirustestingmaps.net,,
@@ -83,9 +81,12 @@
 2020-05-06,covid19testing.nl,ns3.hyp.net,,
 2020-05-06,covid19testing.nl,v=spf1 -all,,
 2020-05-06,covid19testing.no,194.63.248.52,NO,Europe
+2020-05-06,covid19testing.no,2a01:5b40::248:0:0:0:52,,
 2020-05-06,covid19testing.no,covid19testing.no,,
 2020-05-06,covid19testing.no,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.no,ns1.hyp.net,,
+2020-05-06,covid19testing.no,ns2.hyp.net,,
+2020-05-06,covid19testing.no,ns3.hyp.net,,
 2020-05-06,covid19testing.no,v=spf1 -all,,
 2020-05-06,covid19testingpdl.com,covid19testingpdl.com,,
 2020-05-06,covid19testing.pl,185.134.245.113,NO,Europe
@@ -105,7 +106,6 @@
 2020-05-06,covid19testing.se,ns1.hyp.net,,
 2020-05-06,covid19testing.se,ns2.hyp.net,,
 2020-05-06,covid19testing.se,ns3.hyp.net,,
-2020-05-06,covid19testingservices.ch,covid19testingservices.ch,,
 2020-05-06,covidcure.buzz,44.227.65.245,US,North America
 2020-05-06,covidcure.buzz,covidcure.buzz,,
 2020-05-06,covidcurenews.info,184.168.221.57,US,North America
@@ -243,6 +243,8 @@
 2020-05-06,your-covidtest.com,23.227.38.32,CA,North America
 2020-05-06,your-covidtest.com,your-covidtest.com,,
 2020-05-07,accuratecovid19testkits.com,accuratecovid19testkits.com,,
+2020-05-07,centercovidsecure.com,37.152.88.55,ES,Europe
+2020-05-07,centercovidsecure.com,centercovidsecure.com,,
 2020-05-07,centrotestcoronavirus.eu,195.110.124.133,IT,Europe
 2020-05-07,centrotestcoronavirus.eu,centrotestcoronavirus.eu,,
 2020-05-07,cheapestcovidtestresults.com,184.168.221.51,US,North America
