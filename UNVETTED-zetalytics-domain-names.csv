@@ -47,6 +47,8 @@
 2020-05-06,covid19testing.de,ns3.hyp.net,,
 2020-05-06,covid19testing.de,v=spf1 -all,,
 2020-05-06,covid19testing.dk,185.134.245.113,NO,Europe
+2020-05-06,covid19testing.dk,194.63.248.52,NO,Europe
+2020-05-06,covid19testing.dk,2a01:5b40::248:0:0:0:52,,
 2020-05-06,covid19testing.dk,covid19testing.dk,,
 2020-05-06,covid19testing.dk,hostmaster@domeneshop.no,,
 2020-05-06,covid19testing.dk,ns1.hyp.net,,
@@ -236,6 +238,7 @@
 2020-05-06,www.testescovid.pt,testescovid.pt,,
 2020-05-06,your-covidtest.com,23.227.38.32,CA,North America
 2020-05-06,your-covidtest.com,your-covidtest.com,,
+2020-05-07,accuratecovid19testkits.com,accuratecovid19testkits.com,,
 2020-05-07,centrotestcoronavirus.eu,195.110.124.133,IT,Europe
 2020-05-07,centrotestcoronavirus.eu,centrotestcoronavirus.eu,,
 2020-05-07,checkcovidtest.com,50.63.202.49,US,North America
