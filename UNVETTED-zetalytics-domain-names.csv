@@ -3,7 +3,6 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-05-08,americancovidtesting.com,americancovidtesting.com,,
-2020-05-08,anticovidtested.com,184.168.221.51,US,North America
 2020-05-08,anticovidtested.com,184.168.221.53,US,North America
 2020-05-08,anticovidtested.com,50.63.202.37,US,North America
 2020-05-08,coronaviruscure.club,162.255.119.103,US,North America
@@ -341,6 +340,7 @@
 2020-05-09,testnow-covid-19.fm,mail.h-email.net,,
 2020-05-09,testnow-covid-19.fm,testnow-covid-19.fm,,
 2020-05-09,topcovidtestkits.com,topcovidtestkits.com,,
+2020-05-09,www.coronaviruschecktest.com,45.88.202.115,,
 2020-05-09,www.covidcure.cc,142.250.64.83,US,North America
 2020-05-09,www.covidcure.cc,172.217.170.83,US,North America
 2020-05-09,www.covidcure.cc,ghs.google.com,,
