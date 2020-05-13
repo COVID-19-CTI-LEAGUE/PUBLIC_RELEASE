@@ -123,6 +123,7 @@
 2020-05-12,getcovidsecure.net,+v=spf1 a mx include:websitewelcome.com ~all,,
 2020-05-12,getcovidsecure.org,getcovidsecure.org,,
 2020-05-12,mail.getcovidsecure.com,50.87.149.90,US,North America
+2020-05-12,testcovidprevencion.com,87.124.161.82,ES,Europe
 2020-05-12,www.getcovidsecure.co.uk,2001:8d8:100f:f000::200,,
 2020-05-13,corona19cured.com.ph,45.79.222.138,US,North America
 2020-05-13,corona19cured.com.ph,corona19cured.com.ph,,
@@ -291,7 +292,10 @@
 2020-05-13,coronavirustestclinic.ws,mail.hope-mail.com,,
 2020-05-13,coronavirustesterfinder.com.ph,coronavirustesterfinder.com.ph,,
 2020-05-13,coronavirus-tester.ph,coronavirus-tester.ph,,
+2020-05-13,coronavirustesters.ws,64.70.19.203,US,North America
 2020-05-13,coronavirustesters.ws,coronavirustesters.ws,,
+2020-05-13,coronavirustesters.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
+2020-05-13,coronavirustesters.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-05-13,coronavirustestfinders.ph,coronavirustestfinders.ph,,
 2020-05-13,coronavirustestgear.com.ph,coronavirustestgear.com.ph,,
 2020-05-13,coronavirustestguidelines.com.ph,coronavirustestguidelines.com.ph,,
@@ -300,6 +304,7 @@
 2020-05-13,coronavirustestingcenters.ph,coronavirustestingcenters.ph,,
 2020-05-13,coronavirus-testing.com.ph,coronavirus-testing.com.ph,,
 2020-05-13,coronavirustestingfacilities.com.ph,coronavirustestingfacilities.com.ph,,
+2020-05-13,coronavirustestingguidelines.ph,coronavirustestingguidelines.ph,,
 2020-05-13,coronavirustestinginformation.fm,coronavirustestinginformation.fm,,
 2020-05-13,coronavirus-testing-kit.ph,45.79.222.138,US,North America
 2020-05-13,coronavirus-testing-kit.ph,coronavirus-testing-kit.ph,,
@@ -320,6 +325,7 @@
 2020-05-13,coronavirustesti.ws,coronavirustesti.ws,,
 2020-05-13,coronavirustesti.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-05-13,coronavirustest-kit.com.ph,coronavirustest-kit.com.ph,,
+2020-05-13,coronavirustestkitohio.ph,45.79.222.138,US,North America
 2020-05-13,coronavirustestkitohio.ph,coronavirustestkitohio.ph,,
 2020-05-13,coronavirus-testkit.ph,45.79.222.138,US,North America
 2020-05-13,coronavirus-testkit.ph,coronavirus-testkit.ph,,
@@ -333,6 +339,8 @@
 2020-05-13,coronavirustestme.fm,mail.h-email.net,,
 2020-05-13,coronavirustestmekit.ph,coronavirustestmekit.ph,,
 2020-05-13,coronavirustestnewyork.ph,coronavirustestnewyork.ph,,
+2020-05-13,coronavirustestnowdallas.ph,45.79.222.138,US,North America
+2020-05-13,coronavirustestnowdallas.ph,coronavirustestnowdallas.ph,,
 2020-05-13,coronavirustestonline.fm,coronavirustestonline.fm,,
 2020-05-13,coronavirustestonline.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-05-13,coronavirustestonline.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
@@ -354,10 +362,13 @@
 2020-05-13,coronavirustestsondemand.ph,coronavirustestsondemand.ph,,
 2020-05-13,coronavirus-tests-uk.com.ph,45.79.222.138,US,North America
 2020-05-13,coronavirus-tests-uk.com.ph,coronavirus-tests-uk.com.ph,,
+2020-05-13,coronavirustestutah.ws,64.70.19.203,US,North America
+2020-05-13,coronavirustestutah.ws,coronavirustestutah.ws,,
 2020-05-13,coronavirusthecure.ph,45.79.222.138,US,North America
 2020-05-13,coronavirusthecure.ph,coronavirusthecure.ph,,
 2020-05-13,coronavirusthometesting.ph,45.79.222.138,US,North America
 2020-05-13,coronavirusthometesting.ph,coronavirusthometesting.ph,,
+2020-05-13,coronavirusutesti.ph,coronavirusutesti.ph,,
 2020-05-13,coronavirusutesti.ws,coronavirusutesti.ws,,
 2020-05-13,coronavirusutesti.ws,mail.hope-mail.com,,
 2020-05-13,coronavirusvaccinetest.com.ph,45.79.222.138,US,North America
@@ -369,6 +380,7 @@
 2020-05-13,coronavirusvaccinetesting.ws,mail.hope-mail.com,,
 2020-05-13,coronavirusvaccinetest.ws,coronavirusvaccinetest.ws,,
 2020-05-13,coronavirusvaccinetest.ws,mail.hope-mail.com,,
+2020-05-13,coronavirusworldbesttest.ph,coronavirusworldbesttest.ph,,
 2020-05-13,covid19abtests.ws,64.70.19.203,US,North America
 2020-05-13,covid19abtests.ws,covid19abtests.ws,,
 2020-05-13,covid-19athometest.com.ph,covid-19athometest.com.ph,,
@@ -376,9 +388,6 @@
 2020-05-13,covid19bloodtester.com.ph,45.79.222.138,US,North America
 2020-05-13,covid19bloodtester.com.ph,covid19bloodtester.com.ph,,
 2020-05-13,covid19bloodtester.fm,covid19bloodtester.fm,,
-2020-05-13,covid19bloodtester.fm,mail.h-email.net,,
-2020-05-13,covid19cardiactest.ws,covid19cardiactest.ws,,
-2020-05-13,covid19cardiactest.ws,mail.hope-mail.com,,
 2020-05-13,covid19crewtesting.fm,covid19crewtesting.fm,,
 2020-05-13,covid19crewtesting.fm,mail.h-email.net,,
 2020-05-13,covid19curedemployees.ws,covid19curedemployees.ws,,
@@ -416,12 +425,6 @@
 2020-05-13,covid19testandcure.com.ph,covid19testandcure.com.ph,,
 2020-05-13,covid19testandtrace.com.ph,45.79.222.138,US,North America
 2020-05-13,covid19testandtrace.com.ph,covid19testandtrace.com.ph,,
-2020-05-13,covid-19testathome.ph,45.79.222.138,US,North America
-2020-05-13,covid-19testathome.ph,covid-19testathome.ph,,
-2020-05-13,covid-19testator.fm,covid-19testator.fm,,
-2020-05-13,covid-19testator.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-05-13,covid-19testator.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-05-13,covid-19testator.fm,mail.h-email.net,,
 2020-05-13,covid19-test.fm,covid19-test.fm,,
 2020-05-13,covid19-test.fm,mail.h-email.net,,
 2020-05-13,covid19testingasaservice.com,50.63.202.53,US,North America
@@ -441,11 +444,8 @@
 2020-05-13,covid-19-testingkits.ws,mail.hope-mail.com,,
 2020-05-13,covid-19testingmachine.ph,45.79.222.138,US,North America
 2020-05-13,covid-19testingmachine.ph,covid-19testingmachine.ph,,
-2020-05-13,covid19testingnearme.ph,45.79.222.138,US,North America
-2020-05-13,covid19testingnearme.ph,covid19testingnearme.ph,,
 2020-05-13,covid19testingservices.co.uk,208.91.197.91,VG,North America
 2020-05-13,covid19testingservices.co.uk,covid19testingservices.co.uk,,
-2020-05-13,covid19testingtexas.fm,covid19testingtexas.fm,,
 2020-05-13,covid19testkitsuk.ws,covid19testkitsuk.ws,,
 2020-05-13,covid19testkitsuk.ws,mail.hope-mail.com,,
 2020-05-13,covid19testkituk.fm,covid19testkituk.fm,,
@@ -480,6 +480,8 @@
 2020-05-13,covidcure19.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-05-13,covidcure19.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-05-13,covidsecureclean.com,2001:8d8:100f:f000::294,,
+2020-05-13,covidsecureclean.com,217.160.0.21,DE,Europe
+2020-05-13,covidsecureclean.com,covidsecureclean.com,,
 2020-05-13,covidsecureclean.com,ns1030.ui-dns.com,,
 2020-05-13,covidsecureclean.com,ns1071.ui-dns.org,,
 2020-05-13,covidsecureclean.com,ns1099.ui-dns.de,,
@@ -496,6 +498,7 @@
 2020-05-13,covidsecuretesting.com,covidsecuretesting.com,,
 2020-05-13,covidsecuretesting.com,ns39.domaincontrol.com,,
 2020-05-13,covidsecuretesting.com,ns40.domaincontrol.com,,
+2020-05-13,covidsecurevenues.com,covidsecurevenues.com,,
 2020-05-13,covidtest.one,covidtest.one,,
 2020-05-13,getcovid-19tested.net,50.63.202.36,US,North America
 2020-05-13,getcovid-19tested.net,getcovid-19tested.net,,
