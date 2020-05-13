@@ -135,6 +135,7 @@
 2020-05-12,getcovidsecure.org,getcovidsecure.org,,
 2020-05-12,mail.getcovidsecure.com,50.87.149.90,US,North America
 2020-05-12,testcovidprevencion.com,87.124.161.82,ES,Europe
+2020-05-12,testedecovid.com.br,177.55.121.215,BR,South America
 2020-05-12,www.device2curecovid19.com.ph,45.79.222.138,US,North America
 2020-05-12,www.getcovidsecure.co.uk,2001:8d8:100f:f000::200,,
 2020-05-13,corona19cured.com.ph,45.79.222.138,US,North America
@@ -299,6 +300,7 @@
 2020-05-13,coronavirustest411.com.ph,coronavirustest411.com.ph,,
 2020-05-13,coronavirustestal.ph,45.79.222.138,US,North America
 2020-05-13,coronavirustestal.ph,coronavirustestal.ph,,
+2020-05-13,coronavirustestapp.ph,45.79.222.138,US,North America
 2020-05-13,coronavirustestapp.ph,coronavirustestapp.ph,,
 2020-05-13,coronavirustestathome.ph,45.79.222.138,US,North America
 2020-05-13,coronavirustestathome.ph,coronavirustestathome.ph,,
@@ -418,8 +420,6 @@
 2020-05-13,covid19abtests.ws,64.70.19.203,US,North America
 2020-05-13,covid19abtests.ws,covid19abtests.ws,,
 2020-05-13,covid19antibodyfasttest.com,covid19antibodyfasttest.com,,
-2020-05-13,covid-19athometest.com.ph,covid-19athometest.com.ph,,
-2020-05-13,covid-19athometestkit.ph,covid-19athometestkit.ph,,
 2020-05-13,covid19crewtesting.fm,covid19crewtesting.fm,,
 2020-05-13,covid19crewtesting.fm,mail.h-email.net,,
 2020-05-13,covid19curedemployees.ws,covid19curedemployees.ws,,
@@ -438,14 +438,6 @@
 2020-05-13,covid19dtest.com,3.96.11.36,US,North America
 2020-05-13,covid19dtest.com,covid19dtest.com,,
 2020-05-13,covid-19homecures.com.ph,covid-19homecures.com.ph,,
-2020-05-13,covid-19-home-test-kits.com.ph,covid-19-home-test-kits.com.ph,,
-2020-05-13,covid19-home-test.ph,covid19-home-test.ph,,
-2020-05-13,covid-19igottested.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
-2020-05-13,covid-19igottested.fm,covid-19igottested.fm,,
-2020-05-13,covid-19igottested.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-05-13,covid-19igottested.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-05-13,covid-19igottested.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-05-13,covid-19immunitytest.com.ph,covid-19immunitytest.com.ph,,
 2020-05-13,covid19indiacure.ph,45.79.222.138,US,North America
 2020-05-13,covid19indiacure.ph,covid19indiacure.ph,,
 2020-05-13,covid19mailintest.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
@@ -453,7 +445,6 @@
 2020-05-13,covid19mailintest.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-05-13,covid19mailintest.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-05-13,covid19mailintest.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-05-13,covid-19-mobile-testing.com.ph,covid-19-mobile-testing.com.ph,,
 2020-05-13,covid19procure.com.ph,covid19procure.com.ph,,
 2020-05-13,covid19procurement.com.ph,45.79.222.138,US,North America
 2020-05-13,covid19procurement.com.ph,covid19procurement.com.ph,,
@@ -461,15 +452,7 @@
 2020-05-13,covid19quicktestkits.com,covid19quicktestkits.com,,
 2020-05-13,covid19securedarea.ph,covid19securedarea.ph,,
 2020-05-13,covid19selftesting.com.ph,45.79.222.138,US,North America
-2020-05-13,covid19selftesting.com.ph,covid19selftesting.com.ph,,
-2020-05-13,covid19selftesting.ph,covid19selftesting.ph,,
 2020-05-13,covid19testandcure.com.ph,covid19testandcure.com.ph,,
-2020-05-13,covid19testingasaservice.com,50.63.202.53,US,North America
-2020-05-13,covid19testingasaservice.com,covid19testingasaservice.com,,
-2020-05-13,covid-19-testingkits.com.ph,45.79.222.138,US,North America
-2020-05-13,covid-19-testingkits.com.ph,covid-19-testingkits.com.ph,,
-2020-05-13,covid-19-testingkits.ws,covid-19-testingkits.ws,,
-2020-05-13,covid-19-testingkits.ws,mail.hope-mail.com,,
 2020-05-13,covid19thecure.fm,198.74.54.240,US,North America
 2020-05-13,covid19thecure.fm,covid19thecure.fm,,
 2020-05-13,covid19viruscures.com.ph,covid19viruscures.com.ph,,
@@ -513,11 +496,15 @@
 2020-05-13,covidsecuretesting.com,ns40.domaincontrol.com,,
 2020-05-13,covidsecurevenues.com,217.160.0.18,DE,Europe
 2020-05-13,covidsecurevenues.com,covidsecurevenues.com,,
+2020-05-13,covidtestcenter.co,184.168.221.33,US,North America
+2020-05-13,covidtestcenter.co,184.168.221.43,US,North America
+2020-05-13,covidtestcenter.co,covidtestcenter.co,,
 2020-05-13,covidtesting.je,covidtesting.je,,
 2020-05-13,covidtestingplatform.com,covidtestingplatform.com,,
 2020-05-13,covidtest.one,89.31.143.1,DE,Europe
 2020-05-13,covidtest.one,covidtest.one,,
 2020-05-13,covidtestpr.org,covidtestpr.org,,
+2020-05-13,employerstestforcovid19.com,50.63.202.48,US,North America
 2020-05-13,getacovidtest.com,184.168.131.241,US,North America
 2020-05-13,getacovidtest.com,getacovidtest.com,,
 2020-05-13,getcovid-19tested.net,50.63.202.36,US,North America
@@ -530,6 +517,19 @@
 2020-05-13,mytestforcovid19.co.uk,ns0.phase8.net,,
 2020-05-13,mytestforcovid19.co.uk,ns1.phase8.net,,
 2020-05-13,mytestforcovid19.co.uk,ns2.phase8.net,,
+2020-05-13,questmycovidtest.com,198.58.118.167,US,North America
+2020-05-13,questmycovidtest.com,45.33.23.183,US,North America
+2020-05-13,questmycovidtest.com,45.33.2.79,US,North America
+2020-05-13,questmycovidtest.com,45.56.79.23,US,North America
+2020-05-13,questmycovidtest.com,45.79.19.196,US,North America
+2020-05-13,questmycovidtest.com,96.126.123.244,US,North America
+2020-05-13,questmycovidtest.com,questmycovidtest.com,,
+2020-05-13,www77.questmycovidtest.com,11339.searchmagnified.com,,
+2020-05-13,www77.questmycovidtest.com,199.191.50.39,VG,North America
+2020-05-13,www.coronavirus-cure.ph,45.79.222.138,US,North America
+2020-05-13,www.coronavirushomestest.ph,45.79.222.138,US,North America
+2020-05-13,www.coronavirus-latestnews.ph,45.79.222.138,US,North America
 2020-05-13,www.coronavirustestcentres.uk,88.208.253.64,GB,Europe
+2020-05-13,www.covid-19hometesting.com.ph,45.79.222.138,US,North America
 2020-05-13,www.covidsecureclean.com,217.160.0.21,DE,Europe
 2020-05-13,www.mytestforcovid19.co.uk,fwd3.hosts.co.uk,,
