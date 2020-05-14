@@ -2,142 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-05-12,bestcureforcovid19.com,50.63.202.59,US,North America
-2020-05-12,bestcureforcovid19.com,50.63.202.61,US,North America
-2020-05-12,bestcureforcovid19.com,bestcureforcovid19.com,,
-2020-05-12,coronavirustestcenters.co.uk,88.208.253.64,GB,Europe
-2020-05-12,coronavirus-test.gr,JnY9c3BmMSArYSArbXggK2lwNDo5NC4xMzAuMTM1LjI0NiB+YWxs,,
-2020-05-12,coronavirus-test.gr,&v=spf1 +a +mx +ip4:94.130.135.246 ~all,,
-2020-05-12,covid19cureonline.com,covid19cureonline.com,,
-2020-05-12,covid19mobiletest.app,ns-cloud-b1.googledomains.com,,
-2020-05-12,covid19mobiletest.app,ns-cloud-b2.googledomains.com,,
-2020-05-12,covid19mobiletest.app,ns-cloud-b3.googledomains.com,,
-2020-05-12,covid19mobiletest.app,ns-cloud-b4.googledomains.com,,
-2020-05-12,covid19-secure.org,184.168.221.42,US,North America
-2020-05-12,covid19-secure.org,50.63.202.35,US,North America
-2020-05-12,covid19-secure.org,50.63.202.51,US,North America
-2020-05-12,covid19-secure.org,covid19-secure.org,,
-2020-05-12,covid19-secure.org,ns25.domaincontrol.com,,
-2020-05-12,covid19-secure.org,ns26.domaincontrol.com,,
-2020-05-12,covidsecure.app,184.168.221.45,US,North America
-2020-05-12,covidsecure.app,50.63.202.37,US,North America
-2020-05-12,covidsecure.app,50.63.202.40,US,North America
-2020-05-12,covidsecure.app,covidsecure.app,,
-2020-05-12,covidsecure.app,ns27.domaincontrol.com,,
-2020-05-12,covidsecure.app,ns28.domaincontrol.com,,
-2020-05-12,covidsecure.biz,94.136.40.82,GB,Europe
-2020-05-12,covidsecure.biz,covidsecure.biz,,
-2020-05-12,covidsecure.biz,ns.123-reg.co.uk,,
-2020-05-12,covidsecure.biz,ns2.123-reg.co.uk,,
-2020-05-12,covidsecure.direct,92.204.68.23,DE,Europe
-2020-05-12,covidsecure.direct,covidsecure.direct,,
-2020-05-12,covidsecure.direct,KXY9c3BmMSBhIG14IGluY2x1ZGU6c2VjdXJlc2VydmVyLm5ldCB+YWxs,,
-2020-05-12,covidsecure.direct,)v=spf1 a mx include:secureserver.net ~all,,
-2020-05-12,covidsecureoffice.online,2a02:2268:ffff:ffff::4,,
-2020-05-12,covidsecureoffice.online,91.184.0.100,NL,Europe
-2020-05-12,covidsecureoffice.online,covidsecureoffice.online,,
-2020-05-12,covid-secure.org,94.136.40.51,GB,Europe
-2020-05-12,covid-secure.org,covid-secure.org,,
-2020-05-12,covid-secure.org,ns.123-reg.co.uk,,
-2020-05-12,covid-secure.org,ns2.123-reg.co.uk,,
-2020-05-12,covid-secure.shop,107.161.23.204,US,North America
-2020-05-12,covid-secure.shop,192.161.187.200,US,North America
-2020-05-12,covid-secure.shop,209.141.38.71,US,North America
-2020-05-12,covid-secure.shop,covid-secure.shop,,
-2020-05-12,covid-secure.shop,ns1.dnsowl.com,,
-2020-05-12,covid-secure.shop,ns2.dnsowl.com,,
-2020-05-12,covid-secure.shop,ns3.dnsowl.com,,
-2020-05-12,covidsecuresolutions.com,184.168.221.42,US,North America
-2020-05-12,covidsecuresolutions.com,50.63.202.32,US,North America
-2020-05-12,covidsecuresolutions.com,covidsecuresolutions.com,,
-2020-05-12,covidsecuresolutions.com,ns07.domaincontrol.com,,
-2020-05-12,covidsecuresolutions.com,ns08.domaincontrol.com,,
-2020-05-12,covidsecuresystems.com,184.168.221.54,US,North America
-2020-05-12,covidsecuresystems.com,covidsecuresystems.com,,
-2020-05-12,covidsecuresystems.com,ns39.domaincontrol.com,,
-2020-05-12,covidsecuresystems.com,ns40.domaincontrol.com,,
-2020-05-12,covidsecuretest.com,184.168.221.35,US,North America
-2020-05-12,covidsecuretest.com,50.63.202.48,US,North America
-2020-05-12,covidsecuretest.com,covidsecuretest.com,,
-2020-05-12,covidsecuretest.com,ns07.domaincontrol.com,,
-2020-05-12,covidsecuretest.com,ns08.domaincontrol.com,,
-2020-05-12,covid-secure.work,covid-secure.work,,
-2020-05-12,covidsecure.work,covidsecure.work,,
-2020-05-12,covid-secure.work,ns1.dreamhost.com,,
-2020-05-12,covidsecure.work,ns1.dreamhost.com,,
-2020-05-12,covid-secure.work,ns2.dreamhost.com,,
-2020-05-12,covidsecure.work,ns2.dreamhost.com,,
-2020-05-12,covid-secure.work,ns3.dreamhost.com,,
-2020-05-12,covidsecure.work,ns3.dreamhost.com,,
-2020-05-12,covidtestrapido.com,ns13.domaincontrol.com,,
-2020-05-12,covidtestrapido.com,ns14.domaincontrol.com,,
-2020-05-12,cure2covid19.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
-2020-05-12,cure2covid19.fm,cure2covid19.fm,,
-2020-05-12,cure2covid19.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-05-12,cure2covid19.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-05-12,cure2covid19.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-05-12,cureandtreatmentsforcoronavirus.ph,cureandtreatmentsforcoronavirus.ph,,
-2020-05-12,curecorona19.ph,curecorona19.ph,,
-2020-05-12,cure-coronavirus.fm,cure-coronavirus.fm,,
-2020-05-12,cure-coronavirus.fm,mail.h-email.net,,
-2020-05-12,curecoronavirusmd.com.ph,curecoronavirusmd.com.ph,,
-2020-05-12,curecoronavirustoday.ws,curecoronavirustoday.ws,,
-2020-05-12,curecoronavirustoday.ws,mail.hope-mail.com,,
-2020-05-12,curecovid19.co.in,184.168.221.42,US,North America
-2020-05-12,curecovid19.co.in,curecovid19.co.in,,
-2020-05-12,cure-covid-19.com.ph,45.79.222.138,US,North America
-2020-05-12,cure-covid-19.com.ph,cure-covid-19.com.ph,,
-2020-05-12,curecovid-19now.com.ph,curecovid-19now.com.ph,,
-2020-05-12,curecovid19now.com.ph,curecovid19now.com.ph,,
-2020-05-12,curecovid19now.ph,45.79.222.138,US,North America
-2020-05-12,curecovid19now.ph,curecovid19now.ph,,
-2020-05-12,curecovid-19now.ws,64.70.19.203,US,North America
-2020-05-12,curecovid-19now.ws,curecovid-19now.ws,,
-2020-05-12,curedcovid19.com.ph,45.79.222.138,US,North America
-2020-05-12,curedcovid19.com.ph,curedcovid19.com.ph,,
-2020-05-12,cureforcoronavirus.com.ph,45.79.222.138,US,North America
-2020-05-12,cureforcoronavirus.com.ph,cureforcoronavirus.com.ph,,
-2020-05-12,cureforcoronavirus.net,192.254.186.127,US,North America
-2020-05-12,cureforcoronavirus.net,cureforcoronavirus.net,,
-2020-05-12,cureforcoronavirus.net,K3Y9c3BmMSBhIG14IGluY2x1ZGU6d2Vic2l0ZXdlbGNvbWUuY29tIH5hbGw=,,
-2020-05-12,cureforcoronavirus.net,+v=spf1 a mx include:websitewelcome.com ~all,,
-2020-05-12,cure-for-coronavirus.ws,64.70.19.203,US,North America
-2020-05-12,cure-for-coronavirus.ws,cure-for-coronavirus.ws,,
-2020-05-12,cureforcovid19.ph,45.79.222.138,US,North America
-2020-05-12,cureforcovid19.ph,cureforcovid19.ph,,
-2020-05-12,cureforcovid-19.ws,cureforcovid-19.ws,,
-2020-05-12,cureforcovid-19.ws,mail.hope-mail.com,,
-2020-05-12,curefromcoronavirus.ph,45.79.222.138,US,North America
-2020-05-12,curefromcoronavirus.ph,curefromcoronavirus.ph,,
-2020-05-12,cureofcoronavirus.ws,64.70.19.203,US,North America
-2020-05-12,cureofcoronavirus.ws,cureofcoronavirus.ws,,
-2020-05-12,curesforcovid19.com.ph,45.79.222.138,US,North America
-2020-05-12,curesforcovid19.com.ph,curesforcovid19.com.ph,,
-2020-05-12,curethecoronav.fm,198.74.54.240,US,North America
-2020-05-12,curethecoronav.fm,curethecoronav.fm,,
-2020-05-12,curethecoronavirus.ws,curethecoronavirus.ws,,
-2020-05-12,curethecoronavirus.ws,mail.hope-mail.com,,
-2020-05-12,curethecoronav.ph,curethecoronav.ph,,
-2020-05-12,curethecovid-19.ph,curethecovid-19.ph,,
-2020-05-12,curevaccovid19.ph,curevaccovid19.ph,,
-2020-05-12,cvcovid19cure.ws,cvcovid19cure.ws,,
-2020-05-12,cvcovid19cure.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-05-12,cvcovid19cure.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-05-12,device2curecovid19.com.ph,device2curecovid19.com.ph,,
-2020-05-12,getcovidsecure.com,50.87.149.90,US,North America
-2020-05-12,getcovidsecure.com,getcovidsecure.com,,
-2020-05-12,getcovidsecure.co.uk,getcovidsecure.co.uk,,
-2020-05-12,getcovidsecure.net,50.87.149.90,US,North America
-2020-05-12,getcovidsecure.net,getcovidsecure.net,,
-2020-05-12,getcovidsecure.net,K3Y9c3BmMSBhIG14IGluY2x1ZGU6d2Vic2l0ZXdlbGNvbWUuY29tIH5hbGw=,,
-2020-05-12,getcovidsecure.net,ns6053.hostgator.com,,
-2020-05-12,getcovidsecure.net,ns6054.hostgator.com,,
-2020-05-12,getcovidsecure.net,+v=spf1 a mx include:websitewelcome.com ~all,,
-2020-05-12,getcovidsecure.org,getcovidsecure.org,,
-2020-05-12,mail.getcovidsecure.com,50.87.149.90,US,North America
-2020-05-12,testedecovid.com.br,177.55.121.215,BR,South America
-2020-05-12,www.device2curecovid19.com.ph,45.79.222.138,US,North America
-2020-05-12,www.getcovidsecure.co.uk,2001:8d8:100f:f000::200,,
 2020-05-13,buytestcovid19.com,50.63.202.42,US,North America
 2020-05-13,buytestcovid19.com,50.63.202.57,US,North America
 2020-05-13,buytestcovid19.com,buytestcovid19.com,,
@@ -170,6 +34,7 @@
 2020-05-13,coronavirousantibodiestest.fm,coronavirousantibodiestest.fm,,
 2020-05-13,coronavirus19test.com.ph,45.79.222.138,US,North America
 2020-05-13,coronavirus19test.com.ph,coronavirus19test.com.ph,,
+2020-05-13,coronavirus19testing.com.ph,coronavirus19testing.com.ph,,
 2020-05-13,coronavirus19-testing.fm,198.74.54.240,US,North America
 2020-05-13,coronavirus19-testing.fm,coronavirus19-testing.fm,,
 2020-05-13,coronavirus19testing.ph,coronavirus19testing.ph,,
@@ -304,6 +169,7 @@
 2020-05-13,coronavirustestapp.ph,coronavirustestapp.ph,,
 2020-05-13,coronavirustestathome.ph,45.79.222.138,US,North America
 2020-05-13,coronavirustestathome.ph,coronavirustestathome.ph,,
+2020-05-13,coronavirustestaz.com.ph,coronavirustestaz.com.ph,,
 2020-05-13,coronavirustestcentersusa.fm,coronavirustestcentersusa.fm,,
 2020-05-13,coronavirustestcentres.uk,coronavirustestcentres.uk,,
 2020-05-13,coronavirustestcentres.uk,mailserver.coronavirustestcentres.uk,,
@@ -332,7 +198,10 @@
 2020-05-13,coronavirus-testing.ph,45.79.222.138,US,North America
 2020-05-13,coronavirus-testing.ph,coronavirus-testing.ph,,
 2020-05-13,coronavirustestingservices.ph,coronavirustestingservices.ph,,
+2020-05-13,coronavirustestingstructure.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-05-13,coronavirustest-kit.com.ph,45.79.222.138,US,North America
+2020-05-13,coronavirus-testkit.ph,45.79.222.138,US,North America
+2020-05-13,coronavirus-testkit.ph,coronavirus-testkit.ph,,
 2020-05-13,corona-virus-test-kits.ws,corona-virus-test-kits.ws,,
 2020-05-13,corona-virus-test-kits.ws,mail.hope-mail.com,,
 2020-05-13,coronavirustestlabs.fm,198.74.54.240,US,North America
@@ -342,6 +211,11 @@
 2020-05-13,coronavirustestmekit.ph,45.79.222.138,US,North America
 2020-05-13,coronavirustestmekit.ph,coronavirustestmekit.ph,,
 2020-05-13,coronavirustestnewyork.ph,45.79.222.138,US,North America
+2020-05-13,coronavirustestonline.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
+2020-05-13,coronavirustestonline.fm,coronavirustestonline.fm,,
+2020-05-13,coronavirustestonline.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
+2020-05-13,coronavirustestonline.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
+2020-05-13,coronavirustestonline.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-05-13,coronavirustestsale.com.ph,45.79.222.138,US,North America
 2020-05-13,coronavirustestsale.com.ph,coronavirustestsale.com.ph,,
 2020-05-13,coronavirustestsfinder.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
