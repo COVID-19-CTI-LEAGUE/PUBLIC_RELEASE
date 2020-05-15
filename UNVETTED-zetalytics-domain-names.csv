@@ -2,21 +2,27 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-05-14,12.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,advancedcovidtest.com,advancedcovidtest.com,,
 2020-05-14,advancedcovidtest.com,av=spf1 mx a:mail.singnet.com.sg ip4:203.116.95.0/24 ip4:203.116.173.0/24 ip4:203.116.96.0/24 ~all,,
 2020-05-14,advancedcovidtest.com,YXY9c3BmMSBteCBhOm1haWwuc2luZ25ldC5jb20uc2cgaXA0OjIwMy4xMTYuOTUuMC8yNCBpcDQ6MjAzLjExNi4xNzMuMC8yNCBpcDQ6MjAzLjExNi45Ni4wLzI0IH5hbGw=,,
 2020-05-14,becovidsecure.com,becovidsecure.com,,
+2020-05-14,betting.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,bs.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,bulkcovidtestkits.com,bulkcovidtestkits.com,,
 2020-05-14,bulkcovidtestkits.com,ns49.domaincontrol.com,,
 2020-05-14,bulkcovidtestkits.com,ns50.domaincontrol.com,,
+2020-05-14,casino.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,cdccoronavirustest.fm,cdccoronavirustest.fm,,
 2020-05-14,cdccoronavirustest.fm,mail.h-email.net,,
 2020-05-14,cdcquickswabtestcoronavirus.com.ph,45.79.222.138,US,North America
 2020-05-14,cdcquickswabtestcoronavirus.com.ph,cdcquickswabtestcoronavirus.com.ph,,
+2020-05-14,cdn3.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,cdphcovid19testing.com.ph,cdphcovid19testing.com.ph,,
 2020-05-14,charlestoncovid-19testing.com.ph,charlestoncovid-19testing.com.ph,,
 2020-05-14,charlestoncovid-19test.ws,64.70.19.203,US,North America
 2020-05-14,charlestoncovid-19test.ws,charlestoncovid-19test.ws,,
+2020-05-14,chelyabinsk.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,chicagocoronavirustests.com.ph,45.79.222.138,US,North America
 2020-05-14,chicagocoronavirustests.com.ph,chicagocoronavirustests.com.ph,,
 2020-05-14,chicagocoronavirustest.ws,64.70.19.203,US,North America
@@ -147,24 +153,45 @@
 2020-05-14,covidtests.me,covidtests.me,,
 2020-05-14,covidteststore.com,184.168.131.241,US,North America
 2020-05-14,covidteststore.com,covidteststore.com,,
+2020-05-14,crm.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,cureofcovid19.com,cureofcovid19.com,,
 2020-05-14,cureofcovid19.com,ns1.namefind.com,,
 2020-05-14,cureofcovid19.com,ns2.namefind.com,,
+2020-05-14,dc.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,develop.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,email.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,f.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,fdaapprovedcovid19testkit.com,50.63.202.54,US,North America
 2020-05-14,fdaapprovedcovid19testkit.com,dns@jomax.net,,
 2020-05-14,fdaapprovedcovid19testkit.com,fdaapprovedcovid19testkit.com,,
 2020-05-14,fdaapprovedcovid19testkit.com,ns17.domaincontrol.com,,
 2020-05-14,fdaapprovedcovid19testkits.com,50.63.202.42,US,North America
 2020-05-14,fdaapprovedcovid19testkits.com,fdaapprovedcovid19testkits.com,,
+2020-05-14,gb.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,gwcovid19testing.ws,gwcovid19testing.ws,,
 2020-05-14,gwcovid19testing.ws,mail.hope-mail.com,,
 2020-05-14,iwantacovid19test.us,208.91.197.27,US,North America
 2020-05-14,iwantacovid19test.us,iwantacovid19test.us,,
+2020-05-14,krasnodar.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,kursk.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,mail.testrapidcovid.com,74.220.212.23,US,North America
+2020-05-14,market.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,me.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,mhpcovidtesting.com,198.252.98.170,US,North America
 2020-05-14,mhpcovidtesting.com,mhpcovidtesting.com,,
+2020-05-14,monitoring.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,ngtest-covid.com,ngtest-covid.com,,
 2020-05-14,ngtestcovid.net,ngtestcovid.net,,
+2020-05-14,panel.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,portfolio.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,production.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,qq.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,quotes.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,rd.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,s1.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,server2.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,sites.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,static1.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,test-4-sars-cov-2.de,test-4-sars-cov-2.de,,
 2020-05-14,testcovid.gr,116.203.102.144,IN,Asia
 2020-05-14,testcovid.gr,testcovid.gr,,
@@ -179,7 +206,10 @@
 2020-05-14,testsierologicocovid.it,testsierologicocovid.it,,
 2020-05-14,testycovid.cz,81.2.194.128,CZ,Europe
 2020-05-14,testycovid.cz,testycovid.cz,,
+2020-05-14,turbo.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,txcovid19test.org,txcovid19test.org,,
+2020-05-14,unifi.covid19tester.se,134.122.95.124,US,North America
+2020-05-14,win.covid19tester.se,134.122.95.124,US,North America
 2020-05-14,www.chinacoronaviruscure.com.ph,45.79.222.138,US,North America
 2020-05-14,www.covid19testcenters.co.uk,88.208.253.64,GB,Europe
 2020-05-14,www.covidcurebracelets.com,50.63.202.37,US,North America
@@ -190,6 +220,8 @@
 2020-05-14,www.mhpcovidtesting.com,198.252.98.170,US,North America
 2020-05-14,www.mhpcovidtesting.com,mhpcovidtesting.com,,
 2020-05-15,buytestcovid19.fm,buytestcovid19.fm,,
+2020-05-15,buytestcovid19.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
+2020-05-15,buytestcovid19.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-05-15,canigetacoronavirustestifiwantone.ws,64.70.19.203,US,North America
 2020-05-15,canigetacoronavirustestifiwantone.ws,canigetacoronavirustestifiwantone.ws,,
 2020-05-15,caribcovid19tests.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
@@ -252,6 +284,7 @@
 2020-05-15,testerapidoparacovid19.com.br,mailstore1.secureserver.net,,
 2020-05-15,testerapidoparacovid19.com.br,smtp.secureserver.net,,
 2020-05-15,testerapidoparacovid19.com.br,testerapidoparacovid19.com.br,,
+2020-05-15,test-for-covid.com,test-for-covid.com,,
 2020-05-15,testkitforcovid.com,184.168.131.241,US,North America
 2020-05-15,testkitforcovid.com,testkitforcovid.com,,
 2020-05-15,testycovid19.org,2001:4860:4802:32::15,,
