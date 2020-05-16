@@ -31,15 +31,13 @@
 2020-05-15,coronavirussurfacetest.ws,64.70.19.203,US,North America
 2020-05-15,coronavirussurfacetest.ws,coronavirussurfacetest.ws,,
 2020-05-15,coronavirustestcenters.uk,88.208.253.64,GB,Europe
-2020-05-15,coronavirustestcenters.uk,coronavirustestcenters.uk,,
 2020-05-15,coronavirustestcenters.uk,mailserver.coronavirustestcenters.uk,,
 2020-05-15,coronavirustestcenters.uk,ns1.livedns.co.uk,,
 2020-05-15,coronavirustestcenters.uk,ns2.livedns.co.uk,,
 2020-05-15,coronavirustestcenters.uk,ns3.livedns.co.uk,,
 2020-05-15,coronavirustestcentres.co.uk,mailserver.coronavirustestcentres.co.uk,,
 2020-05-15,covid19antibodytestlocation.com.ph,covid19antibodytestlocation.com.ph,,
-2020-05-15,covid-19antibodytestlocations.net,208.91.197.27,US,North America
-2020-05-15,covid-19antibodytestlocations.net,covid-19antibodytestlocations.net,,
+2020-05-15,covid19-immunitytest.com,66.96.162.135,US,North America
 2020-05-15,covid19securestandards.com,covid19securestandards.com,,
 2020-05-15,covid19securestandards.com,ns23.domaincontrol.com,,
 2020-05-15,covid19securestandards.com,ns24.domaincontrol.com,,
@@ -51,8 +49,6 @@
 2020-05-15,covid19testingservices.de,covid19testingservices.de,,
 2020-05-15,covid19testingsite.ph,45.79.222.138,US,North America
 2020-05-15,covid19testingsite.ph,covid19testingsite.ph,,
-2020-05-15,covid19testing.sk,195.70.37.181,HU,Europe
-2020-05-15,covid19testing.sk,covid19testing.sk,,
 2020-05-15,covid19testpod.com,covid19testpod.com,,
 2020-05-15,covid19xtest.com.mx,108.179.194.9,US,North America
 2020-05-15,covid19xtest.com.mx,dns1.namecheaphosting.com,,
@@ -68,7 +64,11 @@
 2020-05-15,covidsecure.co.za,41.203.18.177,ZA,Africa
 2020-05-15,covidsecure.co.za,covidsecure.co.za,,
 2020-05-15,covidsecuresupplies.com,covidsecuresupplies.com,,
+2020-05-15,covid-selftest.de,2a01:238:20a:202:1066::,,
+2020-05-15,covid-selftest.de,81.169.145.66,DE,Europe
 2020-05-15,covid-selftest.de,covid-selftest.de,,
+2020-05-15,covid-selftest.de,docks05.rzone.de,,
+2020-05-15,covid-selftest.de,shades09.rzone.de,,
 2020-05-15,covid-selftest.de,smtpin.rzone.de,,
 2020-05-15,covidtestfl.com,covidtestfl.com,,
 2020-05-15,covidtestinggroup.com,covidtestinggroup.com,,
@@ -102,11 +102,8 @@
 2020-05-15,labcoronavirustest.com,mx1.123-reg.co.uk,,
 2020-05-15,labcoronavirustest.com,ns.123-reg.co.uk,,
 2020-05-15,labcoronavirustest.com,ns2.123-reg.co.uk,,
-2020-05-15,licovidantibodytest.com,HnY9c3BmMSBpcDQ6NjYuOTYuMTI4LjAvMTggP2FsbA==,,
-2020-05-15,licovidantibodytest.com,licovidantibodytest.com,,
 2020-05-15,licovidantibodytest.com,ns1.ipower.com,,
 2020-05-15,licovidantibodytest.com,ns2.ipower.com,,
-2020-05-15,licovidantibodytest.com,v=spf1 ip4:66.96.128.0/18 ?all,,
 2020-05-15,mail.covidtest.warszawa.pl,2a00:c90::d5:84,,
 2020-05-15,mail.covidtest.warszawa.pl,79.133.209.135,PL,Europe
 2020-05-15,mail.covidtest.warszawa.pl,covidtest.warszawa.pl,,
@@ -151,7 +148,6 @@
 2020-05-15,testycovid.com.pl,testycovid.com.pl,,
 2020-05-15,vipcovid19tester.com.ph,vipcovid19tester.com.ph,,
 2020-05-15,vipcovid19tester.ph,vipcovid19tester.ph,,
-2020-05-15,www.coronavirustestcenters.uk,88.208.253.64,GB,Europe
 2020-05-15,www.covid19testingservices.de,50.63.202.38,US,North America
 2020-05-15,www.covid19testingservices.de,covid19testingservices.de,,
 2020-05-15,www.covid19testingsite.ph,45.79.222.138,US,North America
@@ -197,6 +193,7 @@
 2020-05-16,bookmycovid19testkit.ph,45.79.222.138,US,North America
 2020-05-16,bookmycovid19testkit.ph,bookmycovid19testkit.ph,,
 2020-05-16,certifiedcovidtestedworkplace.com,certifiedcovidtestedworkplace.com,,
+2020-05-16,corona19testkit.gov.ge,corona19testkit.gov.ge,,
 2020-05-16,coronaviruslatest.news,2a01:238:20a:202:1163::,,
 2020-05-16,coronaviruslatest.news,81.169.145.163,DE,Europe
 2020-05-16,coronaviruslatest.news,coronaviruslatest.news,,
@@ -223,6 +220,7 @@
 2020-05-16,covid19testing.hu,covid19testing.hu,,
 2020-05-16,covid19testing.tech,50.63.202.59,US,North America
 2020-05-16,covid19testing.tech,covid19testing.tech,,
+2020-05-16,covid19testing.tw,covid19testing.tw,,
 2020-05-16,covid-19tests.ca,covid-19tests.ca,,
 2020-05-16,covidmobiletesters.com,184.168.221.32,US,North America
 2020-05-16,covidmobiletesters.com,covidmobiletesters.com,,
@@ -282,6 +280,8 @@
 2020-05-16,searchcovidtest.com,searchcovidtest.com,,
 2020-05-16,securecovidtests.com,50.63.202.43,US,North America
 2020-05-16,securecovidtests.com,securecovidtests.com,,
+2020-05-16,speedcovid5test.com,72.167.191.69,US,North America
+2020-05-16,speedcovid5test.com,speedcovid5test.com,,
 2020-05-16,testcovid19doctors.com,IXY9c3BmMSBpbmNsdWRlOnNwZi5kb25kb21pbmlvLmNvbQ==,,
 2020-05-16,testcovid19doctors.com,mx01.dondominio.com,,
 2020-05-16,testcovid19doctors.com,ns1.dondominio.com,,
