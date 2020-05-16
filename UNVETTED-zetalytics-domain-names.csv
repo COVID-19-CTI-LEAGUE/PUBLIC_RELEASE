@@ -67,6 +67,10 @@
 2020-05-15,covid19xtest.com.mx,108.179.194.9,US,North America
 2020-05-15,covid19xtest.com.mx,199.188.200.225,US,North America
 2020-05-15,covid19xtest.com.mx,covid19xtest.com.mx,,
+2020-05-15,covid19xtest.com.mx,dns1.namecheaphosting.com,,
+2020-05-15,covid19xtest.com.mx,dns2.namecheaphosting.com,,
+2020-05-15,covid19xtest.com.mx,V3Y9c3BmMSArYSArbXggK2lwNDoxOTkuMTg4LjIwMC4yNCAraXA0OjE5OS4xODguMjAwLjIxNiBpbmNsdWRlOnNwZi53ZWItaG9zdGluZy5jb20gfmFsbA==,,
+2020-05-15,covid19xtest.com.mx,Wv=spf1 +a +mx +ip4:199.188.200.24 +ip4:199.188.200.216 include:spf.web-hosting.com ~all,,
 2020-05-15,covidcurebracelets.org,184.168.221.44,US,North America
 2020-05-15,covidcurebracelets.org,covidcurebracelets.org,,
 2020-05-15,covidsafetest.com,covidsafetest.com,,
@@ -192,10 +196,29 @@
 2020-05-16,coronaviruslatest.news,coronaviruslatest.news,,
 2020-05-16,covid19antibodytestonline.com,199.73.55.48,US,North America
 2020-05-16,covid19antibodytestonline.com,covid19antibodytestonline.com,,
+2020-05-16,covid19expresstest.com,50.63.202.35,US,North America
+2020-05-16,covid19expresstest.com,covid19expresstest.com,,
+2020-05-16,covid19oksuruktesti.org,0v=spf1 a mx include:relay.mailchannels.net  ?all,,
+2020-05-16,covid19oksuruktesti.org,covid19oksuruktesti.org,,
+2020-05-16,covid19oksuruktesti.org,MHY9c3BmMSBhIG14IGluY2x1ZGU6cmVsYXkubWFpbGNoYW5uZWxzLm5ldCAgP2FsbA==,,
+2020-05-16,covid19teste.pt,covid19teste.pt,,
+2020-05-16,covid19teste.pt,dns1.host-redirect.com,,
+2020-05-16,covid19teste.pt,hostmaster@covid19teste.pt,,
 2020-05-16,covid19testing.hu,covid19testing.hu,,
 2020-05-16,covid-19tests.ca,covid-19tests.ca,,
 2020-05-16,covidtestednow.com,covidtestednow.com,,
+2020-05-16,covidtestkitusa.com,104.31.64.25,US,North America
+2020-05-16,covidtestkitusa.com,104.31.65.25,US,North America
+2020-05-16,covidtestkitusa.com,2606:4700:3033::681f:4019,,
+2020-05-16,covidtestkitusa.com,2606:4700:3033::681f:4119,,
+2020-05-16,covidtestkitusa.com,covidtestkitusa.com,,
 2020-05-16,epcovidtest.com,epcovidtest.com,,
+2020-05-16,fdacovidtestkit.com,fdacovidtestkit.com,,
+2020-05-16,freecovid19test.online,67.205.41.122,US,North America
+2020-05-16,freecovid19test.online,freecovid19test.online,,
+2020-05-16,freecovid19test.online,ns1.dreamhost.com,,
+2020-05-16,freecovid19test.online,ns2.dreamhost.com,,
+2020-05-16,freecovid19test.online,ns3.dreamhost.com,,
 2020-05-16,gotyourcovidtest.com,184.168.221.55,US,North America
 2020-05-16,gotyourcovidtest.com,gotyourcovidtest.com,,
 2020-05-16,mysafecovidtests.com,mysafecovidtests.com,,
