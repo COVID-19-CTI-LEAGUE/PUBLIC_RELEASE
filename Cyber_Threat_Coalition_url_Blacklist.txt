@@ -2844,6 +2844,7 @@ http://23.254.226.60/ABCDEFGHIJKLMNOPQRSTUVWXYZ/whoareyou.x86
 http://23.94.104.26/arm5
 http://23.94.104.26/mips
 http://23.94.104.26/mipsel
+http://23.94.104.26/x86
 http://23.95.89.71/bins/mpsl
 http://23.95.89.93/bins/arm
 http://23.95.89.93/bins/arm6
