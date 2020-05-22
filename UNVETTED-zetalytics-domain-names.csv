@@ -127,6 +127,7 @@
 2020-05-22,bm-testcovid.ru,mx01.nicmail.ru,,
 2020-05-22,bm-testcovid.ru,mx02.nicmail.ru,,
 2020-05-22,bm-testcovid.ru,mx03.nicmail.ru,,
+2020-05-22,bm-testcovid.ru,v=spf1 redirect=nicmail.ru,,
 2020-05-22,coronavirusbreathtest.com,159.8.210.35,NL,Europe
 2020-05-22,coronavirusbreathtest.com,coronavirusbreathtest.com,,
 2020-05-22,coronavirustestinglab.com,coronavirustestinglab.com,,
