@@ -3,6 +3,7 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-05-23,bhcovidtesting.com,bhcovidtesting.com,,
+2020-05-23,campuscovidtesting.com,184.168.221.40,US,North America
 2020-05-23,campuscovidtesting.com,campuscovidtesting.com,,
 2020-05-23,coronacovidlatest.com,50.63.202.34,US,North America
 2020-05-23,coronacovidlatest.com,50.63.202.53,US,North America
@@ -126,11 +127,22 @@
 2020-05-24,coronavirustestrapido.cl,coronavirustestrapido.cl,,
 2020-05-24,coronavirustestrapido.cl,J3Y9c3BmMSArYSArbXggK2lwNDoyMDEuMTU5LjE2OS4xNDIgfmFsbA==,,
 2020-05-24,coronavirustestrapido.cl,'v=spf1 +a +mx +ip4:201.159.169.142 ~all,,
+2020-05-24,covid19commumitytest.com,covid19commumitytest.com,,
+2020-05-24,covid19test1.com,195.110.124.133,IT,Europe
+2020-05-24,covid19test1.com,covid19test1.com,,
 2020-05-24,covid19-test.pro,covid19-test.pro,,
+2020-05-24,covid-secure.net,covid-secure.net,,
+2020-05-24,covidsecure.ru,covidsecure.ru,,
 2020-05-24,covidtester.se,covidtester.se,,
 2020-05-24,fastestcovidtest.us,fastestcovidtest.us,,
+2020-05-24,homecovidtestkits.com,homecovidtestkits.com,,
 2020-05-24,instacart-coronavirusprotest.org,instacart-coronavirusprotest.org,,
 2020-05-24,quickcovid19teststore.com,66.96.162.137,US,North America
 2020-05-24,quickcovid19teststore.com,quickcovid19teststore.com,,
 2020-05-24,testcovid19.moscow,testcovid19.moscow,,
 2020-05-24,testsierologicicovid.it,testsierologicicovid.it,,
+2020-05-24,www.covid19commumitytest.com,103.224.182.242,AU,Oceania
+2020-05-24,www.covid-secure.net,50.63.202.36,US,North America
+2020-05-24,www.covid-secure.net,covid-secure.net,,
+2020-05-24,www.homecovidtestkits.com,50.63.202.58,US,North America
+2020-05-24,www.homecovidtestkits.com,homecovidtestkits.com,,
