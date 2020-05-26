@@ -2,64 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-05-24,abbottcovidtest.org,abbottcovidtest.org,,
-2020-05-24,anticovid19test.ws,anticovid19test.ws,,
-2020-05-24,anticovid19test.ws,mail.hope-mail.com,,
-2020-05-24,coronavirustest1.com,195.110.124.133,IT,Europe
-2020-05-24,coronavirustest1.com,213.182.93.187,IT,Europe
-2020-05-24,coronavirustest1.com,coronavirustest1.com,,
-2020-05-24,corona-virustesting.co.uk,corona-virustesting.co.uk,,
-2020-05-24,coronavirus-test.net.ph,coronavirus-test.net.ph,,
-2020-05-24,coronavirustestrapido.cl,201.159.169.142,CL,South America
-2020-05-24,coronavirustestrapido.cl,coronavirustestrapido.cl,,
-2020-05-24,coronavirustestrapido.cl,J3Y9c3BmMSArYSArbXggK2lwNDoyMDEuMTU5LjE2OS4xNDIgfmFsbA==,,
-2020-05-24,coronavirustestrapido.cl,'v=spf1 +a +mx +ip4:201.159.169.142 ~all,,
-2020-05-24,covid19antibodyhometestkit.com,149.28.252.173,US,North America
-2020-05-24,covid19antibodyhometestkit.com,covid19antibodyhometestkit.com,,
-2020-05-24,covid19antibodytest.eu,81.169.145.80,DE,Europe
-2020-05-24,covid19antibodytest.eu,covid19antibodytest.eu,,
-2020-05-24,covid-19businesstesting.org,covid-19businesstesting.org,,
-2020-05-24,covid19commumitytest.com,covid19commumitytest.com,,
-2020-05-24,covid19test1.com,195.110.124.133,IT,Europe
-2020-05-24,covid19test1.com,covid19test1.com,,
-2020-05-24,covid19test1.com,mail.register.it,,
-2020-05-24,covid19test2.com,195.110.124.133,IT,Europe
-2020-05-24,covid19test2.com,covid19test2.com,,
-2020-05-24,covid19testkit.nic.in,covid19testkit.nic.in,,
-2020-05-24,covid19-test.pro,23.227.38.32,CA,North America
-2020-05-24,covid19-test.pro,covid19-test.pro,,
-2020-05-24,covidsecuremarketplace.co.uk,103.67.235.120,AU,Oceania
-2020-05-24,covidsecuremarketplace.co.uk,covidsecuremarketplace.co.uk,,
-2020-05-24,covid-secure.net,covid-secure.net,,
-2020-05-24,covidsecure.ru,covidsecure.ru,,
-2020-05-24,covidtest-19.ph,covidtest-19.ph,,
-2020-05-24,covidtester.se,covidtester.se,,
-2020-05-24,covidtestnow.uk,covidtestnow.uk,,
-2020-05-24,fastestcovidtest.us,fastestcovidtest.us,,
-2020-05-24,homecovidtestkits.com,homecovidtestkits.com,,
-2020-05-24,instacart-coronavirusprotest.org,instacart-coronavirusprotest.org,,
-2020-05-24,medicarecoronavirustest.ws,64.70.19.203,US,North America
-2020-05-24,medicarecoronavirustest.ws,medicarecoronavirustest.ws,,
-2020-05-24,quickcovid19teststore.com,66.96.162.137,US,North America
-2020-05-24,quickcovid19teststore.com,quickcovid19teststore.com,,
-2020-05-24,sars-cov-test.com,85.13.128.57,DE,Europe
-2020-05-24,sars-cov-test.com,sars-cov-test.com,,
-2020-05-24,testagemcovid.com.br,a.auto.dns.br,,
-2020-05-24,testagemcovid.com.br,b.auto.dns.br,,
-2020-05-24,testagemcovid.com.br,testagemcovid.com.br,,
-2020-05-24,testcovid19.moscow,ns1.reg.ru,,
-2020-05-24,testcovid19.moscow,ns2.reg.ru,,
-2020-05-24,testcovid19.moscow,testcovid19.moscow,,
-2020-05-24,testesrapidoscovid.com.br,testesrapidoscovid.com.br,,
-2020-05-24,testscovid19.com,testscovid19.com,,
-2020-05-24,testsierologicicovid.it,testsierologicicovid.it,,
-2020-05-24,www.covid19commumitytest.com,103.224.182.242,AU,Oceania
-2020-05-24,www.covid19-test.pro,optimise-europe.myshopify.com,,
-2020-05-24,www.covid19-test.pro,shops.myshopify.com,,
-2020-05-24,www.covid-secure.net,50.63.202.36,US,North America
-2020-05-24,www.covid-secure.net,covid-secure.net,,
-2020-05-24,www.homecovidtestkits.com,50.63.202.58,US,North America
-2020-05-24,www.homecovidtestkits.com,homecovidtestkits.com,,
 2020-05-25,businesstestingcovid-19.org,businesstestingcovid-19.org,,
 2020-05-25,coronavirustest1.it,coronavirustest1.it,,
 2020-05-25,coronavirustest1.it,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
