@@ -43,6 +43,7 @@
 2020-05-26,montestcovid-19.fr,ns1.amenworld.com,,
 2020-05-26,mon-test-covid-19.fr,ns2.amenworld.com,,
 2020-05-26,montestcovid-19.fr,root@amen.fr,,
+2020-05-26,montestcovid-19.fr,#v=spf1 include:spf.webapps.net ~all,,
 2020-05-26,mon-test-covid-19.store,81.88.57.68,IT,Europe
 2020-05-26,mon-test-covid-19.store,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
 2020-05-26,mon-test-covid-19.store,mon-test-covid-19.store,,
@@ -158,6 +159,8 @@
 2020-05-27,driveupcovid19test.com.ba,195.222.33.180,BA,Europe
 2020-05-27,driveupcovid19test.com.ba,driveupcovid19test.com.ba,,
 2020-05-27,driveupcovid19testing.la,driveupcovid19testing.la,,
+2020-05-27,ecovidtest.us,88.214.207.96,GB,Europe
+2020-05-27,ecovidtest.us,ecovidtest.us,,
 2020-05-27,fastestcovid19.com,fastestcovid19.com,,
 2020-05-27,fastestcovid19.com,ns31.domaincontrol.com,,
 2020-05-27,fastestcovid19.com,ns32.domaincontrol.com,,
