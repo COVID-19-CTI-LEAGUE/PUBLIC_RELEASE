@@ -41,9 +41,11 @@
 2020-05-26,mon-test-covid-19.fr,ns1.amenworld.com,,
 2020-05-26,mon-test-covid-19.fr,ns2.amenworld.com,,
 2020-05-26,mon-test-covid-19.store,81.88.57.68,IT,Europe
+2020-05-26,mon-test-covid-19.store,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
 2020-05-26,mon-test-covid-19.store,mon-test-covid-19.store,,
 2020-05-26,mon-test-covid-19.store,ns1.amenworld.com,,
 2020-05-26,mon-test-covid-19.store,ns2.amenworld.com,,
+2020-05-26,mon-test-covid-19.store,#v=spf1 include:spf.webapps.net ~all,,
 2020-05-26,rapidcovid19antibodytest.ph,45.79.222.138,US,North America
 2020-05-26,rapidcovid19antibodytest.ph,rapidcovid19antibodytest.ph,,
 2020-05-26,testecovidfarmacia.com,testecovidfarmacia.com,,
@@ -99,6 +101,9 @@
 2020-05-27,floridacovid19testing.xn--55qx5d.cn,floridacovid19testing.xn--55qx5d.cn,,
 2020-05-27,hometestkitscoronavirus.xn--io0a7i.cn,218.241.116.40,CN,Asia
 2020-05-27,hometestkitscoronavirus.xn--io0a7i.cn,hometestkitscoronavirus.xn--io0a7i.cn,,
+2020-05-27,k-covidtest.com,JnY9c3BmMSBpbmNsdWRlOl9zcGYuaGl3b3Jrcy5jby5rciB+YWxs,,
+2020-05-27,k-covidtest.com,k-covidtest.com,,
+2020-05-27,k-covidtest.com,&v=spf1 include:_spf.hiworks.co.kr ~all,,
 2020-05-27,mdcovid19test.la,173.230.141.80,US,North America
 2020-05-27,mdcovid19test.la,mdcovid19test.la,,
 2020-05-27,mdcovid19test.xn--io0a7i.cn,218.241.116.40,CN,Asia
@@ -118,3 +123,6 @@
 2020-05-27,www.covid19-igmigg-testkit.tokyo,13.230.50.185,JP,Asia
 2020-05-27,www.covid19-igmigg-testkit.tokyo,54.178.132.37,JP,Asia
 2020-05-27,www.covid19-igmigg-testkit.tokyo,www.covid19-igmigg-testkit.tokyo.s.strikinglydns.com,,
+2020-05-27,youcancurecovid.org,ns29.domaincontrol.com,,
+2020-05-27,youcancurecovid.org,ns30.domaincontrol.com,,
+2020-05-27,youcancurecovid.org,youcancurecovid.org,,
