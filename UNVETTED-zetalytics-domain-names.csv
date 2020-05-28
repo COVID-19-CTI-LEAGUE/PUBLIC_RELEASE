@@ -2,68 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-05-26,20dollarcovidtest.com,20dollarcovidtest.com,,
-2020-05-26,20dollarcovidtest.com,50.63.202.56,US,North America
-2020-05-26,collegecovidtesting.com,50.63.202.34,US,North America
-2020-05-26,collegecovidtesting.com,collegecovidtesting.com,,
-2020-05-26,covidcommunitytest.com,103.224.182.242,AU,Oceania
-2020-05-26,covidcommunitytest.com,covidcommunitytest.com,,
-2020-05-26,covidresultstests.com,184.168.221.59,US,North America
-2020-05-26,covidresultstests.com,covidresultstests.com,,
-2020-05-26,covidsecure.com.au,202.124.241.178,AU,Oceania
-2020-05-26,covidsecure.com.au,covidsecure.com.au,,
-2020-05-26,covid-secure.info,50.63.202.52,US,North America
-2020-05-26,covid-secure.info,covid-secure.info,,
-2020-05-26,covidsecure.london,184.168.221.63,US,North America
-2020-05-26,covidsecure.london,covidsecure.london,,
-2020-05-26,covidtesting.mx,2600:1f14:cdb:d8ff:d6ae:24b3:3ac7:3c02,,
-2020-05-26,covidtesting.mx,52.11.53.121,US,North America
-2020-05-26,covidtesting.mx,covidtesting.mx,,
-2020-05-26,covidtestingninja.com,184.168.221.51,US,North America
-2020-05-26,covidtestingninja.com,covidtestingninja.com,,
-2020-05-26,covidtestingthailand.com,184.168.221.61,US,North America
-2020-05-26,covidtestingthailand.com,covidtestingthailand.com,,
-2020-05-26,cureofcovid19.site,cureofcovid19.site,,
-2020-05-26,ecovidtesting.com,ecovidtesting.com,,
-2020-05-26,ecovidtesting.com,ns3.epik.com,,
-2020-05-26,ecovidtesting.com,ns4.epik.com,,
-2020-05-26,ecovidtesting.us,88.214.207.96,GB,Europe
-2020-05-26,ecovidtesting.us,ecovidtesting.us,,
-2020-05-26,ecovidtesting.us,ns3.epik.com,,
-2020-05-26,ecovidtesting.us,ns4.epik.com,,
-2020-05-26,epiphaniqcovidcure.com,184.168.221.44,US,North America
-2020-05-26,epiphaniqcovidcure.com,epiphaniqcovidcure.com,,
-2020-05-26,isthereacovidcureyet.com,165.227.12.111,US,North America
-2020-05-26,isthereacovidcureyet.com,isthereacovidcureyet.com,,
-2020-05-26,montestcovid-19.fr,185.2.4.37,IT,Europe
-2020-05-26,montestcovid-19.fr,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
-2020-05-26,mon-test-covid-19.fr,mon-test-covid-19.fr,,
-2020-05-26,montestcovid-19.fr,montestcovid-19.fr,,
-2020-05-26,mon-test-covid-19.fr,ns1.amenworld.com,,
-2020-05-26,montestcovid-19.fr,ns1.amenworld.com,,
-2020-05-26,mon-test-covid-19.fr,ns2.amenworld.com,,
-2020-05-26,montestcovid-19.fr,root@amen.fr,,
-2020-05-26,montestcovid-19.fr,#v=spf1 include:spf.webapps.net ~all,,
-2020-05-26,mon-test-covid-19.store,81.88.57.68,IT,Europe
-2020-05-26,mon-test-covid-19.store,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
-2020-05-26,mon-test-covid-19.store,mon-test-covid-19.store,,
-2020-05-26,mon-test-covid-19.store,ns1.amenworld.com,,
-2020-05-26,mon-test-covid-19.store,ns2.amenworld.com,,
-2020-05-26,mon-test-covid-19.store,#v=spf1 include:spf.webapps.net ~all,,
-2020-05-26,rapidcovid19antibodytest.ph,45.79.222.138,US,North America
-2020-05-26,rapidcovid19antibodytest.ph,rapidcovid19antibodytest.ph,,
-2020-05-26,testecovidfarmacia.com,testecovidfarmacia.com,,
-2020-05-26,testkitscoronavirus.la,173.230.141.80,US,North America
-2020-05-26,testkitscoronavirus.la,testkitscoronavirus.la,,
-2020-05-26,thelastestnewsoncoronavirusandcovid-19.la,173.230.141.80,US,North America
-2020-05-26,thelastestnewsoncoronavirusandcovid-19.la,thelastestnewsoncoronavirusandcovid-19.la,,
-2020-05-26,tuvcovid19rapidtest.com.ba,195.222.33.180,BA,Europe
-2020-05-26,tuvcovid19rapidtest.com.ba,tuvcovid19rapidtest.com.ba,,
-2020-05-26,www.ecovidtesting.us,88.214.207.96,GB,Europe
-2020-05-26,www.mon-test-covid-19.fr,mon-test-covid-19.fr,,
-2020-05-26,www.mon-test-covid-19.fr,ns1.amenworld.com,,
-2020-05-26,www.mon-test-covid-19.fr,root@amen.fr,,
-2020-05-26,www.mon-test-covid-19.store,onstatic-fr.setupdns.net,,
 2020-05-27,30dayscovidsecure.com,23.236.62.147,US,North America
 2020-05-27,30dayscovidsecure.com,30dayscovidsecure.com,,
 2020-05-27,bestcovid19testkit.com,184.168.221.63,US,North America
