@@ -4,6 +4,7 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-05-27,30dayscovidsecure.com,23.236.62.147,US,North America
 2020-05-27,30dayscovidsecure.com,30dayscovidsecure.com,,
+2020-05-27,autotests-coronavirus-smartphone.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-05-27,autotests-coronavirus-smartphone.xn--fiqz9s,autotests-coronavirus-smartphone.xn--fiqz9s,,
 2020-05-27,bestcovid19testkit.com,184.168.221.63,US,North America
 2020-05-27,bestcovid19testkit.com,bestcovid19testkit.com,,
@@ -169,6 +170,7 @@
 2020-05-28,coronavirustestkit.org.uk,coronavirustestkit.org.uk,,
 2020-05-28,covid19antibodytestkit.us,50.63.202.74,US,North America
 2020-05-28,covid19antibodytestkit.us,covid19antibodytestkit.us,,
+2020-05-28,covid19hometest.com.ge,covid19hometest.com.ge,,
 2020-05-28,covid19resultstests.info,covid19resultstests.info,,
 2020-05-28,covid19-test.cat,81.88.48.71,IT,Europe
 2020-05-28,covid19-test.cat,covid19-test.cat,,
@@ -199,6 +201,9 @@
 2020-05-28,testecovid.med.br,ns534.umbler.com,,
 2020-05-28,testecovid.med.br,ns840.umbler.co.uk,,
 2020-05-28,testecovid.med.br,testecovid.med.br,,
+2020-05-28,testesdocovid.com.br,a.auto.dns.br,,
+2020-05-28,testesdocovid.com.br,hostmaster@registro.br,,
+2020-05-28,testesdocovid.com.br,testesdocovid.com.br,,
 2020-05-28,testscovid.it,testscovid.it,,
 2020-05-28,untestedcovid19.ws,64.70.19.203,US,North America
 2020-05-28,untestedcovid19.ws,untestedcovid19.ws,,
