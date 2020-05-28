@@ -176,6 +176,10 @@
 2020-05-28,covid19-test.cat,covid19-test.cat,,
 2020-05-28,covid19-test.cat,dns1.nominalia.com,,
 2020-05-28,covid19-test.cat,dns2.nominalia.com,,
+2020-05-28,covid19-test.cat,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
+2020-05-28,covid19-test.cat,mail.nominalia.com,,
+2020-05-28,covid19-test.cat,root@dns1.nominalia.com,,
+2020-05-28,covid19-test.cat,#v=spf1 include:spf.webapps.net ~all,,
 2020-05-28,covid19-testingaccess.org,74.220.199.6,US,North America
 2020-05-28,covid19-testingaccess.org,covid19-testingaccess.org,,
 2020-05-28,covid-19-testing-near-me.com,184.168.221.39,US,North America
@@ -219,4 +223,5 @@
 2020-05-28,www.testecovid.med.br,ns534.umbler.com,,
 2020-05-28,www.testecovid.med.br,ns840.umbler.co.uk,,
 2020-05-28,www.testecovid.med.br,testecovid.med.br,,
+2020-05-28,xn--coronavirussjlvtest-swb.se,xn--coronavirussjlvtest-swb.se,,
 2020-05-28,your-covid19-test.xn--od0alg.cn,your-covid19-test.xn--od0alg.cn,,
