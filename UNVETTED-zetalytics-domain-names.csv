@@ -12,12 +12,14 @@
 2020-05-29,coronavirustest2.it,#v=spf1 include:spf.webapps.net ~all,,
 2020-05-29,coronavirustestcenters.org.uk,coronavirustestcenters.org.uk,,
 2020-05-29,covid18communitytest.com,103.224.182.242,AU,Oceania
+2020-05-29,covid18communitytest.com,170.178.168.203,US,North America
 2020-05-29,covid18communitytest.com,covid18communitytest.com,,
 2020-05-29,covid-19antibodytest.com.ph,45.79.222.138,US,North America
 2020-05-29,covid-19antibodytest.com.ph,covid-19antibodytest.com.ph,,
 2020-05-29,covid19hometest.pvt.ge,covid19hometest.pvt.ge,,
 2020-05-29,covid-19latest.ml,covid-19latest.ml,,
 2020-05-29,covid19-rapid-tester.com,2001:8d8:100f:f000::2c8,,
+2020-05-29,covid19-rapid-tester.com,217.160.0.175,DE,Europe
 2020-05-29,covid19-rapid-tester.com,covid19-rapid-tester.com,,
 2020-05-29,covid19secured.com,covid19secured.com,,
 2020-05-29,covid19secured.com,ns.123-reg.co.uk,,
@@ -60,6 +62,7 @@
 2020-05-29,crickhslcovidtesting.com,crickhslcovidtesting.com,,
 2020-05-29,crickhslcovidtesting.com,ns77.domaincontrol.com,,
 2020-05-29,crickhslcovidtesting.com,ns78.domaincontrol.com,,
+2020-05-29,detcovidtest.com,184.168.221.56,US,North America
 2020-05-29,detcovidtest.com,detcovidtest.com,,
 2020-05-29,express-test-covid.ru,express-test-covid.ru,,
 2020-05-29,freecovidtestingmo.com,freecovidtestingmo.com,,
