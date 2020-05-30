@@ -33,6 +33,7 @@
 2020-05-29,covidsecure.site,hostmaster@gandi.net,,
 2020-05-29,covidsecure.site,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-05-29,covidsecure.site,ns1.gandi.net,,
+2020-05-29,covidsecure.site,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-05-29,covidsecure.website,covidsecure.website,,
 2020-05-29,covidsecure.website,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-05-29,covidsecure.website,'v=spf1 include:_mailcust.gandi.net ?all,,
@@ -48,6 +49,10 @@
 2020-05-29,covidtestpros.com,covidtestpros.com,,
 2020-05-29,covidtests.se,77.111.240.169,DK,Europe
 2020-05-29,covidtests.se,covidtests.se,,
+2020-05-29,covidtestsuk.com,covidtestsuk.com,,
+2020-05-29,covidtestsuk.com,ns3.epik.com,,
+2020-05-29,covidtestsuk.com,ns4.epik.com,,
+2020-05-29,covidtestsuk.com,support@epik.com,,
 2020-05-29,crickhslcovidtesting.com,31.221.1.219,GB,Europe
 2020-05-29,crickhslcovidtesting.com,crickhslcovidtesting.com,,
 2020-05-29,crickhslcovidtesting.com,ns77.domaincontrol.com,,
@@ -93,6 +98,9 @@
 2020-05-29,thecureforcovid19.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-05-29,thecureforcovid19.ws,thecureforcovid19.ws,,
 2020-05-29,thecureforcovid19.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
+2020-05-29,thehometestcovid19.com,94.136.40.51,GB,Europe
+2020-05-29,thehometestcovid19.com,thehometestcovid19.com,,
+2020-05-29,walmartcovid19test.la,walmartcovid19test.la,,
 2020-05-29,wearecovidsecure.co.uk,wearecovidsecure.co.uk,,
 2020-05-29,wecurecovid-19.la,wecurecovid-19.la,,
 2020-05-29,wetestcovid-19.xn--io0a7i.cn,wetestcovid-19.xn--io0a7i.cn,,
@@ -111,8 +119,11 @@
 2020-05-29,wuhancoronavirustest.la,wuhancoronavirustest.la,,
 2020-05-29,www.covid-19latest.ml,185.27.134.150,GB,Europe
 2020-05-29,www.covid19-rapid-tester.com,2001:8d8:100f:f000::2c8,,
+2020-05-29,www.covidtestsuk.com,88.214.207.96,GB,Europe
 2020-05-29,www.detcovidtest.com,50.63.202.38,US,North America
 2020-05-29,www.detcovidtest.com,detcovidtest.com,,
 2020-05-29,www.wearecovidsecure.co.uk,77.68.84.39,GB,Europe
 2020-05-30,covid19-test.es,81.88.48.71,IT,Europe
 2020-05-30,covid19-test.es,covid19-test.es,,
+2020-05-30,covid19-test.jp,49.212.235.237,JP,Asia
+2020-05-30,covid19-test.jp,covid19-test.jp,,
