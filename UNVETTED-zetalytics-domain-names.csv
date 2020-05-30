@@ -72,6 +72,7 @@
 2020-05-29,testecovid-19.ws,testecovid-19.ws,,
 2020-05-29,testencasacoronavirus.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-05-29,testencasacoronavirus.ws,testencasacoronavirus.ws,,
+2020-05-29,testencasacoronavirus.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-05-29,testfloridacorona19.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-05-29,testfloridacorona19.ws,testfloridacorona19.ws,,
 2020-05-29,testfloridacorona19.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
@@ -113,3 +114,5 @@
 2020-05-29,www.detcovidtest.com,50.63.202.38,US,North America
 2020-05-29,www.detcovidtest.com,detcovidtest.com,,
 2020-05-29,www.wearecovidsecure.co.uk,77.68.84.39,GB,Europe
+2020-05-30,covid19-test.es,81.88.48.71,IT,Europe
+2020-05-30,covid19-test.es,covid19-test.es,,
