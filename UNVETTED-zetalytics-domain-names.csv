@@ -21,6 +21,8 @@
 2020-05-29,covid19-rapid-tester.com,2001:8d8:100f:f000::2c8,,
 2020-05-29,covid19-rapid-tester.com,217.160.0.175,DE,Europe
 2020-05-29,covid19-rapid-tester.com,covid19-rapid-tester.com,,
+2020-05-29,covid19-rapid-tester.com,mx00.ionos.de,,
+2020-05-29,covid19-rapid-tester.com,mx01.ionos.de,,
 2020-05-29,covid19secured.com,covid19secured.com,,
 2020-05-29,covid19secured.com,ns.123-reg.co.uk,,
 2020-05-29,covid19secured.com,ns2.123-reg.co.uk,,
@@ -35,9 +37,11 @@
 2020-05-29,covid1communitytest.com,covid1communitytest.com,,
 2020-05-29,covidsecure.site,217.70.184.38,FR,Europe
 2020-05-29,covidsecure.site,covidsecure.site,,
+2020-05-29,covidsecure.site,fb.mail.gandi.net,,
 2020-05-29,covidsecure.site,hostmaster@gandi.net,,
 2020-05-29,covidsecure.site,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
 2020-05-29,covidsecure.site,ns1.gandi.net,,
+2020-05-29,covidsecure.site,spool.mail.gandi.net,,
 2020-05-29,covidsecure.site,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-05-29,covidsecure.website,covidsecure.website,,
 2020-05-29,covidsecure.website,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
@@ -164,6 +168,7 @@
 2020-05-30,covidvirustest.nl,covidvirustest.nl,,
 2020-05-30,covidvirustest.nl,nszero1.axc.nl,,
 2020-05-30,covidvirustest.nl,nszero2.axc.nl,,
+2020-05-30,easycovidtesters.com,easycovidtesters.com,,
 2020-05-30,irvinecoronavirustesting.com,irvinecoronavirustesting.com,,
 2020-05-30,irvinecoronavirustesting.com,mail.mailerhost.net,,
 2020-05-30,irvinecoronavirustesting.com,mail.mxproc.com,,
@@ -172,5 +177,6 @@
 2020-05-30,testeparacoronavirus.com.br,a.auto.dns.br,,
 2020-05-30,testeparacoronavirus.com.br,hostmaster@registro.br,,
 2020-05-30,testeparacoronavirus.com.br,testeparacoronavirus.com.br,,
+2020-05-30,vivadiagcovid19test.la,vivadiagcovid19test.la,,
 2020-05-30,viveracovid19rapidtest.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-05-30,viveracovid19rapidtest.xn--55qx5d.cn,viveracovid19rapidtest.xn--55qx5d.cn,,
