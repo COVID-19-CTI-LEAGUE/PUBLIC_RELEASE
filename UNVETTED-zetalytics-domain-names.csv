@@ -44,7 +44,9 @@
 2020-05-29,covidsecure.site,spool.mail.gandi.net,,
 2020-05-29,covidsecure.site,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-05-29,covidsecure.website,covidsecure.website,,
+2020-05-29,covidsecure.website,hostmaster@gandi.net,,
 2020-05-29,covidsecure.website,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
+2020-05-29,covidsecure.website,ns1.gandi.net,,
 2020-05-29,covidsecure.website,'v=spf1 include:_mailcust.gandi.net ?all,,
 2020-05-29,covidselftest.uk,85.233.160.22,GB,Europe
 2020-05-29,covidselftest.uk,covidselftest.uk,,
@@ -152,6 +154,7 @@
 2020-05-30,covid19-test.es,81.88.48.71,IT,Europe
 2020-05-30,covid19-test.es,covid19-test.es,,
 2020-05-30,covid19-test.es,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
+2020-05-30,covid19-test.es,#v=spf1 include:spf.webapps.net ~all,,
 2020-05-30,covid19-test.jp,49.212.235.237,JP,Asia
 2020-05-30,covid19-test.jp,covid19-test.jp,,
 2020-05-30,covid19-test.jp,master.dns.ne.jp,,
