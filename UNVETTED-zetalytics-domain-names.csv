@@ -25,10 +25,13 @@
 2020-05-30,covid-19businesstesting.biz,ns4.mfst.net,,
 2020-05-30,covid19fieldtest.com,2a01:7c8:3:1337::27,,
 2020-05-30,covid19fieldtest.com,37.97.254.27,NL,Europe
+2020-05-30,covid19fieldtest.com,C3Y9c3BmMSB+YWxs,,
 2020-05-30,covid19fieldtest.com,covid19fieldtest.com,,
+2020-05-30,covid19fieldtest.com,hostmaster@transip.nl,,
 2020-05-30,covid19fieldtest.com,ns0.transip.net,,
 2020-05-30,covid19fieldtest.com,ns1.transip.nl,,
 2020-05-30,covid19fieldtest.com,ns2.transip.eu,,
+2020-05-30,covid19fieldtest.com,v=spf1 ~all,,
 2020-05-30,covid19rapidresultstest.com,covid19rapidresultstest.com,,
 2020-05-30,covid19-test.es,81.88.48.71,IT,Europe
 2020-05-30,covid19-test.es,covid19-test.es,,
@@ -58,6 +61,11 @@
 2020-05-30,covid-test.cl,covid-test.cl,,
 2020-05-30,covidtest.gmbh,89.31.143.1,DE,Europe
 2020-05-30,covidtest.gmbh,covidtest.gmbh,,
+2020-05-30,covidtest.gmbh,mx00.udag.de,,
+2020-05-30,covidtest.gmbh,mx01.udag.de,,
+2020-05-30,covidtest.gmbh,ns.udag.de,,
+2020-05-30,covidtest.gmbh,ns.udag.net,,
+2020-05-30,covidtest.gmbh,ns.udag.org,,
 2020-05-30,covidtestingcalifornia.com,184.168.221.43,US,North America
 2020-05-30,covidtestingcalifornia.com,covidtestingcalifornia.com,,
 2020-05-30,covidtestingondemand.com,50.63.202.41,US,North America
@@ -92,6 +100,11 @@
 2020-05-30,viveracovid19rapidtest.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-05-30,viveracovid19rapidtest.xn--55qx5d.cn,viveracovid19rapidtest.xn--55qx5d.cn,,
 2020-05-30,webdisk.covid-test.cl,186.64.119.85,CL,South America
+2020-05-30,www.coronavirustestrapido.it,62.149.128.45,IT,Europe
+2020-05-30,www.covid19fieldtest.com,2a01:7c8:3:1337::27,,
+2020-05-30,www.covid19fieldtest.com,37.97.254.27,NL,Europe
+2020-05-30,www.covid19fieldtest.com,covid19fieldtest.com,,
+2020-05-30,www.covidtest.gmbh,89.31.143.1,DE,Europe
 2020-05-30,www.testecovidnolocal.com.br,162.241.203.156,US,North America
 2020-05-30,www.testecovidnolocal.com.br,testecovidnolocal.com.br,,
 2020-05-31,compretesteparacovid.com.br,a.auto.dns.br,,
@@ -105,6 +118,11 @@
 2020-05-31,covid19resultstests.com,covid19resultstests.com,,
 2020-05-31,covid-19testingaccess.org,covid-19testingaccess.org,,
 2020-05-31,covid-19testkit.ca,covid-19testkit.ca,,
+2020-05-31,covid-19vaccinesintestingcondition.reisen,covid-19vaccinesintestingcondition.reisen,,
+2020-05-31,covid-19vaccinesintestingcondition.reisen,hostmaster@dnsowl.com,,
+2020-05-31,covid-19vaccinesintestingcondition.reisen,ns1.dnsowl.com,,
+2020-05-31,covidhemtest.se,covidhemtest.se,,
+2020-05-31,covidsecurezone.xyz,covidsecurezone.xyz,,
 2020-05-31,covidtestingninjas.com,184.168.221.50,US,North America
 2020-05-31,covidtestingninjas.com,covidtestingninjas.com,,
 2020-05-31,covidtestkaufen.de,covidtestkaufen.de,,
@@ -114,7 +132,11 @@
 2020-05-31,iamcuredofcovid19.com,iamcuredofcovid19.com,,
 2020-05-31,rapidcovidmobiletest.com,184.168.221.54,US,North America
 2020-05-31,rapidcovidmobiletest.com,rapidcovidmobiletest.com,,
+2020-05-31,realcovid19test.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-05-31,realcovid19test.ws,realcovid19test.ws,,
+2020-05-31,realcovid19test.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
+2020-05-31,testingforcoronavirus.co.uk,testingforcoronavirus.co.uk,,
+2020-05-31,testrapidocovid19.org,testrapidocovid19.org,,
 2020-05-31,testsierologicovid19.com,62.149.128.151,IT,Europe
 2020-05-31,testsierologicovid19.com,62.149.128.154,IT,Europe
 2020-05-31,testsierologicovid19.com,62.149.128.157,IT,Europe
@@ -155,3 +177,4 @@
 2020-05-31,uscovid-19testing.com.ba,uscovid-19testing.com.ba,,
 2020-05-31,uscovid19testkit.com.ba,195.222.33.180,BA,Europe
 2020-05-31,uscovid19testkit.com.ba,uscovid19testkit.com.ba,,
+2020-05-31,www.testingforcoronavirus.co.uk,testingforcoronavirus.co.uk,,
