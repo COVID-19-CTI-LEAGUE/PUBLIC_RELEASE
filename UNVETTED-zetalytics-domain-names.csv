@@ -3,7 +3,9 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-06-01,chicagocovidtests.com,chicagocovidtests.com,,
+2020-06-01,covid19fieldtest.be,C3Y9c3BmMSB+YWxs,,
 2020-06-01,covid19fieldtest.be,covid19fieldtest.be,,
+2020-06-01,covid19fieldtest.be,v=spf1 ~all,,
 2020-06-01,covid19rapidtestkit.ca,covid19rapidtestkit.ca,,
 2020-06-01,covid19test.in.ua,covid19test.in.ua,,
 2020-06-01,covid19test.in.ua,info@ukrnames.com,,
@@ -49,14 +51,20 @@
 2020-06-01,trackcovid19tests.la,173.230.141.80,US,North America
 2020-06-01,trackcovid19tests.la,trackcovid19tests.la,,
 2020-06-02,coronavirus-testing-locations.ph,coronavirus-testing-locations.ph,,
+2020-06-02,covid19latest.website,covid19latest.website,,
 2020-06-02,covidselftest.us,23.236.62.147,US,North America
 2020-06-02,covidselftest.us,covidselftest.us,,
 2020-06-02,covidselftest.us,ns01.domaincontrol.com,,
 2020-06-02,covidselftest.us,ns02.domaincontrol.com,,
 2020-06-02,covidtesthalcyonmarine.com.ph,45.79.222.138,US,North America
 2020-06-02,covidtesthalcyonmarine.com.ph,covidtesthalcyonmarine.com.ph,,
+2020-06-02,covidtestinghouston.net,184.168.221.50,US,North America
+2020-06-02,covidtestinghouston.net,covidtestinghouston.net,,
 2020-06-02,rapidcovid-19testkit.ca,208.91.197.160,VG,North America
 2020-06-02,rapidcovid-19testkit.ca,rapidcovid-19testkit.ca,,
+2020-06-02,securecovid.co.uk,213.171.195.105,GB,Europe
+2020-06-02,securecovid.co.uk,securecovid.co.uk,,
+2020-06-02,test-for-covid-19.de,2a01:238:20a:202:1162::,,
 2020-06-02,test-for-covid-19.de,test-for-covid-19.de,,
 2020-06-02,testsierologicovid19.it,dns.technorail.com,,
 2020-06-02,testsierologicovid19.it,hostmaster@testsierologicovid19.it,,
