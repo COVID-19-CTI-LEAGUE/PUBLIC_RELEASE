@@ -2,54 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-06-01,chicagocovidtests.com,chicagocovidtests.com,,
-2020-06-01,covid19fieldtest.be,C3Y9c3BmMSB+YWxs,,
-2020-06-01,covid19fieldtest.be,covid19fieldtest.be,,
-2020-06-01,covid19fieldtest.be,v=spf1 ~all,,
-2020-06-01,covid19rapidtestkit.ca,covid19rapidtestkit.ca,,
-2020-06-01,covid19test.in.ua,covid19test.in.ua,,
-2020-06-01,covid19test.in.ua,info@ukrnames.com,,
-2020-06-01,covid19test.in.ua,ns1.ukrnames.com,,
-2020-06-01,covidrapidtest.us,184.168.221.62,US,North America
-2020-06-01,covidrapidtest.us,covidrapidtest.us,,
-2020-06-01,covidsjalvtest.se,46.30.211.38,DK,Europe
-2020-06-01,covidsjalvtest.se,covidsjalvtest.se,,
-2020-06-01,covidspeedtest.ca,covidspeedtest.ca,,
-2020-06-01,covidtestcghmc.com.ph,45.79.222.138,US,North America
-2020-06-01,covidtestcghmc.com.ph,covidtestcghmc.com.ph,,
-2020-06-01,covidtestinfo.com,covidtestinfo.com,,
-2020-06-01,covidtestingpros.com,160.153.136.3,US,North America
-2020-06-01,covidtestingpros.com,covidtestingpros.com,,
-2020-06-01,covidtestkit.ie,covidtestkit.ie,,
-2020-06-01,curecovidfast.com,184.168.221.58,US,North America
-2020-06-01,curecovidfast.com,curecovidfast.com,,
-2020-06-01,cvscoronavirustesting.com.ph,45.79.222.138,US,North America
-2020-06-01,cvscoronavirustesting.com.ph,cvscoronavirustesting.com.ph,,
-2020-06-01,diycurecovid-19.com.ph,45.79.222.138,US,North America
-2020-06-01,diycurecovid-19.com.ph,diycurecovid-19.com.ph,,
-2020-06-01,mainlinecovidtesting.com,198.185.159.144,US,North America
-2020-06-01,mainlinecovidtesting.com,198.185.159.145,US,North America
-2020-06-01,mainlinecovidtesting.com,198.49.23.144,US,North America
-2020-06-01,mainlinecovidtesting.com,198.49.23.145,US,North America
-2020-06-01,mainlinecovidtesting.com,mainlinecovidtesting.com,,
-2020-06-01,newyorkcitycovid19tests.ws,64.70.19.203,US,North America
-2020-06-01,newyorkcitycovid19tests.ws,mail.hope-mail.com,,
-2020-06-01,newyorkcitycovid19tests.ws,newyorkcitycovid19tests.ws,,
-2020-06-01,rapidcovid19antibodytestkit.com,184.168.221.38,US,North America
-2020-06-01,rapidcovid19antibodytestkit.com,rapidcovid19antibodytestkit.com,,
-2020-06-01,rapidcovid-19test.ca,rapidcovid-19test.ca,,
-2020-06-01,test-coronavirus.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
-2020-06-01,test-coronavirus.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-06-01,test-coronavirus.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-06-01,test-coronavirus.fm,test-coronavirus.fm,,
-2020-06-01,test-coronavirus.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-06-01,test-coronavirus.net,185.14.57.121,ES,Europe
-2020-06-01,test-coronavirus.net,test-coronavirus.net,,
-2020-06-01,topcovid19testkits.xn--fiqs8s,topcovid19testkits.xn--fiqs8s,,
-2020-06-01,trackcovid19cures.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-01,trackcovid19cures.xn--fiqz9s,trackcovid19cures.xn--fiqz9s,,
-2020-06-01,trackcovid19tests.la,173.230.141.80,US,North America
-2020-06-01,trackcovid19tests.la,trackcovid19tests.la,,
 2020-06-02,abbottcovidtest.net,abbottcovidtest.net,,
 2020-06-02,corona19selftest.com,corona19selftest.com,,
 2020-06-02,coronavirus-testing-locations.ph,coronavirus-testing-locations.ph,,
