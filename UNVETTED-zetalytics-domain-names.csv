@@ -40,9 +40,22 @@
 2020-06-04,covid19pet-test.com,50.63.202.53,US,North America
 2020-06-04,covid19pet-test.com,covid19pet-test.com,,
 2020-06-04,covidb2btesting.com,covidb2btesting.com,,
+2020-06-04,covid-clear-tests.com,covid-clear-tests.com,,
+2020-06-04,covid-clear-tests.com,hostmaster@blacknight.com,,
+2020-06-04,covid-clear-tests.com,ns1.blacknight.com,,
+2020-06-04,covid-clear-tests.com,'v=spf1 a include:spf.blacknight.ie ~all,,
+2020-06-04,covid-clear-tests.ie,covid-clear-tests.ie,,
 2020-06-04,covidcleartests.ie,covidcleartests.ie,,
+2020-06-04,covid-clear-tests.ie,hostmaster@blacknight.com,,
 2020-06-04,covidcleartests.ie,hostmaster@blacknight.com,,
+2020-06-04,covid-clear-tests.ie,ns1.blacknight.com,,
 2020-06-04,covidcleartests.ie,ns1.blacknight.com,,
+2020-06-04,covid-clear-tests.ie,'v=spf1 a include:spf.blacknight.ie ~all,,
+2020-06-04,covidrapidteststore.xyz,covidrapidteststore.xyz,,
+2020-06-04,covidsafetests.ie,covidsafetests.ie,,
+2020-06-04,covidsafetests.ie,hostmaster@blacknight.com,,
+2020-06-04,covidsafetests.ie,ns1.blacknight.com,,
+2020-06-04,covidsafetests.ie,'v=spf1 a include:spf.blacknight.ie ~all,,
 2020-06-04,fastcovidtests.com,fastcovidtests.com,,
 2020-06-04,latestmedicineforcoronavirus.ws,latestmedicineforcoronavirus.ws,,
 2020-06-04,latestmedicineforcoronavirus.ws,mail.hope-mail.com,,
@@ -54,6 +67,8 @@
 2020-06-04,mobilecovidpcrtest.com,mobilecovidpcrtest.com,,
 2020-06-04,oshacovidtesting.com,88.214.207.96,GB,Europe
 2020-06-04,oshacovidtesting.com,oshacovidtesting.com,,
+2020-06-04,sars-cov-2-testing.de,81.169.145.84,DE,Europe
+2020-06-04,sars-cov-2-testing.de,sars-cov-2-testing.de,,
 2020-06-04,sexcurecovid19.la,173.230.141.80,US,North America
 2020-06-04,sexcurecovid19.la,sexcurecovid19.la,,
 2020-06-04,shouldigettestedcovid19.la,shouldigettestedcovid19.la,,
