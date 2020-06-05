@@ -2,40 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-06-03,10dollarcovidtest.com,10dollarcovidtest.com,,
-2020-06-03,15minutecovidtesting.com,15minutecovidtesting.com,,
-2020-06-03,15minutecovidtesting.com,50.63.202.55,US,North America
-2020-06-03,bestcovid19tests.com,184.168.221.55,US,North America
-2020-06-03,bestcovid19tests.com,bestcovid19tests.com,,
-2020-06-03,beverlyhillscovidtesting.com,beverlyhillscovidtesting.com,,
-2020-06-03,covid-19businesstesting.net,covid-19businesstesting.net,,
-2020-06-03,covid19pcrtesting.com,184.168.221.63,US,North America
-2020-06-03,covid19pcrtesting.com,50.63.202.45,US,North America
-2020-06-03,covid19pcrtesting.com,50.63.202.60,US,North America
-2020-06-03,covid19pcrtesting.com,covid19pcrtesting.com,,
-2020-06-03,covid19test.amsterdam,188.93.150.59,NL,Europe
-2020-06-03,covid19test.amsterdam,covid19test.amsterdam,,
-2020-06-03,covid19-testcenter.com,a.ns14.net,,
-2020-06-03,covid19-testcenter.com,b.ns14.net,,
-2020-06-03,covid19-testcenter.com,c.ns14.net,,
-2020-06-03,covid19-testcenter.com,covid19-testcenter.com,,
-2020-06-03,covid19-testcenter.com,d.ns14.net,,
-2020-06-03,covid19-testcenter.com,do-not-reply@covid19-testcenter.com,,
-2020-06-03,covid19testing.hr,ns0.domainregisztraciokft.hu,,
-2020-06-03,covid19testing.hr,postmaster@domainregisztraciokft.hu,,
-2020-06-03,covid19testvirus.com,fb.mail.gandi.net,,
-2020-06-03,covid19testvirus.com,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
-2020-06-03,covid19testvirus.com,spool.mail.gandi.net,,
-2020-06-03,covid-pettest.com,184.168.221.33,US,North America
-2020-06-03,covid-pettest.com,covid-pettest.com,,
-2020-06-03,getmycovidantibodytest.com,getmycovidantibodytest.com,,
-2020-06-03,novacovidrapidtest.com,novacovidrapidtest.com,,
-2020-06-03,testcoronaviruspcr.com,testcoronaviruspcr.com,,
-2020-06-03,testcovid-19.ca,testcovid-19.ca,,
-2020-06-03,testcoviddent.com,testcoviddent.com,,
-2020-06-03,testrapidoscoronavirus.es,testrapidoscoronavirus.es,,
-2020-06-03,usacovid19cure.com,usacovid19cure.com,,
-2020-06-03,www.covid19test.amsterdam,2a00:4e40:1:1::2:20f,,
 2020-06-04,badcovidtests.com,184.168.221.56,US,North America
 2020-06-04,badcovidtests.com,50.63.202.47,US,North America
 2020-06-04,badcovidtests.com,badcovidtests.com,,
