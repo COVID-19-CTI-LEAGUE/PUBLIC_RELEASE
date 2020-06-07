@@ -2,173 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-06-05,autotest-covid.fr,autotest-covid.fr,,
-2020-06-05,bostoncovidtestingfunds.com,148.105.251.16,US,North America
-2020-06-05,bostoncovidtestingfunds.com,bostoncovidtestingfunds.com,,
-2020-06-05,cacovidcure.com,cacovidcure.com,,
-2020-06-05,cacovidcure.com,ns55.domaincontrol.com,,
-2020-06-05,cacovidcure.com,ns56.domaincontrol.com,,
-2020-06-05,coronaviruspcrtesting.com,50.63.202.51,US,North America
-2020-06-05,coronaviruspcrtesting.com,coronaviruspcrtesting.com,,
-2020-06-05,corporatecovidtesting.com,corporatecovidtesting.com,,
-2020-06-05,corporatecovidtesting.com,ns55.domaincontrol.com,,
-2020-06-05,corporatecovidtesting.com,ns56.domaincontrol.com,,
-2020-06-05,covid19hktest.com,covid19hktest.com,,
-2020-06-05,covid19hometestkits.edu.ge,covid19hometestkits.edu.ge,,
-2020-06-05,covid19protestrelief.com,104.197.88.225,US,North America
-2020-06-05,covid19protestrelief.com,64.98.145.30,CA,North America
-2020-06-05,covid19protestrelief.com,covid19protestrelief.com,,
-2020-06-05,covid19protestrelief.com,covid19protest.wpengine.com,,
-2020-06-05,covid19self-tests.com,184.168.131.241,US,North America
-2020-06-05,covid19self-tests.com,covid19self-tests.com,,
-2020-06-05,covid19test.ai,50.63.202.59,US,North America
-2020-06-05,covid19test.ai,covid19test.ai,,
-2020-06-05,covid19-testcenter.de,217.160.0.66,DE,Europe
-2020-06-05,covid19-testcenter.de,covid19-testcenter.de,,
-2020-06-05,covid-19-testing.de,81.169.145.151,DE,Europe
-2020-06-05,covid-19-testing.de,covid-19-testing.de,,
-2020-06-05,covid19testing.si,195.70.37.181,HU,Europe
-2020-06-05,covid19testing.si,covid19testing.si,,
-2020-06-05,covid19-test-kits-usa.com,23.236.62.147,US,North America
-2020-06-05,covid19-test-kits-usa.com,covid19-test-kits-usa.com,,
-2020-06-05,covid19teststrip.com,covid19teststrip.com,,
-2020-06-05,covid20cure.com,covid20cure.com,,
-2020-06-05,covid20cure.com,ns-cloud-d1.googledomains.com,,
-2020-06-05,covid20cure.com,ns-cloud-d2.googledomains.com,,
-2020-06-05,covid20cure.com,ns-cloud-d3.googledomains.com,,
-2020-06-05,covid20cure.com,ns-cloud-d4.googledomains.com,,
-2020-06-05,covidcleartest.ie,covidcleartest.ie,,
-2020-06-05,covidcleartest.ie,hostmaster@blacknight.com,,
-2020-06-05,covidcleartest.ie,ns1.blacknight.com,,
-2020-06-05,covidcleartest.ie,'v=spf1 a include:spf.blacknight.ie ~all,,
-2020-06-05,covid-employeetesting.com,50.63.202.35,US,North America
-2020-06-05,covid-employeetesting.com,covid-employeetesting.com,,
-2020-06-05,covid-employeetesting.com,ns57.domaincontrol.com,,
-2020-06-05,covid-employeetesting.com,ns58.domaincontrol.com,,
-2020-06-05,covidhousetest.com,50.63.202.58,US,North America
-2020-06-05,covidhousetest.com,covidhousetest.com,,
-2020-06-05,covidhousetest.com,ns27.domaincontrol.com,,
-2020-06-05,covidhousetest.com,ns28.domaincontrol.com,,
-2020-06-05,covidisthecure.com,50.63.202.40,US,North America
-2020-06-05,covidisthecure.com,covidisthecure.com,,
-2020-06-05,covid-tester.ru,covid-tester.ru,,
-2020-06-05,covid-tester.ru,ns1.kei.pl,,
-2020-06-05,covid-tester.ru,ns2.kei.pl,,
-2020-06-05,covidtestingconcierge.com,covidtestingconcierge.com,,
-2020-06-05,covidtestingservices.net,covidtestingservices.net,,
-2020-06-05,covidtestingservices.net,ns19.domaincontrol.com,,
-2020-06-05,covidtestingservices.net,ns20.domaincontrol.com,,
-2020-06-05,covidteststick.nl,covidteststick.nl,,
-2020-06-05,cpanel.nycovidtests.com,72.18.134.37,US,North America
-2020-06-05,curecovidconsortium.us,107.180.34.193,US,North America
-2020-06-05,curecovidconsortium.us,curecovidconsortium.us,,
-2020-06-05,doineeadcovid19test.com,198.58.118.167,US,North America
-2020-06-05,doineeadcovid19test.com,45.33.23.183,US,North America
-2020-06-05,doineeadcovid19test.com,45.33.2.79,US,North America
-2020-06-05,doineeadcovid19test.com,45.56.79.23,US,North America
-2020-06-05,doineeadcovid19test.com,45.79.19.196,US,North America
-2020-06-05,doineeadcovid19test.com,96.126.123.244,US,North America
-2020-06-05,doineeadcovid19test.com,doineeadcovid19test.com,,
-2020-06-05,fastcovid-19tests.com,fastcovid-19tests.com,,
-2020-06-05,fastcovid-19tests.com,ns8.wixdns.net,,
-2020-06-05,fastcovid-19tests.com,support@wix.com,,
-2020-06-05,floridacovidtest.com,floridacovidtest.com,,
-2020-06-05,imap.testecovid19empresas.com.br,191.252.112.195,BR,South America
-2020-06-05,imap.testecovid19empresas.com.br,mail.ita.locamail.com.br,,
-2020-06-05,insurancecoveredcovid-19test.ws,64.70.19.203,US,North America
-2020-06-05,insurancecoveredcovid-19test.ws,insurancecoveredcovid-19test.ws,,
-2020-06-05,k-covidtest.org,k-covidtest.org,,
-2020-06-05,kidscovid19test.com,159.8.210.35,NL,Europe
-2020-06-05,kidscovid19test.com,kidscovid19test.com,,
-2020-06-05,maccura-covidtest.com,184.168.221.39,US,North America
-2020-06-05,maccura-covidtest.com,maccura-covidtest.com,,
-2020-06-05,maccuracovidtests.com,maccuracovidtests.com,,
-2020-06-05,maccuracovidtests.com,ns57.domaincontrol.com,,
-2020-06-05,maccuracovidtests.com,ns58.domaincontrol.com,,
-2020-06-05,newcovid19testkit.com,newcovid19testkit.com,,
-2020-06-05,nycovidtests.com,72.18.134.37,US,North America
-2020-06-05,nycovidtests.com,nycovidtests.com,,
-2020-06-05,occoronavirustesting.com,occoronavirustesting.com,,
-2020-06-05,pop3.testecovid19empresas.com.br,191.252.112.195,BR,South America
-2020-06-05,pop3.testecovid19empresas.com.br,mail.ita.locamail.com.br,,
-2020-06-05,quickcoronavirustesting.ws,64.70.19.203,US,North America
-2020-06-05,quickcoronavirustesting.ws,quickcoronavirustesting.ws,,
-2020-06-05,rapidresultcovidtesting.com,ns59.domaincontrol.com,,
-2020-06-05,rapidresultcovidtesting.com,ns60.domaincontrol.com,,
-2020-06-05,rapidresultcovidtesting.com,rapidresultcovidtesting.com,,
-2020-06-05,safetytestcovid-19.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-06-05,safetytestcovid-19.xn--io0a7i.cn,safetytestcovid-19.xn--io0a7i.cn,,
-2020-06-05,salivacovid19test.la,173.230.141.80,US,North America
-2020-06-05,salivacovid19test.la,salivacovid19test.la,,
-2020-06-05,salivatestcovid19.com.ba,195.222.33.180,BA,Europe
-2020-06-05,salivatestcovid19.com.ba,salivatestcovid19.com.ba,,
-2020-06-05,samedaycoronavirusantibodytesting.la,173.230.141.80,US,North America
-2020-06-05,samedaycoronavirusantibodytesting.la,samedaycoronavirusantibodytesting.la,,
-2020-06-05,samedaycoronavirustests.la,samedaycoronavirustests.la,,
-2020-06-05,samedaycoronavirustests.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-06-05,samedaycoronavirustests.xn--io0a7i.cn,samedaycoronavirustests.xn--io0a7i.cn,,
-2020-06-05,samedaycovid19antibodytesting.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-06-05,samedaycovid19antibodytesting.xn--io0a7i.cn,samedaycovid19antibodytesting.xn--io0a7i.cn,,
-2020-06-05,sanantoniocovid-19testing.com.ba,195.222.33.180,BA,Europe
-2020-06-05,sanantoniocovid-19testing.com.ba,sanantoniocovid-19testing.com.ba,,
-2020-06-05,sanantoniocovid-19test.la,sanantoniocovid-19test.la,,
-2020-06-05,sanantoniocovid19tests.xn--fiqz9s,sanantoniocovid19tests.xn--fiqz9s,,
-2020-06-05,sanfranciscocoronavirustest.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-05,sanfranciscocoronavirustest.xn--od0alg.cn,sanfranciscocoronavirustest.xn--od0alg.cn,,
-2020-06-05,sanfranciscocovid19test.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-05,sanfranciscocovid19test.xn--fiqz9s,sanfranciscocovid19test.xn--fiqz9s,,
-2020-06-05,sars-cov-2-testing.eu,sars-cov-2-testing.eu,,
-2020-06-05,sarscovid19testkits.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-06-05,sarscovid19testkits.xn--io0a7i.cn,sarscovid19testkits.xn--io0a7i.cn,,
-2020-06-05,scaletestscovid19.com.ba,195.222.33.180,BA,Europe
-2020-06-05,scaletestscovid19.com.ba,scaletestscovid19.com.ba,,
-2020-06-05,scaletestscovid19.la,scaletestscovid19.la,,
-2020-06-05,seattlecoronavirustests.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-05,seattlecoronavirustests.xn--55qx5d.cn,seattlecoronavirustests.xn--55qx5d.cn,,
-2020-06-05,seattlecovid-19test.com.ba,195.222.33.180,BA,Europe
-2020-06-05,seattlecovid-19test.com.ba,seattlecovid-19test.com.ba,,
-2020-06-05,seattlecovid-19test.la,seattlecovid-19test.la,,
-2020-06-05,seattlecovid19test.la,seattlecovid19test.la,,
-2020-06-05,securecovid19.la,securecovid19.la,,
-2020-06-05,securevaccinecoronavirus.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-05,securevaccinecoronavirus.xn--od0alg.cn,securevaccinecoronavirus.xn--od0alg.cn,,
-2020-06-05,selftestingcovid19.com,selftestingcovid19.com,,
-2020-06-05,sonananocovidtest.com,50.63.202.40,US,North America
-2020-06-05,sonananocovidtest.com,sonananocovidtest.com,,
-2020-06-05,szqzom8hy8.utestcovid.com,72.52.231.211,US,North America
-2020-06-05,szqzom8hy8.utestcovid.com,utestcovid.com,,
-2020-06-05,test-antitela-coronavirus.com.ph,test-antitela-coronavirus.com.ph,,
-2020-06-05,testcoronaviruspozuelo.es,217.116.0.191,ES,Europe
-2020-06-05,testcoronaviruspozuelo.es,mx.testcoronaviruspozuelo.es,,
-2020-06-05,testcoronaviruspozuelo.es,testcoronaviruspozuelo.es,,
-2020-06-05,testcovid24.com,184.168.221.40,US,North America
-2020-06-05,testcovid24.com,testcovid24.com,,
-2020-06-05,testecovid19empresas.com.br,186.202.135.240,BR,South America
-2020-06-05,testecovid19empresas.com.br,J3Y9c3BmMSBpbmNsdWRlOl9zcGYubG9jYXdlYi5jb20uYnIgP2FsbA==,,
-2020-06-05,testecovid19empresas.com.br,ns1.locaweb.com.br,,
-2020-06-05,testecovid19empresas.com.br,ns2.locaweb.com.br,,
-2020-06-05,testecovid19empresas.com.br,ns3.locaweb.com.br,,
-2020-06-05,testecovid19empresas.com.br,postmaster@locaweb.com.br,,
-2020-06-05,testecovid19empresas.com.br,testecovid19empresas.com.br,,
-2020-06-05,test-for-covid-19.com.ph,45.79.222.138,US,North America
-2020-06-05,test-for-covid-19.com.ph,test-for-covid-19.com.ph,,
-2020-06-05,test-for-sars-cov-2.eu,test-for-sars-cov-2.eu,,
-2020-06-05,testing4covid.us,50.63.202.36,US,North America
-2020-06-05,testing4covid.us,testing4covid.us,,
-2020-06-05,test.stopcoronavirusmadrid.ph,45.79.222.138,US,North America
-2020-06-05,ukcovidtest.com,50.63.202.44,US,North America
-2020-06-05,ukcovidtest.com,ukcovidtest.com,,
-2020-06-05,utestcovid.com,72.52.231.211,US,North America
-2020-06-05,utestcovid.com,utestcovid.com,,
-2020-06-05,webmail.nycovidtests.com,72.18.134.37,US,North America
-2020-06-05,webmail.testecovid19empresas.com.br,2804:218:e3a1::2:2,,
-2020-06-05,webmail.testecovid19empresas.com.br,webmail-seguro.com.br,,
-2020-06-05,www.covid-employeetesting.com,covid-employeetesting.com,,
-2020-06-05,www.covidtestingconcierge.com,184.168.131.241,US,North America
-2020-06-05,www.covidtestingconcierge.com,covidtestingconcierge.com,,
-2020-06-05,www.covidtestingservices.net,covidtestingservices.net,,
-2020-06-05,www.nycovidtests.com,72.18.134.37,US,North America
-2020-06-05,www.nycovidtests.com,nycovidtests.com,,
 2020-06-06,atccovidtesting.com,50.63.202.58,US,North America
 2020-06-06,atccovidtesting.com,atccovidtesting.com,,
 2020-06-06,bangkokcovidtest.com,50.63.202.40,US,North America
@@ -200,6 +33,8 @@
 2020-06-06,covidtestscreen.com,covidtestscreen.com,,
 2020-06-06,cpanel.vazyme-testcovid19.com.br,108.179.192.217,US,North America
 2020-06-06,cpanel.vazyme-testcovid19.com.br,vazyme-testcovid19.com.br,,
+2020-06-06,getcovid-19test.ws,getcovid-19test.ws,,
+2020-06-06,getcovid-19test.ws,mail.hope-mail.com,,
 2020-06-06,hometestkitcovid-19.ws,hometestkitcovid-19.ws,,
 2020-06-06,hometestkitcovid-19.ws,mail.hope-mail.com,,
 2020-06-06,hospitalcoronavirustest.ws,64.70.19.203,US,North America
@@ -227,13 +62,31 @@
 2020-06-06,pacovidtest.com,ns-cloud-d4.googledomains.com,,
 2020-06-06,pacovidtest.com,pacovidtest.com,,
 2020-06-06,quicktestcovid19.la,quicktestcovid19.la,,
+2020-06-06,rapidcoronavirusdiagnostictest.com.ba,195.222.33.180,BA,Europe
+2020-06-06,rapidcoronavirusdiagnostictest.com.ba,rapidcoronavirusdiagnostictest.com.ba,,
+2020-06-06,rapidcoronavirusdiagnostictest.xn--fiqs8s,218.241.116.40,CN,Asia
+2020-06-06,rapidcoronavirusdiagnostictest.xn--fiqs8s,rapidcoronavirusdiagnostictest.xn--fiqs8s,,
 2020-06-06,rapidcoronavirustestingkit.xn--od0alg.cn,218.241.116.40,CN,Asia
 2020-06-06,rapidcoronavirustestingkit.xn--od0alg.cn,rapidcoronavirustestingkit.xn--od0alg.cn,,
 2020-06-06,rapidcoronavirustesting.xn--55qx5d.cn,rapidcoronavirustesting.xn--55qx5d.cn,,
 2020-06-06,rapidcovid19antibodytestkits.la,rapidcovid19antibodytestkits.la,,
+2020-06-06,rapidcovid19hometest.la,rapidcovid19hometest.la,,
+2020-06-06,rapidcovid19testkits.la,rapidcovid19testkits.la,,
+2020-06-06,rapidcovid19testkit.xn--fiqz9s,218.241.116.40,CN,Asia
+2020-06-06,rapidcovid19testkit.xn--fiqz9s,rapidcovid19testkit.xn--fiqz9s,,
+2020-06-06,rapidnovelcoronavirustest.la,173.230.141.80,US,North America
+2020-06-06,rapidnovelcoronavirustest.la,rapidnovelcoronavirustest.la,,
+2020-06-06,rapidpointofcaretestingkitscovid19.com.ba,rapidpointofcaretestingkitscovid19.com.ba,,
+2020-06-06,rapidpointofcaretestingkitscovid19.xn--55qx5d.cn,rapidpointofcaretestingkitscovid19.xn--55qx5d.cn,,
+2020-06-06,rapid-test-corona-virus.xn--55qx5d.cn,rapid-test-corona-virus.xn--55qx5d.cn,,
+2020-06-06,rapidtestcovid19sydney.la,173.230.141.80,US,North America
+2020-06-06,rapidtestcovid19sydney.la,rapidtestcovid19sydney.la,,
+2020-06-06,rapidtestcovid19.xn--fiqs8s,218.241.116.40,CN,Asia
+2020-06-06,rapidtestcovid19.xn--fiqs8s,rapidtestcovid19.xn--fiqs8s,,
 2020-06-06,rapidtestforcoronavirus.com.ba,195.222.33.180,BA,Europe
 2020-06-06,rapidtestforcoronavirus.com.ba,rapidtestforcoronavirus.com.ba,,
 2020-06-06,rapidtestforcoronavirus.xn--55qx5d.cn,rapidtestforcoronavirus.xn--55qx5d.cn,,
+2020-06-06,rapidtestkitscovid-19.xn--fiqs8s,rapidtestkitscovid-19.xn--fiqs8s,,
 2020-06-06,rapidtestsforcoronavirus.la,rapidtestsforcoronavirus.la,,
 2020-06-06,realcovid19test.com.ba,195.222.33.180,BA,Europe
 2020-06-06,realcovid19test.com.ba,realcovid19test.com.ba,,
@@ -246,6 +99,7 @@
 2020-06-06,rootbranch-videocontest-kidsoncovid19.la,rootbranch-videocontest-kidsoncovid19.la,,
 2020-06-06,rootbranch-videocontest-kidsoncovid19.xn--fiqs8s,rootbranch-videocontest-kidsoncovid19.xn--fiqs8s,,
 2020-06-06,store.covid19testkitkorea.com.ph,45.79.222.138,US,North America
+2020-06-06,testercovid19.se,testercovid19.se,,
 2020-06-06,vazyme-testcovid19.com.br,108.179.192.217,US,North America
 2020-06-06,vazyme-testcovid19.com.br,a.auto.dns.br,,
 2020-06-06,vazyme-testcovid19.com.br,hostmaster@registro.br,,
