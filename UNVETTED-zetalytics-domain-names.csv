@@ -2,127 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-06-06,atccovidtesting.com,50.63.202.58,US,North America
-2020-06-06,atccovidtesting.com,atccovidtesting.com,,
-2020-06-06,bangkokcovidtest.com,50.63.202.40,US,North America
-2020-06-06,bangkokcovidtest.com,bangkokcovidtest.com,,
-2020-06-06,coloradocovidtest.com,50.63.202.55,US,North America
-2020-06-06,coloradocovidtest.com,coloradocovidtest.com,,
-2020-06-06,coronavirus-labortest.de,185.181.104.74,DE,Europe
-2020-06-06,coronavirus-labortest.de,coronavirus-labortest.de,,
-2020-06-06,covid19self-test.us,184.168.131.241,US,North America
-2020-06-06,covid19self-test.us,covid19self-test.us,,
-2020-06-06,covid19smarttest.com,107.180.4.164,US,North America
-2020-06-06,covid19smarttest.com,covid19smarttest.com,,
-2020-06-06,covid19test.fr,covid19test.fr,,
-2020-06-06,covid19test.fr,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
-2020-06-06,covid19test.fr,'v=spf1 include:_mailcust.gandi.net ?all,,
-2020-06-06,covid19testing.hk,covid19testing.hk,,
-2020-06-06,covid19testkitkorea.com.ph,covid19testkitkorea.com.ph,,
-2020-06-06,covid19teststick.nl,covid19teststick.nl,,
-2020-06-06,covidcleartest.org,covidcleartest.org,,
-2020-06-06,covid-clear-tests.org,184.168.221.63,US,North America
-2020-06-06,covid-clear-tests.org,covid-clear-tests.org,,
-2020-06-06,covidcure.biz,184.168.221.57,US,North America
-2020-06-06,covidcure.biz,covidcure.biz,,
-2020-06-06,covidtestingmanager.com,184.168.221.57,US,North America
-2020-06-06,covidtestingmanager.com,covidtestingmanager.com,,
-2020-06-06,covid-testkits.com,52.58.78.16,DE,Europe
-2020-06-06,covid-testkits.com,covid-testkits.com,,
-2020-06-06,covidtestscreen.com,50.63.202.35,US,North America
-2020-06-06,covidtestscreen.com,covidtestscreen.com,,
-2020-06-06,cpanel.vazyme-testcovid19.com.br,108.179.192.217,US,North America
-2020-06-06,cpanel.vazyme-testcovid19.com.br,vazyme-testcovid19.com.br,,
-2020-06-06,getcovid-19test.ws,getcovid-19test.ws,,
-2020-06-06,getcovid-19test.ws,mail.hope-mail.com,,
-2020-06-06,hometestkitcovid-19.ws,hometestkitcovid-19.ws,,
-2020-06-06,hometestkitcovid-19.ws,mail.hope-mail.com,,
-2020-06-06,hospitalcoronavirustest.ws,64.70.19.203,US,North America
-2020-06-06,hospitalcoronavirustest.ws,hospitalcoronavirustest.ws,,
-2020-06-06,houstoncoronavirustests.ws,64.70.19.203,US,North America
-2020-06-06,houstoncoronavirustests.ws,houstoncoronavirustests.ws,,
-2020-06-06,houstoncovid19-testing.ws,64.70.19.203,US,North America
-2020-06-06,houstoncovid19-testing.ws,houstoncovid19-testing.ws,,
-2020-06-06,houstoncovid19-testing.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-06-06,houstoncovid19-testing.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-06-06,inhomecovid-19test.ws,inhomecovid-19test.ws,,
-2020-06-06,inhomecovid-19test.ws,mail.hope-mail.com,,
-2020-06-06,instantcovid19testkit.ws,64.70.19.203,US,North America
-2020-06-06,instantcovid19testkit.ws,instantcovid19testkit.ws,,
-2020-06-06,instanttestcovid19.ws,64.70.19.203,US,North America
-2020-06-06,instanttestcovid19.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-06-06,instanttestcovid19.ws,instanttestcovid19.ws,,
-2020-06-06,instanttestcovid19.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-06-06,mobilecovid-19testing.ws,64.70.19.203,US,North America
-2020-06-06,mobilecovid-19testing.ws,mobilecovid-19testing.ws,,
-2020-06-06,mobilecovidtesting.vegas,mobilecovidtesting.vegas,,
-2020-06-06,pacovidtest.com,ns-cloud-d1.googledomains.com,,
-2020-06-06,pacovidtest.com,ns-cloud-d2.googledomains.com,,
-2020-06-06,pacovidtest.com,ns-cloud-d3.googledomains.com,,
-2020-06-06,pacovidtest.com,ns-cloud-d4.googledomains.com,,
-2020-06-06,pacovidtest.com,pacovidtest.com,,
-2020-06-06,quicktestcovid19.la,quicktestcovid19.la,,
-2020-06-06,rapidcoronavirusdiagnostictest.com.ba,195.222.33.180,BA,Europe
-2020-06-06,rapidcoronavirusdiagnostictest.com.ba,rapidcoronavirusdiagnostictest.com.ba,,
-2020-06-06,rapidcoronavirusdiagnostictest.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-06,rapidcoronavirusdiagnostictest.xn--fiqs8s,rapidcoronavirusdiagnostictest.xn--fiqs8s,,
-2020-06-06,rapidcoronavirustestingkit.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-06,rapidcoronavirustestingkit.xn--od0alg.cn,rapidcoronavirustestingkit.xn--od0alg.cn,,
-2020-06-06,rapidcoronavirustesting.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-06,rapidcoronavirustesting.xn--55qx5d.cn,rapidcoronavirustesting.xn--55qx5d.cn,,
-2020-06-06,rapidcovid19antibodytestkits.la,rapidcovid19antibodytestkits.la,,
-2020-06-06,rapidcovid19hometest.la,rapidcovid19hometest.la,,
-2020-06-06,rapidcovid19testkits.la,rapidcovid19testkits.la,,
-2020-06-06,rapidcovid19testkit.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-06,rapidcovid19testkit.xn--fiqz9s,rapidcovid19testkit.xn--fiqz9s,,
-2020-06-06,rapidnovelcoronavirustest.la,173.230.141.80,US,North America
-2020-06-06,rapidnovelcoronavirustest.la,rapidnovelcoronavirustest.la,,
-2020-06-06,rapidpointofcaretestingkitscovid19.com.ba,195.222.33.180,BA,Europe
-2020-06-06,rapidpointofcaretestingkitscovid19.com.ba,rapidpointofcaretestingkitscovid19.com.ba,,
-2020-06-06,rapidpointofcaretestingkitscovid19.xn--55qx5d.cn,rapidpointofcaretestingkitscovid19.xn--55qx5d.cn,,
-2020-06-06,rapid-test-corona-virus.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-06,rapid-test-corona-virus.xn--55qx5d.cn,rapid-test-corona-virus.xn--55qx5d.cn,,
-2020-06-06,rapidtestcovid19sydney.la,173.230.141.80,US,North America
-2020-06-06,rapidtestcovid19sydney.la,rapidtestcovid19sydney.la,,
-2020-06-06,rapidtestcovid19.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-06,rapidtestcovid19.xn--fiqs8s,rapidtestcovid19.xn--fiqs8s,,
-2020-06-06,rapidtestforcoronavirus.com.ba,195.222.33.180,BA,Europe
-2020-06-06,rapidtestforcoronavirus.com.ba,rapidtestforcoronavirus.com.ba,,
-2020-06-06,rapidtestforcoronavirus.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-06,rapidtestforcoronavirus.xn--55qx5d.cn,rapidtestforcoronavirus.xn--55qx5d.cn,,
-2020-06-06,rapidtestkitscovid-19.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-06,rapidtestkitscovid-19.xn--fiqs8s,rapidtestkitscovid-19.xn--fiqs8s,,
-2020-06-06,rapidtestsforcoronavirus.la,rapidtestsforcoronavirus.la,,
-2020-06-06,realcovid19test.com.ba,195.222.33.180,BA,Europe
-2020-06-06,realcovid19test.com.ba,realcovid19test.com.ba,,
-2020-06-06,realtimecovid19test.com.ba,195.222.33.180,BA,Europe
-2020-06-06,realtimecovid19test.com.ba,realtimecovid19test.com.ba,,
-2020-06-06,registercovid19test.xn--io0a7i.cn,registercovid19test.xn--io0a7i.cn,,
-2020-06-06,remotecoronavirustest.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-06,remotecoronavirustest.xn--55qx5d.cn,remotecoronavirustest.xn--55qx5d.cn,,
-2020-06-06,ricovid19testing.xn--io0a7i.cn,ricovid19testing.xn--io0a7i.cn,,
-2020-06-06,rootbranch-videocontest-kidsoncovid19.la,rootbranch-videocontest-kidsoncovid19.la,,
-2020-06-06,rootbranch-videocontest-kidsoncovid19.xn--fiqs8s,rootbranch-videocontest-kidsoncovid19.xn--fiqs8s,,
-2020-06-06,store.covid19testkitkorea.com.ph,45.79.222.138,US,North America
-2020-06-06,testercovid19.se,ns1.loopia.se,,
-2020-06-06,testercovid19.se,ns2.loopia.se,,
-2020-06-06,testercovid19.se,testercovid19.se,,
-2020-06-06,vazyme-testcovid19.com.br,108.179.192.217,US,North America
-2020-06-06,vazyme-testcovid19.com.br,a.auto.dns.br,,
-2020-06-06,vazyme-testcovid19.com.br,hostmaster@registro.br,,
-2020-06-06,vazyme-testcovid19.com.br,ns1.networkmedia.com.br,,
-2020-06-06,vazyme-testcovid19.com.br,root@srv176.prodns.com.br,,
-2020-06-06,vazyme-testcovid19.com.br,vazyme-testcovid19.com.br,,
-2020-06-06,webmail.vazyme-testcovid19.com.br,108.179.192.217,US,North America
-2020-06-06,webmail.vazyme-testcovid19.com.br,vazyme-testcovid19.com.br,,
-2020-06-06,www.covid19testing.hk,bkjfp.x.incapdns.net,,
-2020-06-06,www.mobilecovidtesting.vegas,50.63.202.56,US,North America
-2020-06-06,www.mobilecovidtesting.vegas,mobilecovidtesting.vegas,,
-2020-06-06,www.quicktestcovid19.la,173.230.141.80,US,North America
-2020-06-06,www.rapidpointofcaretestingkitscovid19.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-06,www.rapidtestcovid19.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-06,www.vazyme-testcovid19.com.br,108.179.192.217,US,North America
-2020-06-06,www.vazyme-testcovid19.com.br,vazyme-testcovid19.com.br,,
 2020-06-07,coronavirustestco.com,coronavirustestco.com,,
 2020-06-07,coronavirustestingcompany.com,coronavirustestingcompany.com,,
 2020-06-07,covid19privatetesting.com,covid19privatetesting.com,,
@@ -133,6 +12,8 @@
 2020-06-07,covid19testingla.com,ns-cloud-a2.googledomains.com,,
 2020-06-07,covid19testingla.com,ns-cloud-a3.googledomains.com,,
 2020-06-07,covid19testingla.com,ns-cloud-a4.googledomains.com,,
+2020-06-07,covid19-testing.no,217.21.190.139,BE,Europe
+2020-06-07,covid19-testing.no,covid19-testing.no,,
 2020-06-07,covidantibodytest.ca,covidantibodytest.ca,,
 2020-06-07,covidcures.us,covidcures.us,,
 2020-06-07,covidcures.us,ns55.domaincontrol.com,,
@@ -144,7 +25,16 @@
 2020-06-07,curecovidnow.us,curecovidnow.us,,
 2020-06-07,digitestcovid.com,134.0.10.76,ES,Europe
 2020-06-07,digitestcovid.com,digitestcovid.com,,
+2020-06-07,ezcovid-19test.ws,64.70.19.203,US,North America
+2020-06-07,ezcovid-19test.ws,ezcovid-19test.ws,,
+2020-06-07,fastcoronavirustesting.ws,fastcoronavirustesting.ws,,
+2020-06-07,fastcoronavirustesting.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
+2020-06-07,fastcoronavirustesting.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
+2020-06-07,findacovid19testingsite.ws,64.70.19.203,US,North America
 2020-06-07,findacovid19testingsite.ws,findacovid19testingsite.ws,,
+2020-06-07,findcoronavirustestkits.ws,findcoronavirustestkits.ws,,
+2020-06-07,findcoronavirustestkits.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
+2020-06-07,findcovid19testing.ws,64.70.19.203,US,North America
 2020-06-07,findcovid19testing.ws,findcovid19testing.ws,,
 2020-06-07,finger-prickbloodtestsamplesforcovid-19.ws,finger-prickbloodtestsamplesforcovid-19.ws,,
 2020-06-07,finger-prickbloodtestsamplesforcovid-19.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
