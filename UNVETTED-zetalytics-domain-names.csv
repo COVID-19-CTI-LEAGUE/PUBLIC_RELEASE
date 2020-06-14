@@ -62,6 +62,7 @@
 2020-06-13,securecovidtestkit.com,#v=spf1 ip6:fd43:c0d1:c090::/48 -all,,
 2020-06-13,securecovidtestkit.com,#v=spf1 ip6:fd73:bc8b:fb8b::/48 -all,,
 2020-06-13,testcovid19chile.com,testcovid19chile.com,,
+2020-06-13,testerapido-covid19.com,172.104.167.11,SG,Asia
 2020-06-13,testerapido-covid19.com,50.63.202.43,US,North America
 2020-06-13,testerapido-covid19.com,50.63.202.59,US,North America
 2020-06-13,testerapido-covid19.com,testerapido-covid19.com,,
