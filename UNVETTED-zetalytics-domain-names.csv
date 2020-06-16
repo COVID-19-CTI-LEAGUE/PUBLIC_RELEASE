@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-06-15,asb-covidsecuredupdate.au-online.ml,13.56.231.247,US,North America
 2020-06-15,coronavirustest-kit.co.uk,coronavirustest-kit.co.uk,,
 2020-06-15,covid-19breathtesting.com,covid-19breathtesting.com,,
 2020-06-15,covid-19breathtesting.com,EHY9c3BmMSBhIG14IH5hbGw=,,
@@ -29,6 +30,7 @@
 2020-06-15,covidtestinguk.info,covidtestinguk.info,,
 2020-06-15,covidtestinguk.info,ns23.domaincontrol.com,,
 2020-06-15,covidtestinguk.info,ns24.domaincontrol.com,,
+2020-06-15,covidtestnews.com,184.168.221.35,US,North America
 2020-06-15,covidtestnews.com,covidtestnews.com,,
 2020-06-15,covidtest-solutions.com,94.136.40.51,GB,Europe
 2020-06-15,covidtest-solutions.com,covidtest-solutions.com,,
@@ -47,6 +49,7 @@
 2020-06-15,knownowcovid19hometesting.la,knownowcovid19hometesting.la,,
 2020-06-15,knownowcovid19hometesting.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-06-15,knownowcovid19hometesting.xn--55qx5d.cn,knownowcovid19hometesting.xn--55qx5d.cn,,
+2020-06-15,lacoronavirustesting.xn--io0a7i.cn,218.241.116.40,CN,Asia
 2020-06-15,lacoronavirustesting.xn--io0a7i.cn,lacoronavirustesting.xn--io0a7i.cn,,
 2020-06-15,lacovid19testing.xn--fiqs8s,lacovid19testing.xn--fiqs8s,,
 2020-06-15,lacovid-19testing.xn--fiqz9s,lacovid-19testing.xn--fiqz9s,,
@@ -60,3 +63,4 @@
 2020-06-15,testpcrcovid19.com,testpcrcovid19.com,,
 2020-06-15,www.covidtestinguk.info,184.168.221.50,US,North America
 2020-06-15,www.covidtestinguk.info,covidtestinguk.info,,
+2020-06-16,covidcaretestkits.com,covidcaretestkits.com,,
