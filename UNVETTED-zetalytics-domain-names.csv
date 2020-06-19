@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-06-18,bestcovid19testing.com.ph,45.79.222.138,US,North America
 2020-06-18,bestcovid19testing.com.ph,bestcovid19testing.com.ph,,
 2020-06-18,bestcovid19testingnearme.com.ph,45.79.222.138,US,North America
 2020-06-18,bestcovid19testingnearme.com.ph,bestcovid19testingnearme.com.ph,,
@@ -25,7 +26,9 @@
 2020-06-18,coronacovid19hometesting.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-06-18,coronacovid19hometesting.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-06-18,coronacovid19hometesting.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
+2020-06-18,coronacovid19test.com.ph,45.79.222.138,US,North America
 2020-06-18,coronacovid19test.com.ph,coronacovid19test.com.ph,,
+2020-06-18,corona-covid19-test.ph,45.79.222.138,US,North America
 2020-06-18,corona-covid19-test.ph,corona-covid19-test.ph,,
 2020-06-18,coronaviruscovid19tests.ws,coronaviruscovid19tests.ws,,
 2020-06-18,coronaviruscovid19tests.ws,mail.hope-mail.com,,
@@ -84,6 +87,7 @@
 2020-06-18,covidworkplacetesting.co.uk,ns1105.ui-dns.org,,
 2020-06-18,covidworkplacetesting.co.uk,ns1118.ui-dns.biz,,
 2020-06-18,covidworkplacetesting.co.uk,ns1118.ui-dns.com,,
+2020-06-18,cpcalendars.covid-19-testingkit.org,66.45.227.43,US,North America
 2020-06-18,curecovid19together.ws,curecovid19together.ws,,
 2020-06-18,curecovid19together.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-06-18,curecovid19together.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
@@ -103,6 +107,14 @@
 2020-06-18,testecovid.net,23.236.62.147,US,North America
 2020-06-18,testecovid.net,testecovid.net,,
 2020-06-18,webdisk.covid-19-testingkit.org,66.45.227.43,US,North America
+2020-06-19,0nbtpmiobestcovid19testingnearme.com.ph,0nbtpmiobestcovid19testingnearme.com.ph,,
+2020-06-19,0nbtpmiobestcovid19testingnearme.com.ph,45.79.222.138,US,North America
+2020-06-19,0nbtpmiocorona-covid19-test.ph,0nbtpmiocorona-covid19-test.ph,,
+2020-06-19,0nbtpmiocorona-covid19-test.ph,45.79.222.138,US,North America
+2020-06-19,0nbtpmiocovid19superteste.ph,0nbtpmiocovid19superteste.ph,,
+2020-06-19,0nbtpmiocovid19superteste.ph,45.79.222.138,US,North America
+2020-06-19,6h308g0bcoronavirustestsnationwide.ph,45.79.222.138,US,North America
+2020-06-19,6h308g0bcoronavirustestsnationwide.ph,6h308g0bcoronavirustestsnationwide.ph,,
 2020-06-19,americancovidtest.com,50.63.202.34,US,North America
 2020-06-19,americancovidtest.com,americancovidtest.com,,
 2020-06-19,bizcovidtest.com,bizcovidtest.com,,
@@ -118,6 +130,8 @@
 2020-06-19,coronavirustestingandclinicaltrials.com,coronavirustestingandclinicaltrials.com,,
 2020-06-19,coronavirustraveltestbahamas.com,50.63.202.54,US,North America
 2020-06-19,coronavirustraveltestbahamas.com,coronavirustraveltestbahamas.com,,
+2020-06-19,coronavirustraveltestbahamas.com,ns33.domaincontrol.com,,
+2020-06-19,coronavirustraveltestbahamas.com,ns34.domaincontrol.com,,
 2020-06-19,coronavirustraveltestingmia.com,coronavirustraveltestingmia.com,,
 2020-06-19,coronavirustraveltestingmia.com,ns13.domaincontrol.com,,
 2020-06-19,coronavirustraveltestingmia.com,ns14.domaincontrol.com,,
@@ -128,10 +142,13 @@
 2020-06-19,covid19-antibody-test-kits.com,covid19-antibody-test-kits.com,,
 2020-06-19,covid19-antibody-test-kits.com,ns1.usm3.siteground.biz,,
 2020-06-19,covid19-antibody-test-kits.com,ns2.usm3.siteground.biz,,
+2020-06-19,covid19-antibody-test-kits.com,UXY9c3BmMSArYSArbXggK2E6bnMxLnVzbTMuc2l0ZWdyb3VuZC5iaXogaW5jbHVkZTpfc3BmLm1haWxzcGFtcHJvdGVjdGlvbi5jb20gfmFsbA==,,
 2020-06-19,covid19superteste.ph,45.79.222.138,US,North America
 2020-06-19,covid19superteste.ph,covid19superteste.ph,,
 2020-06-19,covid19testbahamas.com,184.168.221.56,US,North America
 2020-06-19,covid19testbahamas.com,covid19testbahamas.com,,
+2020-06-19,covid19testbahamas.com,ns13.domaincontrol.com,,
+2020-06-19,covid19testbahamas.com,ns14.domaincontrol.com,,
 2020-06-19,covid-19testing.co.uk,covid-19testing.co.uk,,
 2020-06-19,covid19testingfortlauderdale.com,50.63.202.49,US,North America
 2020-06-19,covid19testingfortlauderdale.com,covid19testingfortlauderdale.com,,
@@ -177,7 +194,14 @@
 2020-06-19,doineedscovid19test.com,45.56.79.23,US,North America
 2020-06-19,doineedscovid19test.com,45.79.19.196,US,North America
 2020-06-19,doineedscovid19test.com,96.126.123.244,US,North America
+2020-06-19,doineedscovid19test.com,,bio=cd5542453bd47807b6a02dc4688c863c567da68f,,
 2020-06-19,doineedscovid19test.com,doineedscovid19test.com,,
+2020-06-19,doineedscovid19test.com,I3Y9c3BmMSBpcDY6ZmQ0MzpjMGQxOmMwOTA6Oi80OCAtYWxs,,
+2020-06-19,doineedscovid19test.com,I3Y9c3BmMSBpcDY6ZmQ3MzpiYzhiOmZiOGI6Oi80OCAtYWxs,,
+2020-06-19,doineedscovid19test.com,LGJpbz1jZDU1NDI0NTNiZDQ3ODA3YjZhMDJkYzQ2ODhjODYzYzU2N2RhNjhm,,
+2020-06-19,doineedscovid19test.com,#v=spf1 ip6:fd43:c0d1:c090::/48 -all,,
+2020-06-19,doineedscovid19test.com,#v=spf1 ip6:fd73:bc8b:fb8b::/48 -all,,
+2020-06-19,eduexpresscovidtest.com,208.91.112.55,CA,North America
 2020-06-19,eduexpresscovidtest.com,eduexpresscovidtest.com,,
 2020-06-19,gemotest-covidcheck.net,178.208.85.31,RU,Europe
 2020-06-19,gemotest-covidcheck.net,gemotest-covidcheck.net,,
@@ -203,10 +227,17 @@
 2020-06-19,getthecovid19test.la,getthecovid19test.la,,
 2020-06-19,getyourcovid19test.xn--fiqs8s,getyourcovid19test.xn--fiqs8s,,
 2020-06-19,globalcovid-19hometestkit.la,globalcovid-19hometestkit.la,,
+2020-06-19,gocoronavirustest.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-19,gocoronavirustest.xn--fiqs8s,gocoronavirustest.xn--fiqs8s,,
 2020-06-19,googlecoronavirustest.com.ba,195.222.33.180,BA,Europe
 2020-06-19,googlecoronavirustest.com.ba,googlecoronavirustest.com.ba,,
+2020-06-19,j6l8624ccorona-covid19-test.ph,45.79.222.138,US,North America
+2020-06-19,j6l8624ccorona-covid19-test.ph,j6l8624ccorona-covid19-test.ph,,
 2020-06-19,mobiletestingcovid.com,mobiletestingcovid.com,,
+2020-06-19,p7ley75ubestcovid19testing.com.ph,45.79.222.138,US,North America
+2020-06-19,p7ley75ubestcovid19testing.com.ph,p7ley75ubestcovid19testing.com.ph,,
+2020-06-19,p7ley75ucovid-19onsitetesting.com.ph,45.79.222.138,US,North America
+2020-06-19,p7ley75ucovid-19onsitetesting.com.ph,p7ley75ucovid-19onsitetesting.com.ph,,
 2020-06-19,privatecovidtests.co.uk,217.160.0.100,DE,Europe
 2020-06-19,privatecovidtests.co.uk,privatecovidtests.co.uk,,
 2020-06-19,productioncovidtests.com,198.185.159.144,US,North America
@@ -227,6 +258,7 @@
 2020-06-19,testesdecovid.com.br,b.auto.dns.br,,
 2020-06-19,testesdecovid.com.br,testesdecovid.com.br,,
 2020-06-19,testesrapidoscovid19.com.br,testesrapidoscovid19.com.br,,
+2020-06-19,wuhancoronaviruscure.ph,wuhancoronaviruscure.ph,,
 2020-06-19,www77.doineedscovid19test.com,11339.searchmagnified.com,,
 2020-06-19,www77.doineedscovid19test.com,199.191.50.39,VG,North America
 2020-06-19,www.covid19-antibody-test-kits.com,35.209.144.222,US,North America
