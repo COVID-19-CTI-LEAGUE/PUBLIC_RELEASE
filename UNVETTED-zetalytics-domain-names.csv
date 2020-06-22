@@ -4,6 +4,7 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-06-21,10minutecovidtest.com,10minutecovidtest.com,,
 2020-06-21,10minutecovidtest.com,50.63.202.49,US,North America
+2020-06-21,10minutecovidtest.com,50.63.202.61,US,North America
 2020-06-21,10minutecovidtest.com,ns67.domaincontrol.com,,
 2020-06-21,10minutecovidtest.com,ns68.domaincontrol.com,,
 2020-06-21,10minutecovidtests.com,10minutecovidtests.com,,
@@ -128,6 +129,22 @@
 2020-06-22,doineedacovidtest19test.com,doineedacovidtest19test.com,,
 2020-06-22,drivebycovidtest.com,94.136.40.51,GB,Europe
 2020-06-22,drivebycovidtest.com,drivebycovidtest.com,,
+2020-06-22,fastcovid-19test.com.ba,195.222.33.180,BA,Europe
+2020-06-22,fastcovid-19test.com.ba,fastcovid-19test.com.ba,,
+2020-06-22,fastcovid19tests.com.ba,195.222.33.180,BA,Europe
+2020-06-22,fastcovid19tests.com.ba,fastcovid19tests.com.ba,,
+2020-06-22,fastestcoronavirus.xn--fiqs8s,218.241.116.40,CN,Asia
+2020-06-22,fastestcoronavirus.xn--fiqs8s,fastestcoronavirus.xn--fiqs8s,,
+2020-06-22,fasttestcovid19.com.ba,195.222.33.180,BA,Europe
+2020-06-22,fasttestcovid19.com.ba,fasttestcovid19.com.ba,,
+2020-06-22,fdaapprovedcovid19antibioticstestkit.la,173.230.141.80,US,North America
+2020-06-22,fdaapprovedcovid-19antibioticstestkit.la,fdaapprovedcovid-19antibioticstestkit.la,,
+2020-06-22,fdaapprovedcovid19antibioticstestkit.la,fdaapprovedcovid19antibioticstestkit.la,,
+2020-06-22,fdaapprovedcovid19testkits.xn--55qx5d.cn,fdaapprovedcovid19testkits.xn--55qx5d.cn,,
+2020-06-22,fdaapprovedcovid19virustestkit.com.ba,195.222.33.180,BA,Europe
+2020-06-22,fdaapprovedcovid19virustestkit.com.ba,fdaapprovedcovid19virustestkit.com.ba,,
+2020-06-22,fdacoronavirustestkit.la,fdacoronavirustestkit.la,,
+2020-06-22,fdacovid19test.xn--fiqs8s,fdacovid19test.xn--fiqs8s,,
 2020-06-22,findacurecovid19.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-06-22,findacurecovid19.xn--55qx5d.cn,findacurecovid19.xn--55qx5d.cn,,
 2020-06-22,findacureforcoronavirus.xn--55qx5d.cn,findacureforcoronavirus.xn--55qx5d.cn,,
