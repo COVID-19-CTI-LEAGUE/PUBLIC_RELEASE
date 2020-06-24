@@ -2,121 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-06-22,blgcovidtest.com,184.168.221.55,US,North America
-2020-06-22,blgcovidtest.com,184.168.221.63,US,North America
-2020-06-22,blgcovidtest.com,blgcovidtest.com,,
-2020-06-22,coronavirus-ekspress-test.online,5.101.152.161,RU,Europe
-2020-06-22,coronavirus-ekspress-test.online,coronavirus-ekspress-test.online,,
-2020-06-22,coronavirus-ekspress-test.online,ns1.beget.com,,
-2020-06-22,coronavirus-ekspress-test.online,ns1.beget.pro,,
-2020-06-22,coronavirus-ekspress-test.online,ns2.beget.com,,
-2020-06-22,coronavirus-ekspress-test.online,ns2.beget.pro,,
-2020-06-22,coronavirus-express-test.online,5.101.152.161,RU,Europe
-2020-06-22,coronavirus-express-test.online,coronavirus-express-test.online,,
-2020-06-22,coronavirus-express-test.online,GXY9c3BmMSByZWRpcmVjdD1iZWdldC5jb20=,,
-2020-06-22,coronavirus-express-test.online,hostmaster@beget.com,,
-2020-06-22,coronavirus-express-test.online,mx1.beget.com,,
-2020-06-22,coronavirus-express-test.online,mx2.beget.com,,
-2020-06-22,coronavirus-express-test.online,ns1.beget.com,,
-2020-06-22,coronavirus-express-test.online,ns1.beget.pro,,
-2020-06-22,coronavirus-express-test.online,ns2.beget.com,,
-2020-06-22,coronavirus-express-test.online,ns2.beget.pro,,
-2020-06-22,coronavirus-express-test.online,v=spf1 redirect=beget.com,,
-2020-06-22,coronavirussneltest.com,coronavirussneltest.com,,
-2020-06-22,covid19homecollectiontestkit.com,184.168.221.54,US,North America
-2020-06-22,covid19homecollectiontestkit.com,covid19homecollectiontestkit.com,,
-2020-06-22,covid-19onsitetesting.com,184.168.221.37,US,North America
-2020-06-22,covid-19onsitetesting.com,covid-19onsitetesting.com,,
-2020-06-22,covidcheck-gemotest.com,covidcheck-gemotest.com,,
-2020-06-22,covidcure.today,184.168.221.52,US,North America
-2020-06-22,covidcure.today,covidcure.today,,
-2020-06-22,covidfdatest.com,covidfdatest.com,,
-2020-06-22,covidself-test.net,covidself-test.net,,
-2020-06-22,covid-testing.info,covid-testing.info,,
-2020-06-22,covid-testing.info,ns01.domaincontrol.com,,
-2020-06-22,covid-testing.info,ns02.domaincontrol.com,,
-2020-06-22,covidtestvan.com,94.136.40.51,GB,Europe
-2020-06-22,covidtestvan.com,covidtestvan.com,,
-2020-06-22,covidtestvan.com,ns.123-reg.co.uk,,
-2020-06-22,covidtestvan.com,ns2.123-reg.co.uk,,
-2020-06-22,doineedacovidtest19test.com,198.58.118.167,US,North America
-2020-06-22,doineedacovidtest19test.com,45.33.23.183,US,North America
-2020-06-22,doineedacovidtest19test.com,45.33.2.79,US,North America
-2020-06-22,doineedacovidtest19test.com,45.56.79.23,US,North America
-2020-06-22,doineedacovidtest19test.com,45.79.19.196,US,North America
-2020-06-22,doineedacovidtest19test.com,96.126.123.244,US,North America
-2020-06-22,doineedacovidtest19test.com,doineedacovidtest19test.com,,
-2020-06-22,drivebycovidtest.com,94.136.40.51,GB,Europe
-2020-06-22,drivebycovidtest.com,drivebycovidtest.com,,
-2020-06-22,ez2getcovid19test.xn--io0a7i.cn,ez2getcovid19test.xn--io0a7i.cn,,
-2020-06-22,ez2getcovid19test.xn--od0alg.cn,ez2getcovid19test.xn--od0alg.cn,,
-2020-06-22,ezcovid19test.com.ba,195.222.33.180,BA,Europe
-2020-06-22,ezcovid19test.com.ba,ezcovid19test.com.ba,,
-2020-06-22,ezcovid-19test.xn--55qx5d.cn,ezcovid-19test.xn--55qx5d.cn,,
-2020-06-22,ezcovid-19test.xn--fiqs8s,ezcovid-19test.xn--fiqs8s,,
-2020-06-22,fastcoronavirustesting.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-22,fastcoronavirustesting.xn--od0alg.cn,fastcoronavirustesting.xn--od0alg.cn,,
-2020-06-22,fastcovid-19test.com.ba,195.222.33.180,BA,Europe
-2020-06-22,fastcovid-19test.com.ba,fastcovid-19test.com.ba,,
-2020-06-22,fastcovid19testing.xn--55qx5d.cn,fastcovid19testing.xn--55qx5d.cn,,
-2020-06-22,fastcovid19tests.com.ba,195.222.33.180,BA,Europe
-2020-06-22,fastcovid19tests.com.ba,fastcovid19tests.com.ba,,
-2020-06-22,fastestcoronavirus.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-22,fastestcoronavirus.xn--fiqs8s,fastestcoronavirus.xn--fiqs8s,,
-2020-06-22,fasttestcovid19.com.ba,195.222.33.180,BA,Europe
-2020-06-22,fasttestcovid19.com.ba,fasttestcovid19.com.ba,,
-2020-06-22,fasttestcovid-19.xn--fiqz9s,fasttestcovid-19.xn--fiqz9s,,
-2020-06-22,fatesttestcovid19.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-22,fatesttestcovid19.xn--fiqs8s,fatesttestcovid19.xn--fiqs8s,,
-2020-06-22,fdaapprovedcoronavirushometestkit.la,fdaapprovedcoronavirushometestkit.la,,
-2020-06-22,fdaapprovedcoronavirustest.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-06-22,fdaapprovedcoronavirustest.xn--io0a7i.cn,fdaapprovedcoronavirustest.xn--io0a7i.cn,,
-2020-06-22,fdaapprovedcovid19antibioticstestkit.la,173.230.141.80,US,North America
-2020-06-22,fdaapprovedcovid-19antibioticstestkit.la,fdaapprovedcovid-19antibioticstestkit.la,,
-2020-06-22,fdaapprovedcovid19antibioticstestkit.la,fdaapprovedcovid19antibioticstestkit.la,,
-2020-06-22,fdaapprovedcovid19testkits.xn--55qx5d.cn,fdaapprovedcovid19testkits.xn--55qx5d.cn,,
-2020-06-22,fdaapprovedcovid-19testkit.xn--fiqs8s,fdaapprovedcovid-19testkit.xn--fiqs8s,,
-2020-06-22,fdaapprovedcovid19virustestkit.com.ba,195.222.33.180,BA,Europe
-2020-06-22,fdaapprovedcovid19virustestkit.com.ba,fdaapprovedcovid19virustestkit.com.ba,,
-2020-06-22,fdaapprovedcovid-19virustestkit.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-06-22,fdaapprovedcovid-19virustestkit.xn--io0a7i.cn,fdaapprovedcovid-19virustestkit.xn--io0a7i.cn,,
-2020-06-22,fdacoronavirustestkit.la,fdacoronavirustestkit.la,,
-2020-06-22,fdacovid19testkit.la,fdacovid19testkit.la,,
-2020-06-22,fdacovid19test.xn--fiqs8s,fdacovid19test.xn--fiqs8s,,
-2020-06-22,findacurecovid19.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-22,findacurecovid19.xn--55qx5d.cn,findacurecovid19.xn--55qx5d.cn,,
-2020-06-22,findacureforcoronavirus.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-22,findacureforcoronavirus.xn--55qx5d.cn,findacureforcoronavirus.xn--55qx5d.cn,,
-2020-06-22,findcoronavirustest.com.ba,195.222.33.180,BA,Europe
-2020-06-22,findcoronavirustest.com.ba,findcoronavirustest.com.ba,,
-2020-06-22,findcoronavirustesting.la,173.230.141.80,US,North America
-2020-06-22,findcoronavirustesting.la,findcoronavirustesting.la,,
-2020-06-22,findcoronavirustestkit.com.ba,195.222.33.180,BA,Europe
-2020-06-22,findcoronavirustestkit.com.ba,findcoronavirustestkit.com.ba,,
-2020-06-22,findcoronavirustestkit.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-22,findcoronavirustestkit.xn--od0alg.cn,findcoronavirustestkit.xn--od0alg.cn,,
-2020-06-22,findcovid19testing.la,findcovid19testing.la,,
-2020-06-22,findcovid19tests.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-22,findcovid19tests.xn--fiqs8s,findcovid19tests.xn--fiqs8s,,
-2020-06-22,findcovid19test.xn--od0alg.cn,findcovid19test.xn--od0alg.cn,,
-2020-06-22,finger-prickbloodtestsamplesforcovid-19.com.ba,195.222.33.180,BA,Europe
-2020-06-22,finger-prickbloodtestsamplesforcovid-19.com.ba,finger-prickbloodtestsamplesforcovid-19.com.ba,,
-2020-06-22,fiveminutecovid-19test.xn--fiqs8s,fiveminutecovid-19test.xn--fiqs8s,,
-2020-06-22,fiveminutecovid19test.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-22,fiveminutecovid19test.xn--od0alg.cn,fiveminutecovid19test.xn--od0alg.cn,,
-2020-06-22,flcovid19test.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-22,flcovid19test.xn--55qx5d.cn,flcovid19test.xn--55qx5d.cn,,
-2020-06-22,gemotest-covidcheck.ru,178.208.85.31,RU,Europe
-2020-06-22,gemotest-covidcheck.ru,gemotest-covidcheck.ru,,
-2020-06-22,trucovid19tests.ph,45.79.222.138,US,North America
-2020-06-22,trucovid19tests.ph,trucovid19tests.ph,,
-2020-06-22,tucsoncovid19testing.ph,tucsoncovid19testing.ph,,
-2020-06-22,www77.doineedacovidtest19test.com,11339.searchmagnified.com,,
-2020-06-22,www77.doineedacovidtest19test.com,199.191.50.39,VG,North America
-2020-06-22,www.covidcheck-gemotest.com,35.246.6.109,US,North America
-2020-06-22,www.covidcheck-gemotest.com,balancer.wixdns.net,,
-2020-06-22,www.covidcheck-gemotest.com,www187.wixdns.net,,
-2020-06-22,www.gemotest-covidcheck.ru,gemotest-covidcheck.ru,,
 2020-06-23,coronavirus-ekspress-test.ru,5.101.152.161,RU,Europe
 2020-06-23,coronavirus-ekspress-test.ru,coronavirus-ekspress-test.ru,,
 2020-06-23,coronavirus-express-test.ru,5.101.152.161,RU,Europe
@@ -178,9 +63,11 @@
 2020-06-23,test-coronaviruss.com.ph,test-coronaviruss.com.ph,,
 2020-06-23,testcovid19kit.ph,testcovid19kit.ph,,
 2020-06-23,testcovid19madrid.ph,testcovid19madrid.ph,,
+2020-06-23,testcovid19now.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-06-23,testcovid19now.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-06-23,testcovid19now.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-06-23,testcovid19now.fm,testcovid19now.fm,,
+2020-06-23,testcovid19now.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-06-23,test-covid19-uk.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-06-23,test-covid19-uk.ws,test-covid19-uk.ws,,
 2020-06-23,test-covid19-uk.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
@@ -212,6 +99,7 @@
 2020-06-23,testkit4covid19.ph,testkit4covid19.ph,,
 2020-06-23,testkit-coronavirus.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-06-23,testkit-coronavirus.ws,testkit-coronavirus.ws,,
+2020-06-23,testkit-coronavirus.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-06-23,testkitcovid-19.fm,198.74.54.240,US,North America
 2020-06-23,testkitcovid-19.fm,testkitcovid-19.fm,,
 2020-06-23,testkitcovid-19.ph,45.79.222.138,US,North America
@@ -231,6 +119,7 @@
 2020-06-23,tests-covid19.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-06-23,tests-covid19.ws,mail.hope-mail.com,,
 2020-06-23,tests-covid19.ws,tests-covid19.ws,,
+2020-06-23,test-serologique-coronavirus.com.ph,45.79.222.138,US,North America
 2020-06-23,test-serologique-coronavirus.com.ph,test-serologique-coronavirus.com.ph,,
 2020-06-23,testsitecovid19.ph,45.79.222.138,US,North America
 2020-06-23,testsitecovid19.ph,testsitecovid19.ph,,
