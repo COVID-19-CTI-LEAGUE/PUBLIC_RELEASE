@@ -4,6 +4,12 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-06-23,coronavirus-ekspress-test.ru,5.101.152.161,RU,Europe
 2020-06-23,coronavirus-ekspress-test.ru,coronavirus-ekspress-test.ru,,
+2020-06-23,coronavirus-ekspress-test.ru,ns1.beget.com,,
+2020-06-23,coronavirus-ekspress-test.ru,ns1.beget.pro,,
+2020-06-23,coronavirus-ekspress-test.ru,ns1.beget.ru,,
+2020-06-23,coronavirus-ekspress-test.ru,ns2.beget.com,,
+2020-06-23,coronavirus-ekspress-test.ru,ns2.beget.pro,,
+2020-06-23,coronavirus-ekspress-test.ru,ns2.beget.ru,,
 2020-06-23,coronavirus-express-test.ru,5.101.152.161,RU,Europe
 2020-06-23,coronavirus-express-test.ru,coronavirus-express-test.ru,,
 2020-06-23,coronavirus-express-test.ru,mx1.beget.com,,
@@ -170,6 +176,7 @@
 2020-06-24,covid19breathtestkit.com,covid19breathtestkit.com,,
 2020-06-24,covid19breathtestkit.com,docks03.rzone.de,,
 2020-06-24,covid19breathtestkit.com,shades04.rzone.de,,
+2020-06-24,covidtesting.com.mx,52.11.53.121,US,North America
 2020-06-24,covidtesting.com.mx,covidtesting.com.mx,,
 2020-06-24,latestcovid-19.com,88.214.207.96,GB,Europe
 2020-06-24,latestcovid-19.com,latestcovid-19.com,,
