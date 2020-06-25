@@ -4,7 +4,10 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-06-24,allegheneycovidtesting.com,81.17.18.194,CH,Europe
 2020-06-24,allegheneycovidtesting.com,81.17.18.197,CH,Europe
+2020-06-24,allegheneycovidtesting.com,admin@allegheneycovidtesting.com,,
 2020-06-24,allegheneycovidtesting.com,allegheneycovidtesting.com,,
+2020-06-24,allegheneycovidtesting.com,ns1.panamans.com,,
+2020-06-24,allegheneycovidtesting.com,ns2.panamans.com,,
 2020-06-24,coronavirusbreathtestkit.com,2a01:238:20a:202:1158::,DE,Europe
 2020-06-24,coronavirusbreathtestkit.com,81.169.145.158,DE,Europe
 2020-06-24,coronavirusbreathtestkit.com,coronavirusbreathtestkit.com,,
