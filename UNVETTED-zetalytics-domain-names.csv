@@ -84,10 +84,12 @@
 2020-06-26,mycovidquesttest.com,mycovidquesttest.com,,
 2020-06-26,mycovidquesttest.com,#v=spf1 ip6:fd43:c0d1:c090::/48 -all,,
 2020-06-26,mycovidquesttest.com,#v=spf1 ip6:fd73:bc8b:fb8b::/48 -all,,
+2020-06-26,querotestarcovid.com,J3Y9c3BmMSBpbmNsdWRlOl9zcGYubG9jYXdlYi5jb20uYnIgP2FsbA==,,
 2020-06-26,querotestarcovid.com,ns1.locaweb.com.br,,
 2020-06-26,querotestarcovid.com,ns2.locaweb.com.br,,
 2020-06-26,querotestarcovid.com,ns3.locaweb.com.br,,
 2020-06-26,querotestarcovid.com,querotestarcovid.com,,
+2020-06-26,querotestarcovid.com,'v=spf1 include:_spf.locaweb.com.br ?all,,
 2020-06-26,remotecoronavirustest.com.ph,45.79.222.138,US,North America
 2020-06-26,remotecoronavirustest.com.ph,remotecoronavirustest.com.ph,,
 2020-06-26,remotecoronavirustesting.ph,45.79.222.138,US,North America
@@ -130,6 +132,7 @@
 2020-06-26,www.testing-covid-19.ml,2607:f8b0:4000:817::2013,US,North America
 2020-06-26,www.testing-covid-19.ml,ghs.google.com,,
 2020-06-27,2hourcovidtest.com,2hourcovidtest.com,,
+2020-06-27,2hourcovidtest.com,50.63.202.60,US,North America
 2020-06-27,buscatestecovid.com.br,177.55.111.8,BR,South America
 2020-06-27,buscatestecovid.com.br,buscatestecovid.com.br,,
 2020-06-27,buscatestecovid.com.br,ns148.umbler.in,,
@@ -147,6 +150,7 @@
 2020-06-27,covidtests.shop,50.63.202.39,US,North America
 2020-06-27,covidtests.shop,50.63.202.62,US,North America
 2020-06-27,covidtests.shop,covidtests.shop,,
+2020-06-27,datetestcovid19.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-27,datetestcovid19.xn--fiqs8s,datetestcovid19.xn--fiqs8s,,
 2020-06-27,deliveredcovid19test.xn--55qx5d.cn,deliveredcovid19test.xn--55qx5d.cn,,
 2020-06-27,denvercoronavirustests.xn--io0a7i.cn,denvercoronavirustests.xn--io0a7i.cn,,
@@ -187,6 +191,7 @@
 2020-06-27,naacpcovidabtesting.com,165.160.13.20,US,North America
 2020-06-27,naacpcovidabtesting.com,165.160.15.20,US,North America
 2020-06-27,naacpcovidabtesting.com,naacpcovidabtesting.com,,
+2020-06-27,protestcovid19.ph,protestcovid19.ph,,
 2020-06-27,questforcovidcures.com.ph,questforcovidcures.com.ph,,
 2020-06-27,quickcoronavirustest.com.ph,45.79.222.138,US,North America
 2020-06-27,quickcoronavirustest.com.ph,quickcoronavirustest.com.ph,,
