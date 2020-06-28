@@ -4,6 +4,11 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-06-27,2hourcovidtest.com,2hourcovidtest.com,,
 2020-06-27,2hourcovidtest.com,50.63.202.60,US,North America
+2020-06-27,api.buscatestecovid.com.br,177.55.111.8,BR,South America
+2020-06-27,api.buscatestecovid.com.br,ns148.umbler.in,,
+2020-06-27,api.buscatestecovid.com.br,ns283.umbler.com.br,,
+2020-06-27,api.buscatestecovid.com.br,ns534.umbler.com,,
+2020-06-27,api.buscatestecovid.com.br,ns840.umbler.co.uk,,
 2020-06-27,buscatestecovid.com.br,177.55.111.8,BR,South America
 2020-06-27,buscatestecovid.com.br,buscatestecovid.com.br,,
 2020-06-27,buscatestecovid.com.br,ns148.umbler.in,,
@@ -112,6 +117,12 @@
 2020-06-27,snapnursecovidtesting.com,snapnursecovidtesting.com,,
 2020-06-27,sunrisecovidtesting.com,198.71.232.3,US,North America
 2020-06-27,sunrisecovidtesting.com,sunrisecovidtesting.com,,
+2020-06-27,www.api.buscatestecovid.com.br,177.55.111.8,BR,South America
+2020-06-27,www.api.buscatestecovid.com.br,api.buscatestecovid.com.br,,
+2020-06-27,www.api.buscatestecovid.com.br,ns148.umbler.in,,
+2020-06-27,www.api.buscatestecovid.com.br,ns283.umbler.com.br,,
+2020-06-27,www.api.buscatestecovid.com.br,ns534.umbler.com,,
+2020-06-27,www.api.buscatestecovid.com.br,ns840.umbler.co.uk,,
 2020-06-27,www.buscatestecovid.com.br,177.55.111.8,BR,South America
 2020-06-27,www.buscatestecovid.com.br,buscatestecovid.com.br,,
 2020-06-27,www.buscatestecovid.com.br,ns148.umbler.in,,
@@ -120,6 +131,7 @@
 2020-06-27,www.buscatestecovid.com.br,ns840.umbler.co.uk,,
 2020-06-27,www.hollywoodcovidtesting.com,hollywoodcovidtesting.com,,
 2020-06-27,www.hollywoodcovidtesting.com,parking.namesilo.com,,
+2020-06-27,www.quickcovid-19testing.com.ph,45.79.222.138,US,North America
 2020-06-27,www.rapidtestcovid19.com.ph,45.79.222.138,US,North America
 2020-06-28,covid19testcenterlocator.com.ph,covid19testcenterlocator.com.ph,,
 2020-06-28,covid19testcenterlocator.fm,covid19testcenterlocator.fm,,
@@ -153,6 +165,7 @@
 2020-06-28,curecoronavirustoday.xn--55qx5d.cn,curecoronavirustoday.xn--55qx5d.cn,,
 2020-06-28,curecoronavirustoday.xn--od0alg.cn,218.241.116.40,CN,Asia
 2020-06-28,curecoronavirustoday.xn--od0alg.cn,curecoronavirustoday.xn--od0alg.cn,,
+2020-06-28,cure-corona-virus.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-28,cure-corona-virus.xn--fiqs8s,cure-corona-virus.xn--fiqs8s,,
 2020-06-28,curecoronavirus.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-28,curecoronavirus.xn--fiqz9s,curecoronavirus.xn--fiqz9s,,
@@ -209,12 +222,14 @@
 2020-06-28,mobiler-covid-test.at,mx01.easyname.eu,,
 2020-06-28,mobiler-covid-test.at,mx02.easyname.eu,,
 2020-06-28,mobiler-covid-test.at,ns1.easyname.eu,,
+2020-06-28,mobiler-covid-test.at,ns2.easyname.eu,,
 2020-06-28,mobiler-covid-test.de,185.51.8.94,AT,Europe
 2020-06-28,mobiler-covid-test.de,2a01:aee0::23:0:0:0:11,AT,Europe
 2020-06-28,mobiler-covid-test.de,JHY9c3BmMSBpbmNsdWRlOnNwZi5lYXN5bmFtZS5jb20gLWFsbA==,,
 2020-06-28,mobiler-covid-test.de,mobiler-covid-test.de,,
 2020-06-28,mobiler-covid-test.de,mx01.easyname.eu,,
 2020-06-28,mobiler-covid-test.de,mx02.easyname.eu,,
+2020-06-28,mobiler-covid-test.de,$v=spf1 include:spf.easyname.com -all,,
 2020-06-28,myquestcovidtesting.com,198.58.118.167,US,North America
 2020-06-28,myquestcovidtesting.com,45.33.23.183,US,North America
 2020-06-28,myquestcovidtesting.com,45.33.2.79,US,North America
