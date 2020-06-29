@@ -15,6 +15,9 @@
 2020-06-28,covidlabtest.in,104.27.178.225,US,North America
 2020-06-28,covidlabtest.in,104.27.179.225,US,North America
 2020-06-28,covidlabtest.in,172.67.166.48,US,North America
+2020-06-28,covidlabtest.in,2606:4700:3030::681b:b3e1,US,North America
+2020-06-28,covidlabtest.in,2606:4700:3030::ac43:a630,US,North America
+2020-06-28,covidlabtest.in,2606:4700:3032::681b:b2e1,US,North America
 2020-06-28,covidlabtest.in,covidlabtest.in,,
 2020-06-28,covidrapiddiagnostictest.com,covidrapiddiagnostictest.com,,
 2020-06-28,covidrapiddiagnostictest.com,ns23.domaincontrol.com,,
@@ -92,11 +95,14 @@
 2020-06-28,lacureducovid.fr,lacureducovid.fr,,
 2020-06-28,mobiler-covid-test.at,185.51.8.94,AT,Europe
 2020-06-28,mobiler-covid-test.at,2a01:aee0::23:0:0:0:11,AT,Europe
+2020-06-28,mobiler-covid-test.at,hostmaster@easyname.eu,,
+2020-06-28,mobiler-covid-test.at,JHY9c3BmMSBpbmNsdWRlOnNwZi5lYXN5bmFtZS5jb20gLWFsbA==,,
 2020-06-28,mobiler-covid-test.at,mobiler-covid-test.at,,
 2020-06-28,mobiler-covid-test.at,mx01.easyname.eu,,
 2020-06-28,mobiler-covid-test.at,mx02.easyname.eu,,
 2020-06-28,mobiler-covid-test.at,ns1.easyname.eu,,
 2020-06-28,mobiler-covid-test.at,ns2.easyname.eu,,
+2020-06-28,mobiler-covid-test.at,$v=spf1 include:spf.easyname.com -all,,
 2020-06-28,mobiler-covid-test.de,185.51.8.94,AT,Europe
 2020-06-28,mobiler-covid-test.de,2a01:aee0::23:0:0:0:11,AT,Europe
 2020-06-28,mobiler-covid-test.de,JHY9c3BmMSBpbmNsdWRlOnNwZi5lYXN5bmFtZS5jb20gLWFsbA==,,
