@@ -2,7 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-06-28,covidrapiddiagnostictest.com,184.168.131.241,US,North America
 2020-06-28,covidsecure.space,94.136.40.51,GB,Europe
 2020-06-28,covidsecure.space,covidsecure.space,,
 2020-06-28,cure2covid-19.com.ba,195.222.33.180,BA,Europe
@@ -67,14 +66,19 @@
 2020-06-28,lacureducovid.fr,50.63.202.58,US,North America
 2020-06-28,lacureducovid.fr,lacureducovid.fr,,
 2020-06-29,coronacovidtest.xn--fiqz9s,coronacovidtest.xn--fiqz9s,,
+2020-06-29,coronavcure.xn--io0a7i.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavcure.xn--io0a7i.cn,coronavcure.xn--io0a7i.cn,,
+2020-06-29,coronavirousantibodiestest.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavirousantibodiestest.xn--55qx5d.cn,coronavirousantibodiestest.xn--55qx5d.cn,,
+2020-06-29,coronavirousantibodiestest.xn--io0a7i.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavirousantibodiestest.xn--io0a7i.cn,coronavirousantibodiestest.xn--io0a7i.cn,,
 2020-06-29,coronavirousantibodiestest.xn--od0alg.cn,coronavirousantibodiestest.xn--od0alg.cn,,
 2020-06-29,coronavirus19testingkit.xn--55qx5d.cn,coronavirus19testingkit.xn--55qx5d.cn,,
 2020-06-29,coronavirus19testkit.xn--io0a7i.cn,coronavirus19testkit.xn--io0a7i.cn,,
 2020-06-29,coronavirus2020cure.xn--fiqs8s,coronavirus2020cure.xn--fiqs8s,,
 2020-06-29,coronavirusantibodiestesting.xn--fiqz9s,coronavirusantibodiestesting.xn--fiqz9s,,
+2020-06-29,coronavirusantibodytesting.com.ba,195.222.33.180,BA,Europe
+2020-06-29,coronavirusantibodytesting.com.ba,coronavirusantibodytesting.com.ba,,
 2020-06-29,coronavirusantibodytests.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronavirusantibodytests.com.ba,coronavirusantibodytests.com.ba,,
 2020-06-29,coronavirus-antibodytest.xn--55qx5d.cn,coronavirus-antibodytest.xn--55qx5d.cn,,
@@ -86,7 +90,9 @@
 2020-06-29,coronavirusbloodtest.com.ba,coronavirusbloodtest.com.ba,,
 2020-06-29,coronavirusbloodtestingkits.la,coronavirusbloodtestingkits.la,,
 2020-06-29,coronavirusbloodtestkit.xn--fiqz9s,coronavirusbloodtestkit.xn--fiqz9s,,
+2020-06-29,coronavirusbloodtest.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,coronavirusbloodtest.xn--fiqz9s,coronavirusbloodtest.xn--fiqz9s,,
+2020-06-29,coronaviruschecktest.la,coronaviruschecktest.la,,
 2020-06-29,coronaviruscontests.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronaviruscontests.com.ba,coronaviruscontests.com.ba,,
 2020-06-29,coronaviruscontests.xn--fiqs8s,coronaviruscontests.xn--fiqs8s,,
@@ -113,8 +119,11 @@
 2020-06-29,coronaviruscurenow.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-29,coronaviruscurenow.xn--fiqs8s,coronaviruscurenow.xn--fiqs8s,,
 2020-06-29,coronaviruscurepro.xn--od0alg.cn,coronaviruscurepro.xn--od0alg.cn,,
+2020-06-29,coronaviruscures.xn--55qx5d.cn,coronaviruscures.xn--55qx5d.cn,,
+2020-06-29,coronaviruscures.xn--od0alg.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavirus-cures.xn--od0alg.cn,coronavirus-cures.xn--od0alg.cn,,
 2020-06-29,coronaviruscures.xn--od0alg.cn,coronaviruscures.xn--od0alg.cn,,
+2020-06-29,coronaviruscuretherapy.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronaviruscuretherapy.com.ba,coronaviruscuretherapy.com.ba,,
 2020-06-29,coronaviruscuretoday.xn--od0alg.cn,218.241.116.40,CN,Asia
 2020-06-29,coronaviruscuretoday.xn--od0alg.cn,coronaviruscuretoday.xn--od0alg.cn,,
@@ -142,23 +151,33 @@
 2020-06-29,coronavirusfingerpricktest.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronavirusfingerpricktest.com.ba,coronavirusfingerpricktest.com.ba,,
 2020-06-29,coronavirusflashtest.xn--fiqz9s,coronavirusflashtest.xn--fiqz9s,,
+2020-06-29,coronavirusflutestkit.xn--io0a7i.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavirusflutestkit.xn--io0a7i.cn,coronavirusflutestkit.xn--io0a7i.cn,,
 2020-06-29,coronavirusflutestkit.xn--od0alg.cn,coronavirusflutestkit.xn--od0alg.cn,,
 2020-06-29,coronavirusfreetesting.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,coronavirusfreetesting.xn--fiqz9s,coronavirusfreetesting.xn--fiqz9s,,
+2020-06-29,coronavirushealthycures.la,coronavirushealthycures.la,,
+2020-06-29,coronavirushealthycures.xn--fiqz9s,218.241.116.40,CN,Asia
+2020-06-29,coronavirushealthycures.xn--fiqz9s,coronavirushealthycures.xn--fiqz9s,,
+2020-06-29,coronavirushealthycures.xn--od0alg.cn,coronavirushealthycures.xn--od0alg.cn,,
 2020-06-29,coronavirushelptest.xn--fiqs8s,coronavirushelptest.xn--fiqs8s,,
 2020-06-29,coronavirushometesting.la,coronavirushometesting.la,,
 2020-06-29,coronavirus-home-test-kits.xn--fiqs8s,coronavirus-home-test-kits.xn--fiqs8s,,
 2020-06-29,coronavirushometest.la,coronavirushometest.la,,
+2020-06-29,coronavirushometestus.la,173.230.141.80,US,North America
+2020-06-29,coronavirushometestus.la,coronavirushometestus.la,,
 2020-06-29,coronavirushometest.xn--fiqz9s,coronavirushometest.xn--fiqz9s,,
 2020-06-29,coronavirushometest.xn--od0alg.cn,coronavirushometest.xn--od0alg.cn,,
 2020-06-29,coronavirusimmunitytesting.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronavirusimmunitytesting.com.ba,coronavirusimmunitytesting.com.ba,,
+2020-06-29,coronavirusimmunitytests.xn--od0alg.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavirusimmunitytests.xn--od0alg.cn,coronavirusimmunitytests.xn--od0alg.cn,,
+2020-06-29,coronaviruslabstest.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronaviruslabstest.com.ba,coronaviruslabstest.com.ba,,
 2020-06-29,coronavirus-labtest.xn--55qx5d.cn,coronavirus-labtest.xn--55qx5d.cn,,
 2020-06-29,coronaviruslatestnews.xn--55qx5d.cn,coronaviruslatestnews.xn--55qx5d.cn,,
 2020-06-29,coronavirus-latestupdate.la,coronavirus-latestupdate.la,,
+2020-06-29,coronaviruslatestupdates.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,coronaviruslatestupdates.xn--fiqz9s,coronaviruslatestupdates.xn--fiqz9s,,
 2020-06-29,coronavirusmedicalcure.xn--fiqz9s,coronavirusmedicalcure.xn--fiqz9s,,
 2020-06-29,coronavirusonlinetest.la,coronavirusonlinetest.la,,
@@ -169,18 +188,22 @@
 2020-06-29,coronaviruspettest.xn--55qx5d.cn,coronaviruspettest.xn--55qx5d.cn,,
 2020-06-29,coronavirusprivatetest.xn--55qx5d.cn,coronavirusprivatetest.xn--55qx5d.cn,,
 2020-06-29,coronavirusprivatetest.xn--fiqz9s,coronavirusprivatetest.xn--fiqz9s,,
+2020-06-29,coronavirusprotest.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronavirusprotest.com.ba,coronavirusprotest.com.ba,,
 2020-06-29,coronavirus-quick-test.xn--55qx5d.cn,coronavirus-quick-test.xn--55qx5d.cn,,
 2020-06-29,coronavirus-quick-test.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,coronavirus-quick-test.xn--fiqz9s,coronavirus-quick-test.xn--fiqz9s,,
 2020-06-29,coronavirusquicktest.xn--io0a7i.cn,coronavirusquicktest.xn--io0a7i.cn,,
 2020-06-29,coronavirusrapidtesting.xn--od0alg.cn,coronavirusrapidtesting.xn--od0alg.cn,,
+2020-06-29,coronavirus-rapid-test-kit.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronavirus-rapid-test-kit.com.ba,coronavirus-rapid-test-kit.com.ba,,
 2020-06-29,coronavirus-rapid-test-kits.la,coronavirus-rapid-test-kits.la,,
 2020-06-29,coronavirus-rapid-test-kits.xn--io0a7i.cn,coronavirus-rapid-test-kits.xn--io0a7i.cn,,
+2020-06-29,coronavirus-rapid-test-kit.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,coronavirus-rapid-test-kit.xn--fiqz9s,coronavirus-rapid-test-kit.xn--fiqz9s,,
 2020-06-29,coronavirussalivatesting.la,coronavirussalivatesting.la,,
 2020-06-29,coronavirussalivatest.xn--od0alg.cn,coronavirussalivatest.xn--od0alg.cn,,
+2020-06-29,coronavirus-selbsttest.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-29,coronavirus-selbsttest.xn--fiqs8s,coronavirus-selbsttest.xn--fiqs8s,,
 2020-06-29,coronavirusselfchecktest.xn--fiqs8s,coronavirusselfchecktest.xn--fiqs8s,,
 2020-06-29,coronavirusselftestkits.xn--fiqz9s,coronavirusselftestkits.xn--fiqz9s,,
@@ -189,6 +212,7 @@
 2020-06-29,coronavirustest411.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,coronavirustest411.xn--fiqz9s,coronavirustest411.xn--fiqz9s,,
 2020-06-29,coronavirustestandcure.xn--55qx5d.cn,coronavirustestandcure.xn--55qx5d.cn,,
+2020-06-29,coronavirustestbymail.la,173.230.141.80,US,North America
 2020-06-29,coronavirustestbymail.la,coronavirustestbymail.la,,
 2020-06-29,coronavirustestbymail.xn--fiqz9s,coronavirustestbymail.xn--fiqz9s,,
 2020-06-29,coronavirustestcase.com.ba,195.222.33.180,BA,Europe
@@ -200,9 +224,11 @@
 2020-06-29,coronavirustestclinic.xn--od0alg.cn,coronavirustestclinic.xn--od0alg.cn,,
 2020-06-29,coronavirustestco.xn--od0alg.cn,coronavirustestco.xn--od0alg.cn,,
 2020-06-29,coronavirustestdelivery.xn--od0alg.cn,coronavirustestdelivery.xn--od0alg.cn,,
+2020-06-29,coronavirustestdfw.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronavirustestdfw.com.ba,coronavirustestdfw.com.ba,,
+2020-06-29,coronavirustestdfw.xn--od0alg.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestdfw.xn--od0alg.cn,coronavirustestdfw.xn--od0alg.cn,,
-2020-06-29,coronavirus-testen.nl,coronavirus-testen.nl,,
+2020-06-29,coronavirustester.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronavirustester.com.ba,coronavirustester.com.ba,,
 2020-06-29,coronavirus-testeur.xn--fiqs8s,coronavirus-testeur.xn--fiqs8s,,
 2020-06-29,coronavirustestfinders.xn--55qx5d.cn,coronavirustestfinders.xn--55qx5d.cn,,
@@ -211,8 +237,10 @@
 2020-06-29,coronavirustestforhomeuse.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestforhomeuse.xn--fiqz9s,coronavirustestforhomeuse.xn--fiqz9s,,
 2020-06-29,coronavirustestforhome.xn--fiqs8s,coronavirustestforhome.xn--fiqs8s,,
+2020-06-29,coronavirustesti.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronavirustesti.com.ba,coronavirustesti.com.ba,,
 2020-06-29,coronavirustestinformation.xn--od0alg.cn,coronavirustestinformation.xn--od0alg.cn,,
+2020-06-29,coronavirustestingca.la,173.230.141.80,US,North America
 2020-06-29,coronavirustestingca.la,coronavirustestingca.la,,
 2020-06-29,coronavirus-testing-centers.xn--fiqz9s,coronavirus-testing-centers.xn--fiqz9s,,
 2020-06-29,coronavirus-testing-centers.xn--od0alg.cn,coronavirus-testing-centers.xn--od0alg.cn,,
@@ -225,6 +253,7 @@
 2020-06-29,coronavirustestingfl.xn--io0a7i.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestingfl.xn--io0a7i.cn,coronavirustestingfl.xn--io0a7i.cn,,
 2020-06-29,coronavirustestingkits.la,coronavirustestingkits.la,,
+2020-06-29,coronavirustestingkit.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestingkit.xn--fiqs8s,coronavirustestingkit.xn--fiqs8s,,
 2020-06-29,coronavirustestinglabs.la,coronavirustestinglabs.la,,
 2020-06-29,coronavirustestinglocationsnearme.com.ba,195.222.33.180,BA,Europe
@@ -233,13 +262,16 @@
 2020-06-29,coronavirustestinglocations.xn--fiqz9s,coronavirustestinglocations.xn--fiqz9s,,
 2020-06-29,coronavirustestingmethods.xn--55qx5d.cn,coronavirustestingmethods.xn--55qx5d.cn,,
 2020-06-29,coronavirustestingmi.la,coronavirustestingmi.la,,
+2020-06-29,coronavirustestingmi.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestingmi.xn--fiqs8s,coronavirustestingmi.xn--fiqs8s,,
 2020-06-29,coronavirustestingnashville.la,coronavirustestingnashville.la,,
+2020-06-29,coronavirustestingnearme.com.au,69.167.189.213,US,North America
 2020-06-29,coronavirustestingnearme.xn--55qx5d.cn,coronavirustestingnearme.xn--55qx5d.cn,,
 2020-06-29,coronavirustestingnow.xn--fiqs8s,coronavirustestingnow.xn--fiqs8s,,
 2020-06-29,coronavirustestingnow.xn--fiqz9s,coronavirustestingnow.xn--fiqz9s,,
 2020-06-29,coronavirustestingny.xn--55qx5d.cn,coronavirustestingny.xn--55qx5d.cn,,
 2020-06-29,coronavirustestingny.xn--fiqz9s,coronavirustestingny.xn--fiqz9s,,
+2020-06-29,coronavirustestingonline.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestingonline.xn--55qx5d.cn,coronavirustestingonline.xn--55qx5d.cn,,
 2020-06-29,coronavirustestingservice.xn--od0alg.cn,coronavirustestingservice.xn--od0alg.cn,,
 2020-06-29,coronavirustestings.xn--fiqs8s,218.241.116.40,CN,Asia
@@ -249,8 +281,10 @@
 2020-06-29,coronavirustestkiosk.xn--55qx5d.cn,coronavirustestkiosk.xn--55qx5d.cn,,
 2020-06-29,coronavirustestkiti.com.ba,coronavirustestkiti.com.ba,,
 2020-06-29,coronavirus-test-kit.xn--55qx5d.cn,coronavirus-test-kit.xn--55qx5d.cn,,
+2020-06-29,coronavirus-testkit.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-29,coronavirus-testkit.xn--fiqs8s,coronavirus-testkit.xn--fiqs8s,,
 2020-06-29,coronavirustestkit.xn--fiqs8s,coronavirustestkit.xn--fiqs8s,,
+2020-06-29,coronavirustestlab.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestlab.xn--fiqs8s,coronavirustestlab.xn--fiqs8s,,
 2020-06-29,coronavirustestlab.xn--fiqz9s,coronavirustestlab.xn--fiqz9s,,
 2020-06-29,coronavirus-test.la,coronavirus-test.la,,
@@ -276,7 +310,9 @@
 2020-06-29,coronavirustestslondon.xn--fiqz9s,coronavirustestslondon.xn--fiqz9s,,
 2020-06-29,coronavirustestsnow.la,coronavirustestsnow.la,,
 2020-06-29,coronavirustestsnow.xn--od0alg.cn,coronavirustestsnow.xn--od0alg.cn,,
+2020-06-29,coronavirustestsonline.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestsonline.xn--fiqz9s,coronavirustestsonline.xn--fiqz9s,,
+2020-06-29,coronavirustestsuk.xn--io0a7i.cn,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestsuk.xn--io0a7i.cn,coronavirustestsuk.xn--io0a7i.cn,,
 2020-06-29,coronavirustesttools.la,173.230.141.80,US,North America
 2020-06-29,coronavirustesttools.la,coronavirustesttools.la,,
@@ -285,6 +321,7 @@
 2020-06-29,coronavirusthometesting.xn--od0alg.cn,coronavirusthometesting.xn--od0alg.cn,,
 2020-06-29,coronavirusvaccinetesting.xn--55qx5d.cn,coronavirusvaccinetesting.xn--55qx5d.cn,,
 2020-06-29,coronavirusvaccinetest.xn--55qx5d.cn,coronavirusvaccinetest.xn--55qx5d.cn,,
+2020-06-29,coronaviruswalkuptesting.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronaviruswalkuptesting.com.ba,coronaviruswalkuptesting.com.ba,,
 2020-06-29,cotcovid19tests.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,cotcovid19tests.xn--fiqz9s,cotcovid19tests.xn--fiqz9s,,
@@ -337,47 +374,25 @@
 2020-06-29,covid-19diagnostictesting.com.ba,covid-19diagnostictesting.com.ba,,
 2020-06-29,covid-19diagnostictesting.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-06-29,covid-19diagnostictesting.xn--55qx5d.cn,covid-19diagnostictesting.xn--55qx5d.cn,,
-2020-06-29,covid19drivethroughtest.com.ba,195.222.33.180,BA,Europe
-2020-06-29,covid19drivethroughtest.com.ba,covid19drivethroughtest.com.ba,,
 2020-06-29,covid19drugcure.xn--io0a7i.cn,covid19drugcure.xn--io0a7i.cn,,
 2020-06-29,covid19drugcure.xn--od0alg.cn,covid19drugcure.xn--od0alg.cn,,
-2020-06-29,covid19drugtest.com.ba,covid19drugtest.com.ba,,
 2020-06-29,covid-19fasthometest.xn--od0alg.cn,covid-19fasthometest.xn--od0alg.cn,,
 2020-06-29,covid19fdacure.xn--fiqz9s,covid19fdacure.xn--fiqz9s,,
-2020-06-29,covid19fiveminutetest.com.ba,195.222.33.180,BA,Europe
-2020-06-29,covid19fiveminutetest.com.ba,covid19fiveminutetest.com.ba,,
-2020-06-29,covid19fiveminutetest.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-29,covid19fiveminutetest.xn--55qx5d.cn,covid19fiveminutetest.xn--55qx5d.cn,,
-2020-06-29,covid19flutesting.com.ba,covid19flutesting.com.ba,,
 2020-06-29,covid19flutesting.xn--od0alg.cn,covid19flutesting.xn--od0alg.cn,,
-2020-06-29,covid19ftest.la,covid19ftest.la,,
 2020-06-29,covid19hoaxcure.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-06-29,covid19hoaxcure.xn--55qx5d.cn,covid19hoaxcure.xn--55qx5d.cn,,
 2020-06-29,covid19homecures.xn--od0alg.cn,covid19homecures.xn--od0alg.cn,,
-2020-06-29,covid19hometestingkit.la,covid19hometestingkit.la,,
 2020-06-29,covid-19hometestkits.xn--55qx5d.cn,covid-19hometestkits.xn--55qx5d.cn,,
-2020-06-29,covid19hometest.xn--fiqs8s,covid19hometest.xn--fiqs8s,,
-2020-06-29,covid-19-home-test.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-29,covid-19-home-test.xn--fiqz9s,covid-19-home-test.xn--fiqz9s,,
-2020-06-29,covid19immunitytesting.xn--fiqs8s,covid19immunitytesting.xn--fiqs8s,,
-2020-06-29,covid19immunitytest.la,173.230.141.80,US,North America
-2020-06-29,covid19immunitytest.la,covid19immunitytest.la,,
 2020-06-29,covid19iqcure.xn--55qx5d.cn,covid19iqcure.xn--55qx5d.cn,,
-2020-06-29,covid19iqtest.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-29,covid19iqtest.xn--fiqz9s,covid19iqtest.xn--fiqz9s,,
 2020-06-29,covid-19kitstest.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-29,covid-19kitstest.xn--fiqs8s,covid-19kitstest.xn--fiqs8s,,
 2020-06-29,covid-19kitstest.xn--od0alg.cn,covid-19kitstest.xn--od0alg.cn,,
 2020-06-29,covid19-latest.com.ba,covid19-latest.com.ba,,
-2020-06-29,covid19mailintest.com.ba,195.222.33.180,BA,Europe
-2020-06-29,covid19mailintest.com.ba,covid19mailintest.com.ba,,
 2020-06-29,covid-19mobiletestingservices.xn--od0alg.cn,covid-19mobiletestingservices.xn--od0alg.cn,,
-2020-06-29,covid19mouthwashtest.la,covid19mouthwashtest.la,,
 2020-06-29,covid19naturalcures.xn--fiqs8s,covid19naturalcures.xn--fiqs8s,,
 2020-06-29,covid19naturescure.xn--fiqz9s,covid19naturescure.xn--fiqz9s,,
 2020-06-29,covid19pandemiccure.la,173.230.141.80,US,North America
 2020-06-29,covid19pandemiccure.la,covid19pandemiccure.la,,
-2020-06-29,covid19pricktest.xn--fiqz9s,covid19pricktest.xn--fiqz9s,,
 2020-06-29,covid19procure.la,173.230.141.80,US,North America
 2020-06-29,covid19procure.la,covid19procure.la,,
 2020-06-29,covid-19procurement.xn--55qx5d.cn,covid-19procurement.xn--55qx5d.cn,,
@@ -390,12 +405,8 @@
 2020-06-29,covid19-rapidtestingkit.xn--io0a7i.cn,covid19-rapidtestingkit.xn--io0a7i.cn,,
 2020-06-29,covid19-rapidtesting.xn--fiqz9s,covid19-rapidtesting.xn--fiqz9s,,
 2020-06-29,covid-19rapidtesting.xn--io0a7i.cn,covid-19rapidtesting.xn--io0a7i.cn,,
-2020-06-29,covid-19-rapidtestkit.com.ba,covid-19-rapidtestkit.com.ba,,
 2020-06-29,covid19-rapid-test-kit.com.ba,covid19-rapid-test-kit.com.ba,,
-2020-06-29,covid-19-rapidtestkits.com.ba,195.222.33.180,BA,Europe
-2020-06-29,covid-19-rapidtestkits.com.ba,covid-19-rapidtestkits.com.ba,,
 2020-06-29,covid-19-rapid-test-kit.xn--fiqz9s,covid-19-rapid-test-kit.xn--fiqz9s,,
-2020-06-29,covid19rapidtests.la,covid19rapidtests.la,,
 2020-06-29,covid19securedarea.xn--55qx5d.cn,covid19securedarea.xn--55qx5d.cn,,
 2020-06-29,covid19-secure.xn--55qx5d.cn,covid19-secure.xn--55qx5d.cn,,
 2020-06-29,covid-19serologytest.com.ba,covid-19serologytest.com.ba,,
@@ -408,8 +419,6 @@
 2020-06-29,covid19tester.la,covid19tester.la,,
 2020-06-29,covid-19testingcenter.xn--io0a7i.cn,covid-19testingcenter.xn--io0a7i.cn,,
 2020-06-29,covid-19testingindfw.com.ba,covid-19testingindfw.com.ba,,
-2020-06-29,covid-19-testing-kits.com.ba,195.222.33.180,BA,Europe
-2020-06-29,covid-19-testing-kits.com.ba,covid-19-testing-kits.com.ba,,
 2020-06-29,covid19-testing-kits.xn--55qx5d.cn,covid19-testing-kits.xn--55qx5d.cn,,
 2020-06-29,covid-19testinglabs.com.ba,covid-19testinglabs.com.ba,,
 2020-06-29,covid-19testinglabs.xn--55qx5d.cn,covid-19testinglabs.xn--55qx5d.cn,,
@@ -449,6 +458,5 @@
 2020-06-29,covidcure19vaccine.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-06-29,covidcure19vaccine.xn--fiqz9s,covidcure19vaccine.xn--fiqz9s,,
 2020-06-29,covidcure19.xn--fiqz9s,covidcure19.xn--fiqz9s,,
+2020-06-29,querotestarcovid.com.br,querotestarcovid.com.br,,
 2020-06-29,sdvo9a00z7.covid-19testingsite.com.ba,195.222.33.180,BA,Europe
-2020-06-29,sonacovidtest.com,sonacovidtest.com,,
-2020-06-29,testopcoronavirus.nl,testopcoronavirus.nl,,
