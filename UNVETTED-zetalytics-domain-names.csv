@@ -2,75 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-06-28,covidsecure.space,94.136.40.51,GB,Europe
-2020-06-28,covidsecure.space,covidsecure.space,,
-2020-06-28,cure2covid-19.com.ba,195.222.33.180,BA,Europe
-2020-06-28,cure2covid-19.com.ba,cure2covid-19.com.ba,,
-2020-06-28,cure2covid-19.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-28,cure2covid-19.xn--od0alg.cn,cure2covid-19.xn--od0alg.cn,,
-2020-06-28,cure4coronavirus.com.ba,195.222.33.180,BA,Europe
-2020-06-28,cure4coronavirus.com.ba,cure4coronavirus.com.ba,,
-2020-06-28,cure4coronavirus.la,173.230.141.80,US,North America
-2020-06-28,cure4coronavirus.la,cure4coronavirus.la,,
-2020-06-28,cure-corona19.la,cure-corona19.la,,
-2020-06-28,curecorona-19.xn--fiqz9s,curecorona-19.xn--fiqz9s,,
-2020-06-28,cure-corona-virus.la,cure-corona-virus.la,,
-2020-06-28,curecoronavirusnowusa.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-06-28,curecoronavirusnowusa.xn--io0a7i.cn,curecoronavirusnowusa.xn--io0a7i.cn,,
-2020-06-28,curecoronavirustoday.xn--55qx5d.cn,curecoronavirustoday.xn--55qx5d.cn,,
-2020-06-28,curecoronavirustoday.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-28,curecoronavirustoday.xn--od0alg.cn,curecoronavirustoday.xn--od0alg.cn,,
-2020-06-28,cure-corona-virus.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-28,cure-corona-virus.xn--fiqs8s,cure-corona-virus.xn--fiqs8s,,
-2020-06-28,curecoronavirus.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-28,curecoronavirus.xn--fiqz9s,curecoronavirus.xn--fiqz9s,,
-2020-06-28,curecovid19.com.ba,195.222.33.180,BA,Europe
-2020-06-28,curecovid19.com.ba,curecovid19.com.ba,,
-2020-06-28,curecovid19.la,173.230.141.80,US,North America
-2020-06-28,curecovid19.la,curecovid19.la,,
-2020-06-28,curecovid19now.com.ba,195.222.33.180,BA,Europe
-2020-06-28,curecovid19now.com.ba,curecovid19now.com.ba,,
-2020-06-28,curecovid19now.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-28,curecovid19now.xn--fiqz9s,curecovid19now.xn--fiqz9s,,
-2020-06-28,curecovid19virus.xn--io0a7i.cn,curecovid19virus.xn--io0a7i.cn,,
-2020-06-28,curecovid19virus.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-28,curecovid19virus.xn--od0alg.cn,curecovid19virus.xn--od0alg.cn,,
-2020-06-28,curecovid-19.xn--55qx5d.cn,curecovid-19.xn--55qx5d.cn,,
-2020-06-28,curedcovid19.xn--55qx5d.cn,curedcovid19.xn--55qx5d.cn,,
-2020-06-28,curedcovid19.xn--fiqs8s,curedcovid19.xn--fiqs8s,,
-2020-06-28,curedfromcovid19.la,curedfromcovid19.la,,
-2020-06-28,cureforcoronavirus.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-28,cureforcoronavirus.xn--fiqz9s,cureforcoronavirus.xn--fiqz9s,,
-2020-06-28,cureforcoronavirus.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-06-28,cureforcoronavirus.xn--od0alg.cn,cureforcoronavirus.xn--od0alg.cn,,
-2020-06-28,cureforcovid-19.xn--55qx5d.cn,cureforcovid-19.xn--55qx5d.cn,,
-2020-06-28,cureforcovid19.xn--fiqz9s,cureforcovid19.xn--fiqz9s,,
-2020-06-28,curemecoronavirus.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-28,curemecoronavirus.xn--fiqs8s,curemecoronavirus.xn--fiqs8s,,
-2020-06-28,curescovid-19.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-28,curescovid-19.xn--55qx5d.cn,curescovid-19.xn--55qx5d.cn,,
-2020-06-28,curesforthecoronavirus.com.ba,195.222.33.180,BA,Europe
-2020-06-28,curesforthecoronavirus.com.ba,curesforthecoronavirus.com.ba,,
-2020-06-28,curethecoronav.xn--od0alg.cn,curethecoronav.xn--od0alg.cn,,
-2020-06-28,curethecovid19.com.ba,195.222.33.180,BA,Europe
-2020-06-28,curethecovid19.com.ba,curethecovid19.com.ba,,
-2020-06-28,curethecovid-19.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-28,curethecovid-19.xn--55qx5d.cn,curethecovid-19.xn--55qx5d.cn,,
-2020-06-28,curethecovid-19.xn--fiqs8s,curethecovid-19.xn--fiqs8s,,
-2020-06-28,curethecovid19.xn--od0alg.cn,curethecovid19.xn--od0alg.cn,,
-2020-06-28,curevaccoronavirus.com.ba,195.222.33.180,BA,Europe
-2020-06-28,curevaccoronavirus.com.ba,curevaccoronavirus.com.ba,,
-2020-06-28,cureyourcoronavirus.la,173.230.141.80,US,North America
-2020-06-28,cureyourcoronavirus.la,cureyourcoronavirus.la,,
-2020-06-28,cvcovid19cure.la,cvcovid19cure.la,,
-2020-06-28,lacureducovid.fr,50.63.202.58,US,North America
-2020-06-28,lacureducovid.fr,lacureducovid.fr,,
-2020-06-28,speedycovidtests.com,,bio=cd5542453bd47807b6a02dc4688c863c567da68f,,
-2020-06-28,speedycovidtests.com,I3Y9c3BmMSBpcDY6ZmQ0MzpjMGQxOmMwOTA6Oi80OCAtYWxs,,
-2020-06-28,speedycovidtests.com,I3Y9c3BmMSBpcDY6ZmQ3MzpiYzhiOmZiOGI6Oi80OCAtYWxs,,
-2020-06-28,speedycovidtests.com,LGJpbz1jZDU1NDI0NTNiZDQ3ODA3YjZhMDJkYzQ2ODhjODYzYzU2N2RhNjhm,,
-2020-06-28,speedycovidtests.com,#v=spf1 ip6:fd43:c0d1:c090::/48 -all,,
-2020-06-28,speedycovidtests.com,#v=spf1 ip6:fd73:bc8b:fb8b::/48 -all,,
 2020-06-29,corona19cured.la,173.230.141.80,US,North America
 2020-06-29,corona19cured.la,corona19cured.la,,
 2020-06-29,corona19cure.la,corona19cure.la,,
@@ -172,6 +103,7 @@
 2020-06-29,coronaviruselftest.la,coronaviruselftest.la,,
 2020-06-29,coronavirusescure.xn--od0alg.cn,coronavirusescure.xn--od0alg.cn,,
 2020-06-29,coronavirusestest.xn--od0alg.cn,coronavirusestest.xn--od0alg.cn,,
+2020-06-29,coronavirusetest.xn--55qx5d.cn,coronavirusetest.xn--55qx5d.cn,,
 2020-06-29,coronavirus-express-test.com.ba,195.222.33.180,BA,Europe
 2020-06-29,coronavirus-express-test.com.ba,coronavirus-express-test.com.ba,,
 2020-06-29,coronavirusfasttest.xn--55qx5d.cn,coronavirusfasttest.xn--55qx5d.cn,,
@@ -277,6 +209,8 @@
 2020-06-29,coronavirustestingcenter.xn--od0alg.cn,coronavirustestingcenter.xn--od0alg.cn,,
 2020-06-29,coronavirustestingcentres.la,coronavirustestingcentres.la,,
 2020-06-29,coronavirustestingcompany.xn--55qx5d.cn,coronavirustestingcompany.xn--55qx5d.cn,,
+2020-06-29,coronavirustestingfl.xn--io0a7i.cn,218.241.116.40,CN,Asia
+2020-06-29,coronavirustestingfl.xn--io0a7i.cn,coronavirustestingfl.xn--io0a7i.cn,,
 2020-06-29,coronavirustestingkits.la,coronavirustestingkits.la,,
 2020-06-29,coronavirustestingkit.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-29,coronavirustestingkit.xn--fiqs8s,coronavirustestingkit.xn--fiqs8s,,
@@ -359,6 +293,8 @@
 2020-06-29,covid-19at-hometesting.xn--io0a7i.cn,covid-19at-hometesting.xn--io0a7i.cn,,
 2020-06-29,covid19avoidsecure.com.ba,195.222.33.180,BA,Europe
 2020-06-29,covid19avoidsecure.com.ba,covid19avoidsecure.com.ba,,
+2020-06-29,covid-19besttestkits.com.ba,195.222.33.180,BA,Europe
+2020-06-29,covid-19besttestkits.com.ba,covid-19besttestkits.com.ba,,
 2020-06-29,covid-19bloodtests.xn--55qx5d.cn,covid-19bloodtests.xn--55qx5d.cn,,
 2020-06-29,covid-19breathtesting.xn--od0alg.cn,covid-19breathtesting.xn--od0alg.cn,,
 2020-06-29,covid-19breathtests.com.ba,195.222.33.180,BA,Europe
@@ -406,6 +342,7 @@
 2020-06-29,covid-19kitstest.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-06-29,covid-19kitstest.xn--fiqs8s,covid-19kitstest.xn--fiqs8s,,
 2020-06-29,covid-19kitstest.xn--od0alg.cn,covid-19kitstest.xn--od0alg.cn,,
+2020-06-29,covid-19mobiletestingservices.xn--od0alg.cn,covid-19mobiletestingservices.xn--od0alg.cn,,
 2020-06-29,covid19mytest.com.ba,covid19mytest.com.ba,,
 2020-06-29,covid19naturalcures.xn--fiqs8s,covid19naturalcures.xn--fiqs8s,,
 2020-06-29,covid19naturescure.xn--fiqz9s,covid19naturescure.xn--fiqz9s,,
