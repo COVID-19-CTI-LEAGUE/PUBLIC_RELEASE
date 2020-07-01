@@ -4,6 +4,8 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-06-30,247covidtesting.com,247covidtesting.com,,
 2020-06-30,247covidtesting.com,50.63.202.60,US,North America
+2020-06-30,247covidtesting.com,ns59.domaincontrol.com,,
+2020-06-30,247covidtesting.com,ns60.domaincontrol.com,,
 2020-06-30,accovidtest.com,198.58.118.167,US,North America
 2020-06-30,accovidtest.com,45.33.23.183,US,North America
 2020-06-30,accovidtest.com,45.33.2.79,US,North America
@@ -14,6 +16,8 @@
 2020-06-30,accovidtest.com,I3Y9c3BmMSBpcDY6ZmQ0MzpjMGQxOmMwOTA6Oi80OCAtYWxs,,
 2020-06-30,accovidtest.com,I3Y9c3BmMSBpcDY6ZmQ3MzpiYzhiOmZiOGI6Oi80OCAtYWxs,,
 2020-06-30,accovidtest.com,LGJpbz1jZDU1NDI0NTNiZDQ3ODA3YjZhMDJkYzQ2ODhjODYzYzU2N2RhNjhm,,
+2020-06-30,accovidtest.com,ns1.mytrafficmanagement.com,,
+2020-06-30,accovidtest.com,ns2.mytrafficmanagement.com,,
 2020-06-30,azcovidtests.com,50.63.202.42,US,North America
 2020-06-30,azcovidtests.com,azcovidtests.com,,
 2020-06-30,azcovidtests.com,ns07.domaincontrol.com,,
@@ -48,6 +52,8 @@
 2020-06-30,covid19testingne.co1.avajtrics.com,cloudenhanced.qualtrics.com.edgekey.net,,
 2020-06-30,covid19testingne.co1.avajtrics.com,e12398.b.akamaiedge.net,,
 2020-06-30,covidsecure21.com,covidsecure21.com,,
+2020-06-30,covidsecure21.com,ns07.domaincontrol.com,,
+2020-06-30,covidsecure21.com,ns08.domaincontrol.com,,
 2020-06-30,covidsecuretravel.com,184.168.221.62,US,North America
 2020-06-30,covidsecuretravel.com,covidsecuretravel.com,,
 2020-06-30,covid-test.co,52.73.181.69,US,North America
@@ -59,6 +65,8 @@
 2020-06-30,morriscountycovidtest.com,morriscountycovidtest.com,,
 2020-06-30,morriscountycovidtest.com,ns8019.hostgator.com,,
 2020-06-30,morriscountycovidtest.com,ns8020.hostgator.com,,
+2020-06-30,morriscountycovidtest.com,wns45.hostgator.com,,
+2020-06-30,morriscountycovidtest.com,wns46.hostgator.com,,
 2020-06-30,mypluscovidtest.com,198.58.118.167,US,North America
 2020-06-30,mypluscovidtest.com,45.33.23.183,US,North America
 2020-06-30,mypluscovidtest.com,45.33.2.79,US,North America
@@ -118,6 +126,7 @@
 2020-06-30,www.covidsecure21.com,3.9.86.42,GB,Europe
 2020-06-30,www.covidsecure21.com,covidsecure21.com,,
 2020-06-30,www.newyorkcitycovid19testing.ph,45.79.222.138,US,North America
+2020-06-30,www.newyorkcitycovid-19test.ph,45.79.222.138,US,North America
 2020-06-30,www.novelcovid19hometestkit.com.ph,45.79.222.138,US,North America
 2020-06-30,www.officialcovid19testkit.ph,45.79.222.138,US,North America
 2020-07-01,1t51znqtnh.mobile-covid-test.at,185.51.8.94,AT,Europe
@@ -126,17 +135,25 @@
 2020-07-01,buycovidselftest.us,buycovidselftest.us,,
 2020-07-01,chicagocoronavirustest.com.ba,195.222.33.180,BA,Europe
 2020-07-01,chicagocoronavirustest.com.ba,chicagocoronavirustest.com.ba,,
+2020-07-01,chicagocovid-19testing.com.ba,195.222.33.180,BA,Europe
 2020-07-01,chicagocovid-19testing.com.ba,chicagocovid-19testing.com.ba,,
+2020-07-01,chloroquine-cureforcoronavirus.la,chloroquine-cureforcoronavirus.la,,
 2020-07-01,clearcovidtest.com,198.185.159.144,US,North America
 2020-07-01,clearcovidtest.com,198.185.159.145,US,North America
 2020-07-01,clearcovidtest.com,198.49.23.144,US,North America
 2020-07-01,clearcovidtest.com,198.49.23.145,US,North America
 2020-07-01,clearcovidtest.com,clearcovidtest.com,,
+2020-07-01,clearcovidtest.com,ns07.domaincontrol.com,,
+2020-07-01,clearcovidtest.com,ns08.domaincontrol.com,,
 2020-07-01,covidself-test.us,184.168.131.241,US,North America
 2020-07-01,covidself-test.us,covidself-test.us,,
 2020-07-01,covidtestmiami.com,covidtestmiami.com,,
+2020-07-01,covidtestscotland.com,covidtestscotland.com,,
+2020-07-01,covidtestscotland.com,ns21.domaincontrol.com,,
+2020-07-01,covidtestscotland.com,ns22.domaincontrol.com,,
 2020-07-01,cures4covid.com,50.63.202.36,US,North America
 2020-07-01,cures4covid.com,cures4covid.com,,
+2020-07-01,ditestingmx-covid.com,50.63.202.61,US,North America
 2020-07-01,ditestingmx-covid.com,ditestingmx-covid.com,,
 2020-07-01,mobile-covid-test.at,185.51.8.94,AT,Europe
 2020-07-01,mobile-covid-test.at,2a01:aee0::23:0:0:0:11,AT,Europe
@@ -144,6 +161,7 @@
 2020-07-01,mobile-covid-test.at,mobile-covid-test.at,,
 2020-07-01,mobile-covid-test.at,ns1.easyname.eu,,
 2020-07-01,mobile-covid-test.at,ns2.easyname.eu,,
+2020-07-01,mobile-covid-test.at,$v=spf1 include:spf.easyname.com -all,,
 2020-07-01,montest-covid19.com.ph,montest-covid19.com.ph,,
 2020-07-01,montest-covid19.ws,64.70.19.203,US,North America
 2020-07-01,montest-covid19.ws,montest-covid19.ws,,
@@ -168,6 +186,8 @@
 2020-07-01,nopaincovidtesting.com,50.63.202.47,US,North America
 2020-07-01,nopaincovidtesting.com,50.63.202.56,US,North America
 2020-07-01,nopaincovidtesting.com,nopaincovidtesting.com,,
+2020-07-01,nopaincovidtesting.com,ns67.domaincontrol.com,,
+2020-07-01,nopaincovidtesting.com,ns68.domaincontrol.com,,
 2020-07-01,painfreecovidtesting.com,ns21.domaincontrol.com,,
 2020-07-01,painfreecovidtesting.com,ns22.domaincontrol.com,,
 2020-07-01,painfreecovidtesting.com,painfreecovidtesting.com,,
@@ -175,6 +195,8 @@
 2020-07-01,painlesscovidtesting.com,50.63.202.40,US,North America
 2020-07-01,painlesscovidtesting.com,50.63.202.58,US,North America
 2020-07-01,painlesscovidtesting.com,50.63.202.62,US,North America
+2020-07-01,painlesscovidtesting.com,ns67.domaincontrol.com,,
+2020-07-01,painlesscovidtesting.com,ns68.domaincontrol.com,,
 2020-07-01,painlesscovidtesting.com,painlesscovidtesting.com,,
 2020-07-01,siennacovid-19testkit.com,siennacovid-19testkit.com,,
 2020-07-01,testyourselfcovid19.ws,mail.hope-mail.com,,
@@ -186,5 +208,6 @@
 2020-07-01,www.mobile-covid-test.at,185.51.8.94,AT,Europe
 2020-07-01,www.mobile-covid-test.at,2a01:aee0::23:0:0:0:11,AT,Europe
 2020-07-01,www.mycovid-19cure.com.ph,45.79.222.138,US,North America
+2020-07-01,www.mycovid19hometestkit.com.ph,45.79.222.138,US,North America
 2020-07-01,www.siennacovid-19testkit.com,72.167.191.69,US,North America
 2020-07-01,www.siennacovid-19testkit.com,siennacovid-19testkit.com,,
