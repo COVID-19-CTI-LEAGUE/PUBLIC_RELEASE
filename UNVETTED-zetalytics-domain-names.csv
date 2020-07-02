@@ -2,133 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-06-30,247covidtesting.com,247covidtesting.com,,
-2020-06-30,247covidtesting.com,50.63.202.60,US,North America
-2020-06-30,247covidtesting.com,ns59.domaincontrol.com,,
-2020-06-30,247covidtesting.com,ns60.domaincontrol.com,,
-2020-06-30,accovidtest.com,198.58.118.167,US,North America
-2020-06-30,accovidtest.com,45.33.23.183,US,North America
-2020-06-30,accovidtest.com,45.33.2.79,US,North America
-2020-06-30,accovidtest.com,45.56.79.23,US,North America
-2020-06-30,accovidtest.com,45.79.19.196,US,North America
-2020-06-30,accovidtest.com,96.126.123.244,US,North America
-2020-06-30,accovidtest.com,accovidtest.com,,
-2020-06-30,accovidtest.com,I3Y9c3BmMSBpcDY6ZmQ0MzpjMGQxOmMwOTA6Oi80OCAtYWxs,,
-2020-06-30,accovidtest.com,I3Y9c3BmMSBpcDY6ZmQ3MzpiYzhiOmZiOGI6Oi80OCAtYWxs,,
-2020-06-30,accovidtest.com,LGJpbz1jZDU1NDI0NTNiZDQ3ODA3YjZhMDJkYzQ2ODhjODYzYzU2N2RhNjhm,,
-2020-06-30,accovidtest.com,ns1.mytrafficmanagement.com,,
-2020-06-30,accovidtest.com,ns2.mytrafficmanagement.com,,
-2020-06-30,azcovidtests.com,50.63.202.42,US,North America
-2020-06-30,azcovidtests.com,azcovidtests.com,,
-2020-06-30,azcovidtests.com,ns07.domaincontrol.com,,
-2020-06-30,azcovidtests.com,ns08.domaincontrol.com,,
-2020-06-30,cnscoronavirustesting.la,173.230.141.80,US,North America
-2020-06-30,cnscoronavirustesting.la,cnscoronavirustesting.la,,
-2020-06-30,coloradocovid19test.la,coloradocovid19test.la,,
-2020-06-30,columbuscoronavirustests.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-30,columbuscoronavirustests.xn--fiqs8s,columbuscoronavirustests.xn--fiqs8s,,
-2020-06-30,columbuscoronavirustest.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-06-30,columbuscoronavirustest.xn--fiqs8s,columbuscoronavirustest.xn--fiqs8s,,
-2020-06-30,columbuscovid19test.com.ba,195.222.33.180,BA,Europe
-2020-06-30,columbuscovid19test.com.ba,columbuscovid19test.com.ba,,
-2020-06-30,columbuscovid19testing.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-30,columbuscovid19testing.xn--fiqz9s,columbuscovid19testing.xn--fiqz9s,,
-2020-06-30,columbuscovid-19tests.xn--55qx5d.cn,columbuscovid-19tests.xn--55qx5d.cn,,
-2020-06-30,columbuscovid19tests.xn--io0a7i.cn,columbuscovid19tests.xn--io0a7i.cn,,
-2020-06-30,comprartestcovid19.com.ba,195.222.33.180,BA,Europe
-2020-06-30,comprartestcovid19.com.ba,comprartestcovid19.com.ba,,
-2020-06-30,comprartestcovid19.la,173.230.141.80,US,North America
-2020-06-30,comprartestcovid19.la,comprartestcovid19.la,,
-2020-06-30,coronaviruscures.la,173.230.141.80,US,North America
-2020-06-30,coronaviruscures.la,coronaviruscures.la,,
-2020-06-30,coronavirusvaccinecure.com,184.168.221.52,US,North America
-2020-06-30,coronavirusvaccinecure.com,coronavirusvaccinecure.com,,
-2020-06-30,coronaviruszelftesten.nl,coronaviruszelftesten.nl,,
-2020-06-30,covid19cure.cf,195.20.54.7,NL,Europe
-2020-06-30,covid19cure.cf,covid19cure.cf,,
-2020-06-30,covid19testall.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-06-30,covid19testall.xn--55qx5d.cn,covid19testall.xn--55qx5d.cn,,
-2020-06-30,covid19testingne.co1.avajtrics.com,23.40.40.202,US,North America
-2020-06-30,covid19testingne.co1.avajtrics.com,cloudenhanced.qualtrics.com.edgekey.net,,
-2020-06-30,covid19testingne.co1.avajtrics.com,e12398.b.akamaiedge.net,,
-2020-06-30,covidsecure21.com,covidsecure21.com,,
-2020-06-30,covidsecure21.com,ns07.domaincontrol.com,,
-2020-06-30,covidsecure21.com,ns08.domaincontrol.com,,
-2020-06-30,covidsecuretravel.com,184.168.221.62,US,North America
-2020-06-30,covidsecuretravel.com,covidsecuretravel.com,,
-2020-06-30,covid-test.co,52.73.181.69,US,North America
-2020-06-30,covid-test.co,covid-test.co,,
-2020-06-30,mail.morriscountycovidtest.com,162.144.20.170,US,North America
-2020-06-30,morriscountycovidtest.com,162.144.20.170,US,North America
-2020-06-30,morriscountycovidtest.com,192.185.0.218,US,North America
-2020-06-30,morriscountycovidtest.com,192.185.16.85,US,North America
-2020-06-30,morriscountycovidtest.com,morriscountycovidtest.com,,
-2020-06-30,morriscountycovidtest.com,ns8019.hostgator.com,,
-2020-06-30,morriscountycovidtest.com,ns8020.hostgator.com,,
-2020-06-30,morriscountycovidtest.com,wns45.hostgator.com,,
-2020-06-30,morriscountycovidtest.com,wns46.hostgator.com,,
-2020-06-30,mypluscovidtest.com,198.58.118.167,US,North America
-2020-06-30,mypluscovidtest.com,45.33.23.183,US,North America
-2020-06-30,mypluscovidtest.com,45.33.2.79,US,North America
-2020-06-30,mypluscovidtest.com,45.56.79.23,US,North America
-2020-06-30,mypluscovidtest.com,45.79.19.196,US,North America
-2020-06-30,mypluscovidtest.com,96.126.123.244,US,North America
-2020-06-30,mypluscovidtest.com,mypluscovidtest.com,,
-2020-06-30,mypluscovidtest.com,ns1.mytrafficmanagement.com,,
-2020-06-30,mypluscovidtest.com,ns2.mytrafficmanagement.com,,
-2020-06-30,mysmartcovid19test.fm,198.74.54.240,US,North America
-2020-06-30,mysmartcovid19test.fm,mysmartcovid19test.fm,,
-2020-06-30,nationalcoronavirustestcentres.com.ph,45.79.222.138,US,North America
-2020-06-30,nationalcoronavirustestcentres.com.ph,nationalcoronavirustestcentres.com.ph,,
-2020-06-30,naturalcoronaviruscure.com.ph,naturalcoronaviruscure.com.ph,,
-2020-06-30,ncovid19testkit.ph,45.79.222.138,US,North America
-2020-06-30,ncovid19testkit.ph,ncovid19testkit.ph,,
-2020-06-30,needscovid19test.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
-2020-06-30,needscovid19test.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-06-30,needscovid19test.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-06-30,needscovid19test.fm,needscovid19test.fm,,
-2020-06-30,needscovid19test.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-06-30,newcovid19testkits.com.ph,45.79.222.138,US,North America
-2020-06-30,newcovid19testkits.com.ph,newcovid19testkits.com.ph,,
-2020-06-30,newyorkcitycoronavirustesting.ph,45.79.222.138,US,North America
-2020-06-30,newyorkcitycoronavirustesting.ph,newyorkcitycoronavirustesting.ph,,
-2020-06-30,newyorkcitycovid19testing.com.ph,45.79.222.138,US,North America
-2020-06-30,newyorkcitycovid19testing.com.ph,newyorkcitycovid19testing.com.ph,,
-2020-06-30,newyorkcitycovid19testing.ph,45.79.222.138,US,North America
-2020-06-30,newyorkcitycovid19testing.ph,newyorkcitycovid19testing.ph,,
-2020-06-30,newyorkcitycovid-19test.ph,newyorkcitycovid-19test.ph,,
-2020-06-30,newyorkcovid19test.ph,45.79.222.138,US,North America
-2020-06-30,newyorkcovid19test.ph,newyorkcovid19test.ph,,
-2020-06-30,newyorkcovid19tests.com.ph,45.79.222.138,US,North America
-2020-06-30,newyorkcovid19tests.com.ph,newyorkcovid19tests.com.ph,,
-2020-06-30,novelcoronaviruslabtest.com.ph,45.79.222.138,US,North America
-2020-06-30,novelcoronaviruslabtest.com.ph,novelcoronaviruslabtest.com.ph,,
-2020-06-30,novelcoronaviruslabtests.ph,45.79.222.138,US,North America
-2020-06-30,novelcoronaviruslabtests.ph,novelcoronaviruslabtests.ph,,
-2020-06-30,novelcoronavirustests.com.ph,45.79.222.138,US,North America
-2020-06-30,novelcoronavirustests.com.ph,novelcoronavirustests.com.ph,,
-2020-06-30,novelcovid19hometestkit.com.ph,novelcovid19hometestkit.com.ph,,
-2020-06-30,novelcovid19hometestkit.ph,novelcovid19hometestkit.ph,,
-2020-06-30,nwhcovid19testkit.com.ph,45.79.222.138,US,North America
-2020-06-30,nwhcovid19testkit.com.ph,nwhcovid19testkit.com.ph,,
-2020-06-30,nwhcovid19testkit.ph,nwhcovid19testkit.ph,,
-2020-06-30,nycoronavirustest.ph,45.79.222.138,US,North America
-2020-06-30,nycoronavirustest.ph,nycoronavirustest.ph,,
-2020-06-30,officialcoronavirustestkit.ph,45.79.222.138,US,North America
-2020-06-30,officialcoronavirustestkit.ph,officialcoronavirustestkit.ph,,
-2020-06-30,officialcovid19testkit.ph,officialcovid19testkit.ph,,
-2020-06-30,rapidcoronavirustestkit.ws,64.70.19.203,US,North America
-2020-06-30,rapidcoronavirustestkit.ws,rapidcoronavirustestkit.ws,,
-2020-06-30,securecovid.me,securecovid.me,,
-2020-06-30,www77.mypluscovidtest.com,11339.searchmagnified.com,,
-2020-06-30,www77.mypluscovidtest.com,199.191.50.39,VG,North America
-2020-06-30,www.columbuscovid19testing.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-06-30,www.covidsecure21.com,3.9.86.42,GB,Europe
-2020-06-30,www.covidsecure21.com,covidsecure21.com,,
-2020-06-30,www.newyorkcitycovid19testing.ph,45.79.222.138,US,North America
-2020-06-30,www.newyorkcitycovid-19test.ph,45.79.222.138,US,North America
-2020-06-30,www.novelcovid19hometestkit.com.ph,45.79.222.138,US,North America
-2020-06-30,www.officialcovid19testkit.ph,45.79.222.138,US,North America
 2020-07-01,1t51znqtnh.mobile-covid-test.at,185.51.8.94,AT,Europe
 2020-07-01,1t51znqtnh.mobile-covid-test.at,2a01:aee0::23:0:0:0:11,AT,Europe
 2020-07-01,buycovidselftest.us,184.168.131.241,US,North America
@@ -137,6 +10,7 @@
 2020-07-01,chicagocoronavirustest.com.ba,chicagocoronavirustest.com.ba,,
 2020-07-01,chicagocovid-19testing.com.ba,195.222.33.180,BA,Europe
 2020-07-01,chicagocovid-19testing.com.ba,chicagocovid-19testing.com.ba,,
+2020-07-01,chloroquine-cureforcoronavirus.la,173.230.141.80,US,North America
 2020-07-01,chloroquine-cureforcoronavirus.la,chloroquine-cureforcoronavirus.la,,
 2020-07-01,clearcovidtest.com,198.185.159.144,US,North America
 2020-07-01,clearcovidtest.com,198.185.159.145,US,North America
@@ -155,6 +29,17 @@
 2020-07-01,cures4covid.com,cures4covid.com,,
 2020-07-01,ditestingmx-covid.com,50.63.202.61,US,North America
 2020-07-01,ditestingmx-covid.com,ditestingmx-covid.com,,
+2020-07-01,ditestingmx-covid.com,ns69.domaincontrol.com,,
+2020-07-01,ditestingmx-covid.com,ns70.domaincontrol.com,,
+2020-07-01,embrywomenscovidtesting.com,198.58.118.167,US,North America
+2020-07-01,embrywomenscovidtesting.com,45.33.23.183,US,North America
+2020-07-01,embrywomenscovidtesting.com,45.33.2.79,US,North America
+2020-07-01,embrywomenscovidtesting.com,45.56.79.23,US,North America
+2020-07-01,embrywomenscovidtesting.com,45.79.19.196,US,North America
+2020-07-01,embrywomenscovidtesting.com,96.126.123.244,US,North America
+2020-07-01,embrywomenscovidtesting.com,embrywomenscovidtesting.com,,
+2020-07-01,embrywomenscovidtesting.com,ns1.mytrafficmanagement.com,,
+2020-07-01,embrywomenscovidtesting.com,ns2.mytrafficmanagement.com,,
 2020-07-01,mobile-covid-test.at,185.51.8.94,AT,Europe
 2020-07-01,mobile-covid-test.at,2a01:aee0::23:0:0:0:11,AT,Europe
 2020-07-01,mobile-covid-test.at,JHY9c3BmMSBpbmNsdWRlOnNwZi5lYXN5bmFtZS5jb20gLWFsbA==,,
