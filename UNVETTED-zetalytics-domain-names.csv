@@ -2,106 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-01,1t51znqtnh.mobile-covid-test.at,185.51.8.94,AT,Europe
-2020-07-01,1t51znqtnh.mobile-covid-test.at,2a01:aee0::23:0:0:0:11,AT,Europe
-2020-07-01,buycovidselftest.us,184.168.131.241,US,North America
-2020-07-01,buycovidselftest.us,buycovidselftest.us,,
-2020-07-01,chicagocoronavirustest.com.ba,195.222.33.180,BA,Europe
-2020-07-01,chicagocoronavirustest.com.ba,chicagocoronavirustest.com.ba,,
-2020-07-01,chicagocovid-19testing.com.ba,195.222.33.180,BA,Europe
-2020-07-01,chicagocovid-19testing.com.ba,chicagocovid-19testing.com.ba,,
-2020-07-01,chloroquine-cureforcoronavirus.la,173.230.141.80,US,North America
-2020-07-01,chloroquine-cureforcoronavirus.la,chloroquine-cureforcoronavirus.la,,
-2020-07-01,clearcovidtest.com,198.185.159.144,US,North America
-2020-07-01,clearcovidtest.com,198.185.159.145,US,North America
-2020-07-01,clearcovidtest.com,198.49.23.144,US,North America
-2020-07-01,clearcovidtest.com,198.49.23.145,US,North America
-2020-07-01,clearcovidtest.com,clearcovidtest.com,,
-2020-07-01,clearcovidtest.com,ns07.domaincontrol.com,,
-2020-07-01,clearcovidtest.com,ns08.domaincontrol.com,,
-2020-07-01,covidself-test.us,184.168.131.241,US,North America
-2020-07-01,covidself-test.us,covidself-test.us,,
-2020-07-01,covidtestmiami.com,covidtestmiami.com,,
-2020-07-01,covidtestmiami.com,ns71.domaincontrol.com,,
-2020-07-01,covidtestmiami.com,ns72.domaincontrol.com,,
-2020-07-01,covidtestscotland.com,covidtestscotland.com,,
-2020-07-01,covidtestscotland.com,ns21.domaincontrol.com,,
-2020-07-01,covidtestscotland.com,ns22.domaincontrol.com,,
-2020-07-01,cures4covid.com,50.63.202.36,US,North America
-2020-07-01,cures4covid.com,cures4covid.com,,
-2020-07-01,ditestingmx-covid.com,50.63.202.61,US,North America
-2020-07-01,ditestingmx-covid.com,ditestingmx-covid.com,,
-2020-07-01,ditestingmx-covid.com,ns69.domaincontrol.com,,
-2020-07-01,ditestingmx-covid.com,ns70.domaincontrol.com,,
-2020-07-01,embrywomenscovidtesting.com,198.58.118.167,US,North America
-2020-07-01,embrywomenscovidtesting.com,45.33.23.183,US,North America
-2020-07-01,embrywomenscovidtesting.com,45.33.2.79,US,North America
-2020-07-01,embrywomenscovidtesting.com,45.56.79.23,US,North America
-2020-07-01,embrywomenscovidtesting.com,45.79.19.196,US,North America
-2020-07-01,embrywomenscovidtesting.com,96.126.123.244,US,North America
-2020-07-01,embrywomenscovidtesting.com,embrywomenscovidtesting.com,,
-2020-07-01,embrywomenscovidtesting.com,ns1.mytrafficmanagement.com,,
-2020-07-01,embrywomenscovidtesting.com,ns2.mytrafficmanagement.com,,
-2020-07-01,mobile-covid-test.at,185.51.8.94,AT,Europe
-2020-07-01,mobile-covid-test.at,2a01:aee0::23:0:0:0:11,AT,Europe
-2020-07-01,mobile-covid-test.at,JHY9c3BmMSBpbmNsdWRlOnNwZi5lYXN5bmFtZS5jb20gLWFsbA==,,
-2020-07-01,mobile-covid-test.at,mobile-covid-test.at,,
-2020-07-01,mobile-covid-test.at,ns1.easyname.eu,,
-2020-07-01,mobile-covid-test.at,ns2.easyname.eu,,
-2020-07-01,mobile-covid-test.at,$v=spf1 include:spf.easyname.com -all,,
-2020-07-01,montest-covid19.com.ph,montest-covid19.com.ph,,
-2020-07-01,montest-covid19.ws,64.70.19.203,US,North America
-2020-07-01,montest-covid19.ws,montest-covid19.ws,,
-2020-07-01,mycoronavirus19test.ph,mycoronavirus19test.ph,,
-2020-07-01,mycoronavirushometest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-07-01,mycoronavirushometest.ws,mycoronavirushometest.ws,,
-2020-07-01,mycoronavirushometest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-07-01,mycoronavirustestingkit.com.ph,45.79.222.138,US,North America
-2020-07-01,mycoronavirustestingkit.com.ph,mycoronavirustestingkit.com.ph,,
-2020-07-01,mycoronavirustestkit.fm,198.74.54.240,US,North America
-2020-07-01,mycoronavirustestkit.fm,mycoronavirustestkit.fm,,
-2020-07-01,mycovid19abtest.com.ph,mycovid19abtest.com.ph,,
-2020-07-01,mycovid-19cure.com.ph,mycovid-19cure.com.ph,,
-2020-07-01,mycovid-19cure.ws,mail.hope-mail.com,,
-2020-07-01,mycovid-19cure.ws,mycovid-19cure.ws,,
-2020-07-01,mycovid19hometestkit.com.ph,mycovid19hometestkit.com.ph,,
-2020-07-01,mycovid19testkit.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-07-01,mycovid19testkit.ws,mycovid19testkit.ws,,
-2020-07-01,mycovid19testkit.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-07-01,myquestcovidtesting.com.ph,myquestcovidtesting.com.ph,,
-2020-07-01,nopaincovidtesting.com,50.63.202.41,US,North America
-2020-07-01,nopaincovidtesting.com,50.63.202.47,US,North America
-2020-07-01,nopaincovidtesting.com,50.63.202.56,US,North America
-2020-07-01,nopaincovidtesting.com,nopaincovidtesting.com,,
-2020-07-01,nopaincovidtesting.com,ns67.domaincontrol.com,,
-2020-07-01,nopaincovidtesting.com,ns68.domaincontrol.com,,
-2020-07-01,painfreecovidtesting.com,ns21.domaincontrol.com,,
-2020-07-01,painfreecovidtesting.com,ns22.domaincontrol.com,,
-2020-07-01,painfreecovidtesting.com,painfreecovidtesting.com,,
-2020-07-01,painlesscovidtesting.com,50.63.202.38,US,North America
-2020-07-01,painlesscovidtesting.com,50.63.202.40,US,North America
-2020-07-01,painlesscovidtesting.com,50.63.202.58,US,North America
-2020-07-01,painlesscovidtesting.com,50.63.202.62,US,North America
-2020-07-01,painlesscovidtesting.com,ns67.domaincontrol.com,,
-2020-07-01,painlesscovidtesting.com,ns68.domaincontrol.com,,
-2020-07-01,painlesscovidtesting.com,painlesscovidtesting.com,,
-2020-07-01,siennacovid-19testkit.com,ns05.domaincontrol.com,,
-2020-07-01,siennacovid-19testkit.com,ns06.domaincontrol.com,,
-2020-07-01,siennacovid-19testkit.com,siennacovid-19testkit.com,,
-2020-07-01,testyourselfcovid19.ws,mail.hope-mail.com,,
-2020-07-01,testyourselfcovid19.ws,testyourselfcovid19.ws,,
-2020-07-01,walmartcovidtesting.com,50.63.202.40,US,North America
-2020-07-01,walmartcovidtesting.com,walmartcovidtesting.com,,
-2020-07-01,www.clearcovidtest.com,ext-sq.squarespace.com,,
-2020-07-01,www.covidtestmiami.com,72.167.191.69,US,North America
-2020-07-01,www.covidtestmiami.com,covidtestmiami.com,,
-2020-07-01,www.mobile-covid-test.at,185.51.8.94,AT,Europe
-2020-07-01,www.mobile-covid-test.at,2a01:aee0::23:0:0:0:11,AT,Europe
-2020-07-01,www.montest-covid19.com.ph,45.79.222.138,US,North America
-2020-07-01,www.mycovid-19cure.com.ph,45.79.222.138,US,North America
-2020-07-01,www.mycovid19hometestkit.com.ph,45.79.222.138,US,North America
-2020-07-01,www.siennacovid-19testkit.com,72.167.191.69,US,North America
-2020-07-01,www.siennacovid-19testkit.com,siennacovid-19testkit.com,,
 2020-07-02,athomecovid19test.me,23.227.38.32,CA,North America
 2020-07-02,athomecovid19test.me,athomecovid19test.me,,
 2020-07-02,azcovid19tests.ph,45.79.222.138,US,North America
@@ -223,3 +123,9 @@
 2020-07-02,turklabcovidtestkit.com,ns3.timeweb.org,,
 2020-07-02,turklabcovidtestkit.com,ns4.timeweb.org,,
 2020-07-02,turklabcovidtestkit.com,turklabcovidtestkit.com,,
+2020-07-03,24hrcovidtesting.com,24hrcovidtesting.com,,
+2020-07-03,24hrcovidtesting.com,ns07.domaincontrol.com,,
+2020-07-03,24hrcovidtesting.com,ns08.domaincontrol.com,,
+2020-07-03,azcovid19tests.com,azcovid19tests.com,,
+2020-07-03,azcovid19tests.com,ns21.domaincontrol.com,,
+2020-07-03,azcovid19tests.com,ns22.domaincontrol.com,,
