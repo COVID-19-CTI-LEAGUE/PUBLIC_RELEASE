@@ -205,6 +205,8 @@
 2020-07-04,latestcovid19.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-07-04,losangelescovidtesting.com,50.63.202.37,US,North America
 2020-07-04,losangelescovidtesting.com,losangelescovidtesting.com,,
+2020-07-04,losangelescovidtesting.com,ns59.domaincontrol.com,,
+2020-07-04,losangelescovidtesting.com,ns60.domaincontrol.com,,
 2020-07-04,notify-alercovid19-secure.com,notify-alercovid19-secure.com,,
 2020-07-04,notify-alercovid19-secure.com,ns-cloud-d1.googledomains.com,,
 2020-07-04,notify-alercovid19-secure.com,ns-cloud-d2.googledomains.com,,
