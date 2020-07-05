@@ -2,136 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-03,24hrcovidtesting.com,24hrcovidtesting.com,,
-2020-07-03,24hrcovidtesting.com,ns07.domaincontrol.com,,
-2020-07-03,24hrcovidtesting.com,ns08.domaincontrol.com,,
-2020-07-03,azcovid19tests.com,184.168.221.63,US,North America
-2020-07-03,azcovid19tests.com,azcovid19tests.com,,
-2020-07-03,azcovid19tests.com,ns21.domaincontrol.com,,
-2020-07-03,azcovid19tests.com,ns22.domaincontrol.com,,
-2020-07-03,cannabiscurescoronavirus.com,cannabiscurescoronavirus.com,,
-2020-07-03,cannabiscurescoronavirus.com,mx00.ionos.com,,
-2020-07-03,cannabiscurescoronavirus.com,mx01.ionos.com,,
-2020-07-03,cannabiscurescoronavirus.com,ns1041.ui-dns.org,,
-2020-07-03,cannabiscurescoronavirus.com,ns1043.ui-dns.biz,,
-2020-07-03,cannabiscurescoronavirus.com,ns1058.ui-dns.com,,
-2020-07-03,cannabiscurescoronavirus.com,ns1065.ui-dns.de,,
-2020-07-03,cannabiscurescovid.com,cannabiscurescovid.com,,
-2020-07-03,cannabiscurescovid.com,mx00.ionos.com,,
-2020-07-03,cannabiscurescovid.com,mx01.ionos.com,,
-2020-07-03,cannabiscurescovid.com,ns1041.ui-dns.org,,
-2020-07-03,cannabiscurescovid.com,ns1043.ui-dns.biz,,
-2020-07-03,cannabiscurescovid.com,ns1058.ui-dns.com,,
-2020-07-03,cannabiscurescovid.com,ns1065.ui-dns.de,,
-2020-07-03,cdcquickswabtestcoronavirus.com.ba,195.222.33.180,BA,Europe
-2020-07-03,cdcquickswabtestcoronavirus.com.ba,cdcquickswabtestcoronavirus.com.ba,,
-2020-07-03,cdcquickswabtestcoronavirus.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-07-03,cdcquickswabtestcoronavirus.xn--fiqz9s,cdcquickswabtestcoronavirus.xn--fiqz9s,,
-2020-07-03,cdphcovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-07-03,cdphcovid19testing.com.ba,cdphcovid19testing.com.ba,,
-2020-07-03,cdphcovid19testing.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-07-03,cdphcovid19testing.xn--55qx5d.cn,cdphcovid19testing.xn--55qx5d.cn,,
-2020-07-03,certifiedcovid19test.xn--fiqz9s,certifiedcovid19test.xn--fiqz9s,,
-2020-07-03,coronavirusflutest.ws,coronavirusflutest.ws,,
-2020-07-03,coronavirusflutest.ws,mail.hope-mail.com,,
-2020-07-03,covid-19surfacetest.com,50.63.202.47,US,North America
-2020-07-03,covid-19surfacetest.com,50.63.202.48,US,North America
-2020-07-03,covid-19surfacetest.com,50.63.202.63,US,North America
-2020-07-03,covid-19surfacetest.com,covid-19surfacetest.com,,
-2020-07-03,covid-19surfacetest.com,pdns09.domaincontrol.com,,
-2020-07-03,covid-19surfacetest.com,pdns10.domaincontrol.com,,
-2020-07-03,covid19testfraud.com,184.168.131.241,US,North America
-2020-07-03,covid19testfraud.com,covid19testfraud.com,,
-2020-07-03,covid19testfraud.com,ns75.domaincontrol.com,,
-2020-07-03,covid19testfraud.com,ns76.domaincontrol.com,,
-2020-07-03,covid-19testkit.xyz,104.18.60.143,US,North America
-2020-07-03,covid-19testkit.xyz,104.18.61.143,US,North America
-2020-07-03,covid-19testkit.xyz,172.67.148.33,US,North America
-2020-07-03,covid-19testkit.xyz,192.3.137.194,US,North America
-2020-07-03,covid-19testkit.xyz,2606:4700:3034::ac43:9421,US,North America
-2020-07-03,covid-19testkit.xyz,2606:4700:3035::6812:3d8f,US,North America
-2020-07-03,covid-19testkit.xyz,2606:4700:3037::6812:3c8f,US,North America
-2020-07-03,covid-19testkit.xyz,covid-19testkit.xyz,,
-2020-07-03,covid-19testkit.xyz,ns1.orbrahost.com,,
-2020-07-03,covid-19testkit.xyz,ns2.orbrahost.com,,
-2020-07-03,covidclinicaltest.com,50.63.202.44,US,North America
-2020-07-03,covidclinicaltest.com,covidclinicaltest.com,,
-2020-07-03,covidclinicaltest.com,ns71.domaincontrol.com,,
-2020-07-03,covidclinicaltest.com,ns72.domaincontrol.com,,
-2020-07-03,covidtestevent.com,50.63.202.43,US,North America
-2020-07-03,covidtestevent.com,covidtestevent.com,,
-2020-07-03,covidtestevent.com,ns07.domaincontrol.com,,
-2020-07-03,covidtestevent.com,ns08.domaincontrol.com,,
-2020-07-03,covid-testing.ca,covid-testing.ca,,
-2020-07-03,covidtestsny.com,88.214.207.96,GB,Europe
-2020-07-03,covidtestsny.com,covidtestsny.com,,
-2020-07-03,covidtestsny.com,ns3.epik.com,,
-2020-07-03,covidtestsny.com,ns4.epik.com,,
-2020-07-03,doineeacovid19test.com,doineeacovid19test.com,,
-2020-07-03,doineeacovid19test.com,ns1.bodis.com,,
-2020-07-03,doineeacovid19test.com,ns2.bodis.com,,
-2020-07-03,labtest-covid.ru,185.165.123.36,RU,Europe
-2020-07-03,labtest-covid.ru,labtest-covid.ru,,
-2020-07-03,labtest-covid.ru,ns1.reg.ru,,
-2020-07-03,labtest-covid.ru,ns2.reg.ru,,
-2020-07-03,liilycovid19testing.com.ph,liilycovid19testing.com.ph,,
-2020-07-03,lillucovid19testing.ws,64.70.19.203,US,North America
-2020-07-03,lillucovid19testing.ws,lillucovid19testing.ws,,
-2020-07-03,lillycovid19testiing.com.ph,45.79.222.138,US,North America
-2020-07-03,lillycovid19testiing.com.ph,lillycovid19testiing.com.ph,,
-2020-07-03,lillycovid19testin.com.ph,45.79.222.138,US,North America
-2020-07-03,lillycovid19testin.com.ph,lillycovid19testin.com.ph,,
-2020-07-03,lillycovid19testinf.com.ph,45.79.222.138,US,North America
-2020-07-03,lillycovid19testinf.com.ph,lillycovid19testinf.com.ph,,
-2020-07-03,lillycovid19testinf.ph,lillycovid19testinf.ph,,
-2020-07-03,lillycovid19testing.ws,64.70.19.203,US,North America
-2020-07-03,lillycovid19testing.ws,lillycovid19testing.ws,,
-2020-07-03,lillycovid19testinng.ph,45.79.222.138,US,North America
-2020-07-03,lillycovid19testinng.ph,lillycovid19testinng.ph,,
-2020-07-03,lillycovid19testting.com.ph,45.79.222.138,US,North America
-2020-07-03,lillycovid19testting.com.ph,lillycovid19testting.com.ph,,
-2020-07-03,lilycovid19testing.ph,45.79.222.138,US,North America
-2020-07-03,lilycovid19testing.ph,lilycovid19testing.ph,,
-2020-07-03,losangelescoronavirustests.ph,45.79.222.138,US,North America
-2020-07-03,losangelescoronavirustests.ph,losangelescoronavirustests.ph,,
-2020-07-03,losangelescovid19testing.fm,losangelescovid19testing.fm,,
-2020-07-03,losangelescovid19testing.fm,mail.h-email.net,,
-2020-07-03,losangelescovid-19testing.ph,45.79.222.138,US,North America
-2020-07-03,losangelescovid-19testing.ph,losangelescovid-19testing.ph,,
-2020-07-03,losangelescovid-19testing.ws,losangelescovid-19testing.ws,,
-2020-07-03,losangelescovid-19testing.ws,mail.hope-mail.com,,
-2020-07-03,louisiana-covid-19-test.fm,198.74.54.240,US,North America
-2020-07-03,louisiana-covid-19-test.fm,louisiana-covid-19-test.fm,,
-2020-07-03,maccura-covid19test.ph,maccura-covid19test.ph,,
-2020-07-03,mobilecovidtestingservices.com,mobilecovidtestingservices.com,,
-2020-07-03,mobilecovidtestingservices.com,ns65.domaincontrol.com,,
-2020-07-03,mobilecovidtestingservices.com,ns66.domaincontrol.com,,
-2020-07-03,rapidcovidtestingkit.com,34.102.136.180,US,North America
-2020-07-03,rapidcovidtestingkit.com,rapidcovidtestingkit.com,,
-2020-07-03,rapidcovidtesting.org,50.63.202.43,US,North America
-2020-07-03,rapidcovidtesting.org,ns13.domaincontrol.com,,
-2020-07-03,rapidcovidtesting.org,ns14.domaincontrol.com,,
-2020-07-03,rapidcovidtesting.org,rapidcovidtesting.org,,
-2020-07-03,siennacovid19testkits.com,50.63.202.52,US,North America
-2020-07-03,siennacovid19testkits.com,50.63.202.54,US,North America
-2020-07-03,siennacovid19testkits.com,ns71.domaincontrol.com,,
-2020-07-03,siennacovid19testkits.com,ns72.domaincontrol.com,,
-2020-07-03,siennacovid19testkits.com,siennacovid19testkits.com,,
-2020-07-03,smartcovidtesting.com,pdns13.domaincontrol.com,,
-2020-07-03,smartcovidtesting.com,pdns14.domaincontrol.com,,
-2020-07-03,smartcovidtesting.com,smartcovidtesting.com,,
-2020-07-03,testcovid.co,91.195.240.94,DE,Europe
-2020-07-03,testcovid.co,testcovid.co,,
-2020-07-03,testecovidonline.com.br,142.44.195.196,CA,North America
-2020-07-03,testecovidonline.com.br,testecovidonline.com.br,,
-2020-07-03,www.certifiedcovid19test.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-07-03,www.covid-19testkit.xyz,192.3.137.194,US,North America
-2020-07-03,www.covid-19testkit.xyz,covid-19testkit.xyz,,
-2020-07-03,www.labtest-covid.ru,185.165.123.36,RU,Europe
-2020-07-03,wwwtxcovidtest.org,199.59.242.153,US,North America
-2020-07-03,wwwtxcovidtest.org,ns1.bodis.com,,
-2020-07-03,wwwtxcovidtest.org,ns2.bodis.com,,
-2020-07-03,wwwtxcovidtest.org,wwwtxcovidtest.org,,
 2020-07-04,buyacoronavirustest.xn--fiqs8s,buyacoronavirustest.xn--fiqs8s,,
 2020-07-04,buycoronavirusrapidtest.xn--fiqz9s,218.241.116.40,CN,Asia
 2020-07-04,buycoronavirusrapidtest.xn--fiqz9s,buycoronavirusrapidtest.xn--fiqz9s,,
@@ -222,6 +92,12 @@
 2020-07-04,losangelescovidtesting.com,losangelescovidtesting.com,,
 2020-07-04,losangelescovidtesting.com,ns59.domaincontrol.com,,
 2020-07-04,losangelescovidtesting.com,ns60.domaincontrol.com,,
+2020-07-04,myquesttestcovid.com,198.58.118.167,US,North America
+2020-07-04,myquesttestcovid.com,45.33.23.183,US,North America
+2020-07-04,myquesttestcovid.com,45.33.2.79,US,North America
+2020-07-04,myquesttestcovid.com,45.56.79.23,US,North America
+2020-07-04,myquesttestcovid.com,45.79.19.196,US,North America
+2020-07-04,myquesttestcovid.com,96.126.123.244,US,North America
 2020-07-04,myquesttestcovid.com,myquesttestcovid.com,,
 2020-07-04,myquesttestcovid.com,ns1.mytrafficmanagement.com,,
 2020-07-04,myquesttestcovid.com,ns2.mytrafficmanagement.com,,
@@ -230,6 +106,12 @@
 2020-07-04,notify-alercovid19-secure.com,ns-cloud-d2.googledomains.com,,
 2020-07-04,notify-alercovid19-secure.com,ns-cloud-d3.googledomains.com,,
 2020-07-04,notify-alercovid19-secure.com,ns-cloud-d4.googledomains.com,,
+2020-07-04,questcovidtesting.com,198.58.118.167,US,North America
+2020-07-04,questcovidtesting.com,45.33.23.183,US,North America
+2020-07-04,questcovidtesting.com,45.33.2.79,US,North America
+2020-07-04,questcovidtesting.com,45.56.79.23,US,North America
+2020-07-04,questcovidtesting.com,45.79.19.196,US,North America
+2020-07-04,questcovidtesting.com,96.126.123.244,US,North America
 2020-07-04,questcovidtesting.com,ns1.mytrafficmanagement.com,,
 2020-07-04,questcovidtesting.com,ns2.mytrafficmanagement.com,,
 2020-07-04,questcovidtesting.com,questcovidtesting.com,,
