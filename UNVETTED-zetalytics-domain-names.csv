@@ -87,6 +87,7 @@
 2020-07-07,rapidcovidtesting.org.uk,ns1.cloudhosting.uk,,
 2020-07-07,rapidcovidtesting.org.uk,ns2.cloudhosting.uk,,
 2020-07-07,rapidcovidtesting.org.uk,rapidcovidtesting.org.uk,,
+2020-07-07,rapidcovidtesting.org.uk,'v=spf1 +a +mx +ip4:185.199.220.102 ~all,,
 2020-07-07,secure-accovid.co,23.202.231.167,US,North America
 2020-07-07,secure-accovid.co,23.217.138.108,US,North America
 2020-07-07,secure-accovid.co,secure-accovid.co,,
