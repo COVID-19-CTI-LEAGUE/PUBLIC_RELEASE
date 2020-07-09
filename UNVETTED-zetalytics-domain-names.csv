@@ -3,7 +3,6 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-07-08,24365covidtesting.com,24365covidtesting.com,,
-2020-07-08,24365covidtesting.com,50.63.202.38,US,North America
 2020-07-08,24365covidtesting.com,50.63.202.53,US,North America
 2020-07-08,24365covidtesting.com,50.63.202.63,US,North America
 2020-07-08,247365covidtesting.com,247365covidtesting.com,,
@@ -74,8 +73,6 @@
 2020-07-08,covid19vaccinecure.info,covid19vaccinecure.info,,
 2020-07-08,covid19vaccinecure.info,ns21.domaincontrol.com,,
 2020-07-08,covid19vaccinecure.info,ns22.domaincontrol.com,,
-2020-07-08,covidfoamtest.com,sg.guzelhosting.com,,
-2020-07-08,covidfoamtest.com,us.guzelhosting.com,,
 2020-07-08,covidquickcure.com,50.63.202.46,US,North America
 2020-07-08,covidquickcure.com,covidquickcure.com,,
 2020-07-08,covidquickcure.com,ns21.domaincontrol.com,,
@@ -116,6 +113,7 @@
 2020-07-08,freetestcoronavirus.com.ph,freetestcoronavirus.com.ph,,
 2020-07-08,ftp.lehighvalleycovid19testing.com,70.40.216.90,US,North America
 2020-07-08,ftp.lehighvalleycovid19testing.com,lehighvalleycovid19testing.com,,
+2020-07-08,getcovid-19tests.com.ph,45.79.222.138,US,North America
 2020-07-08,gettestedforcovid19.ph,45.79.222.138,US,North America
 2020-07-08,gocoronavirustest.ph,45.79.222.138,US,North America
 2020-07-08,helpcurecovid-19.ws,64.70.19.203,US,North America
@@ -193,16 +191,19 @@
 2020-07-09,bayareacovid19testing.com,ns03.domaincontrol.com,,
 2020-07-09,bayareacovid19testing.com,ns04.domaincontrol.com,,
 2020-07-09,covid19homeantibodytest.com,3.234.181.234,US,North America
+2020-07-09,covid19homeantibodytest.com,9google-site-verification=YourUniqueGoogleVerificationCode,,
 2020-07-09,covid19homeantibodytest.com,comingsoon.namebright.com,,
 2020-07-09,covid19homeantibodytest.com,covid19homeantibodytest.com,,
 2020-07-09,covid19homeantibodytest.com,dnY9c3BmMSBhOnNtdHBvdXQxLm5hbWVicmlnaHRtYWlsLmNvbSBhOnNtdHBvdXQyLm5hbWVicmlnaHRtYWlsLmNvbSBpcDQ6MjE2Ljg3Ljc4LjY2LzMxIGluY2x1ZGU6bmFtZWJyaWdodG1haWwuY29tIC1hbGw=,,
 2020-07-09,covid19homeantibodytest.com,nbparking-lb1-e8979d80a94bc16b.elb.us-east-1.amazonaws.com,,
 2020-07-09,covid19homeantibodytest.com,OWdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1Zb3VyVW5pcXVlR29vZ2xlVmVyaWZpY2F0aW9uQ29kZQ==,,
+2020-07-09,covid19homeantibodytest.com,vv=spf1 a:smtpout1.namebrightmail.com a:smtpout2.namebrightmail.com ip4:216.87.78.66/31 include:namebrightmail.com -all,,
 2020-07-09,covid19rapidantigentest.com,covid19rapidantigentest.com,,
 2020-07-09,covid19rapidantigentest.com,ns1.netfirms.com,,
 2020-07-09,covid19rapidantigentest.com,ns2.netfirms.com,,
 2020-07-09,covid19vaccinecure.com,34.102.136.180,US,North America
 2020-07-09,covid19vaccinecure.com,covid19vaccinecure.com,,
+2020-07-09,covid19vaccinecure.com,ns73.domaincontrol.com,,
 2020-07-09,covid19vaccinecure.com,ns74.domaincontrol.com,,
 2020-07-09,covid19wecure.com,covid19wecure.com,,
 2020-07-09,covid19wecure.com,ns-cloud-e1.googledomains.com,,
