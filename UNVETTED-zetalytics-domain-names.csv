@@ -102,8 +102,6 @@
 2020-07-08,doineesacovid19test.com,ns2.mytrafficmanagement.com,,
 2020-07-08,freetestcoronavirus.com.ph,45.79.222.138,US,North America
 2020-07-08,freetestcoronavirus.com.ph,freetestcoronavirus.com.ph,,
-2020-07-08,ftp.lehighvalleycovid19testing.com,70.40.216.90,US,North America
-2020-07-08,ftp.lehighvalleycovid19testing.com,lehighvalleycovid19testing.com,,
 2020-07-08,getcovid-19tests.com.ph,45.79.222.138,US,North America
 2020-07-08,gettestedforcovid19.ph,45.79.222.138,US,North America
 2020-07-08,gocoronavirustest.ph,45.79.222.138,US,North America
@@ -115,7 +113,6 @@
 2020-07-08,homeantibodytestcovid19.com,nbparking-lb1-e8979d80a94bc16b.elb.us-east-1.amazonaws.com,,
 2020-07-08,imap.lehighvalleycovid19testing.com,70.40.216.90,US,North America
 2020-07-08,imap.lehighvalleycovid19testing.com,mail.lehighvalleycovid19testing.com,,
-2020-07-08,lehighvalleycovid19testing.com,lehighvalleycovid19testing.com,,
 2020-07-08,lehighvalleycovid19testing.com,ns1.bluehost.com,,
 2020-07-08,lehighvalleycovid19testing.com,ns2.bluehost.com,,
 2020-07-08,localhost.covid19hometestkits.co,127.0.0.1,,
@@ -130,7 +127,6 @@
 2020-07-08,newcovidtesting.com,vv=spf1 a:smtpout1.namebrightmail.com a:smtpout2.namebrightmail.com ip4:216.87.78.66/31 include:namebrightmail.com -all,,
 2020-07-08,nextdaycovidtest.com,50.63.202.63,US,North America
 2020-07-08,nextdaycovidtest.com,nextdaycovidtest.com,,
-2020-07-08,pop.lehighvalleycovid19testing.com,mail.lehighvalleycovid19testing.com,,
 2020-07-08,privatecovidtests.co,217.160.0.196,DE,Europe
 2020-07-08,privatecovidtests.co,ns1017.ui-dns.biz,,
 2020-07-08,privatecovidtests.co,ns1035.ui-dns.com,,
@@ -151,7 +147,6 @@
 2020-07-08,testecoviddf.com.br,testecoviddf.com.br,,
 2020-07-08,test-sars-cov-2.de,81.169.145.78,DE,Europe
 2020-07-08,test-sars-cov-2.de,test-sars-cov-2.de,,
-2020-07-08,webdisk.lehighvalleycovid19testing.com,70.40.216.90,US,North America
 2020-07-08,www.adoacovid19test.site,52.42.74.211,US,North America
 2020-07-08,www.adoacovid19test.site,adoacovid19test.site,,
 2020-07-08,www.covid19vaccinecure.info,50.63.202.40,US,North America
@@ -317,4 +312,13 @@
 2020-07-09,www1.soineedacovid19test.com,473162.parkingcrew.net,,
 2020-07-09,www.covidsecureapp.com,208.113.220.90,US,North America
 2020-07-09,www.covidtestsales.com,parking.namesilo.com,,
+2020-07-09,wwwdoineedacovidtest.com,198.58.118.167,US,North America
+2020-07-09,wwwdoineedacovidtest.com,45.33.23.183,US,North America
+2020-07-09,wwwdoineedacovidtest.com,45.33.2.79,US,North America
+2020-07-09,wwwdoineedacovidtest.com,45.56.79.23,US,North America
+2020-07-09,wwwdoineedacovidtest.com,45.79.19.196,US,North America
+2020-07-09,wwwdoineedacovidtest.com,96.126.123.244,US,North America
+2020-07-09,wwwdoineedacovidtest.com,ns1.mytrafficmanagement.com,,
+2020-07-09,wwwdoineedacovidtest.com,ns2.mytrafficmanagement.com,,
+2020-07-09,wwwdoineedacovidtest.com,wwwdoineedacovidtest.com,,
 2020-07-09,www.testcovid.su,2a00:f940:2:2:1:1::120,RU,Europe
