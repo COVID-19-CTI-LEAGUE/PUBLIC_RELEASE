@@ -68,8 +68,6 @@
 2020-07-08,coronavirus-test-uk.co.uk,2001:8d8:100f:f000::275,DE,Europe
 2020-07-08,coronavirus-test-uk.co.uk,217.160.0.249,DE,Europe
 2020-07-08,coronavirus-test-uk.co.uk,coronavirus-test-uk.co.uk,,
-2020-07-08,covid19antigenrapidtest.com,66.96.160.204,US,North America
-2020-07-08,covid19antigenrapidtest.com,covid19antigenrapidtest.com,,
 2020-07-08,covid19foamtest.com,185.106.208.3,TR,Asia
 2020-07-08,covid19foamtest.com,covid19foamtest.com,,
 2020-07-08,covid19hometestkits.co,70.40.216.90,US,North America
@@ -81,7 +79,6 @@
 2020-07-08,covid19vaccinecure.info,ns21.domaincontrol.com,,
 2020-07-08,covid19vaccinecure.info,ns22.domaincontrol.com,,
 2020-07-08,covid-antibodytestinguk.com,covid-antibodytestinguk.com,,
-2020-07-08,covid-antibodytestinguk.com,ns71.domaincontrol.com,,
 2020-07-08,covidfoamtest.com,covidfoamtest.com,,
 2020-07-08,covidfoamtest.com,eu.guzelhosting.com,,
 2020-07-08,covidfoamtest.com,sg.guzelhosting.com,,
@@ -149,7 +146,6 @@
 2020-07-08,homeantibodytestcovid19.com,comingsoon.namebright.com,,
 2020-07-08,homeantibodytestcovid19.com,homeantibodytestcovid19.com,,
 2020-07-08,homeantibodytestcovid19.com,nbparking-lb1-e8979d80a94bc16b.elb.us-east-1.amazonaws.com,,
-2020-07-08,homeantibodytestcovid19.com,ns1.namebrightdns.com,,
 2020-07-08,imap.lehighvalleycovid19testing.com,70.40.216.90,US,North America
 2020-07-08,imap.lehighvalleycovid19testing.com,mail.lehighvalleycovid19testing.com,,
 2020-07-08,lehighvalleycovid19testing.com,lehighvalleycovid19testing.com,,
@@ -206,6 +202,7 @@
 2020-07-08,wwwcovidtesting.com,OWdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1Zb3VyVW5pcXVlR29vZ2xlVmVyaWZpY2F0aW9uQ29kZQ==,,
 2020-07-08,wwwcovidtesting.com,vv=spf1 a:smtpout1.namebrightmail.com a:smtpout2.namebrightmail.com ip4:216.87.78.66/31 include:namebrightmail.com -all,,
 2020-07-08,wwwcovidtesting.com,wwwcovidtesting.com,,
+2020-07-08,www.freetestcoronavirus.com.ph,45.79.222.138,US,North America
 2020-07-09,15mincovidtesting.com,15mincovidtesting.com,,
 2020-07-09,15mincovidtesting.com,35.209.162.24,US,North America
 2020-07-09,15mincovidtesting.com,ns1.giowm1055.siteground.biz,,
@@ -230,6 +227,8 @@
 2020-07-09,covid19vaccinecure.com,34.102.136.180,US,North America
 2020-07-09,covid19vaccinecure.com,covid19vaccinecure.com,,
 2020-07-09,covid19vaccinecure.com,ns74.domaincontrol.com,,
+2020-07-09,covid19wecure.com,covid19wecure.com,,
+2020-07-09,covid19wecure.com,ns-cloud-e1.googledomains.com,,
 2020-07-09,covidhomeantibodytest.com,comingsoon.namebright.com,,
 2020-07-09,covidhomeantibodytest.com,covidhomeantibodytest.com,,
 2020-07-09,covidhomeantibodytest.com,dnY9c3BmMSBhOnNtdHBvdXQxLm5hbWVicmlnaHRtYWlsLmNvbSBhOnNtdHBvdXQyLm5hbWVicmlnaHRtYWlsLmNvbSBpcDQ6MjE2Ljg3Ljc4LjY2LzMxIGluY2x1ZGU6bmFtZWJyaWdodG1haWwuY29tIC1hbGw=,,
@@ -255,9 +254,11 @@
 2020-07-09,dineedacovid19test.com,dineedacovid19test.com,,
 2020-07-09,dineedacovid19test.com,ns1.mytrafficmanagement.com,,
 2020-07-09,dineedacovid19test.com,ns2.mytrafficmanagement.com,,
+2020-07-09,fastcoronavirustesting.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-07-09,fastcoronavirustesting.fm,fastcoronavirustesting.fm,,
 2020-07-09,fastcoronavirustesting.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-07-09,fastcoronavirustesting.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
+2020-07-09,fastcoronavirustesting.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-07-09,fastcovid-19hometest.ws,fastcovid-19hometest.ws,,
 2020-07-09,fastcovid-19hometest.ws,mail.hope-mail.com,,
 2020-07-09,fdaapprovedcoronavirustest.ph,45.79.222.138,US,North America
@@ -294,6 +295,8 @@
 2020-07-09,quickcovidtestinglabs.com,ns03.squarespacedns.com,,
 2020-07-09,quickcovidtestinglabs.com,ns04.squarespacedns.com,,
 2020-07-09,quickcovidtestinglabs.com,quickcovidtestinglabs.com,,
+2020-07-09,shouldigetacovid19test.com.ph,45.79.222.138,US,North America
+2020-07-09,shouldigetacovid19test.com.ph,shouldigetacovid19test.com.ph,,
 2020-07-09,soineedacovid19test.com,ns1.mytrafficmanagement.com,,
 2020-07-09,soineedacovid19test.com,ns2.mytrafficmanagement.com,,
 2020-07-09,soineedacovid19test.com,soineedacovid19test.com,,
