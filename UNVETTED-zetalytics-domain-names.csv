@@ -2,14 +2,10 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-08,24365covidtesting.com,24365covidtesting.com,,
-2020-07-08,24365covidtesting.com,50.63.202.53,US,North America
 2020-07-08,24365covidtesting.com,50.63.202.63,US,North America
 2020-07-08,247365covidtesting.com,247365covidtesting.com,,
 2020-07-08,247365covidtesting.com,ns77.domaincontrol.com,,
 2020-07-08,247365covidtesting.com,ns78.domaincontrol.com,,
-2020-07-08,24hourcovidtesting.com,24hourcovidtesting.com,,
-2020-07-08,24hourcovidtesting.com,50.63.202.37,US,North America
 2020-07-08,24hourcovidtesting.com,50.63.202.42,US,North America
 2020-07-08,adhscovid19test.site,52.42.74.211,US,North America
 2020-07-08,adhscovid19test.site,adhscovid19test.site,,
@@ -68,7 +64,6 @@
 2020-07-08,covid19hometestkits.co,70.40.216.90,US,North America
 2020-07-08,covid19hometestkits.co,covid19hometestkits.co,,
 2020-07-08,covid19testingnewyorkcity.ws,covid19testingnewyorkcity.ws,,
-2020-07-08,covid19testingnewyorkcity.ws,mail.hope-mail.com,,
 2020-07-08,covid19vaccinecure.info,50.63.202.46,US,North America
 2020-07-08,covid19vaccinecure.info,covid19vaccinecure.info,,
 2020-07-08,covid19vaccinecure.info,ns21.domaincontrol.com,,
@@ -129,8 +124,6 @@
 2020-07-08,lehighvalleycovid19testing.com,ns2.bluehost.com,,
 2020-07-08,localhost.covid19hometestkits.co,127.0.0.1,,
 2020-07-08,localhost.lehighvalleycovid19testing.com,127.0.0.1,,
-2020-07-08,myqwuestcovidtest.com,ns1.mytrafficmanagement.com,,
-2020-07-08,myqwuestcovidtest.com,ns2.mytrafficmanagement.com,,
 2020-07-08,newcovid19testing.com,3.234.181.234,US,North America
 2020-07-08,newcovid19testing.com,comingsoon.namebright.com,,
 2020-07-08,newcovid19testing.com,nbparking-lb1-e8979d80a94bc16b.elb.us-east-1.amazonaws.com,,
@@ -150,8 +143,6 @@
 2020-07-08,privatecovidtests.co,ns1067.ui-dns.org,,
 2020-07-08,privatecovidtests.co,privatecovidtests.co,,
 2020-07-08,quickcovidtesting.info,34.102.136.180,US,North America
-2020-07-08,quickcovidtesting.info,50.63.202.55,US,North America
-2020-07-08,quickcovidtesting.info,quickcovidtesting.info,,
 2020-07-08,sars-cov-2cure.co,182.50.132.242,SG,Asia
 2020-07-08,sars-cov-2cure.co,ns73.domaincontrol.com,,
 2020-07-08,sars-cov-2cure.co,ns74.domaincontrol.com,,
@@ -171,12 +162,9 @@
 2020-07-08,www.covid19vaccinecure.info,50.63.202.40,US,North America
 2020-07-08,www.covid19vaccinecure.info,covid19vaccinecure.info,,
 2020-07-08,wwwcovidtesting.com,9google-site-verification=YourUniqueGoogleVerificationCode,,
-2020-07-08,wwwcovidtesting.com,comingsoon.namebright.com,,
 2020-07-08,wwwcovidtesting.com,dnY9c3BmMSBhOnNtdHBvdXQxLm5hbWVicmlnaHRtYWlsLmNvbSBhOnNtdHBvdXQyLm5hbWVicmlnaHRtYWlsLmNvbSBpcDQ6MjE2Ljg3Ljc4LjY2LzMxIGluY2x1ZGU6bmFtZWJyaWdodG1haWwuY29tIC1hbGw=,,
-2020-07-08,wwwcovidtesting.com,nbparking-lb1-e8979d80a94bc16b.elb.us-east-1.amazonaws.com,,
 2020-07-08,wwwcovidtesting.com,OWdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1Zb3VyVW5pcXVlR29vZ2xlVmVyaWZpY2F0aW9uQ29kZQ==,,
 2020-07-08,wwwcovidtesting.com,vv=spf1 a:smtpout1.namebrightmail.com a:smtpout2.namebrightmail.com ip4:216.87.78.66/31 include:namebrightmail.com -all,,
-2020-07-08,wwwcovidtesting.com,wwwcovidtesting.com,,
 2020-07-08,www.freetestcoronavirus.com.ph,45.79.222.138,US,North America
 2020-07-09,15mincovidtesting.com,15mincovidtesting.com,,
 2020-07-09,15mincovidtesting.com,35.209.162.24,US,North America
@@ -190,6 +178,8 @@
 2020-07-09,bayareacovid19testing.com,bayareacovid19testing.com,,
 2020-07-09,bayareacovid19testing.com,ns03.domaincontrol.com,,
 2020-07-09,bayareacovid19testing.com,ns04.domaincontrol.com,,
+2020-07-09,coronaviruscures.xin.xin,coronaviruscures.xin.xin,,
+2020-07-09,coronaviruscures.xin.xin,wildcard.com.xin,,
 2020-07-09,covid19homeantibodytest.com,3.234.181.234,US,North America
 2020-07-09,covid19homeantibodytest.com,9google-site-verification=YourUniqueGoogleVerificationCode,,
 2020-07-09,covid19homeantibodytest.com,comingsoon.namebright.com,,
@@ -198,6 +188,11 @@
 2020-07-09,covid19homeantibodytest.com,nbparking-lb1-e8979d80a94bc16b.elb.us-east-1.amazonaws.com,,
 2020-07-09,covid19homeantibodytest.com,OWdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1Zb3VyVW5pcXVlR29vZ2xlVmVyaWZpY2F0aW9uQ29kZQ==,,
 2020-07-09,covid19homeantibodytest.com,vv=spf1 a:smtpout1.namebrightmail.com a:smtpout2.namebrightmail.com ip4:216.87.78.66/31 include:namebrightmail.com -all,,
+2020-07-09,covid19homeselftest.xin.xin,covid19homeselftest.xin.xin,,
+2020-07-09,covid19homeselftest.xin.xin,wildcard.com.xin,,
+2020-07-09,covid19homeselftest.xin.xin,wildcard.com.xin.gds.alibabadns.com,,
+2020-07-09,covid19pandemictest.xin.xin,covid19pandemictest.xin.xin,,
+2020-07-09,covid19pandemictest.xin.xin,wildcard.com.xin,,
 2020-07-09,covid19rapidantigentest.com,covid19rapidantigentest.com,,
 2020-07-09,covid19rapidantigentest.com,ns1.netfirms.com,,
 2020-07-09,covid19rapidantigentest.com,ns2.netfirms.com,,
@@ -210,11 +205,15 @@
 2020-07-09,covid19wecure.com,ns-cloud-e2.googledomains.com,,
 2020-07-09,covid19wecure.com,ns-cloud-e3.googledomains.com,,
 2020-07-09,covid19wecure.com,ns-cloud-e4.googledomains.com,,
+2020-07-09,covidhomeantibodytest.com,9google-site-verification=YourUniqueGoogleVerificationCode,,
 2020-07-09,covidhomeantibodytest.com,comingsoon.namebright.com,,
 2020-07-09,covidhomeantibodytest.com,covidhomeantibodytest.com,,
 2020-07-09,covidhomeantibodytest.com,dnY9c3BmMSBhOnNtdHBvdXQxLm5hbWVicmlnaHRtYWlsLmNvbSBhOnNtdHBvdXQyLm5hbWVicmlnaHRtYWlsLmNvbSBpcDQ6MjE2Ljg3Ljc4LjY2LzMxIGluY2x1ZGU6bmFtZWJyaWdodG1haWwuY29tIC1hbGw=,,
 2020-07-09,covidhomeantibodytest.com,nbparking-lb1-e8979d80a94bc16b.elb.us-east-1.amazonaws.com,,
 2020-07-09,covidhomeantibodytest.com,OWdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1Zb3VyVW5pcXVlR29vZ2xlVmVyaWZpY2F0aW9uQ29kZQ==,,
+2020-07-09,covidhomeantibodytest.com,vv=spf1 a:smtpout1.namebrightmail.com a:smtpout2.namebrightmail.com ip4:216.87.78.66/31 include:namebrightmail.com -all,,
+2020-07-09,covidhometester.xin.xin,covidhometester.xin.xin,,
+2020-07-09,covidhometester.xin.xin,wildcard.com.xin,,
 2020-07-09,covidsecureapp.com,covidsecureapp.com,,
 2020-07-09,covidsecureapp.com,ns1.dreamhost.com,,
 2020-07-09,covidsecureapp.com,ns2.dreamhost.com,,
@@ -235,6 +234,8 @@
 2020-07-09,covidtestsales.com,209.141.38.71,US,North America
 2020-07-09,covidtestsales.com,covidtestsales.com,,
 2020-07-09,covidteststogo.com,covidteststogo.com,,
+2020-07-09,covidtest.xin.xin,covidtest.xin.xin,,
+2020-07-09,covidtest.xin.xin,wildcard.com.xin,,
 2020-07-09,dineedacovid19test.com,198.58.118.167,US,North America
 2020-07-09,dineedacovid19test.com,45.33.23.183,US,North America
 2020-07-09,dineedacovid19test.com,45.33.2.79,US,North America
@@ -249,6 +250,7 @@
 2020-07-09,ez2getcovid19test.ph,ez2getcovid19test.ph,,
 2020-07-09,ez2getcovid19test.ws,64.70.19.203,US,North America
 2020-07-09,ez2getcovid19test.ws,ez2getcovid19test.ws,,
+2020-07-09,ezcovid-19test.com.ph,45.79.222.138,US,North America
 2020-07-09,ezcovid19test.com.ph,45.79.222.138,US,North America
 2020-07-09,ezcovid-19test.com.ph,ezcovid-19test.com.ph,,
 2020-07-09,ezcovid19test.com.ph,ezcovid19test.com.ph,,
