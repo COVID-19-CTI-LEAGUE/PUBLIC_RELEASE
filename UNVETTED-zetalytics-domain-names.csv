@@ -3,15 +3,13 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-07-08,24365covidtesting.com,50.63.202.63,US,North America
-2020-07-08,247365covidtesting.com,247365covidtesting.com,,
-2020-07-08,247365covidtesting.com,ns77.domaincontrol.com,,
-2020-07-08,247365covidtesting.com,ns78.domaincontrol.com,,
 2020-07-08,24hourcovidtesting.com,50.63.202.42,US,North America
 2020-07-08,adhscovid19test.site,52.42.74.211,US,North America
 2020-07-08,adhscovid19test.site,adhscovid19test.site,,
 2020-07-08,adoacovid19test.site,52.42.74.211,US,North America
 2020-07-08,adoacovid19test.site,adoacovid19test.site,,
 2020-07-08,apscovid19test.site,184.168.131.241,US,North America
+2020-07-08,apscovid19test.site,52.42.74.211,US,North America
 2020-07-08,apscovid19test.site,apscovid19test.site,,
 2020-07-08,asucovid19test.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-07-08,asucovid19test.xn--fiqs8s,asucovid19test.xn--fiqs8s,,
@@ -44,11 +42,6 @@
 2020-07-08,atlantacovid-19test.com.ba,atlantacovid-19test.com.ba,,
 2020-07-08,atlanta-covid19-testing-sites.com.ba,195.222.33.180,BA,Europe
 2020-07-08,atlanta-covid19-testing-sites.com.ba,atlanta-covid19-testing-sites.com.ba,,
-2020-07-08,atomocovid-19test.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-07-08,atomocovid-19test.xn--55qx5d.cn,atomocovid-19test.xn--55qx5d.cn,,
-2020-07-08,attestationcoronavirus.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-07-08,attestationcoronavirus.xn--od0alg.cn,attestationcoronavirus.xn--od0alg.cn,,
-2020-07-08,austin-covid-19-test.la,austin-covid-19-test.la,,
 2020-07-08,companycovidtests.com,107.180.43.37,US,North America
 2020-07-08,companycovidtests.com,companycovidtests.com,,
 2020-07-08,coronavirustestkitcost.com,34.202.122.77,US,North America
@@ -59,7 +52,6 @@
 2020-07-08,coronavirus-test-uk.co.uk,217.160.0.249,DE,Europe
 2020-07-08,coronavirus-test-uk.co.uk,coronavirus-test-uk.co.uk,,
 2020-07-08,covid19hometestkits.co,70.40.216.90,US,North America
-2020-07-08,covid19hometestkits.co,covid19hometestkits.co,,
 2020-07-08,covid19vaccinecure.info,50.63.202.46,US,North America
 2020-07-08,covid19vaccinecure.info,covid19vaccinecure.info,,
 2020-07-08,covid19vaccinecure.info,ns21.domaincontrol.com,,
@@ -97,9 +89,15 @@
 2020-07-08,doineesacovid19test.com,45.56.79.23,US,North America
 2020-07-08,doineesacovid19test.com,45.79.19.196,US,North America
 2020-07-08,doineesacovid19test.com,96.126.123.244,US,North America
+2020-07-08,doineesacovid19test.com,,bio=cd5542453bd47807b6a02dc4688c863c567da68f,,
 2020-07-08,doineesacovid19test.com,doineesacovid19test.com,,
+2020-07-08,doineesacovid19test.com,I3Y9c3BmMSBpcDY6ZmQ0MzpjMGQxOmMwOTA6Oi80OCAtYWxs,,
+2020-07-08,doineesacovid19test.com,I3Y9c3BmMSBpcDY6ZmQ3MzpiYzhiOmZiOGI6Oi80OCAtYWxs,,
+2020-07-08,doineesacovid19test.com,LGJpbz1jZDU1NDI0NTNiZDQ3ODA3YjZhMDJkYzQ2ODhjODYzYzU2N2RhNjhm,,
 2020-07-08,doineesacovid19test.com,ns1.mytrafficmanagement.com,,
 2020-07-08,doineesacovid19test.com,ns2.mytrafficmanagement.com,,
+2020-07-08,doineesacovid19test.com,#v=spf1 ip6:fd43:c0d1:c090::/48 -all,,
+2020-07-08,doineesacovid19test.com,#v=spf1 ip6:fd73:bc8b:fb8b::/48 -all,,
 2020-07-08,freetestcoronavirus.com.ph,45.79.222.138,US,North America
 2020-07-08,freetestcoronavirus.com.ph,freetestcoronavirus.com.ph,,
 2020-07-08,getcovid-19tests.com.ph,45.79.222.138,US,North America
@@ -109,13 +107,15 @@
 2020-07-08,helpcurecovid-19.ws,helpcurecovid-19.ws,,
 2020-07-08,homeantibodytestcovid19.com,3.234.181.234,US,North America
 2020-07-08,homeantibodytestcovid19.com,comingsoon.namebright.com,,
-2020-07-08,homeantibodytestcovid19.com,homeantibodytestcovid19.com,,
 2020-07-08,homeantibodytestcovid19.com,nbparking-lb1-e8979d80a94bc16b.elb.us-east-1.amazonaws.com,,
-2020-07-08,imap.lehighvalleycovid19testing.com,70.40.216.90,US,North America
-2020-07-08,imap.lehighvalleycovid19testing.com,mail.lehighvalleycovid19testing.com,,
 2020-07-08,lehighvalleycovid19testing.com,ns1.bluehost.com,,
 2020-07-08,lehighvalleycovid19testing.com,ns2.bluehost.com,,
-2020-07-08,localhost.covid19hometestkits.co,127.0.0.1,,
+2020-07-08,mytestcovidquest.com,,bio=cd5542453bd47807b6a02dc4688c863c567da68f,,
+2020-07-08,mytestcovidquest.com,I3Y9c3BmMSBpcDY6ZmQ0MzpjMGQxOmMwOTA6Oi80OCAtYWxs,,
+2020-07-08,mytestcovidquest.com,I3Y9c3BmMSBpcDY6ZmQ3MzpiYzhiOmZiOGI6Oi80OCAtYWxs,,
+2020-07-08,mytestcovidquest.com,LGJpbz1jZDU1NDI0NTNiZDQ3ODA3YjZhMDJkYzQ2ODhjODYzYzU2N2RhNjhm,,
+2020-07-08,mytestcovidquest.com,#v=spf1 ip6:fd43:c0d1:c090::/48 -all,,
+2020-07-08,mytestcovidquest.com,#v=spf1 ip6:fd73:bc8b:fb8b::/48 -all,,
 2020-07-08,newcovid19testing.com,3.234.181.234,US,North America
 2020-07-08,newcovid19testing.com,comingsoon.namebright.com,,
 2020-07-08,newcovid19testing.com,nbparking-lb1-e8979d80a94bc16b.elb.us-east-1.amazonaws.com,,
@@ -125,8 +125,6 @@
 2020-07-08,newcovidtesting.com,newcovidtesting.com,,
 2020-07-08,newcovidtesting.com,OWdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1Zb3VyVW5pcXVlR29vZ2xlVmVyaWZpY2F0aW9uQ29kZQ==,,
 2020-07-08,newcovidtesting.com,vv=spf1 a:smtpout1.namebrightmail.com a:smtpout2.namebrightmail.com ip4:216.87.78.66/31 include:namebrightmail.com -all,,
-2020-07-08,nextdaycovidtest.com,50.63.202.63,US,North America
-2020-07-08,nextdaycovidtest.com,nextdaycovidtest.com,,
 2020-07-08,privatecovidtests.co,217.160.0.196,DE,Europe
 2020-07-08,privatecovidtests.co,ns1017.ui-dns.biz,,
 2020-07-08,privatecovidtests.co,ns1035.ui-dns.com,,
@@ -134,6 +132,8 @@
 2020-07-08,privatecovidtests.co,ns1067.ui-dns.org,,
 2020-07-08,privatecovidtests.co,privatecovidtests.co,,
 2020-07-08,quickcovidtesting.info,34.102.136.180,US,North America
+2020-07-08,quickcovidtesting.info,ns77.domaincontrol.com,,
+2020-07-08,quickcovidtesting.info,ns78.domaincontrol.com,,
 2020-07-08,sars-cov-2cure.co,182.50.132.242,SG,Asia
 2020-07-08,sars-cov-2cure.co,ns73.domaincontrol.com,,
 2020-07-08,sars-cov-2cure.co,ns74.domaincontrol.com,,
@@ -238,6 +238,8 @@
 2020-07-09,dineedacovid19test.com,dineedacovid19test.com,,
 2020-07-09,dineedacovid19test.com,ns1.mytrafficmanagement.com,,
 2020-07-09,dineedacovid19test.com,ns2.mytrafficmanagement.com,,
+2020-07-09,doineedacovid19test.com.com,199.59.242.154,US,North America
+2020-07-09,doineedacovid19test.com.com,doineedacovid19test.com.com,,
 2020-07-09,erythromycincovid19cure.ph,erythromycincovid19cure.ph,,
 2020-07-09,express-test-covid19.com.ph,45.79.222.138,US,North America
 2020-07-09,express-test-covid19.com.ph,express-test-covid19.com.ph,,
@@ -302,6 +304,7 @@
 2020-07-09,testcovid.su,ns1.hosting.reg.ru,,
 2020-07-09,testcovid.su,ns2.hosting.reg.ru,,
 2020-07-09,testcovid.su,testcovid.su,,
+2020-07-09,testecovidnf.com.br,testecovidnf.com.br,,
 2020-07-09,testserologicocovid19.com,ns71.domaincontrol.com,,
 2020-07-09,testserologicocovid19.com,ns72.domaincontrol.com,,
 2020-07-09,testserologicocovid19.com,testserologicocovid19.com,,
