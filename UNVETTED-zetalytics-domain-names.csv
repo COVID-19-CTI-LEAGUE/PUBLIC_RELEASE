@@ -72,6 +72,7 @@
 2020-07-12,coronavirushometestus.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-07-12,coronavirusinstanttestkit.ws,coronavirusinstanttestkit.ws,,
 2020-07-12,coronavirusinstanttestkit.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
+2020-07-12,coronavirusinstanttestkit.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-07-12,coronaviruslatestnews.fm,198.74.54.240,US,North America
 2020-07-12,coronaviruslatestnews.fm,coronaviruslatestnews.fm,,
 2020-07-12,coronavirusmedtest.fm,198.74.54.240,US,North America
@@ -119,9 +120,11 @@
 2020-07-12,coronavirustestingarizona.ph,coronavirustestingarizona.ph,,
 2020-07-12,coronavirustestingcenter.com.ph,coronavirustestingcenter.com.ph,,
 2020-07-12,coronavirustestingcost.com.ph,coronavirustestingcost.com.ph,,
+2020-07-12,coronavirustestinglabs.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-07-12,coronavirustestinglabs.fm,coronavirustestinglabs.fm,,
 2020-07-12,coronavirustestinglabs.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-07-12,coronavirustestinglabs.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
+2020-07-12,coronavirustestinglabs.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-07-12,coronavirustestingla.com.ph,coronavirustestingla.com.ph,,
 2020-07-12,coronavirustestingla.ws,64.70.19.203,US,North America
 2020-07-12,coronavirustestingla.ws,coronavirustestingla.ws,,
@@ -255,11 +258,7 @@
 2020-07-12,covid-19freetestingsites.com.ph,covid-19freetestingsites.com.ph,,
 2020-07-12,covid19hoaxcure.com.ph,45.79.222.138,US,North America
 2020-07-12,covid19hoaxcure.com.ph,covid19hoaxcure.com.ph,,
-2020-07-12,covid19hometest.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
-2020-07-12,covid19hometest.fm,covid19hometest.fm,,
 2020-07-12,covid19hometest.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-07-12,covid19hometest.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-07-12,covid19hometest.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-07-12,covid19hometest.gob.cl,covid19hometest.gob.cl,,
 2020-07-12,covid19hometestset.ws,64.70.19.203,US,North America
 2020-07-12,covid19hometestset.ws,covid19hometestset.ws,,
@@ -277,7 +276,6 @@
 2020-07-12,covid19iqcure.com.ph,covid19iqcure.com.ph,,
 2020-07-12,covid19-latest.ph,45.79.222.138,US,North America
 2020-07-12,covid19-latest.ph,covid19-latest.ph,,
-2020-07-12,covid19latestupdates.com.ph,covid19latestupdates.com.ph,,
 2020-07-12,covid-19mobiletestingservices.ph,45.79.222.138,US,North America
 2020-07-12,covid-19mobiletestingservices.ph,covid-19mobiletestingservices.ph,,
 2020-07-12,covid-19naturalcure.com.ph,covid-19naturalcure.com.ph,,
@@ -381,6 +379,8 @@
 2020-07-12,curethecoronav.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-07-12,curevaccoronavirus.ph,45.79.222.138,US,North America
 2020-07-12,curevaccoronavirus.ph,curevaccoronavirus.ph,,
+2020-07-12,doibeedacovid19test.com,doibeedacovid19test.com,,
+2020-07-12,revivecovidtest.org,23.236.62.147,US,North America
 2020-07-12,revivecovidtest.org,ns10.wixdns.net,,
 2020-07-12,revivecovidtest.org,ns11.wixdns.net,,
 2020-07-12,revivecovidtest.org,revivecovidtest.org,,
