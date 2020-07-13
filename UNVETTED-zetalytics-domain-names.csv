@@ -2,22 +2,18 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-11,covidsecuresystems.co.uk,covidsecuresystems.co.uk,,
-2020-07-11,curedofcovid19.com.ba,195.222.33.180,BA,Europe
-2020-07-11,curedofcovid19.com.ba,curedofcovid19.com.ba,,
-2020-07-11,detroitcovid-19testing.com.ph,45.79.222.138,US,North America
-2020-07-11,diycovid-19cure.ws,64.70.19.203,US,North America
-2020-07-11,diycovid-19cure.ws,diycovid-19cure.ws,,
-2020-07-11,drcovid19cure.com,drcovid19cure.com,,
-2020-07-11,drivethrucovid19tests.ph,45.79.222.138,US,North America
-2020-07-11,secure-coronavirus.la,173.230.141.80,US,North America
-2020-07-11,secure-coronavirus.la,secure-coronavirus.la,,
 2020-07-12,adlabscovidtest.com.ba,195.222.33.180,BA,Europe
 2020-07-12,adlabscovidtest.com.ba,adlabscovidtest.com.ba,,
 2020-07-12,adventhealthcoronavirustests.xn--od0alg.cn,218.241.116.40,CN,Asia
 2020-07-12,adventhealthcoronavirustests.xn--od0alg.cn,adventhealthcoronavirustests.xn--od0alg.cn,,
 2020-07-12,aes-test4covid-19.la,173.230.141.80,US,North America
 2020-07-12,aes-test4covid-19.la,aes-test4covid-19.la,,
+2020-07-12,corona19hometestkits.com.ph,45.79.222.138,US,North America
+2020-07-12,corona19hometestkits.com.ph,corona19hometestkits.com.ph,,
+2020-07-12,corona19testkit.ph,45.79.222.138,US,North America
+2020-07-12,corona19testkit.ph,corona19testkit.ph,,
+2020-07-12,corona19test.ws,64.70.19.203,US,North America
+2020-07-12,corona19test.ws,corona19test.ws,,
 2020-07-12,coronavcure.com.ph,45.79.222.138,US,North America
 2020-07-12,coronavcure.com.ph,coronavcure.com.ph,,
 2020-07-12,coronavirousantibodiestest.ph,45.79.222.138,US,North America
@@ -75,9 +71,13 @@
 2020-07-12,coronavirusinstanttestkit.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-07-12,coronaviruslatestnews.fm,198.74.54.240,US,North America
 2020-07-12,coronaviruslatestnews.fm,coronaviruslatestnews.fm,,
+2020-07-12,corona-virus-latest.ws,corona-virus-latest.ws,,
+2020-07-12,corona-virus-latest.ws,mail.hope-mail.com,,
 2020-07-12,coronavirusmedtest.fm,198.74.54.240,US,North America
 2020-07-12,coronavirusmedtest.fm,coronavirusmedtest.fm,,
 2020-07-12,coronavirus-mobile-testing.com.ph,coronavirus-mobile-testing.com.ph,,
+2020-07-12,corona-virus-online-test.com.ph,45.79.222.138,US,North America
+2020-07-12,corona-virus-online-test.com.ph,corona-virus-online-test.com.ph,,
 2020-07-12,coronavirusonlinetest.ph,coronavirusonlinetest.ph,,
 2020-07-12,coronaviruspandemiclatestnews.ws,64.70.19.203,US,North America
 2020-07-12,coronaviruspandemiclatestnews.ws,coronaviruspandemiclatestnews.ws,,
@@ -92,6 +92,9 @@
 2020-07-12,coronavirusrapidtestkit.ws,coronavirusrapidtestkit.ws,,
 2020-07-12,coronavirusrisktest.ph,coronavirusrisktest.ph,,
 2020-07-12,coronavirusselfchecktest.ph,coronavirusselfchecktest.ph,,
+2020-07-12,corona-virus-selftest.fm,corona-virus-selftest.fm,,
+2020-07-12,corona-virus-selftest.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
+2020-07-12,corona-virus-selftest.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-07-12,coronavirusswabtest.com.ph,coronavirusswabtest.com.ph,,
 2020-07-12,coronavirustestandcure.ws,64.70.19.203,US,North America
 2020-07-12,coronavirustestandcure.ws,coronavirustestandcure.ws,,
@@ -106,6 +109,8 @@
 2020-07-12,coronavirus-test.com.ph,coronavirus-test.com.ph,,
 2020-07-12,coronavirus-tester.com.ph,45.79.222.138,US,North America
 2020-07-12,coronavirus-tester.com.ph,coronavirus-tester.com.ph,,
+2020-07-12,corona-virustester.ph,45.79.222.138,US,North America
+2020-07-12,corona-virustester.ph,corona-virustester.ph,,
 2020-07-12,coronavirustesters.com.ph,coronavirustesters.com.ph,,
 2020-07-12,coronavirus-testeur.com.ph,coronavirus-testeur.com.ph,,
 2020-07-12,coronavirustestfinders.ws,64.70.19.203,US,North America
@@ -153,6 +158,9 @@
 2020-07-12,coronavirustestingtucson.com.ph,coronavirustestingtucson.com.ph,,
 2020-07-12,coronavirustestingusa.ph,coronavirustestingusa.ph,,
 2020-07-12,coronavirustestkiosk.com.ph,coronavirustestkiosk.com.ph,,
+2020-07-12,corona-virus-test-kit.com.ph,45.79.222.138,US,North America
+2020-07-12,corona-virus-test-kit.com.ph,corona-virus-test-kit.com.ph,,
+2020-07-12,corona-virus-testkit.ph,corona-virus-testkit.ph,,
 2020-07-12,coronavirustestkitsmn.com.ph,45.79.222.138,US,North America
 2020-07-12,coronavirustestkitsmn.com.ph,coronavirustestkitsmn.com.ph,,
 2020-07-12,coronavirus-testkits.ph,coronavirus-testkits.ph,,
@@ -197,14 +205,11 @@
 2020-07-12,covid19antibodyfasttest.ws,covid19antibodyfasttest.ws,,
 2020-07-12,covid19antibodyfasttest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-07-12,covid19antibodyfasttest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-07-12,covid-19antibodyrapidtesting.ws,covid-19antibodyrapidtesting.ws,,
 2020-07-12,covid-19antibodyrapidtesting.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-07-12,covid-19antibodyrapidtesting.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-07-12,covid19antibodytestingnyc.com.ph,covid19antibodytestingnyc.com.ph,,
 2020-07-12,covid-19antibodytesting.ws,covid-19antibodytesting.ws,,
 2020-07-12,covid-19antibodytesting.ws,mail.hope-mail.com,,
-2020-07-12,covid19antibodytestkit.ph,45.79.222.138,US,North America
-2020-07-12,covid19antibodytestkit.ph,covid19antibodytestkit.ph,,
 2020-07-12,covid-19antibodytestonline.ph,45.79.222.138,US,North America
 2020-07-12,covid-19antibodytestonline.ph,covid-19antibodytestonline.ph,,
 2020-07-12,covid-19antibodytest.ph,45.79.222.138,US,North America
@@ -221,14 +226,11 @@
 2020-07-12,covid-19at-hometestkit.com.ph,covid-19at-hometestkit.com.ph,,
 2020-07-12,covid-19bloodtests.ph,covid-19bloodtests.ph,,
 2020-07-12,covid19breathtesting.ph,covid19breathtesting.ph,,
-2020-07-12,covid-19breathtest.ph,covid-19breathtest.ph,,
 2020-07-12,covid19businesstesting.ws,covid19businesstesting.ws,,
 2020-07-12,covid19businesstesting.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-07-12,covid19businesstesting.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-07-12,covid19confidentialtest.ph,45.79.222.138,US,North America
 2020-07-12,covid19confidentialtest.ph,covid19confidentialtest.ph,,
-2020-07-12,covid19contacttest.ws,covid19contacttest.ws,,
-2020-07-12,covid19contacttest.ws,mail.hope-mail.com,,
 2020-07-12,covid19cured.ws,covid19cured.ws,,
 2020-07-12,covid19cured.ws,mail.hope-mail.com,,
 2020-07-12,covid19cureforce.com.ph,45.79.222.138,US,North America
@@ -251,25 +253,12 @@
 2020-07-12,covid-19fasthometest.ws,64.70.19.203,US,North America
 2020-07-12,covid-19fasthometest.ws,covid-19fasthometest.ws,,
 2020-07-12,covid-19fasthometest.ws,mail.hope-mail.com,,
-2020-07-12,covid19fecaltest.com.ph,45.79.222.138,US,North America
-2020-07-12,covid19fecaltest.com.ph,covid19fecaltest.com.ph,,
-2020-07-12,covid19flutestkit.fm,198.74.54.240,US,North America
-2020-07-12,covid19flutestkit.fm,covid19flutestkit.fm,,
 2020-07-12,covid-19freetestingsites.com.ph,covid-19freetestingsites.com.ph,,
 2020-07-12,covid19hoaxcure.com.ph,45.79.222.138,US,North America
 2020-07-12,covid19hoaxcure.com.ph,covid19hoaxcure.com.ph,,
-2020-07-12,covid19hometest.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-07-12,covid19hometest.gob.cl,covid19hometest.gob.cl,,
-2020-07-12,covid19hometestset.ws,64.70.19.203,US,North America
-2020-07-12,covid19hometestset.ws,covid19hometestset.ws,,
-2020-07-12,covid19iggrapidtestkits.ph,covid19iggrapidtestkits.ph,,
 2020-07-12,covid-19igmiggrapidtest.ph,45.79.222.138,US,North America
 2020-07-12,covid-19igmiggrapidtest.ph,covid-19igmiggrapidtest.ph,,
-2020-07-12,covid19inhometest.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
-2020-07-12,covid19inhometest.fm,covid19inhometest.fm,,
-2020-07-12,covid19inhometest.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-07-12,covid19inhometest.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-07-12,covid19inhometest.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-07-12,covid19inhometest.ws,covid19inhometest.ws,,
 2020-07-12,covid19inhometest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-07-12,covid19inhometest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
@@ -289,14 +278,14 @@
 2020-07-12,covid19naturalcures.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
 2020-07-12,covid19-pettest.ws,covid19-pettest.ws,,
 2020-07-12,covid19-pettest.ws,mail.hope-mail.com,,
+2020-07-12,covid19rapidantigentests.com,dnsadmin@moniker.com,,
+2020-07-12,covid19rapidantigentests.com,ns1.monikerdns.net,,
 2020-07-12,covid-19rapidtestcassette.ph,covid-19rapidtestcassette.ph,,
 2020-07-12,covid19-rapid-test-kit.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-07-12,covid19-rapid-test-kit.fm,covid19-rapid-test-kit.fm,,
 2020-07-12,covid19-rapid-test-kit.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-07-12,covid19-rapid-test-kit.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-07-12,covid19-rapid-test-kit.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-07-12,covid-19-rapidtestkits.ws,64.70.19.203,US,North America
-2020-07-12,covid-19-rapidtestkits.ws,covid-19-rapidtestkits.ws,,
 2020-07-12,covid-19-rapidtestkit.ws,covid-19-rapidtestkit.ws,,
 2020-07-12,covid-19-rapidtestkit.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-07-12,covid-19-rapidtestkit.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
@@ -389,3 +378,5 @@
 2020-07-12,salivatestforcoronavirus.com,52.0.7.30,US,North America
 2020-07-12,salivatestforcoronavirus.com,salivatestforcoronavirus.com,,
 2020-07-12,www.curevaccoronavirus.ph,45.79.222.138,US,North America
+2020-07-13,corona-virus-home-test-kits.ws,corona-virus-home-test-kits.ws,,
+2020-07-13,corona-virus-home-test-kits.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
