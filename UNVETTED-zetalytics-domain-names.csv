@@ -20,20 +20,21 @@
 2020-07-13,claritycovid19testkit.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-07-13,coloradocovidtesting.ws,coloradocovidtesting.ws,,
 2020-07-13,coloradocovidtesting.ws,mail.hope-mail.com,,
-2020-07-13,columbuscoronavirustests.ws,64.70.19.203,US,North America
-2020-07-13,columbuscoronavirustests.ws,columbuscoronavirustests.ws,,
 2020-07-13,companycovid19test.com.ph,companycovid19test.com.ph,,
 2020-07-13,companycovid19testing.com,127.0.0.1,,
 2020-07-13,companycovid19testing.com,companycovid19testing.com,,
 2020-07-13,conciergecovidtest.com,conciergecovidtest.com,,
 2020-07-13,coronaviruscuretreatment.com.ba,195.222.33.180,BA,Europe
 2020-07-13,coronaviruscuretreatment.com.ba,coronaviruscuretreatment.com.ba,,
+2020-07-13,coronavirus-test.ml,216.239.32.21,US,North America
+2020-07-13,coronavirus-test.ml,216.239.34.21,US,North America
+2020-07-13,coronavirus-test.ml,216.239.36.21,US,North America
+2020-07-13,coronavirus-test.ml,216.239.38.21,US,North America
 2020-07-13,coronavirus-test.ml,coronavirus-test.ml,,
 2020-07-13,coronavirus-test.ml,ns01.freenom.com,,
 2020-07-13,coronavirus-test.ml,ns02.freenom.com,,
 2020-07-13,coronavirus-test.ml,ns03.freenom.com,,
 2020-07-13,coronavirus-test.ml,ns04.freenom.com,,
-2020-07-13,covid19antigentestkit.com,covid19antigentestkit.com,,
 2020-07-13,covid19antigentestkits.com,covid19antigentestkits.com,,
 2020-07-13,covid19ecotest.com,23.236.62.147,US,North America
 2020-07-13,covid19ecotest.com,covid19ecotest.com,,
@@ -42,7 +43,6 @@
 2020-07-13,covid-19employeerapidtest.com,74.220.199.6,US,North America
 2020-07-13,covid-19employeerapidtest.com,covid-19employeerapidtest.com,,
 2020-07-13,covid19houstonhometest.com,covid19houstonhometest.com,,
-2020-07-13,covid19rapidantigentestkit.com,covid19rapidantigentestkit.com,,
 2020-07-13,covid19salivaselftestkits.com,2001:8d8:100f:f000::215,DE,Europe
 2020-07-13,covid19salivaselftestkits.com,217.160.0.224,DE,Europe
 2020-07-13,covid19salivaselftestkits.com,covid19salivaselftestkits.com,,
@@ -82,8 +82,6 @@
 2020-07-13,pop.test-covid.online,mail.register.it,,
 2020-07-13,rapidcovidtests.co,34.102.136.180,US,North America
 2020-07-13,rapidcovidtests.co,rapidcovidtests.co,,
-2020-07-13,salivacovidtestnow.com,34.102.136.180,US,North America
-2020-07-13,svdpcovid19test.site,svdpcovid19test.site,,
 2020-07-13,testcovidhome.com,34.102.136.180,US,North America
 2020-07-13,testcovidhome.com,testcovidhome.com,,
 2020-07-13,test-covid.online,195.110.124.133,IT,Europe
@@ -176,6 +174,8 @@
 2020-07-14,covidtestkiti.com,covidtestkiti.com,,
 2020-07-14,covidtestkiti.com,ns1.izmirsoft.com.tr,,
 2020-07-14,covidtestkiti.com,ns2.izmirsoft.com.tr,,
+2020-07-14,covidtestkiti.com,ns8.wixdns.net,,
+2020-07-14,covidtestkiti.com,ns9.wixdns.net,,
 2020-07-14,covidtestsource.com,covidtestsource.com,,
 2020-07-14,covidtestsource.com,ns23.domaincontrol.com,,
 2020-07-14,covidtestsource.com,ns24.domaincontrol.com,,
@@ -217,6 +217,7 @@
 2020-07-14,jeffersoncountycovidtesting.com,jeffersoncountycovidtesting.com,,
 2020-07-14,jeffersoncountycovidtesting.com,ns57.domaincontrol.com,,
 2020-07-14,jeffersoncountycovidtesting.com,ns58.domaincontrol.com,,
+2020-07-14,kcovidtest.com,kcovidtest.com,,
 2020-07-14,neighboorhoodcovidtest.com,neighboorhoodcovidtest.com,,
 2020-07-14,newyorkcitycovid-19tests.ws,64.70.19.203,US,North America
 2020-07-14,newyorkcitycovid-19tests.ws,newyorkcitycovid-19tests.ws,,
@@ -231,8 +232,10 @@
 2020-07-14,pop.testcovid19.dental,mail.nominalia.com,,
 2020-07-14,quickcovidhometest.com,quickcovidhometest.com,,
 2020-07-14,quickcovidtest.ca,quickcovidtest.ca,,
+2020-07-14,rapidcovidtestingclinic.com,rapidcovidtestingclinic.com,,
 2020-07-14,rapidcovidtestingnearme.com,rapidcovidtestingnearme.com,,
 2020-07-14,testcovid19argentina.com,200.58.110.205,AR,South America
+2020-07-14,testcovid19argentina.com,2800:6c0:2::5,AR,South America
 2020-07-14,testcovid19argentina.com,ns1.donweb.com,,
 2020-07-14,testcovid19argentina.com,ns2.donweb.com,,
 2020-07-14,testcovid19argentina.com,testcovid19argentina.com,,
@@ -284,6 +287,7 @@
 2020-07-14,www6.doitneedacovid19test.com,www10.smartname.com,,
 2020-07-14,www.covid19test.email,81.88.48.71,IT,Europe
 2020-07-14,www.covid19test.email,covid19test.email,,
+2020-07-14,www.getcovid19test.ph,45.79.222.138,US,North America
 2020-07-14,www.jeffersoncountycovidtest.com,34.102.136.180,US,North America
 2020-07-14,www.jeffersoncountycovidtest.com,jeffersoncountycovidtest.com,,
 2020-07-14,www.jeffersoncountycovidtesting.com,34.102.136.180,US,North America
