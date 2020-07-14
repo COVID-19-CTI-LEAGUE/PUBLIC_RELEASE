@@ -48,8 +48,6 @@
 2020-07-13,covid19houstonhometest.com,ns05.domaincontrol.com,,
 2020-07-13,covid19rapidantigentestkit.com,covid19rapidantigentestkit.com,,
 2020-07-13,covid19rapidantigentestkit.com,ns2.monikerdns.net,,
-2020-07-13,covid19rapidantigentestkit.com,ns3.monikerdns.net,,
-2020-07-13,covid19rapidantigentestkit.com,ns4.monikerdns.net,,
 2020-07-13,covid19salivaselftestkits.com,2001:8d8:100f:f000::215,DE,Europe
 2020-07-13,covid19salivaselftestkits.com,217.160.0.224,DE,Europe
 2020-07-13,covid19salivaselftestkits.com,covid19salivaselftestkits.com,,
@@ -74,7 +72,6 @@
 2020-07-13,covidtestingmichigan.com,covidtestingmichigan.com,,
 2020-07-13,covidtestscanada.com,64.98.145.30,CA,North America
 2020-07-13,covidtestscanada.com,covidtestscanada.com,,
-2020-07-13,covidtestscanada.com,ns1.hover.com,,
 2020-07-13,ctccovid19test.site,ctccovid19test.site,,
 2020-07-13,ftp.test-covid.online,195.110.124.133,IT,Europe
 2020-07-13,ftp.test-covid.online,test-covid.online,,
@@ -130,7 +127,6 @@
 2020-07-14,atlantacoronavirustest.com.ph,atlantacoronavirustest.com.ph,,
 2020-07-14,austincovidtest.com,184.168.131.241,US,North America
 2020-07-14,austincovidtest.com,austincovidtest.com,,
-2020-07-14,austincovidtest.com,ns29.domaincontrol.com,,
 2020-07-14,businesstestingcovid-19.biz,146.112.61.107,,Europe
 2020-07-14,businesstestingcovid-19.biz,businesstestingcovid-19.biz,,
 2020-07-14,cellexcovid19test.com.ph,45.79.222.138,US,North America
@@ -233,7 +229,6 @@
 2020-07-14,pop.testcovid19.dental,195.110.124.132,IT,Europe
 2020-07-14,pop.testcovid19.dental,mail.nominalia.com,,
 2020-07-14,quickcovidhometest.com,ns19.domaincontrol.com,,
-2020-07-14,quickcovidhometest.com,ns20.domaincontrol.com,,
 2020-07-14,quickcovidhometest.com,quickcovidhometest.com,,
 2020-07-14,quickcovidtest.ca,quickcovidtest.ca,,
 2020-07-14,rapidcovidtestingnearme.com,rapidcovidtestingnearme.com,,
@@ -293,6 +288,8 @@
 2020-07-14,www.jeffersoncountycovidtesting.com,jeffersoncountycovidtesting.com,,
 2020-07-14,www.testcovid19.dental,81.88.48.71,IT,Europe
 2020-07-14,www.testcovid19.dental,testcovid19.dental,,
+2020-07-14,www.testcovid19.dentist,81.88.48.71,IT,Europe
+2020-07-14,www.testcovid19.dentist,testcovid19.dentist,,
 2020-07-14,www.testrapidocovid19.com.bo,64.37.50.178,US,North America
 2020-07-14,www.testrapidocovid19.com.bo,testrapidocovid19.com.bo,,
 2020-07-14,www.testrapidoscovid.es,178.238.47.107,CZ,Europe
