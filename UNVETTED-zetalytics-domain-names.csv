@@ -20,7 +20,6 @@
 2020-07-13,claritycovid19testkit.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-07-13,coloradocovidtesting.ws,coloradocovidtesting.ws,,
 2020-07-13,coloradocovidtesting.ws,mail.hope-mail.com,,
-2020-07-13,companycovid19test.com.ph,companycovid19test.com.ph,,
 2020-07-13,companycovid19testing.com,127.0.0.1,,
 2020-07-13,companycovid19testing.com,companycovid19testing.com,,
 2020-07-13,conciergecovidtest.com,conciergecovidtest.com,,
@@ -164,7 +163,6 @@
 2020-07-14,covidtestcanada.com,dnsmaster@hover.com,,
 2020-07-14,covidtestcanada.com,mx.hover.com.cust.hostedemail.com,,
 2020-07-14,covidtestcanada.com,ns1.hover.com,,
-2020-07-14,covidtestcanada.com,ns2.hover.com,,
 2020-07-14,covidtestcenter.ca,covidtestcenter.ca,,
 2020-07-14,covidtestingcanada.com,34.102.136.180,US,North America
 2020-07-14,covidtestingcanada.com,covidtestingcanada.com,,
@@ -184,6 +182,13 @@
 2020-07-14,curecovid19.co.za,curecovid19.co.za,,
 2020-07-14,curecovid19.co.za,mail.curecovid19.co.za,,
 2020-07-14,curencovid.com,curencovid.com,,
+2020-07-14,dioineedacovidtest.com,198.58.118.167,US,North America
+2020-07-14,dioineedacovidtest.com,45.33.23.183,US,North America
+2020-07-14,dioineedacovidtest.com,45.33.2.79,US,North America
+2020-07-14,dioineedacovidtest.com,45.56.79.23,US,North America
+2020-07-14,dioineedacovidtest.com,45.79.19.196,US,North America
+2020-07-14,dioineedacovidtest.com,96.126.123.244,US,North America
+2020-07-14,dioineedacovidtest.com,dioineedacovidtest.com,,
 2020-07-14,doineedacovid-19test.co,198.58.118.167,US,North America
 2020-07-14,doineedacovid-19test.co,45.33.23.183,US,North America
 2020-07-14,doineedacovid-19test.co,45.33.2.79,US,North America
@@ -199,8 +204,6 @@
 2020-07-14,doineedacovid19testing.com,96.126.123.244,US,North America
 2020-07-14,doineedacovid19testing.com,doineedacovid19testing.com,,
 2020-07-14,doitneedacovid19test.com,doitneedacovid19test.com,,
-2020-07-14,doitneedacovid19test.com,ns1.mytrafficmanagement.com,,
-2020-07-14,doitneedacovid19test.com,ns2.mytrafficmanagement.com,,
 2020-07-14,drcovidcure.com,drcovidcure.com,,
 2020-07-14,ftp.covid19test.email,81.88.48.71,IT,Europe
 2020-07-14,ftp.covid19test.email,covid19test.email,,
@@ -213,12 +216,12 @@
 2020-07-14,jeffersoncountycovidtest.com,34.102.136.180,US,North America
 2020-07-14,jeffersoncountycovidtest.com,jeffersoncountycovidtest.com,,
 2020-07-14,jeffersoncountycovidtest.com,ns57.domaincontrol.com,,
-2020-07-14,jeffersoncountycovidtest.com,ns58.domaincontrol.com,,
 2020-07-14,jeffersoncountycovidtesting.com,jeffersoncountycovidtesting.com,,
 2020-07-14,jeffersoncountycovidtesting.com,ns57.domaincontrol.com,,
-2020-07-14,jeffersoncountycovidtesting.com,ns58.domaincontrol.com,,
 2020-07-14,kcovidtest.com,kcovidtest.com,,
 2020-07-14,neighboorhoodcovidtest.com,neighboorhoodcovidtest.com,,
+2020-07-14,neighboorhoodcovidtest.com,ns65.domaincontrol.com,,
+2020-07-14,neighboorhoodcovidtest.com,ns66.domaincontrol.com,,
 2020-07-14,newyorkcitycovid-19tests.ws,64.70.19.203,US,North America
 2020-07-14,newyorkcitycovid-19tests.ws,newyorkcitycovid-19tests.ws,,
 2020-07-14,orangecountycovidtests.com,ns23.domaincontrol.com,,
@@ -232,6 +235,7 @@
 2020-07-14,pop.testcovid19.dental,mail.nominalia.com,,
 2020-07-14,quickcovidhometest.com,quickcovidhometest.com,,
 2020-07-14,quickcovidtest.ca,quickcovidtest.ca,,
+2020-07-14,rapidcovidtestingclinic.com,34.102.136.180,US,North America
 2020-07-14,rapidcovidtestingclinic.com,rapidcovidtestingclinic.com,,
 2020-07-14,rapidcovidtestingnearme.com,rapidcovidtestingnearme.com,,
 2020-07-14,testcovid19argentina.com,200.58.110.205,AR,South America
