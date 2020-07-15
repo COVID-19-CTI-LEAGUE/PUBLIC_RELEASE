@@ -4,13 +4,10 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-07-14,15-minutecoronavirustest.xn--fiqs8s,15-minutecoronavirustest.xn--fiqs8s,,
 2020-07-14,15-minutecoronavirustest.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-07-14,15minutecovid19test.la,15minutecovid19test.la,,
 2020-07-14,1st2curecoronavirus.com.ba,195.222.33.180,BA,Europe
 2020-07-14,1st2curecoronavirus.com.ba,1st2curecoronavirus.com.ba,,
 2020-07-14,1st2curecoronavirus.xn--io0a7i.cn,1st2curecoronavirus.xn--io0a7i.cn,,
 2020-07-14,1st2curecoronavirus.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-07-14,1stepcovid19testkit.xn--55qx5d.cn,1stepcovid19testkit.xn--55qx5d.cn,,
-2020-07-14,1stepcovid19testkit.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-07-14,2curecoronavirus.la,173.230.141.80,US,North America
 2020-07-14,2curecoronavirus.la,2curecoronavirus.la,,
 2020-07-14,2curecoronavirus.xn--io0a7i.cn,218.241.116.40,CN,Asia
@@ -53,6 +50,7 @@
 2020-07-14,covid19test.email,covid19test.email,,
 2020-07-14,covid19test.email,dns1.nominalia.com,,
 2020-07-14,covid19test.email,dns2.nominalia.com,,
+2020-07-14,covid19test.email,mail.nominalia.com,,
 2020-07-14,covid19test.report,covid19test.report,,
 2020-07-14,covidcure.io,covidcure.io,,
 2020-07-14,covidrapidtestme.com,covidrapidtestme.com,,
@@ -168,7 +166,6 @@
 2020-07-14,testerapidocovid19.net,23.236.62.147,US,North America
 2020-07-14,testerapidocovid19.net,testerapidocovid19.net,,
 2020-07-14,testforcovidmeck.com,testforcovidmeck.com,,
-2020-07-14,testrapidoscovid.es,178.238.47.107,CZ,Europe
 2020-07-14,test-serologique-coronavirus.la,173.230.141.80,US,North America
 2020-07-14,test-serologique-coronavirus.la,test-serologique-coronavirus.la,,
 2020-07-14,unitetocurecovid19.com,34.102.136.180,US,North America
@@ -206,7 +203,6 @@
 2020-07-14,www.testcovid19.dental,testcovid19.dental,,
 2020-07-14,www.testcovid19.dentist,81.88.48.71,IT,Europe
 2020-07-14,www.testcovid19.dentist,testcovid19.dentist,,
-2020-07-14,www.testrapidoscovid.es,178.238.47.107,CZ,Europe
 2020-07-14,yachtcovidtesting.com,yachtcovidtesting.com,,
 2020-07-15,buscovid19testing.fm,198.74.54.240,US,North America
 2020-07-15,buscovid19testing.fm,buscovid19testing.fm,,
@@ -235,9 +231,12 @@
 2020-07-15,covid19salivaselftestkits.com.ph,covid19salivaselftestkits.com.ph,,
 2020-07-15,covid19salivaselftestkits.ph,45.79.222.138,US,North America
 2020-07-15,covid19salivaselftestkits.ph,covid19salivaselftestkits.ph,,
+2020-07-15,covid19testingregistration.com,ns37.domaincontrol.com,,
+2020-07-15,covid19testingregistration.com,ns38.domaincontrol.com,,
 2020-07-15,covid19texashometest.ws,covid19texashometest.ws,,
 2020-07-15,covid19texashometest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-07-15,covidconciergetesting.com,covidconciergetesting.com,,
+2020-07-15,covidcures4sure.com,covidcures4sure.com,,
 2020-07-15,coviddiscoverytest.com,34.102.136.180,US,North America
 2020-07-15,coviddiscoverytest.com,coviddiscoverytest.com,,
 2020-07-15,covidrapidhometest.com,covidrapidhometest.com,,
