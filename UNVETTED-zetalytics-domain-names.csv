@@ -2,192 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-14,15-minutecoronavirustest.xn--fiqs8s,15-minutecoronavirustest.xn--fiqs8s,,
-2020-07-14,15-minutecoronavirustest.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-07-14,1st2curecoronavirus.com.ba,195.222.33.180,BA,Europe
-2020-07-14,1st2curecoronavirus.com.ba,1st2curecoronavirus.com.ba,,
-2020-07-14,1st2curecoronavirus.xn--io0a7i.cn,1st2curecoronavirus.xn--io0a7i.cn,,
-2020-07-14,1st2curecoronavirus.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-07-14,2curecoronavirus.la,173.230.141.80,US,North America
-2020-07-14,2curecoronavirus.la,2curecoronavirus.la,,
-2020-07-14,2curecoronavirus.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-07-14,2curecoronavirus.xn--io0a7i.cn,2curecoronavirus.xn--io0a7i.cn,,
-2020-07-14,austincovidtest.com,184.168.131.241,US,North America
-2020-07-14,austincovidtest.com,austincovidtest.com,,
-2020-07-14,businesstestingcovid-19.biz,146.112.61.107,,Europe
-2020-07-14,caribcovid19tests.ph,caribcovid19tests.ph,,
-2020-07-14,caribcovid19tests.ws,64.70.19.203,US,North America
-2020-07-14,caribcovid19tests.ws,caribcovid19tests.ws,,
-2020-07-14,cellexcovid19test.com.ph,45.79.222.138,US,North America
-2020-07-14,cellexcovid19test.com.ph,cellexcovid19test.com.ph,,
-2020-07-14,cepheidcovid19test.com.ph,45.79.222.138,US,North America
-2020-07-14,cepheidcovid19test.com.ph,cepheidcovid19test.com.ph,,
-2020-07-14,cepheidcovid19test.ws,cepheidcovid19test.ws,,
-2020-07-14,cepheidcovid19test.ws,mail.hope-mail.com,,
-2020-07-14,certifiedcovidtestedworkplace.net,146.112.61.107,,Europe
-2020-07-14,certifiedcovidtestedworkplace.net,certifiedcovidtestedworkplace.net,,
-2020-07-14,charlestoncoronavirustests.ws,64.70.19.203,US,North America
-2020-07-14,charlestoncoronavirustests.ws,charlestoncoronavirustests.ws,,
-2020-07-14,covid19-drugtest.net,146.112.61.107,,Europe
-2020-07-14,covid19-drugtest.net,covid19-drugtest.net,,
-2020-07-14,covid19instanttesting.com,covid19instanttesting.com,,
-2020-07-14,covid19rapidselftestkits.com,2001:8d8:100f:f000::215,DE,Europe
-2020-07-14,covid19rapidselftestkits.com,217.160.0.224,DE,Europe
-2020-07-14,covid19rapidselftestkits.com,covid19rapidselftestkits.com,,
-2020-07-14,covid19rapidselftestkits.com,hostmaster@1und1.com,,
-2020-07-14,covid19rapidselftestkits.com,ns1041.ui-dns.de,,
-2020-07-14,covid19rapidselftestkits.com,ns1052.ui-dns.biz,,
-2020-07-14,covid19rapidselftestkits.com,ns1053.ui-dns.com,,
-2020-07-14,covid19rapidselftestkits.com,ns1069.ui-dns.org,,
-2020-07-14,covid19schooltest.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-07-14,covid19schooltest.xn--io0a7i.cn,covid19schooltest.xn--io0a7i.cn,,
-2020-07-14,covid19test.email,dns1.nominalia.com,,
-2020-07-14,covid19test.email,dns2.nominalia.com,,
-2020-07-14,covid19test.email,mail.nominalia.com,,
-2020-07-14,covid19test.report,covid19test.report,,
-2020-07-14,covidcure.io,covidcure.io,,
-2020-07-14,covidrapidtestme.com,covidrapidtestme.com,,
-2020-07-14,covidsarstesting.com,covidsarstesting.com,,
-2020-07-14,covidstatest.online,covidstatest.online,,
-2020-07-14,covidstatest.online,ns1.dns-parking.com,,
-2020-07-14,covidstatest.online,ns2.dns-parking.com,,
-2020-07-14,covidtechtest.com,covidtechtest.com,,
-2020-07-14,covidtestaustin.com,covidtestaustin.com,,
-2020-07-14,covidtestingcanada.com,34.102.136.180,US,North America
-2020-07-14,covidtestingcanada.com,covidtestingcanada.com,,
-2020-07-14,covidtestinglondon.co.uk,185.151.30.138,GB,Europe
-2020-07-14,covidtestinglondon.co.uk,covidtestinglondon.co.uk,,
-2020-07-14,covidtestings.co.za,covidtestings.co.za,,
-2020-07-14,covidtestkiti.com,covidtestkiti.com,,
-2020-07-14,covidtestkiti.com,ns1.izmirsoft.com.tr,,
-2020-07-14,covidtestkiti.com,ns2.izmirsoft.com.tr,,
-2020-07-14,covidtestkiti.com,ns8.wixdns.net,,
-2020-07-14,covidtestkiti.com,ns9.wixdns.net,,
-2020-07-14,covidtestsource.com,covidtestsource.com,,
-2020-07-14,covidtraveltesting.com,covidtraveltesting.com,,
-2020-07-14,curecovid19.co.za,169.1.24.244,ZA,Africa
-2020-07-14,curecovid19.co.za,curecovid19.co.za,,
-2020-07-14,curecovid19.co.za,mail.curecovid19.co.za,,
-2020-07-14,curencovid.com,curencovid.com,,
-2020-07-14,dioineedacovidtest.com,198.58.118.167,US,North America
-2020-07-14,dioineedacovidtest.com,45.33.23.183,US,North America
-2020-07-14,dioineedacovidtest.com,45.33.2.79,US,North America
-2020-07-14,dioineedacovidtest.com,45.56.79.23,US,North America
-2020-07-14,dioineedacovidtest.com,45.79.19.196,US,North America
-2020-07-14,dioineedacovidtest.com,96.126.123.244,US,North America
-2020-07-14,dioineedacovidtest.com,dioineedacovidtest.com,,
-2020-07-14,doineedacovid-19test.co,198.58.118.167,US,North America
-2020-07-14,doineedacovid-19test.co,45.33.23.183,US,North America
-2020-07-14,doineedacovid-19test.co,45.33.2.79,US,North America
-2020-07-14,doineedacovid-19test.co,45.56.79.23,US,North America
-2020-07-14,doineedacovid-19test.co,45.79.19.196,US,North America
-2020-07-14,doineedacovid-19test.co,96.126.123.244,US,North America
-2020-07-14,doineedacovid-19test.co,doineedacovid-19test.co,,
-2020-07-14,doineedacovid19testing.com,198.58.118.167,US,North America
-2020-07-14,doineedacovid19testing.com,45.33.23.183,US,North America
-2020-07-14,doineedacovid19testing.com,45.33.2.79,US,North America
-2020-07-14,doineedacovid19testing.com,45.56.79.23,US,North America
-2020-07-14,doineedacovid19testing.com,45.79.19.196,US,North America
-2020-07-14,doineedacovid19testing.com,96.126.123.244,US,North America
-2020-07-14,doineedacovid19testing.com,doineedacovid19testing.com,,
-2020-07-14,drcovidcure.com,drcovidcure.com,,
-2020-07-14,ftp.covid19test.email,81.88.48.71,IT,Europe
-2020-07-14,ftp.covid19test.email,covid19test.email,,
-2020-07-14,ftp.testcovid19.clinic,81.88.48.71,IT,Europe
-2020-07-14,ftp.testcovid19.clinic,testcovid19.clinic,,
-2020-07-14,ftp.testcovid19.dental,81.88.48.71,IT,Europe
-2020-07-14,ftp.testcovid19.dental,testcovid19.dental,,
-2020-07-14,getcovid19test.ph,45.79.222.138,US,North America
-2020-07-14,getcovid19test.ph,getcovid19test.ph,,
-2020-07-14,hawaiicovid19test.com,hawaiicovid19test.com,,
-2020-07-14,jeffersoncountycovidtest.com,34.102.136.180,US,North America
-2020-07-14,jeffersoncountycovidtest.com,jeffersoncountycovidtest.com,,
-2020-07-14,jeffersoncountycovidtesting.com,34.102.136.180,US,North America
-2020-07-14,jeffersoncountycovidtesting.com,jeffersoncountycovidtesting.com,,
-2020-07-14,kcovidtest.com,kcovidtest.com,,
-2020-07-14,neighboorhoodcovidtest.com,neighboorhoodcovidtest.com,,
-2020-07-14,neighboorhoodcovidtest.com,ns65.domaincontrol.com,,
-2020-07-14,neighboorhoodcovidtest.com,ns66.domaincontrol.com,,
-2020-07-14,newyorkcitycovid-19tests.ws,64.70.19.203,US,North America
-2020-07-14,newyorkcitycovid-19tests.ws,newyorkcitycovid-19tests.ws,,
-2020-07-14,orangecountycovidtest.org,orangecountycovidtest.org,,
-2020-07-14,orangecountycovidtests.com,ns23.domaincontrol.com,,
-2020-07-14,orangecountycovidtests.com,ns24.domaincontrol.com,,
-2020-07-14,orangecountycovidtests.com,orangecountycovidtests.com,,
-2020-07-14,pop.covid19test.email,195.110.124.132,IT,Europe
-2020-07-14,pop.covid19test.email,mail.nominalia.com,,
-2020-07-14,pop.testcovid19.clinic,195.110.124.132,IT,Europe
-2020-07-14,pop.testcovid19.clinic,mail.nominalia.com,,
-2020-07-14,pop.testcovid19.dental,195.110.124.132,IT,Europe
-2020-07-14,pop.testcovid19.dental,mail.nominalia.com,,
-2020-07-14,quickcovidhometest.com,quickcovidhometest.com,,
-2020-07-14,quickcovidtest.ca,quickcovidtest.ca,,
-2020-07-14,rapidcovidtestingclinic.com,34.102.136.180,US,North America
-2020-07-14,rapidcovidtestingclinic.com,rapidcovidtestingclinic.com,,
-2020-07-14,rapidcovidtestingnearme.com,34.102.136.180,US,North America
-2020-07-14,rapidcovidtestingnearme.com,rapidcovidtestingnearme.com,,
-2020-07-14,testcovid19argentina.com,200.58.110.205,AR,South America
-2020-07-14,testcovid19argentina.com,2800:6c0:2::5,AR,South America
-2020-07-14,testcovid19argentina.com,testcovid19argentina.com,,
-2020-07-14,testcovid19.clinic,81.88.48.71,IT,Europe
-2020-07-14,testcovid19.clinic,dns1.nominalia.com,,
-2020-07-14,testcovid19.clinic,dns2.nominalia.com,,
-2020-07-14,testcovid19.clinic,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
-2020-07-14,testcovid19.clinic,mail.nominalia.com,,
-2020-07-14,testcovid19.clinic,root@dns1.nominalia.com,,
-2020-07-14,testcovid19.clinic,testcovid19.clinic,,
-2020-07-14,testcovid19.clinic,#v=spf1 include:spf.webapps.net ~all,,
-2020-07-14,testcovid19.dental,81.88.48.71,IT,Europe
-2020-07-14,testcovid19.dental,dns1.nominalia.com,,
-2020-07-14,testcovid19.dental,dns2.nominalia.com,,
-2020-07-14,testcovid19.dental,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
-2020-07-14,testcovid19.dental,testcovid19.dental,,
-2020-07-14,testcovid19.dental,#v=spf1 include:spf.webapps.net ~all,,
-2020-07-14,testcovid19.dentist,81.88.48.71,IT,Europe
-2020-07-14,testcovid19.dentist,dns1.nominalia.com,,
-2020-07-14,testcovid19.dentist,dns2.nominalia.com,,
-2020-07-14,testcovid19.dentist,testcovid19.dentist,,
-2020-07-14,testcovidmx.com,34.102.136.180,US,North America
-2020-07-14,testcovidmx.com,testcovidmx.com,,
-2020-07-14,testcovidtest.com,34.102.136.180,US,North America
-2020-07-14,testcovidtest.com,testcovidtest.com,,
-2020-07-14,testerapidocovid19.net,23.236.62.147,US,North America
-2020-07-14,testerapidocovid19.net,testerapidocovid19.net,,
-2020-07-14,testforcovidmeck.com,testforcovidmeck.com,,
-2020-07-14,test-serologique-coronavirus.la,173.230.141.80,US,North America
-2020-07-14,test-serologique-coronavirus.la,test-serologique-coronavirus.la,,
-2020-07-14,unitetocurecovid19.com,34.102.136.180,US,North America
-2020-07-14,unitetocurecovid19.com,ns57.domaincontrol.com,,
-2020-07-14,unitetocurecovid19.com,ns58.domaincontrol.com,,
-2020-07-14,unitetocurecovid19.com,unitetocurecovid19.com,,
-2020-07-14,unitetocurecovid19.net,ns57.domaincontrol.com,,
-2020-07-14,unitetocurecovid19.net,ns58.domaincontrol.com,,
-2020-07-14,unitetocurecovid19.net,unitetocurecovid19.net,,
-2020-07-14,unitetocurecovid19.org,ns27.domaincontrol.com,,
-2020-07-14,unitetocurecovid19.org,ns28.domaincontrol.com,,
-2020-07-14,unitetocurecovid19.org,unitetocurecovid19.org,,
-2020-07-14,unitetocurecovid.com,34.102.136.180,US,North America
-2020-07-14,unitetocurecovid.com,ns27.domaincontrol.com,,
-2020-07-14,unitetocurecovid.com,ns28.domaincontrol.com,,
-2020-07-14,unitetocurecovid.com,unitetocurecovid.com,,
-2020-07-14,unitetocurecovid.info,34.102.136.180,US,North America
-2020-07-14,unitetocurecovid.info,ns27.domaincontrol.com,,
-2020-07-14,unitetocurecovid.info,ns28.domaincontrol.com,,
-2020-07-14,unitetocurecovid.info,unitetocurecovid.info,,
-2020-07-14,www1.doineedacovid-19test.co,185.53.179.29,DE,Europe
-2020-07-14,www1.doineedacovid-19test.co,473162.parkingcrew.net,,
-2020-07-14,www.getcovid19test.ph,45.79.222.138,US,North America
-2020-07-14,www.hawaiicovid19test.com,160.153.136.3,US,North America
-2020-07-14,www.hawaiicovid19test.com,hawaiicovid19test.com,,
-2020-07-14,www.jeffersoncountycovidtest.com,34.102.136.180,US,North America
-2020-07-14,www.jeffersoncountycovidtest.com,jeffersoncountycovidtest.com,,
-2020-07-14,www.jeffersoncountycovidtesting.com,34.102.136.180,US,North America
-2020-07-14,www.jeffersoncountycovidtesting.com,jeffersoncountycovidtesting.com,,
-2020-07-14,www.testcovid19.dental,81.88.48.71,IT,Europe
-2020-07-14,www.testcovid19.dental,testcovid19.dental,,
-2020-07-14,www.testcovid19.dentist,81.88.48.71,IT,Europe
-2020-07-14,www.testcovid19.dentist,testcovid19.dentist,,
-2020-07-14,yachtcovidtesting.com,yachtcovidtesting.com,,
 2020-07-15,10minutecoronavirustest.com,10minutecoronavirustest.com,,
 2020-07-15,10minutecoronavirustest.com,34.102.136.180,US,North America
 2020-07-15,bleachcoronaviruscure.com.ph,bleachcoronaviruscure.com.ph,,
@@ -213,10 +27,14 @@
 2020-07-15,covid19houstonhometest.ws,covid19houstonhometest.ws,,
 2020-07-15,covid19newyorktestkit.com,34.102.136.180,US,North America
 2020-07-15,covid19newyorktestkit.com,covid19newyorktestkit.com,,
+2020-07-15,covid19newyorktestkit.com,ns05.domaincontrol.com,,
+2020-07-15,covid19newyorktestkit.com,ns06.domaincontrol.com,,
 2020-07-15,covid19rapidantigentests.com.ph,45.79.222.138,US,North America
 2020-07-15,covid19rapidantigentests.com.ph,covid19rapidantigentests.com.ph,,
 2020-07-15,covid19rapidttestkit.com,34.102.136.180,US,North America
 2020-07-15,covid19rapidttestkit.com,covid19rapidttestkit.com,,
+2020-07-15,covid19rapidttestkit.com,ns29.domaincontrol.com,,
+2020-07-15,covid19rapidttestkit.com,ns30.domaincontrol.com,,
 2020-07-15,covid19rapidttestkit.com.ph,covid19rapidttestkit.com.ph,,
 2020-07-15,covid19salivaselftestkits.com.ph,45.79.222.138,US,North America
 2020-07-15,covid19salivaselftestkits.com.ph,covid19salivaselftestkits.com.ph,,
@@ -225,6 +43,7 @@
 2020-07-15,covid19testingregistration.com,covid19testingregistration.com,,
 2020-07-15,covid19testingregistration.com,dns@jomax.net,,
 2020-07-15,covid19testingregistration.com,ns37.domaincontrol.com,,
+2020-07-15,covid19testingregistration.com,ns38.domaincontrol.com,,
 2020-07-15,covid19texashometest.ws,covid19texashometest.ws,,
 2020-07-15,covid19texashometest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-07-15,covid19texashometest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
@@ -233,6 +52,8 @@
 2020-07-15,covidcures4sure.com,covidcures4sure.com,,
 2020-07-15,coviddiscoverytest.com,34.102.136.180,US,North America
 2020-07-15,coviddiscoverytest.com,coviddiscoverytest.com,,
+2020-07-15,coviddiscoverytest.com,ns75.domaincontrol.com,,
+2020-07-15,coviddiscoverytest.com,ns76.domaincontrol.com,,
 2020-07-15,covidrapidhometest.com,covidrapidhometest.com,,
 2020-07-15,covidrapidhometest.com,ns23.domaincontrol.com,,
 2020-07-15,covidrapidhometest.com,ns24.domaincontrol.com,,
@@ -251,9 +72,18 @@
 2020-07-15,covidtestinganytime.com,covidtestinganytime.com,,
 2020-07-15,covidtestmarketplace.com,34.102.136.180,US,North America
 2020-07-15,covidtestmarketplace.com,covidtestmarketplace.com,,
+2020-07-15,covidtestmarketplace.com,ns37.domaincontrol.com,,
+2020-07-15,covidtestmarketplace.com,ns38.domaincontrol.com,,
 2020-07-15,covidworkplacetesting.com,34.102.136.180,US,North America
 2020-07-15,covidworkplacetesting.com,covidworkplacetesting.com,,
 2020-07-15,curecovidcollective.org,curecovidcollective.org,,
+2020-07-15,doineedacovid19test.cm,198.58.118.167,US,North America
+2020-07-15,doineedacovid19test.cm,45.33.23.183,US,North America
+2020-07-15,doineedacovid19test.cm,45.33.2.79,US,North America
+2020-07-15,doineedacovid19test.cm,45.56.79.23,US,North America
+2020-07-15,doineedacovid19test.cm,45.79.19.196,US,North America
+2020-07-15,doineedacovid19test.cm,96.126.123.244,US,North America
+2020-07-15,doineedacovid19test.cm,doineedacovid19test.cm,,
 2020-07-15,doineedacovidtest.co,146.112.61.107,,Europe
 2020-07-15,doineedacovidtest.co,doineedacovidtest.co,,
 2020-07-15,doineedtogetacovid19test.com,198.58.118.167,US,North America
@@ -273,6 +103,8 @@
 2020-07-15,hawaiicovidtest.com,104.171.23.69,US,North America
 2020-07-15,hawaiicovidtest.com,104.171.23.70,US,North America
 2020-07-15,hawaiicovidtest.com,hawaiicovidtest.com,,
+2020-07-15,iscovid19curedyet.com,ns1.domain.com,,
+2020-07-15,iscovid19curedyet.com,ns2.domain.com,,
 2020-07-15,lowcostcovid-19testingkits.us,lowcostcovid-19testingkits.us,,
 2020-07-15,lowcostcovid-19testingkits.us,ns1.dnsowl.com,,
 2020-07-15,lowcostcovid-19testingkits.us,ns2.dnsowl.com,,
