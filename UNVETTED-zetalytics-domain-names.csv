@@ -2,176 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-15,10minutecoronavirustest.com,10minutecoronavirustest.com,,
-2020-07-15,10minutecoronavirustest.com,34.102.136.180,US,North America
-2020-07-15,bleachcoronaviruscure.com.ph,bleachcoronaviruscure.com.ph,,
-2020-07-15,buscovid19testing.fm,198.74.54.240,US,North America
-2020-07-15,buscovid19testing.fm,buscovid19testing.fm,,
-2020-07-15,buscovid19testing.ph,buscovid19testing.ph,,
-2020-07-15,businesstestingcovid-19.ph,businesstestingcovid-19.ph,,
-2020-07-15,buyacoronavirustestkit.com.ph,45.79.222.138,US,North America
-2020-07-15,buyacoronavirustestkit.com.ph,buyacoronavirustestkit.com.ph,,
-2020-07-15,buycoronavirustests.com.ph,45.79.222.138,US,North America
-2020-07-15,buycoronavirustests.com.ph,buycoronavirustests.com.ph,,
-2020-07-15,cacovid-19test.ph,45.79.222.138,US,North America
-2020-07-15,cacovid-19test.ph,cacovid-19test.ph,,
-2020-07-15,californiacovid-19testing.fm,californiacovid-19testing.fm,,
-2020-07-15,californiacovid-19testing.fm,mail.h-email.net,,
-2020-07-15,coronavirusdrivethrutesting.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-07-15,coronavirusdrivethrutesting.xn--io0a7i.cn,coronavirusdrivethrutesting.xn--io0a7i.cn,,
-2020-07-15,coronavirushometest.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-07-15,coronavirushometest.xn--55qx5d.cn,coronavirushometest.xn--55qx5d.cn,,
-2020-07-15,covid19hometest.co.za,149.28.233.52,US,North America
-2020-07-15,covid19hometest.co.za,covid19hometest.co.za,,
-2020-07-15,covid19houstonhometest.ws,64.70.19.203,US,North America
-2020-07-15,covid19houstonhometest.ws,covid19houstonhometest.ws,,
-2020-07-15,covid19newyorktestkit.com,34.102.136.180,US,North America
-2020-07-15,covid19newyorktestkit.com,covid19newyorktestkit.com,,
-2020-07-15,covid19newyorktestkit.com,ns05.domaincontrol.com,,
-2020-07-15,covid19newyorktestkit.com,ns06.domaincontrol.com,,
-2020-07-15,covid19rapidantigentests.com.ph,45.79.222.138,US,North America
-2020-07-15,covid19rapidantigentests.com.ph,covid19rapidantigentests.com.ph,,
-2020-07-15,covid19rapidttestkit.com,34.102.136.180,US,North America
-2020-07-15,covid19rapidttestkit.com,covid19rapidttestkit.com,,
-2020-07-15,covid19rapidttestkit.com,ns29.domaincontrol.com,,
-2020-07-15,covid19rapidttestkit.com,ns30.domaincontrol.com,,
-2020-07-15,covid19rapidttestkit.com.ph,covid19rapidttestkit.com.ph,,
-2020-07-15,covid19salivaselftestkits.com.ph,45.79.222.138,US,North America
-2020-07-15,covid19salivaselftestkits.com.ph,covid19salivaselftestkits.com.ph,,
-2020-07-15,covid19salivaselftestkits.ph,45.79.222.138,US,North America
-2020-07-15,covid19salivaselftestkits.ph,covid19salivaselftestkits.ph,,
-2020-07-15,covid19testingregistration.com,covid19testingregistration.com,,
-2020-07-15,covid19testingregistration.com,dns@jomax.net,,
-2020-07-15,covid19testingregistration.com,ns37.domaincontrol.com,,
-2020-07-15,covid19testingregistration.com,ns38.domaincontrol.com,,
-2020-07-15,covid19texashometest.ws,covid19texashometest.ws,,
-2020-07-15,covid19texashometest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-07-15,covid19texashometest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-07-15,covidconciergetesting.com,34.102.136.180,US,North America
-2020-07-15,covidconciergetesting.com,covidconciergetesting.com,,
-2020-07-15,covidconciergetesting.com,ns09.domaincontrol.com,,
-2020-07-15,covidconciergetesting.com,ns10.domaincontrol.com,,
-2020-07-15,covidcures4sure.com,34.70.146.178,US,North America
-2020-07-15,covidcures4sure.com,covidcures4sure.com,,
-2020-07-15,coviddiscoverytest.com,34.102.136.180,US,North America
-2020-07-15,coviddiscoverytest.com,coviddiscoverytest.com,,
-2020-07-15,coviddiscoverytest.com,ns75.domaincontrol.com,,
-2020-07-15,coviddiscoverytest.com,ns76.domaincontrol.com,,
-2020-07-15,covidrapidhometest.com,covidrapidhometest.com,,
-2020-07-15,covidrapidhometest.com,ns23.domaincontrol.com,,
-2020-07-15,covidrapidhometest.com,ns24.domaincontrol.com,,
-2020-07-15,covidrapidtestmail.com,covidrapidtestmail.com,,
-2020-07-15,covidrapidtestmail.com,ns23.domaincontrol.com,,
-2020-07-15,covidrapidtestmail.com,ns24.domaincontrol.com,,
-2020-07-15,covidsecureswab.co.uk,2606:4700:3031::6818:7cba,US,North America
-2020-07-15,covidsecureswab.co.uk,2606:4700:3035::ac43:b187,US,North America
-2020-07-15,covidsecureswab.co.uk,2606:4700:3036::6818:7dba,US,North America
-2020-07-15,covidsecureswab.co.uk,covidsecureswab.co.uk,,
-2020-07-15,covidselftest.abbott,abtnsdmz1.abbott.com,,
-2020-07-15,covidselftest.abbott,abtnsdmz2.abbott.com,,
-2020-07-15,covidselftest.abbott,covidselftest.abbott,,
-2020-07-15,covidselftest.abbott,rossns2.abbott.com,,
-2020-07-15,covidselftest.abbott,rossns.abbott.com,,
-2020-07-15,covidtestinganytime.com,covidtestinganytime.com,,
-2020-07-15,covidtestmarketplace.com,34.102.136.180,US,North America
-2020-07-15,covidtestmarketplace.com,covidtestmarketplace.com,,
-2020-07-15,covidtestmarketplace.com,ns37.domaincontrol.com,,
-2020-07-15,covidtestmarketplace.com,ns38.domaincontrol.com,,
-2020-07-15,covidworkplacetesting.com,34.102.136.180,US,North America
-2020-07-15,covidworkplacetesting.com,covidworkplacetesting.com,,
-2020-07-15,covidworkplacetesting.com,ns03.domaincontrol.com,,
-2020-07-15,covidworkplacetesting.com,ns04.domaincontrol.com,,
-2020-07-15,curecovidcollective.org,curecovidcollective.org,,
-2020-07-15,doineedacovid19test.cm,198.58.118.167,US,North America
-2020-07-15,doineedacovid19test.cm,45.33.23.183,US,North America
-2020-07-15,doineedacovid19test.cm,45.33.2.79,US,North America
-2020-07-15,doineedacovid19test.cm,45.56.79.23,US,North America
-2020-07-15,doineedacovid19test.cm,45.79.19.196,US,North America
-2020-07-15,doineedacovid19test.cm,96.126.123.244,US,North America
-2020-07-15,doineedacovid19test.cm,doineedacovid19test.cm,,
-2020-07-15,doineedacovidtest.co,146.112.61.107,,Europe
-2020-07-15,doineedacovidtest.co,doineedacovidtest.co,,
-2020-07-15,doineedacovidtest.co,ns1.mytrafficmanagement.com,,
-2020-07-15,doineedacovidtest.co,ns2.mytrafficmanagement.com,,
-2020-07-15,doineedtogetacovid19test.com,198.58.118.167,US,North America
-2020-07-15,doineedtogetacovid19test.com,45.33.23.183,US,North America
-2020-07-15,doineedtogetacovid19test.com,45.33.2.79,US,North America
-2020-07-15,doineedtogetacovid19test.com,45.56.79.23,US,North America
-2020-07-15,doineedtogetacovid19test.com,45.79.19.196,US,North America
-2020-07-15,doineedtogetacovid19test.com,96.126.123.244,US,North America
-2020-07-15,doineedtogetacovid19test.com,doineedtogetacovid19test.com,,
-2020-07-15,doineedtogetacovid19test.com,ns1.mytrafficmanagement.com,,
-2020-07-15,doineedtogetacovid19test.com,ns2.mytrafficmanagement.com,,
-2020-07-15,doyouneedacovidtest.com,198.58.118.167,US,North America
-2020-07-15,doyouneedacovidtest.com,45.33.23.183,US,North America
-2020-07-15,doyouneedacovidtest.com,45.33.2.79,US,North America
-2020-07-15,doyouneedacovidtest.com,45.56.79.23,US,North America
-2020-07-15,doyouneedacovidtest.com,45.79.19.196,US,North America
-2020-07-15,doyouneedacovidtest.com,96.126.123.244,US,North America
-2020-07-15,doyouneedacovidtest.com,doyouneedacovidtest.com,,
-2020-07-15,doyouneedacovidtest.com,ns1.mytrafficmanagement.com,,
-2020-07-15,doyouneedacovidtest.com,ns2.mytrafficmanagement.com,,
-2020-07-15,hawaiicovidtest.com,104.171.23.69,US,North America
-2020-07-15,hawaiicovidtest.com,104.171.23.70,US,North America
-2020-07-15,hawaiicovidtest.com,hawaiicovidtest.com,,
-2020-07-15,hawaiicovidtest.com,ns1.fabulous.com,,
-2020-07-15,hawaiicovidtest.com,ns2.fabulous.com,,
-2020-07-15,iscovid19curedyet.com,66.96.162.138,US,North America
-2020-07-15,iscovid19curedyet.com,iscovid19curedyet.com,,
-2020-07-15,iscovid19curedyet.com,ns1.domain.com,,
-2020-07-15,iscovid19curedyet.com,ns2.domain.com,,
-2020-07-15,lowcostcovid-19testingkits.us,lowcostcovid-19testingkits.us,,
-2020-07-15,lowcostcovid-19testingkits.us,ns1.dnsowl.com,,
-2020-07-15,lowcostcovid-19testingkits.us,ns2.dnsowl.com,,
-2020-07-15,lowcostcovid-19testingkits.us,ns3.dnsowl.com,,
-2020-07-15,miterui.lowcostcovid-19testingkits.us,212.129.32.212,FR,Europe
-2020-07-15,miterui.lowcostcovid-19testingkits.us,egovernment.website,,
-2020-07-15,mococovidtesting.org,184.168.131.241,US,North America
-2020-07-15,mococovidtesting.org,mococovidtesting.org,,
-2020-07-15,mococovidtesting.org,ns27.domaincontrol.com,,
-2020-07-15,mococovidtesting.org,ns28.domaincontrol.com,,
-2020-07-15,newcovidcures4u.com,34.70.146.178,US,North America
-2020-07-15,newcovidcures4u.com,n1.webcloudcentral.com,,
-2020-07-15,newcovidcures4u.com,n2.webcloudcentral.com,,
-2020-07-15,newcovidcures4u.com,newcovidcures4u.com,,
-2020-07-15,onsitecovid19test.com,13.248.155.104,US,North America
-2020-07-15,onsitecovid19test.com,76.223.27.102,US,North America
-2020-07-15,onsitecovid19test.com,onsitecovid19test.com,,
-2020-07-15,rgvcovidtesting.com,ns-cloud-a1.googledomains.com,,
-2020-07-15,rgvcovidtesting.com,ns-cloud-a2.googledomains.com,,
-2020-07-15,rgvcovidtesting.com,ns-cloud-a3.googledomains.com,,
-2020-07-15,rgvcovidtesting.com,ns-cloud-a4.googledomains.com,,
-2020-07-15,rgvcovidtesting.com,rgvcovidtesting.com,,
-2020-07-15,siennacovid-19test.com,34.102.136.180,US,North America
-2020-07-15,siennacovid-19test.com,ns23.domaincontrol.com,,
-2020-07-15,siennacovid-19test.com,ns24.domaincontrol.com,,
-2020-07-15,siennacovid-19test.com,siennacovid-19test.com,,
-2020-07-15,soscovidtest.com,72.167.191.69,US,North America
-2020-07-15,soscovidtest.com,ns23.domaincontrol.com,,
-2020-07-15,soscovidtest.com,ns24.domaincontrol.com,,
-2020-07-15,soscovidtest.com,soscovidtest.com,,
-2020-07-15,umccovidtesting.com,198.58.118.167,US,North America
-2020-07-15,umccovidtesting.com,45.33.23.183,US,North America
-2020-07-15,umccovidtesting.com,45.33.2.79,US,North America
-2020-07-15,umccovidtesting.com,45.56.79.23,US,North America
-2020-07-15,umccovidtesting.com,45.79.19.196,US,North America
-2020-07-15,umccovidtesting.com,96.126.123.244,US,North America
-2020-07-15,umccovidtesting.com,umccovidtesting.com,,
-2020-07-15,upstatecovidtesting.com,ns23.domaincontrol.com,,
-2020-07-15,upstatecovidtesting.com,ns24.domaincontrol.com,,
-2020-07-15,upstatecovidtesting.com,upstatecovidtesting.com,,
-2020-07-15,www.buycoronavirustests.com.ph,45.79.222.138,US,North America
-2020-07-15,www.cacovid-19test.ph,45.79.222.138,US,North America
-2020-07-15,www.covidcures4sure.com,covidcures4sure.com,,
-2020-07-15,www.hawaiicovidtest.com,104.171.23.69,US,North America
-2020-07-15,www.hawaiicovidtest.com,104.171.23.70,US,North America
-2020-07-15,www.mococovidtesting.org,184.168.131.241,US,North America
-2020-07-15,www.mococovidtesting.org,mococovidtesting.org,,
-2020-07-15,www.onsitecovid19test.com,52.18.26.20,IE,Europe
-2020-07-15,www.onsitecovid19test.com,52.31.80.183,IE,Europe
-2020-07-15,www.onsitecovid19test.com,63.33.19.148,IE,Europe
-2020-07-15,www.onsitecovid19test.com,proxy-ssl-geo.webflow.com,,
-2020-07-15,www.onsitecovid19test.com,proxy-ssl.webflow.com,,
 2020-07-16,adhscovid19test.com,198.58.118.167,US,North America
 2020-07-16,adhscovid19test.com,45.33.23.183,US,North America
 2020-07-16,adhscovid19test.com,45.33.2.79,US,North America
@@ -179,7 +9,13 @@
 2020-07-16,adhscovid19test.com,45.79.19.196,US,North America
 2020-07-16,adhscovid19test.com,96.126.123.244,US,North America
 2020-07-16,adhscovid19test.com,adhscovid19test.com,,
+2020-07-16,adhscovid19test.com,ns1.mytrafficmanagement.com,,
+2020-07-16,adhscovid19test.com,ns2.mytrafficmanagement.com,,
+2020-07-16,autotestcovid19.fm,198.74.54.240,US,North America
+2020-07-16,autotestcovid19.fm,autotestcovid19.fm,,
 2020-07-16,autotests-covid19.ph,autotests-covid19.ph,,
+2020-07-16,autotests-covid-smartphone.com.ph,45.79.222.138,US,North America
+2020-07-16,autotests-covid-smartphone.com.ph,autotests-covid-smartphone.com.ph,,
 2020-07-16,bestcovid19hometest.com.ph,45.79.222.138,US,North America
 2020-07-16,bestcovid19hometest.com.ph,bestcovid19hometest.com.ph,,
 2020-07-16,bestcovid19tests.ws,bestcovid19tests.ws,,
@@ -215,6 +51,11 @@
 2020-07-16,covid19testkitonline.fm,covid19testkitonline.fm,,
 2020-07-16,covid19testlondon.com,91.195.240.103,DE,Europe
 2020-07-16,covid19testlondon.com,covid19testlondon.com,,
+2020-07-16,covid19testlondon.com,dns1.name-services.com,,
+2020-07-16,covid19testlondon.com,dns2.name-services.com,,
+2020-07-16,covid19testlondon.com,dns3.name-services.com,,
+2020-07-16,covid19testlondon.com,dns4.name-services.com,,
+2020-07-16,covid19testlondon.com,dns5.name-services.com,,
 2020-07-16,covidtestathome.gov.mn,covidtestathome.gov.mn,,
 2020-07-16,covidtestdelivered.org,34.102.136.180,US,North America
 2020-07-16,covidtestdelivered.org,covidtestdelivered.org,,
@@ -232,6 +73,8 @@
 2020-07-16,covidtestingtoyou.co,covidtestingtoyou.co,,
 2020-07-16,covidtestrx.com,23.236.62.147,US,North America
 2020-07-16,covidtestrx.com,covidtestrx.com,,
+2020-07-16,covidtestrx.com,ns10.wixdns.net,,
+2020-07-16,covidtestrx.com,ns11.wixdns.net,,
 2020-07-16,covidtestsites.info,covidtestsites.info,,
 2020-07-16,covidtestsites.info,ns09.domaincontrol.com,,
 2020-07-16,covidtestsites.info,ns10.domaincontrol.com,,
@@ -275,4 +118,5 @@
 2020-07-16,veracovidtest.com,veracovidtest.com,,
 2020-07-16,www.bestcovid19hometest.com.ph,45.79.222.138,US,North America
 2020-07-16,www.covid19testingregistration.com.ph,45.79.222.138,US,North America
+2020-07-16,www.covid19testkitonline.fm,198.74.54.240,US,North America
 2020-07-16,www.covidteststore.us,covidteststore.us,,
