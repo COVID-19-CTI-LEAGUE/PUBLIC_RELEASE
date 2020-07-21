@@ -1,0 +1,106 @@
+# Please attribute to @zetalytics or https://zetalytics.com
+# Raw un-analyzed first seen host data
+# Make your own assessment of malicious activity or intent
+# dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-07-20,24hourcovidtest.com,24hourcovidtest.com,,
+2020-07-20,24hourcovidtest.com,34.102.136.180,US,North America
+2020-07-20,24hrcoronavirustest.com,24hrcoronavirustest.com,,
+2020-07-20,24hrcoronavirustest.com,ns27.domaincontrol.com,,
+2020-07-20,24hrcoronavirustest.com,ns28.domaincontrol.com,,
+2020-07-20,coronavirus-test.me,coronavirus-test.me,,
+2020-07-20,covid19homecure.com,23.246.252.118,US,North America
+2020-07-20,covid19homecure.com,covid19homecure.com,,
+2020-07-20,covid19iggrapidtest.com.ph,45.79.222.138,US,North America
+2020-07-20,covid19iggrapidtest.com.ph,covid19iggrapidtest.com.ph,,
+2020-07-20,covid19mobiletestingunits.ph,45.79.222.138,US,North America
+2020-07-20,covid19mobiletestingunits.ph,covid19mobiletestingunits.ph,,
+2020-07-20,covid19priktests.com,covid19priktests.com,,
+2020-07-20,covid19priktests.com,ns01.domaincontrol.com,,
+2020-07-20,covid19priktests.com,ns02.domaincontrol.com,,
+2020-07-20,covid-19testfortravelers.com,34.102.136.180,US,North America
+2020-07-20,covid-19testfortravelers.com,covid-19testfortravelers.com,,
+2020-07-20,covid19testicddrb.org,covid19testicddrb.org,,
+2020-07-20,covid19testing.vegas,35.185.201.74,US,North America
+2020-07-20,covid19testing.vegas,covid19testing.vegas,,
+2020-07-20,covidrapidselftest.net,34.102.136.180,US,North America
+2020-07-20,covidrapidselftest.net,covidrapidselftest.net,,
+2020-07-20,covidsecured.co.uk,62.233.121.61,GB,Europe
+2020-07-20,covidsecured.co.uk,covidsecured.co.uk,,
+2020-07-20,covidspeedytest.com,covidspeedytest.com,,
+2020-07-20,covid-testcyprus.com,34.102.136.180,US,North America
+2020-07-20,covid-testcyprus.com,covid-testcyprus.com,,
+2020-07-20,covidtesteventbrite.com,185.53.177.10,DE,Europe
+2020-07-20,covidtesteventbrite.com,covidtesteventbrite.com,,
+2020-07-20,covidtestfernandina.com,covidtestfernandina.com,,
+2020-07-20,covidtestfernandina.com,ns73.domaincontrol.com,,
+2020-07-20,covidtestfernandina.com,ns74.domaincontrol.com,,
+2020-07-20,covid-testing-at-home.com,23.227.38.65,CA,North America
+2020-07-20,covid-testing-at-home.com,covid-testing-at-home.com,,
+2020-07-20,covidtestkits.in,104.27.160.95,US,North America
+2020-07-20,covidtestkits.in,104.27.161.95,US,North America
+2020-07-20,covidtestkits.in,172.67.203.30,US,North America
+2020-07-20,covidtestkits.in,2606:4700:3031::681b:a05f,US,North America
+2020-07-20,covidtestkits.in,2606:4700:3035::681b:a15f,US,North America
+2020-07-20,covidtestkits.in,2606:4700:3035::ac43:cb1e,US,North America
+2020-07-20,covidtestkits.in,34.87.64.145,US,North America
+2020-07-20,covidtestkits.in,covidtestkits.in,,
+2020-07-20,covidteststore.net,34.102.136.180,US,North America
+2020-07-20,covidteststore.net,covidteststore.net,,
+2020-07-20,doinedacovidtest.com,104.247.82.51,CA,North America
+2020-07-20,doinedacovidtest.com,doinedacovidtest.com,,
+2020-07-20,doineedacovidtest.la,173.230.141.80,US,North America
+2020-07-20,doineedacovidtest.la,doineedacovidtest.la,,
+2020-07-20,doinneedacovid19test.com,198.58.118.167,US,North America
+2020-07-20,doinneedacovid19test.com,45.33.23.183,US,North America
+2020-07-20,doinneedacovid19test.com,45.33.2.79,US,North America
+2020-07-20,doinneedacovid19test.com,45.56.79.23,US,North America
+2020-07-20,doinneedacovid19test.com,45.79.19.196,US,North America
+2020-07-20,doinneedacovid19test.com,96.126.123.244,US,North America
+2020-07-20,doinneedacovid19test.com,doinneedacovid19test.com,,
+2020-07-20,inhomecovid19tests.ph,45.79.222.138,US,North America
+2020-07-20,inhomecovid19tests.ph,inhomecovid19tests.ph,,
+2020-07-20,newportchildrencovidtest.com,34.102.136.180,US,North America
+2020-07-20,newportchildrencovidtest.com,newportchildrencovidtest.com,,
+2020-07-20,nsightcovidtesting.com,198.185.159.144,US,North America
+2020-07-20,nsightcovidtesting.com,198.185.159.145,US,North America
+2020-07-20,nsightcovidtesting.com,198.49.23.144,US,North America
+2020-07-20,nsightcovidtesting.com,198.49.23.145,US,North America
+2020-07-20,nsightcovidtesting.com,nsightcovidtesting.com,,
+2020-07-20,nzcovid19cure.ph,nzcovid19cure.ph,,
+2020-07-20,orangecountycovidtest.info,orangecountycovidtest.info,,
+2020-07-20,rapidcovidantibodytestprovider.com,208.91.197.27,US,North America
+2020-07-20,rapidcovidantibodytestprovider.com,rapidcovidantibodytestprovider.com,,
+2020-07-20,rapidresponsecovidtesting.org,rapidresponsecovidtesting.org,,
+2020-07-20,rxcovidtest.com,rxcovidtest.com,,
+2020-07-20,southbaycovidtesting.com,ns59.domaincontrol.com,,
+2020-07-20,southbaycovidtesting.com,ns60.domaincontrol.com,,
+2020-07-20,southbaycovidtesting.com,southbaycovidtesting.com,,
+2020-07-20,testesarscovid19.com.br,23.236.62.147,US,North America
+2020-07-20,testesarscovid19.com.br,a.auto.dns.br,,
+2020-07-20,testesarscovid19.com.br,b.auto.dns.br,,
+2020-07-20,testesarscovid19.com.br,ns14.wixdns.net,,
+2020-07-20,testesarscovid19.com.br,ns15.wixdns.net,,
+2020-07-20,testesarscovid19.com.br,testesarscovid19.com.br,,
+2020-07-20,thecureforcoronavirus.ph,45.79.222.138,US,North America
+2020-07-20,thecureforcoronavirus.ph,thecureforcoronavirus.ph,,
+2020-07-20,twohourcovidtest.com,twohourcovidtest.com,,
+2020-07-20,urgentcovidtest.com,34.102.136.180,US,North America
+2020-07-20,urgentcovidtest.com,urgentcovidtest.com,,
+2020-07-20,www1.doinneedacovid19test.com,185.53.179.29,DE,Europe
+2020-07-20,www1.doinneedacovid19test.com,473162.parkingcrew.net,,
+2020-07-20,www.testesarscovid19.com.br,ns14.wixdns.net,,
+2020-07-20,www.thecureforcoronavirus.ph,45.79.222.138,US,North America
+2020-07-21,autodiscover.covidtestingforfree.com,50.87.148.109,US,North America
+2020-07-21,covid19rapidtest.ws,64.70.19.203,US,North America
+2020-07-21,covid19rapidtest.ws,covid19rapidtest.ws,,
+2020-07-21,covidtestcentre.ca,covidtestcentre.ca,,
+2020-07-21,covidtestingforfree.com,covidtestingforfree.com,,
+2020-07-21,cpanel.covidtestingforfree.com,50.87.148.109,US,North America
+2020-07-21,cpanel.covidtestingforfree.com,covidtestingforfree.com,,
+2020-07-21,ftp.covidtestingforfree.com,50.87.148.109,US,North America
+2020-07-21,ftp.covidtestingforfree.com,covidtestingforfree.com,,
+2020-07-21,selfcollectioncoronavirustest.fm,198.74.54.240,US,North America
+2020-07-21,selfcollectioncoronavirustest.fm,selfcollectioncoronavirustest.fm,,
+2020-07-21,webmail.covidtestingforfree.com,covidtestingforfree.com,,
+2020-07-21,www.covidtestingforfree.com,50.87.148.109,US,North America
+2020-07-21,www.covidtestingforfree.com,covidtestingforfree.com,,
