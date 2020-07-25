@@ -2,137 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-23,airlinecovidtesting.com,34.102.136.180,US,North America
-2020-07-23,airlinecovidtesting.com,airlinecovidtesting.com,,
-2020-07-23,airlinecovidtesting.com,ns17.domaincontrol.com,,
-2020-07-23,airlinecovidtesting.com,ns18.domaincontrol.com,,
-2020-07-23,airlinescovidtest.com,34.102.136.180,US,North America
-2020-07-23,airlinescovidtest.com,airlinescovidtest.com,,
-2020-07-23,airlinescovidtest.com,ns77.domaincontrol.com,,
-2020-07-23,airlinescovidtest.com,ns78.domaincontrol.com,,
-2020-07-23,atxcovidtest.com,atxcovidtest.com,,
-2020-07-23,atxcovidtest.com,ns14.wixdns.net,,
-2020-07-23,atxcovidtest.com,ns15.wixdns.net,,
-2020-07-23,atxcovidtest.com,RGdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1tYi1JeWw1ZUlrZWZBNUpZTVNCellYLWMzZUhPYUloMjR5VTNwQ0NQRFJ3,,
-2020-07-23,autotests-coronavirus-smartphone.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-07-23,autotests-coronavirus-smartphone.xn--od0alg.cn,autotests-coronavirus-smartphone.xn--od0alg.cn,,
-2020-07-23,bayareacovid19testing.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-07-23,bayareacovid19testing.xn--fiqs8s,bayareacovid19testing.xn--fiqs8s,,
-2020-07-23,cannabiscurescoronavirus.com.ba,195.222.33.180,BA,Europe
-2020-07-23,cannabiscurescoronavirus.com.ba,cannabiscurescoronavirus.com.ba,,
-2020-07-23,coronacovid19cure.xn--fiqz9s,coronacovid19cure.xn--fiqz9s,,
-2020-07-23,coronacovid19testing.la,coronacovid19testing.la,,
-2020-07-23,coronacovid19testing.xn--55qx5d.cn,coronacovid19testing.xn--55qx5d.cn,,
-2020-07-23,corona-covid-19-test.xn--55qx5d.cn,corona-covid-19-test.xn--55qx5d.cn,,
-2020-07-23,coronacovid19virustest.com.ba,coronacovid19virustest.com.ba,,
-2020-07-23,coronavirustestlocator.xn--io0a7i.cn,coronavirustestlocator.xn--io0a7i.cn,,
-2020-07-23,covid10minutetests.com,covid10minutetests.com,,
-2020-07-23,covid-19-corona-test.la,173.230.141.80,US,North America
-2020-07-23,covid-19-corona-test.la,covid-19-corona-test.la,,
-2020-07-23,covid19driveuptesting.la,covid19driveuptesting.la,,
-2020-07-23,covid19homestestkit.com,146.112.61.107,,Europe
-2020-07-23,covid19homestestkit.com,covid19homestestkit.com,,
-2020-07-23,covid-19kitstest.pt,covid-19kitstest.pt,,
-2020-07-23,covid-19kitstest.pt,I3Y9c3BmMSBpbmNsdWRlOnNwZi53ZWJhcHBzLm5ldCB+YWxs,,
-2020-07-23,covid19rapidresponsetest.com,covid19rapidresponsetest.com,,
-2020-07-23,covid19rapidresponsetest.com,ns1.monikerdns.net,,
-2020-07-23,covid19rapidresponsetest.com,ns2.monikerdns.net,,
-2020-07-23,covid19rapidresponsetest.com,ns3.monikerdns.net,,
-2020-07-23,covid19rapidresponsetest.com,ns4.monikerdns.net,,
-2020-07-23,covid19rapidresponsetesting.com,covid19rapidresponsetesting.com,,
-2020-07-23,covid19rapidresponsetesting.com,ns1.monikerdns.net,,
-2020-07-23,covid19rapidresponsetesting.com,ns2.monikerdns.net,,
-2020-07-23,covid19rapidresponsetesting.com,ns3.monikerdns.net,,
-2020-07-23,covid19rapidresponsetesting.com,ns4.monikerdns.net,,
-2020-07-23,covid19rapidresponsetests.com,covid19rapidresponsetests.com,,
-2020-07-23,covid19rapidresponsetests.com,ns1.monikerdns.net,,
-2020-07-23,covid19rapidresponsetests.com,ns2.monikerdns.net,,
-2020-07-23,covid19rapidresponsetests.com,ns3.monikerdns.net,,
-2020-07-23,covid19rapidresponsetests.com,ns4.monikerdns.net,,
-2020-07-23,covid19testing.dev,34.102.136.180,US,North America
-2020-07-23,covid19testing.dev,covid19testing.dev,,
-2020-07-23,covid19testing.dev,ns19.domaincontrol.com,,
-2020-07-23,covid19testing.dev,ns20.domaincontrol.com,,
-2020-07-23,covid-19testnationwide.com.ba,195.222.33.180,BA,Europe
-2020-07-23,covid-19testnationwide.com.ba,covid-19testnationwide.com.ba,,
-2020-07-23,covid-19testnationwide.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-07-23,covid-19testnationwide.xn--55qx5d.cn,covid-19testnationwide.xn--55qx5d.cn,,
-2020-07-23,covid19testsuppliers.ph,45.79.222.138,US,North America
-2020-07-23,covid19testsuppliers.ph,covid19testsuppliers.ph,,
-2020-07-23,covidaventuratest.com,50.87.186.73,US,North America
-2020-07-23,covidaventuratest.com,covidaventuratest.com,,
-2020-07-23,covidaventuratest.com,ns1.bluehost.com,,
-2020-07-23,covidaventuratest.com,ns2.bluehost.com,,
-2020-07-23,covidrapidresponsetest.com,covidrapidresponsetest.com,,
-2020-07-23,covidrapidresponsetest.com,ns1.monikerdns.net,,
-2020-07-23,covidrapidresponsetest.com,ns2.monikerdns.net,,
-2020-07-23,covidrapidresponsetest.com,ns3.monikerdns.net,,
-2020-07-23,covidrapidresponsetest.com,ns4.monikerdns.net,,
-2020-07-23,covidtestga.com,34.102.136.180,US,North America
-2020-07-23,covidtestga.com,covidtestga.com,,
-2020-07-23,covidtestga.com,ns73.domaincontrol.com,,
-2020-07-23,covidtestga.com,ns74.domaincontrol.com,,
-2020-07-23,covidtesthelp.com,34.102.136.180,US,North America
-2020-07-23,covidtesthelp.com,covidtesthelp.com,,
-2020-07-23,covidtesthelp.com,ns17.domaincontrol.com,,
-2020-07-23,covidtesthelp.com,ns18.domaincontrol.com,,
-2020-07-23,covidtesting305.com,covidtesting305.com,,
-2020-07-23,covidtesting305.com,ns07.domaincontrol.com,,
-2020-07-23,covidtesting305.com,ns08.domaincontrol.com,,
-2020-07-23,covidtestingarcpoint.com,34.102.136.180,US,North America
-2020-07-23,covidtestingarcpoint.com,covidtestingarcpoint.com,,
-2020-07-23,covidtestingarcpoint.com,ns31.domaincontrol.com,,
-2020-07-23,covidtestingarcpoint.com,ns32.domaincontrol.com,,
-2020-07-23,covidtestingcenter.info,covidtestingcenter.info,,
-2020-07-23,covidtestingcenter.info,ns27.domaincontrol.com,,
-2020-07-23,covidtestingcenter.info,ns28.domaincontrol.com,,
-2020-07-23,covidtestingtarrantcounty.com,104.247.81.14,CA,North America
-2020-07-23,covidtestingtarrantcounty.com,covidtestingtarrantcounty.com,,
-2020-07-23,covid-turbotest.de,217.160.0.147,DE,Europe
-2020-07-23,covidturbotest.de,217.160.0.147,DE,Europe
-2020-07-23,covid-turbotest.de,covid-turbotest.de,,
-2020-07-23,covidturbotest.de,covidturbotest.de,,
-2020-07-23,covidturbotest.de,ns1021.ui-dns.com,,
-2020-07-23,covidturbotest.de,ns1073.ui-dns.biz,,
-2020-07-23,covidturbotest.de,ns1094.ui-dns.de,,
-2020-07-23,covidturbotest.de,ns1119.ui-dns.org,,
-2020-07-23,cplccovid19test.site,52.42.74.211,US,North America
-2020-07-23,cplccovid19test.site,cplccovid19test.site,,
-2020-07-23,cplccovid19test.site,ns49.domaincontrol.com,,
-2020-07-23,cplccovid19test.site,ns50.domaincontrol.com,,
-2020-07-23,cvscoronavirustesting.com.ba,cvscoronavirustesting.com.ba,,
-2020-07-23,cvscovid-19test.xn--fiqz9s,cvscovid-19test.xn--fiqz9s,,
-2020-07-23,directcoronavirustesting.com.ba,directcoronavirustesting.com.ba,,
-2020-07-23,driveupcoronavirustest.com.ba,195.222.33.180,BA,Europe
-2020-07-23,driveupcoronavirustest.com.ba,driveupcoronavirustest.com.ba,,
-2020-07-23,fastcovidtest4u.com,2607:f1c0:100f:f000::2b6,US,North America
-2020-07-23,fastcovidtest4u.com,fastcovidtest4u.com,,
-2020-07-23,globalcoronaviruscure.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-07-23,globalcoronaviruscure.xn--fiqz9s,globalcoronaviruscure.xn--fiqz9s,,
-2020-07-23,lillcovid19testing.ws,64.70.19.203,US,North America
-2020-07-23,lillcovid19testing.ws,lillcovid19testing.ws,,
-2020-07-23,mdcovid19test.com.ba,195.222.33.180,BA,Europe
-2020-07-23,mdcovid19test.com.ba,mdcovid19test.com.ba,,
-2020-07-23,mdcovid19testing.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-07-23,mdcovid19testing.xn--fiqs8s,mdcovid19testing.xn--fiqs8s,,
-2020-07-23,rapidworkforcecovidtesting.com,34.102.136.180,US,North America
-2020-07-23,rapidworkforcecovidtesting.com,ns55.domaincontrol.com,,
-2020-07-23,rapidworkforcecovidtesting.com,ns56.domaincontrol.com,,
-2020-07-23,rapidworkforcecovidtesting.com,rapidworkforcecovidtesting.com,,
-2020-07-23,swiftcovidtest.info,swiftcovidtest.info,,
-2020-07-23,testresultcovidtoday.co,ns17.domaincontrol.com,,
-2020-07-23,testresultcovidtoday.co,ns18.domaincontrol.com,,
-2020-07-23,testresultcovidtoday.co,testresultcovidtoday.co,,
-2020-07-23,travelcovidtest.com,91.195.240.94,DE,Europe
-2020-07-23,travelcovidtest.com,travelcovidtest.com,,
-2020-07-23,workspacecovidtest.com,34.102.136.180,US,North America
-2020-07-23,workspacecovidtest.com,workspacecovidtest.com,,
-2020-07-23,wuhancoronavirustests.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-07-23,wuhancoronavirustests.ws,wuhancoronavirustests.ws,,
-2020-07-23,www.fastcovidtest4u.com,74.208.236.237,US,North America
-2020-07-23,yourcoronavirustest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-07-23,yourcoronavirustest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-07-23,yourcoronavirustest.ws,yourcoronavirustest.ws,,
 2020-07-24,2020blmprotestsandcovid-19.xn--fiqs8s,2020blmprotestsandcovid-19.xn--fiqs8s,,
 2020-07-24,2020blmprotestsandcovid-19.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-07-24,bloomcovidtests.com,bloomcovidtests.com,,
@@ -140,6 +9,8 @@
 2020-07-24,bloomcovidtests.com,ns-cloud-a2.googledomains.com,,
 2020-07-24,bloomcovidtests.com,ns-cloud-a3.googledomains.com,,
 2020-07-24,bloomcovidtests.com,ns-cloud-a4.googledomains.com,,
+2020-07-24,covid-19rapidtesting.com.au,103.67.235.120,AU,Oceania
+2020-07-24,covid-19rapidtesting.com.au,covid-19rapidtesting.com.au,,
 2020-07-24,covidrapidresponsetests.com,covidrapidresponsetests.com,,
 2020-07-24,covidsecureuk.co.uk,217.160.0.86,DE,Europe
 2020-07-24,covidsecureuk.co.uk,covidsecureuk.co.uk,,
