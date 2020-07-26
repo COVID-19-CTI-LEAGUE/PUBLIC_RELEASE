@@ -2,73 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-24,2020blmprotestsandcovid-19.xn--fiqs8s,2020blmprotestsandcovid-19.xn--fiqs8s,,
-2020-07-24,2020blmprotestsandcovid-19.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-07-24,bloomcovidtests.com,bloomcovidtests.com,,
-2020-07-24,bloomcovidtests.com,ns-cloud-a1.googledomains.com,,
-2020-07-24,bloomcovidtests.com,ns-cloud-a2.googledomains.com,,
-2020-07-24,bloomcovidtests.com,ns-cloud-a3.googledomains.com,,
-2020-07-24,bloomcovidtests.com,ns-cloud-a4.googledomains.com,,
-2020-07-24,covid-19rapidtesting.com.au,103.67.235.120,AU,Oceania
-2020-07-24,covid-19rapidtesting.com.au,covid-19rapidtesting.com.au,,
-2020-07-24,covidrapidresponsetests.com,covidrapidresponsetests.com,,
-2020-07-24,covidsecureuk.co.uk,217.160.0.86,DE,Europe
-2020-07-24,covidsecureuk.co.uk,covidsecureuk.co.uk,,
-2020-07-24,covidsewagetesting.com,covidsewagetesting.com,,
-2020-07-24,covidtestatx.com,184.168.131.241,US,North America
-2020-07-24,covidtestatx.com,covidtestatx.com,,
-2020-07-24,covid-tester.online,2.57.90.16,,
-2020-07-24,covid-tester.online,covid-tester.online,,
-2020-07-24,covidtestforvip.com,34.102.136.180,US,North America
-2020-07-24,covidtestforvip.com,covidtestforvip.com,,
-2020-07-24,covidtestingarcpointlabs.com,34.102.136.180,US,North America
-2020-07-24,covidtestingarcpointlabs.com,covidtestingarcpointlabs.com,,
-2020-07-24,covidtesting.miami,2607:f1c0:100f:f000::2b4,US,North America
-2020-07-24,covidtesting.miami,74.208.236.37,US,North America
-2020-07-24,covidtesting.miami,covidtesting.miami,,
-2020-07-24,covidtesting.miami,ns1030.ui-dns.org,,
-2020-07-24,covidtesting.miami,ns1063.ui-dns.biz,,
-2020-07-24,covidtesting.miami,ns1086.ui-dns.com,,
-2020-07-24,covidtesting.miami,ns1125.ui-dns.de,,
-2020-07-24,covidtestingrightnow.com,34.102.136.180,US,North America
-2020-07-24,covidtestingrightnow.com,covidtestingrightnow.com,,
-2020-07-24,elitecovidtesting.com,elitecovidtesting.com,,
-2020-07-24,eventcovidtests.com,34.102.136.180,US,North America
-2020-07-24,eventcovidtests.com,eventcovidtests.com,,
-2020-07-24,localcovidtestingnearme.com,64.34.103.6,CA,North America
-2020-07-24,localcovidtestingnearme.com,localcovidtestingnearme.com,,
-2020-07-24,localcovidtestingnearme.com,ns11.bravehost.com,,
-2020-07-24,localcovidtestingnearme.com,ns12.bravehost.com,,
-2020-07-24,newcovid19testkits.com,195.186.208.193,CH,Europe
-2020-07-24,newcovid19testkits.com,newcovid19testkits.com,,
-2020-07-24,orangecountycovidtest.net,34.102.136.180,US,North America
-2020-07-24,orangecountycovidtest.net,orangecountycovidtest.net,,
-2020-07-24,personalfastcovidtest.com,34.102.136.180,US,North America
-2020-07-24,personalfastcovidtest.com,personalfastcovidtest.com,,
-2020-07-24,rapidcovidtest.pl,85.128.128.104,PL,Europe
-2020-07-24,rapidcovidtest.pl,ns1.nazwa.pl,,
-2020-07-24,rapidcovidtest.pl,ns2.nazwa.pl,,
-2020-07-24,rapidcovidtest.pl,ns3.nazwa.pl,,
-2020-07-24,rapidcovidtest.pl,rapidcovidtest.pl,,
-2020-07-24,rapidworkforcecovidtest.com,34.102.136.180,US,North America
-2020-07-24,rapidworkforcecovidtest.com,rapidworkforcecovidtest.com,,
-2020-07-24,swiftcovidtest.com,34.102.136.180,US,North America
-2020-07-24,swiftcovidtest.com,72.167.191.69,US,North America
-2020-07-24,swiftcovidtest.com,swiftcovidtest.com,,
-2020-07-24,ultrafastcovidtest.com,ns55.domaincontrol.com,,
-2020-07-24,ultrafastcovidtest.com,ns56.domaincontrol.com,,
-2020-07-24,ultrafastcovidtest.com,ultrafastcovidtest.com,,
-2020-07-24,vipcovidtests.com,ns47.domaincontrol.com,,
-2020-07-24,vipcovidtests.com,ns48.domaincontrol.com,,
-2020-07-24,vipcovidtests.com,vipcovidtests.com,,
-2020-07-24,xn--test-covid-19--domicile-i5b.com.ba,195.222.33.180,BA,Europe
-2020-07-24,xn--test-covid-19--domicile-i5b.com.ba,xn--test-covid-19--domicile-i5b.com.ba,,
-2020-07-24,yourcovid-19test.com.ba,195.222.33.180,BA,Europe
-2020-07-24,yourcovid-19test.com.ba,yourcovid-19test.com.ba,,
-2020-07-24,yourcovid19testkit.com.ba,195.222.33.180,BA,Europe
-2020-07-24,yourcovid19testkit.com.ba,yourcovid19testkit.com.ba,,
-2020-07-24,your-covid19-test.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-07-24,your-covid19-test.xn--55qx5d.cn,your-covid19-test.xn--55qx5d.cn,,
 2020-07-25,48hrcovidtesting.com,48hrcovidtesting.com,,
 2020-07-25,accuratecovidrapidtest.com,34.102.136.180,US,North America
 2020-07-25,accuratecovidrapidtest.com,accuratecovidrapidtest.com,,
@@ -131,9 +64,11 @@
 2020-07-25,tennesseecoronavirustesting.ws,tennesseecoronavirustesting.ws,,
 2020-07-25,testcoronaviruspozuelo.ws,mail.hope-mail.com,,
 2020-07-25,testcoronaviruspozuelo.ws,testcoronaviruspozuelo.ws,,
+2020-07-25,test-depistage-covid19.com,213.186.33.5,FR,Europe
 2020-07-25,test-depistage-covid19.com,dns104.ovh.net,,
 2020-07-25,test-depistage-covid19.com,ns104.ovh.net,,
 2020-07-25,test-depistage-covid19.com,test-depistage-covid19.com,,
+2020-07-25,test-depistage-covid19.org,213.186.33.5,FR,Europe
 2020-07-25,test-depistage-covid19.org,dns104.ovh.net,,
 2020-07-25,test-depistage-covid19.org,ns104.ovh.net,,
 2020-07-25,test-depistage-covid19.org,test-depistage-covid19.org,,
