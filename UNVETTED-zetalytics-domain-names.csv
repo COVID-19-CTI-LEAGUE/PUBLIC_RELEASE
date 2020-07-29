@@ -2,90 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-27,airlinecovidtest.com,34.102.136.180,US,North America
-2020-07-27,airlinecovidtest.com,airlinecovidtest.com,,
-2020-07-27,buycovidcure.net,34.102.136.180,US,North America
-2020-07-27,buycovidcure.net,buycovidcure.net,,
-2020-07-27,coronavirussalivatestingkit.com,52.0.217.44,US,North America
-2020-07-27,coronavirussalivatestingkit.com,coronavirussalivatestingkit.com,,
-2020-07-27,covid19curefound.com,covid19curefound.com,,
-2020-07-27,covid19dnatestsites.com,34.102.136.180,US,North America
-2020-07-27,covid19dnatestsites.com,covid19dnatestsites.com,,
-2020-07-27,covid19testdistributor.com,34.102.136.180,US,North America
-2020-07-27,covid19testdistributor.com,covid19testdistributor.com,,
-2020-07-27,covid19viptest.com,34.102.136.180,US,North America
-2020-07-27,covid19viptest.com,covid19viptest.com,,
-2020-07-27,covidtestdistributor.com,184.168.131.241,US,North America
-2020-07-27,covidtestdistributor.com,covidtestdistributor.com,,
-2020-07-27,covidtestinglosangeles.com,34.102.136.180,US,North America
-2020-07-27,covidtestinglosangeles.com,covidtestinglosangeles.com,,
-2020-07-27,covidtestscottsdale.com,34.102.136.180,US,North America
-2020-07-27,covidtestscottsdale.com,covidtestscottsdale.com,,
-2020-07-27,covidtest.uz,covidtest.uz,,
-2020-07-27,dev.covidtest.uz,83.69.135.23,UZ,Asia
-2020-07-27,dolneedacovid-19test.com,198.58.118.167,US,North America
-2020-07-27,dolneedacovid-19test.com,45.33.23.183,US,North America
-2020-07-27,dolneedacovid-19test.com,45.33.2.79,US,North America
-2020-07-27,dolneedacovid-19test.com,45.56.79.23,US,North America
-2020-07-27,dolneedacovid-19test.com,45.79.19.196,US,North America
-2020-07-27,dolneedacovid-19test.com,96.126.123.244,US,North America
-2020-07-27,dolneedacovid-19test.com,dolneedacovid-19test.com,,
-2020-07-27,ineedcovidtest.com,ineedcovidtest.com,,
-2020-07-27,needcovidtest.net,34.102.136.180,US,North America
-2020-07-27,needcovidtest.net,needcovidtest.net,,
-2020-07-27,needcovidtest.org,34.102.136.180,US,North America
-2020-07-27,needcovidtest.org,needcovidtest.org,,
-2020-07-27,portagecovidtest.com,dns1.registrar-servers.com,,
-2020-07-27,portagecovidtest.com,dns2.registrar-servers.com,,
-2020-07-27,portagecovidtest.com,portagecovidtest.com,,
-2020-07-27,rapidcovidtest.today,72.167.191.69,US,North America
-2020-07-27,rapidcovidtest.today,rapidcovidtest.today,,
-2020-07-27,rapidresponsecovidtesting.com,146.112.61.107,,Europe
-2020-07-27,rapidresponsecovidtesting.com,rapidresponsecovidtesting.com,,
-2020-07-27,sanfranciscocovid-19testing.ws,64.70.19.203,US,North America
-2020-07-27,sanfranciscocovid-19testing.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-07-27,sanfranciscocovid-19testing.ws,sanfranciscocovid-19testing.ws,,
-2020-07-27,selftestforcovid19.ws,64.70.19.203,US,North America
-2020-07-27,selftestforcovid19.ws,selftestforcovid19.ws,,
-2020-07-27,selftestingcovid19.ws,mail.hope-mail.com,,
-2020-07-27,selftestingcovid19.ws,selftestingcovid19.ws,,
-2020-07-27,unitedstatescovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-07-27,unitedstatescovid19testing.com.ba,unitedstatescovid19testing.com.ba,,
-2020-07-27,universal-covid-19-testing.com.ba,195.222.33.180,BA,Europe
-2020-07-27,universal-covid-19-testing.com.ba,universal-covid-19-testing.com.ba,,
-2020-07-27,usacoronavirustest.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-07-27,usacoronavirustest.xn--fiqz9s,usacoronavirustest.xn--fiqz9s,,
-2020-07-27,usa-covid-19rapidtestkit.xn--fiqs8s,usa-covid-19rapidtestkit.xn--fiqs8s,,
-2020-07-27,usacovid19test.com.ba,195.222.33.180,BA,Europe
-2020-07-27,usacovid19test.com.ba,usacovid19test.com.ba,,
-2020-07-27,usacovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-07-27,usacovid19testing.com.ba,usacovid19testing.com.ba,,
-2020-07-27,uscoronavirustesting.xn--fiqs8s,uscoronavirustesting.xn--fiqs8s,,
-2020-07-27,uscovid19testkits.la,173.230.141.80,US,North America
-2020-07-27,uscovid19testkits.la,uscovid19testkits.la,,
-2020-07-27,uscovid-19test.la,173.230.141.80,US,North America
-2020-07-27,uscovid-19test.la,uscovid-19test.la,,
-2020-07-27,workspacecovidtesting.com,34.102.136.180,US,North America
-2020-07-27,workspacecovidtesting.com,workspacecovidtesting.com,,
-2020-07-27,www42.dolneedacovid-19test.com,185.53.179.29,DE,Europe
-2020-07-27,www42.dolneedacovid-19test.com,473162.parkingcrew.net,,
-2020-07-27,www77.dolneedacovid-19test.com,11339.searchmagnified.com,,
-2020-07-27,www77.dolneedacovid-19test.com,199.191.50.39,VG,North America
-2020-07-27,wwwdoineedacovid19test.co,198.58.118.167,US,North America
-2020-07-27,wwwdoineedacovid19test.co,45.33.23.183,US,North America
-2020-07-27,wwwdoineedacovid19test.co,45.33.2.79,US,North America
-2020-07-27,wwwdoineedacovid19test.co,45.56.79.23,US,North America
-2020-07-27,wwwdoineedacovid19test.co,45.79.19.196,US,North America
-2020-07-27,wwwdoineedacovid19test.co,96.126.123.244,US,North America
-2020-07-27,wwwdoineedacovid19test.co,wwwdoineedacovid19test.co,,
-2020-07-27,www.dolneedacovid-19test.com,198.58.118.167,US,North America
-2020-07-27,www.dolneedacovid-19test.com,45.33.23.183,US,North America
-2020-07-27,www.dolneedacovid-19test.com,45.33.2.79,US,North America
-2020-07-27,www.dolneedacovid-19test.com,45.56.79.23,US,North America
-2020-07-27,www.dolneedacovid-19test.com,45.79.19.196,US,North America
-2020-07-27,www.dolneedacovid-19test.com,96.126.123.244,US,North America
-2020-07-27,www.sanfranciscocovid-19testing.ws,64.70.19.203,US,North America
-2020-07-27,www.usa-covid-19rapidtestkit.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-07-28,coronavirustestathome.online,74.207.225.163,US,North America
 2020-07-28,coronavirustestathome.online,coronavirustestathome.online,,
 2020-07-28,coronavirustestkit.co,192.64.119.157,US,North America
@@ -133,6 +49,8 @@
 2020-07-28,pimacountycovidtesting.com,45.79.19.196,US,North America
 2020-07-28,pimacountycovidtesting.com,96.126.123.244,US,North America
 2020-07-28,pimacountycovidtesting.com,pimacountycovidtesting.com,,
+2020-07-28,pittsburghcovid19testing.ws,mail.hope-mail.com,,
+2020-07-28,pittsburghcovid19testing.ws,pittsburghcovid19testing.ws,,
 2020-07-28,rapidantibodycovid19test.com,34.102.136.180,US,North America
 2020-07-28,rapidantibodycovid19test.com,rapidantibodycovid19test.com,,
 2020-07-28,rapidcovid19testing.ws,rapidcovid19testing.ws,,
