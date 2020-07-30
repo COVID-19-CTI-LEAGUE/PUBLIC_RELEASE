@@ -93,6 +93,8 @@
 2020-07-29,testcovid.be,79.174.131.73,BE,Europe
 2020-07-29,testcovid.be,testcovid.be,,
 2020-07-29,testcovid.brussels,217.21.190.139,BE,Europe
+2020-07-29,testcovid.brussels,mx.backup.mailprotect.be,,
+2020-07-29,testcovid.brussels,mx.mailprotect.be,,
 2020-07-29,testcovid.brussels,ns3.combell.net,,
 2020-07-29,testcovid.brussels,ns4.combell.net,,
 2020-07-29,testcovid.brussels,testcovid.brussels,,
@@ -147,24 +149,35 @@
 2020-07-30,covid19testkit.edu.jo,covid19testkit.edu.jo,,
 2020-07-30,covid3minutetest.com,162.213.255.94,US,North America
 2020-07-30,covid3minutetest.com,covid3minutetest.com,,
+2020-07-30,covidtestdelivered.com,covidtestdelivered.com,,
 2020-07-30,covidtester.me,covidtester.me,,
 2020-07-30,covidtester.me,ns11.value-domain.com,,
 2020-07-30,covidtester.me,ns12.value-domain.com,,
 2020-07-30,covidtester.me,ns13.value-domain.com,,
 2020-07-30,covid-testing.gov.jo,covid-testing.gov.jo,,
+2020-07-30,covidtestingsolution.com,34.102.136.180,US,North America
 2020-07-30,covidtestingsolution.com,covidtestingsolution.com,,
 2020-07-30,edacovid19test.com,edacovid19test.com,,
 2020-07-30,edacovid19test.com,ns1.mytrafficmanagement.com,,
 2020-07-30,edacovid19test.com,ns2.mytrafficmanagement.com,,
+2020-07-30,ghcovidtest.com,23.236.62.147,US,North America
 2020-07-30,ghcovidtest.com,ghcovidtest.com,,
 2020-07-30,ghcovidtest.com,ns12.wixdns.net,,
 2020-07-30,ghcovidtest.com,ns13.wixdns.net,,
 2020-07-30,hometestkitscoronavirus.com.jo,hometestkitscoronavirus.com.jo,,
+2020-07-30,lifesmartcovid19testing.com,lifesmartcovid19testing.com,,
+2020-07-30,lifesmartcovid19testing.com,ns33.domaincontrol.com,,
+2020-07-30,lifesmartcovid19testing.com,ns34.domaincontrol.com,,
 2020-07-30,oralcovid19test.ws,64.70.19.203,US,North America
 2020-07-30,oralcovid19test.ws,oralcovid19test.ws,,
 2020-07-30,oralcovidantigentesting.com,208.91.197.27,US,North America
 2020-07-30,oralcovidantigentesting.com,oralcovidantigentesting.com,,
+2020-07-30,pre-surgerycovidtesting.com,ns59.domaincontrol.com,,
+2020-07-30,pre-surgerycovidtesting.com,ns60.domaincontrol.com,,
 2020-07-30,pre-surgerycovidtesting.com,pre-surgerycovidtesting.com,,
+2020-07-30,safesurgerycovid19testing.com,ns67.domaincontrol.com,,
+2020-07-30,safesurgerycovid19testing.com,ns68.domaincontrol.com,,
+2020-07-30,safesurgerycovid19testing.com,safesurgerycovid19testing.com,,
 2020-07-30,test4coronaviruses.xn--fiqz9s,test4coronaviruses.xn--fiqz9s,,
 2020-07-30,test4covid19.xn--55qx5d.cn,test4covid19.xn--55qx5d.cn,,
 2020-07-30,test-coronavirus.xn--55qx5d.cn,test-coronavirus.xn--55qx5d.cn,,
@@ -221,3 +234,4 @@
 2020-07-30,www.ghcovidtest.com,35.246.6.109,US,North America
 2020-07-30,www.ghcovidtest.com,balancer.wixdns.net,,
 2020-07-30,www.ghcovidtest.com,www14.wixdns.net,,
+2020-07-30,www.hometestkitscoronavirus.com.jo,193.188.66.238,JO,Asia
