@@ -2,134 +2,25 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-28,coronavirustestathome.online,74.207.225.163,US,North America
-2020-07-28,coronavirustestathome.online,coronavirustestathome.online,,
-2020-07-28,coronavirustestathome.online,ns1.hover.com,,
-2020-07-28,coronavirustestathome.online,ns2.hover.com,,
-2020-07-28,coronavirustestkit.co,192.64.119.157,US,North America
-2020-07-28,coronavirustestkit.co,coronavirustestkit.co,,
-2020-07-28,coronavirustreatmentandcure.ws,coronavirustreatmentandcure.ws,,
-2020-07-28,coronavirustreatmentandcure.ws,mail.hope-mail.com,,
-2020-07-28,covid19hometest.edu.jo,covid19hometest.edu.jo,,
-2020-07-28,covid19hometest.gov.ge,covid19hometest.gov.ge,,
-2020-07-28,covid-19rapidhometest.com.ph,45.79.222.138,US,North America
-2020-07-28,covid-19rapidhometest.com.ph,covid-19rapidhometest.com.ph,,
-2020-07-28,covid-19rapidtest.com.jo,covid-19rapidtest.com.jo,,
-2020-07-28,covid-19rapidtest.xn--mgbayh7gpa,covid-19rapidtest.xn--mgbayh7gpa,,
-2020-07-28,covid-19testdistributor.com.ph,45.79.222.138,US,North America
-2020-07-28,covid-19testdistributor.com.ph,covid-19testdistributor.com.ph,,
-2020-07-28,covid19test.gov.ge,covid19test.gov.ge,,
-2020-07-28,covid2019rapidtest.org.jo,covid2019rapidtest.org.jo,,
-2020-07-28,covidtesteurope.com,covidtesteurope.com,,
-2020-07-28,covidtestingafrica.com,covidtestingafrica.com,,
-2020-07-28,covidtestingamerica.com,covidtestingamerica.com,,
-2020-07-28,covidtestingchina.com,covidtestingchina.com,,
-2020-07-28,covid-testing.com.jo,covid-testing.com.jo,,
-2020-07-28,covidtestingtheworld.com,covidtestingtheworld.com,,
-2020-07-28,covidtestingtheworld.com,ns-cloud-d1.googledomains.com,,
-2020-07-28,covidtestingtheworld.com,ns-cloud-d2.googledomains.com,,
-2020-07-28,covidtestingtheworld.com,ns-cloud-d3.googledomains.com,,
-2020-07-28,covidtestingtheworld.com,ns-cloud-d4.googledomains.com,,
-2020-07-28,covidtestingtogo.com,covidtestingtogo.com,,
-2020-07-28,covidtestsnow.com.jo,193.188.66.238,JO,Asia
-2020-07-28,covidtestsnow.com.jo,covidtestsnow.com.jo,,
-2020-07-28,covidtestyourself.com,64.90.58.151,US,North America
-2020-07-28,covidtestyourself.com,covidtestyourself.com,,
-2020-07-28,covidtestyourself.com,ns1.dreamhost.com,,
-2020-07-28,covidtestyourself.com,ns2.dreamhost.com,,
-2020-07-28,covidtestyourself.com,ns3.dreamhost.com,,
-2020-07-28,covidvirustest.gov.jo,covidvirustest.gov.jo,,
-2020-07-28,doineed-acovid19test.com,ns1.mytrafficmanagement.com,,
-2020-07-28,doineed-acovid19test.com,ns2.mytrafficmanagement.com,,
-2020-07-28,dolneedcovid19test.com,ns1.mytrafficmanagement.com,,
-2020-07-28,dolneedcovid19test.com,ns2.mytrafficmanagement.com,,
-2020-07-28,ftp.testecoronavirus.ro,89.40.71.60,RO,Europe
-2020-07-28,hometestkitscoronavirus.org.jo,193.188.66.238,JO,Asia
-2020-07-28,hometestkitscoronavirus.org.jo,hometestkitscoronavirus.org.jo,,
-2020-07-28,ineedacovidtestnow.com,ineedacovidtestnow.com,,
-2020-07-28,instacovidtest.com,instacovidtest.com,,
-2020-07-28,instantcovidhometesting.com,instantcovidhometesting.com,,
-2020-07-28,iqcovidtest.com,81.2.194.128,CZ,Europe
-2020-07-28,iqcovidtest.com,iqcovidtest.com,,
-2020-07-28,m2bx1xxula.coronavirustestathome.online,74.207.225.163,US,North America
-2020-07-28,mail.testecoronavirus.ro,89.40.71.60,RO,Europe
-2020-07-28,mail.testecoronavirus.ro,testecoronavirus.ro,,
-2020-07-28,pimacountycovidtesting.com,198.58.118.167,US,North America
-2020-07-28,pimacountycovidtesting.com,45.33.23.183,US,North America
-2020-07-28,pimacountycovidtesting.com,45.33.2.79,US,North America
-2020-07-28,pimacountycovidtesting.com,45.56.79.23,US,North America
-2020-07-28,pimacountycovidtesting.com,45.79.19.196,US,North America
-2020-07-28,pimacountycovidtesting.com,96.126.123.244,US,North America
-2020-07-28,pimacountycovidtesting.com,pimacountycovidtesting.com,,
-2020-07-28,pittsburghcovid19testing.ws,mail.hope-mail.com,,
-2020-07-28,pittsburghcovid19testing.ws,pittsburghcovid19testing.ws,,
-2020-07-28,rapidantibodycovid19test.com,198.71.232.3,US,North America
-2020-07-28,rapidantibodycovid19test.com,34.102.136.180,US,North America
-2020-07-28,rapidantibodycovid19test.com,72.167.191.69,US,North America
-2020-07-28,rapidantibodycovid19test.com,ns09.domaincontrol.com,,
-2020-07-28,rapidantibodycovid19test.com,ns10.domaincontrol.com,,
-2020-07-28,rapidantibodycovid19test.com,rapidantibodycovid19test.com,,
-2020-07-28,rapidcovid19testing.ws,rapidcovid19testing.ws,,
-2020-07-28,rapidcovidtest.store,160.153.136.3,US,North America
-2020-07-28,rapidcovidtest.store,72.167.191.69,US,North America
-2020-07-28,rapidcovidtest.store,rapidcovidtest.store,,
-2020-07-28,rapidtestkitforcovid19.ws,rapidtestkitforcovid19.ws,,
-2020-07-28,rapidtestkits-covid-19.ws,mail.hope-mail.com,,
-2020-07-28,rapidtestkits-covid-19.ws,rapidtestkits-covid-19.ws,,
-2020-07-28,realcovid19tests.ws,64.70.19.203,US,North America
-2020-07-28,realcovid19tests.ws,realcovid19tests.ws,,
-2020-07-28,testecoronavirus.ro,89.40.71.60,RO,Europe
-2020-07-28,testecoronavirus.ro,ns1.smaga-soft.ro,,
-2020-07-28,testecoronavirus.ro,ns2.smaga-soft.ro,,
-2020-07-28,testecoronavirus.ro,ns3.smaga-soft.ro,,
-2020-07-28,testecoronavirus.ro,testecoronavirus.ro,,
-2020-07-28,toyoucovidtesting.la,toyoucovidtesting.la,,
-2020-07-28,tucsoncovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-07-28,tucsoncovid19testing.com.ba,tucsoncovid19testing.com.ba,,
-2020-07-28,tutestcovid19.cl,190.54.62.69,CL,South America
-2020-07-28,tutestcovid19.cl,tutestcovid19.cl,,
-2020-07-28,tx-covid-19-test.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-07-28,tx-covid-19-test.xn--io0a7i.cn,tx-covid-19-test.xn--io0a7i.cn,,
-2020-07-28,unitetocurecovid.net,34.102.136.180,US,North America
-2020-07-28,unitetocurecovid.net,unitetocurecovid.net,,
-2020-07-28,www77.doineed-acovid19test.com,11339.searchmagnified.com,,
-2020-07-28,www77.doineed-acovid19test.com,199.191.50.39,VG,North America
-2020-07-28,www.coronavirustestathome.online,74.207.225.163,US,North America
-2020-07-28,www.coronavirustestkit.co,198.54.117.210,US,North America
-2020-07-28,www.coronavirustestkit.co,198.54.117.211,US,North America
-2020-07-28,www.coronavirustestkit.co,198.54.117.212,US,North America
-2020-07-28,www.coronavirustestkit.co,198.54.117.215,US,North America
-2020-07-28,www.coronavirustestkit.co,198.54.117.216,US,North America
-2020-07-28,www.coronavirustestkit.co,198.54.117.217,US,North America
-2020-07-28,www.coronavirustestkit.co,198.54.117.218,US,North America
-2020-07-28,www.coronavirustestkit.co,parkingpage.namecheap.com,,
-2020-07-28,www.covid19hometest.edu.jo,193.188.66.238,JO,Asia
-2020-07-28,www.covid-19rapidtest.com.jo,193.188.66.238,JO,Asia
-2020-07-28,www.covid-19testdistributor.com.ph,45.79.222.138,US,North America
-2020-07-28,www.covidvirustest.gov.jo,193.188.66.238,JO,Asia
-2020-07-28,www.iqcovidtest.com,81.2.194.128,CZ,Europe
-2020-07-28,www.iqcovidtest.com,iqcovidtest.com,,
-2020-07-28,www.realcovid19tests.ws,64.70.19.203,US,North America
-2020-07-28,www.testecoronavirus.ro,89.40.71.60,RO,Europe
-2020-07-28,www.testecoronavirus.ro,ns1.smaga-soft.ro,,
-2020-07-28,www.testecoronavirus.ro,ns2.smaga-soft.ro,,
-2020-07-28,www.testecoronavirus.ro,ns3.smaga-soft.ro,,
-2020-07-28,www.testecoronavirus.ro,testecoronavirus.ro,,
 2020-07-29,autotestcovid19.com,146.112.61.107,,Europe
 2020-07-29,autotestcovid19.com,autotestcovid19.com,,
 2020-07-29,columbuscoronavirustesting.xn--io0a7i.cn,218.241.116.40,CN,Asia
 2020-07-29,columbuscoronavirustesting.xn--io0a7i.cn,columbuscoronavirustesting.xn--io0a7i.cn,,
+2020-07-29,coronavirussalivatests.com,34.102.136.180,US,North America
+2020-07-29,coronavirussalivatests.com,coronavirussalivatests.com,,
 2020-07-29,covid-19rapidtest.gov.jo,covid-19rapidtest.gov.jo,,
 2020-07-29,covid-19testing.live,34.102.136.180,US,North America
 2020-07-29,covid-19testing.live,covid-19testing.live,,
 2020-07-29,covid-19-test.uk,146.112.61.107,,Europe
 2020-07-29,covid-19-test.uk,covid-19-test.uk,,
+2020-07-29,covidhoustontest.com,covidhoustontest.com,,
 2020-07-29,covidtestathome.gov.jo,193.188.66.238,JO,Asia
 2020-07-29,covidtestathome.gov.jo,covidtestathome.gov.jo,,
 2020-07-29,covidtestfast.com,34.102.136.180,US,North America
 2020-07-29,covidtestfast.com,covidtestfast.com,,
 2020-07-29,covidtestingcenter.org,covidtestingcenter.org,,
 2020-07-29,covidtestingcommons.com,covidtestingcommons.com,,
+2020-07-29,covidtestinhouston.com,34.102.136.180,US,North America
 2020-07-29,covidtestinhouston.com,covidtestinhouston.com,,
 2020-07-29,covidtestkit.nl,covidtestkit.nl,,
 2020-07-29,covidtestkit.nl,nszero1.axc.nl,,
@@ -206,6 +97,7 @@
 2020-07-29,testingkits-covid19.com.jo,testingkits-covid19.com.jo,,
 2020-07-29,thecovid19cure.com.ba,195.222.33.180,BA,Europe
 2020-07-29,thecovid19cure.com.ba,thecovid19cure.com.ba,,
+2020-07-29,thecure4covid.com,2.57.90.16,,
 2020-07-29,thecure4covid.com,ns1.dns-parking.com,,
 2020-07-29,thecure4covid.com,ns2.dns-parking.com,,
 2020-07-29,thecure4covid.com,thecure4covid.com,,
@@ -219,11 +111,17 @@
 2020-07-29,thetestkitcoronavirus.xn--fiqs8s,thetestkitcoronavirus.xn--fiqs8s,,
 2020-07-29,tucsoncovid19testing.fm,tucsoncovid19testing.fm,,
 2020-07-29,www.covid-19rapidtest.gov.jo,193.188.66.238,JO,Asia
+2020-07-29,www.covidhoustontest.com,34.102.136.180,US,North America
+2020-07-29,www.covidhoustontest.com,covidhoustontest.com,,
 2020-07-29,www.covidtestresults.today,34.102.136.180,US,North America
 2020-07-29,www.covidtestresults.today,covidtestresults.today,,
 2020-07-29,www.hometestkitscoronavirus.xn--mgbayh7gpa,193.188.66.238,JO,Asia
+2020-07-29,www.painless-covidtesting.com,34.102.136.180,US,North America
+2020-07-29,www.painless-covidtesting.com,painless-covidtesting.com,,
 2020-07-29,www.testcovid.be,79.174.131.73,BE,Europe
 2020-07-29,www.testcovid.brussels,217.21.190.139,BE,Europe
 2020-07-29,www.testcovid.vlaanderen,217.21.190.139,BE,Europe
+2020-07-29,www.thecure4covid.com,2.57.90.16,,
+2020-07-29,www.thecure4covid.com,thecure4covid.com,,
 2020-07-29,yourcovidsafetest.com,34.102.136.180,US,North America
 2020-07-29,yourcovidsafetest.com,yourcovidsafetest.com,,
