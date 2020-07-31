@@ -2,124 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-07-29,autotestcovid19.com,146.112.61.107,,Europe
-2020-07-29,autotestcovid19.com,autotestcovid19.com,,
-2020-07-29,columbuscoronavirustesting.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-07-29,columbuscoronavirustesting.xn--io0a7i.cn,columbuscoronavirustesting.xn--io0a7i.cn,,
-2020-07-29,coronavirussalivatests.com,34.102.136.180,US,North America
-2020-07-29,coronavirussalivatests.com,coronavirussalivatests.com,,
-2020-07-29,covid-19rapidtest.gov.jo,covid-19rapidtest.gov.jo,,
-2020-07-29,covid-19testing.live,34.102.136.180,US,North America
-2020-07-29,covid-19testing.live,covid-19testing.live,,
-2020-07-29,covid-19-test.uk,146.112.61.107,,Europe
-2020-07-29,covid-19-test.uk,covid-19-test.uk,,
-2020-07-29,covidhoustontest.com,34.102.136.180,US,North America
-2020-07-29,covidhoustontest.com,covidhoustontest.com,,
-2020-07-29,covidtestathome.gov.jo,193.188.66.238,JO,Asia
-2020-07-29,covidtestathome.gov.jo,covidtestathome.gov.jo,,
-2020-07-29,covidtestfast.com,34.102.136.180,US,North America
-2020-07-29,covidtestfast.com,covidtestfast.com,,
-2020-07-29,covidtestingcenter.org,covidtestingcenter.org,,
-2020-07-29,covidtestingcommons.com,covidtestingcommons.com,,
-2020-07-29,covidtestinhouston.com,34.102.136.180,US,North America
-2020-07-29,covidtestinhouston.com,covidtestinhouston.com,,
-2020-07-29,covidtestkit.nl,covidtestkit.nl,,
-2020-07-29,covidtestkit.nl,nszero1.axc.nl,,
-2020-07-29,covidtestkit.nl,nszero2.axc.nl,,
-2020-07-29,covidtestresults.today,34.102.136.180,US,North America
-2020-07-29,covidtestresults.today,covidtestresults.today,,
-2020-07-29,covidtestresults.today,ns15.domaincontrol.com,,
-2020-07-29,covidtestresults.today,ns16.domaincontrol.com,,
-2020-07-29,covidtesttampa.com,23.236.62.147,US,North America
-2020-07-29,covidtesttampa.com,covidtesttampa.com,,
-2020-07-29,covidtesttampa.com,ns0.wixdns.net,,
-2020-07-29,covidtesttampa.com,ns1.wixdns.net,,
-2020-07-29,covidvirustest.com.jo,193.188.66.238,JO,Asia
-2020-07-29,covidvirustest.com.jo,covidvirustest.com.jo,,
-2020-07-29,crlcovidtest.com,209.99.64.55,US,North America
-2020-07-29,crlcovidtest.com,crlcovidtest.com,,
-2020-07-29,crlcovidtesting.com,209.99.64.55,US,North America
-2020-07-29,crlcovidtesting.com,crlcovidtesting.com,,
-2020-07-29,digitalecovid19test.nl,digitalecovid19test.nl,,
-2020-07-29,disneycovid19test.com,34.102.136.180,US,North America
-2020-07-29,disneycovid19test.com,disneycovid19test.com,,
-2020-07-29,doeshydroxychloroquinecurecovid.com,1-you.njalla.no,,
-2020-07-29,doeshydroxychloroquinecurecovid.com,2-can.njalla.in,,
-2020-07-29,doeshydroxychloroquinecurecovid.com,3-get.njalla.fo,,
-2020-07-29,doeshydroxychloroquinecurecovid.com,doeshydroxychloroquinecurecovid.com,,
-2020-07-29,hometestkitscoronavirus.xn--mgbayh7gpa,193.188.66.238,JO,Asia
-2020-07-29,hometestkitscoronavirus.xn--mgbayh7gpa,hometestkitscoronavirus.xn--mgbayh7gpa,,
-2020-07-29,iscovidtest.com,169.46.93.180,US,North America
-2020-07-29,iscovidtest.com,iscovidtest.com,,
-2020-07-29,mail.covidtestkit.nl,185.182.56.12,NL,Europe
-2020-07-29,mail.testare-covid19.ro,89.42.220.223,RO,Europe
-2020-07-29,mail.testare-covid19.ro,testare-covid19.ro,,
-2020-07-29,mycovidtestquest.com,198.58.118.167,US,North America
-2020-07-29,mycovidtestquest.com,45.33.23.183,US,North America
-2020-07-29,mycovidtestquest.com,45.33.2.79,US,North America
-2020-07-29,mycovidtestquest.com,45.56.79.23,US,North America
-2020-07-29,mycovidtestquest.com,45.79.19.196,US,North America
-2020-07-29,mycovidtestquest.com,96.126.123.244,US,North America
-2020-07-29,mycovidtestquest.com,mycovidtestquest.com,,
-2020-07-29,mycovidtestquest.com,ns1.mytrafficmanagement.com,,
-2020-07-29,mycovidtestquest.com,ns2.mytrafficmanagement.com,,
-2020-07-29,painlesscovidtest.com,ns01.domaincontrol.com,,
-2020-07-29,painlesscovidtest.com,ns02.domaincontrol.com,,
-2020-07-29,painlesscovidtest.com,painlesscovidtest.com,,
-2020-07-29,painless-covidtesting.com,painless-covidtesting.com,,
-2020-07-29,pcrtestcovid19.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-07-29,pcrtestcovid19.ws,pcrtestcovid19.ws,,
-2020-07-29,pcrtestcovid19.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-07-29,rapidcovidtestprovider.net,rapidcovidtestprovider.net,,
-2020-07-29,rapidcovidtest.shop,198.71.232.3,US,North America
-2020-07-29,rapidcovidtest.shop,rapidcovidtest.shop,,
-2020-07-29,rapidresponsecovidtesting.net,146.112.61.107,,Europe
-2020-07-29,rapidresponsecovidtesting.net,rapidresponsecovidtesting.net,,
-2020-07-29,testare-covid19.ro,testare-covid19.ro,,
-2020-07-29,testcovid.be,79.174.131.73,BE,Europe
-2020-07-29,testcovid.be,testcovid.be,,
-2020-07-29,testcovid.brussels,217.21.190.139,BE,Europe
-2020-07-29,testcovid.brussels,mx.backup.mailprotect.be,,
-2020-07-29,testcovid.brussels,mx.mailprotect.be,,
-2020-07-29,testcovid.brussels,ns3.combell.net,,
-2020-07-29,testcovid.brussels,ns4.combell.net,,
-2020-07-29,testcovid.brussels,testcovid.brussels,,
-2020-07-29,testcovid.vlaanderen,217.21.190.139,BE,Europe
-2020-07-29,testcovid.vlaanderen,mx.backup.mailprotect.be,,
-2020-07-29,testcovid.vlaanderen,mx.mailprotect.be,,
-2020-07-29,testcovid.vlaanderen,ns3.combell.net,,
-2020-07-29,testcovid.vlaanderen,ns4.combell.net,,
-2020-07-29,testcovid.vlaanderen,testcovid.vlaanderen,,
-2020-07-29,testingkits-covid19.com.jo,193.188.66.238,JO,Asia
-2020-07-29,testingkits-covid19.com.jo,testingkits-covid19.com.jo,,
-2020-07-29,thecovid19cure.com.ba,195.222.33.180,BA,Europe
-2020-07-29,thecovid19cure.com.ba,thecovid19cure.com.ba,,
-2020-07-29,thecure4covid.com,2.57.90.16,,
-2020-07-29,thecure4covid.com,ns1.dns-parking.com,,
-2020-07-29,thecure4covid.com,ns2.dns-parking.com,,
-2020-07-29,thecure4covid.com,thecure4covid.com,,
-2020-07-29,theofficialcoronavirusquicktest.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-07-29,theofficialcoronavirusquicktest.xn--fiqz9s,theofficialcoronavirusquicktest.xn--fiqz9s,,
-2020-07-29,therapidcovid19testkits.com.ba,195.222.33.180,BA,Europe
-2020-07-29,therapidcovid19testkits.com.ba,therapidcovid19testkits.com.ba,,
-2020-07-29,thetestkitcoronavirus.com.ba,195.222.33.180,BA,Europe
-2020-07-29,thetestkitcoronavirus.com.ba,thetestkitcoronavirus.com.ba,,
-2020-07-29,thetestkitcoronavirus.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-07-29,thetestkitcoronavirus.xn--fiqs8s,thetestkitcoronavirus.xn--fiqs8s,,
-2020-07-29,tucsoncovid19testing.fm,tucsoncovid19testing.fm,,
-2020-07-29,www.covid-19rapidtest.gov.jo,193.188.66.238,JO,Asia
-2020-07-29,www.covidhoustontest.com,34.102.136.180,US,North America
-2020-07-29,www.covidhoustontest.com,covidhoustontest.com,,
-2020-07-29,www.covidtestresults.today,34.102.136.180,US,North America
-2020-07-29,www.covidtestresults.today,covidtestresults.today,,
-2020-07-29,www.hometestkitscoronavirus.xn--mgbayh7gpa,193.188.66.238,JO,Asia
-2020-07-29,www.painless-covidtesting.com,34.102.136.180,US,North America
-2020-07-29,www.painless-covidtesting.com,painless-covidtesting.com,,
-2020-07-29,www.testcovid.be,79.174.131.73,BE,Europe
-2020-07-29,www.testcovid.brussels,217.21.190.139,BE,Europe
-2020-07-29,www.testcovid.vlaanderen,217.21.190.139,BE,Europe
-2020-07-29,www.thecure4covid.com,2.57.90.16,,
-2020-07-29,www.thecure4covid.com,thecure4covid.com,,
 2020-07-30,24hrcovid19test.com.ph,24hrcovid19test.com.ph,,
 2020-07-30,affordablecovidtesting.com,affordablecovidtesting.com,,
 2020-07-30,amazoncovid19testing.com,amazoncovid19testing.com,,
@@ -147,12 +29,15 @@
 2020-07-30,covidtestingsolution.com,covidtestingsolution.com,,
 2020-07-30,covidtestingsolution.com,ns33.domaincontrol.com,,
 2020-07-30,covidtestingsolution.com,ns34.domaincontrol.com,,
+2020-07-30,doineddacovid19test.com,,bio=cd5542453bd47807b6a02dc4688c863c567da68f,,
 2020-07-30,doineddacovid19test.com,doineddacovid19test.com,,
 2020-07-30,doineddacovid19test.com,I3Y9c3BmMSBpcDY6ZmQ0MzpjMGQxOmMwOTA6Oi80OCAtYWxs,,
 2020-07-30,doineddacovid19test.com,I3Y9c3BmMSBpcDY6ZmQ3MzpiYzhiOmZiOGI6Oi80OCAtYWxs,,
 2020-07-30,doineddacovid19test.com,LGJpbz1jZDU1NDI0NTNiZDQ3ODA3YjZhMDJkYzQ2ODhjODYzYzU2N2RhNjhm,,
 2020-07-30,doineddacovid19test.com,ns1.mytrafficmanagement.com,,
 2020-07-30,doineddacovid19test.com,ns2.mytrafficmanagement.com,,
+2020-07-30,doineddacovid19test.com,#v=spf1 ip6:fd43:c0d1:c090::/48 -all,,
+2020-07-30,doineddacovid19test.com,#v=spf1 ip6:fd73:bc8b:fb8b::/48 -all,,
 2020-07-30,edacovid19test.com,198.58.118.167,US,North America
 2020-07-30,edacovid19test.com,45.33.23.183,US,North America
 2020-07-30,edacovid19test.com,45.33.2.79,US,North America
@@ -160,6 +45,8 @@
 2020-07-30,edacovid19test.com,45.79.19.196,US,North America
 2020-07-30,edacovid19test.com,96.126.123.244,US,North America
 2020-07-30,edacovid19test.com,edacovid19test.com,,
+2020-07-30,edacovid19test.com,ns1.mytrafficmanagement.com,,
+2020-07-30,edacovid19test.com,ns2.mytrafficmanagement.com,,
 2020-07-30,edacovid19test.fm,198.74.54.240,US,North America
 2020-07-30,edacovid19test.fm,edacovid19test.fm,,
 2020-07-30,ghcovidtest.com,23.236.62.147,US,North America
@@ -167,9 +54,12 @@
 2020-07-30,ghcovidtest.com,ns12.wixdns.net,,
 2020-07-30,ghcovidtest.com,ns13.wixdns.net,,
 2020-07-30,hometestkitscoronavirus.com.jo,hometestkitscoronavirus.com.jo,,
+2020-07-30,immediatecovidtest.com,immediatecovidtest.com,,
 2020-07-30,lifesmartcovid19testing.com,lifesmartcovid19testing.com,,
 2020-07-30,lifesmartcovid19testing.com,ns33.domaincontrol.com,,
 2020-07-30,lifesmartcovid19testing.com,ns34.domaincontrol.com,,
+2020-07-30,newportchildrencovidtest.org,34.102.136.180,US,North America
+2020-07-30,newportchildrencovidtest.org,newportchildrencovidtest.org,,
 2020-07-30,oralcovid19test.ws,64.70.19.203,US,North America
 2020-07-30,oralcovid19test.ws,oralcovid19test.ws,,
 2020-07-30,oralcovidantigentesting.com,208.91.197.27,US,North America
