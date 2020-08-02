@@ -2,6 +2,10 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-08-01,alaskacovidtesting.info,216.239.32.21,US,North America
+2020-08-01,alaskacovidtesting.info,216.239.34.21,US,North America
+2020-08-01,alaskacovidtesting.info,216.239.36.21,US,North America
+2020-08-01,alaskacovidtesting.info,216.239.38.21,US,North America
 2020-08-01,alaskacovidtesting.info,alaskacovidtesting.info,,
 2020-08-01,asuepcovid19test.site,52.42.74.211,US,North America
 2020-08-01,asuepcovid19test.site,asuepcovid19test.site,,
@@ -18,13 +22,24 @@
 2020-08-01,covid-19cures.net,ns3.dnsowl.com,,
 2020-08-01,covid-19test.center,31.170.123.79,GB,Europe
 2020-08-01,covid-19test.center,covid-19test.center,,
+2020-08-01,covid19testcenter.eu,covid19testcenter.eu,,
 2020-08-01,covidrapidselftest.org,covidrapidselftest.org,,
 2020-08-01,covid-secured.com,85.233.160.22,GB,Europe
 2020-08-01,covid-secured.com,covid-secured.com,,
+2020-08-01,covid-secure-workplace.com,94.136.40.51,GB,Europe
+2020-08-01,covid-secure-workplace.com,covid-secure-workplace.com,,
 2020-08-01,covidtestingmia.com,23.236.62.147,US,North America
 2020-08-01,covidtestingmia.com,covidtestingmia.com,,
+2020-08-01,covidtestresultscard.com,covidtestresultscard.com,,
+2020-08-01,covidtestresultscard.com,ns-1114.awsdns-11.org,,
+2020-08-01,covidtestresultscard.com,ns-17.awsdns-02.com,,
+2020-08-01,covidtestresultscard.com,ns-1943.awsdns-50.co.uk,,
+2020-08-01,covidtestresultscard.com,ns-857.awsdns-43.net,,
 2020-08-01,covidtestsale.store,2.57.90.16,,
 2020-08-01,covidtestsale.store,covidtestsale.store,,
+2020-08-01,digitalecovidtest.nl,digitalecovidtest.nl,,
+2020-08-01,digitalecovidtest.nl,fallback.axc.eu,,
+2020-08-01,digitalecovidtest.nl,mail.digitalecovidtest.nl,,
 2020-08-01,doineddacovid19test.com.ph,doineddacovid19test.com.ph,,
 2020-08-01,immediatecovidtesting.com,immediatecovidtesting.com,,
 2020-08-01,immediatecovidtesting.com,ns-cloud-c1.googledomains.com,,
@@ -33,6 +48,8 @@
 2020-08-01,immediatecovidtesting.com,ns-cloud-c4.googledomains.com,,
 2020-08-01,infolillycovid19testing.com.ph,45.79.222.138,US,North America
 2020-08-01,infolillycovid19testing.com.ph,infolillycovid19testing.com.ph,,
+2020-08-01,latest-corona-virus-updates.ws,64.70.19.203,US,North America
+2020-08-01,latest-corona-virus-updates.ws,latest-corona-virus-updates.ws,,
 2020-08-01,lillycovid-19testing.ws,lillycovid-19testing.ws,,
 2020-08-01,lillycovidd19testing.ws,lillycovidd19testing.ws,,
 2020-08-01,lillycovidd19testing.ws,mail.hope-mail.com,,
@@ -49,6 +66,8 @@
 2020-08-01,rapidinhomecovidtest.com,ns03.domaincontrol.com,,
 2020-08-01,rapidinhomecovidtest.com,ns04.domaincontrol.com,,
 2020-08-01,rapidinhomecovidtest.com,rapidinhomecovidtest.com,,
+2020-08-01,shouldigettestedforcovid19.com.ba,195.222.33.180,BA,Europe
+2020-08-01,shouldigettestedforcovid19.com.ba,shouldigettestedforcovid19.com.ba,,
 2020-08-01,skleptestcovid19.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-08-01,skleptestcovid19.xn--55qx5d.cn,skleptestcovid19.xn--55qx5d.cn,,
 2020-08-01,smartcovid19test.xn--od0alg.cn,smartcovid19test.xn--od0alg.cn,,
@@ -61,3 +80,7 @@
 2020-08-01,testcovid19.org.es,81.88.48.71,IT,Europe
 2020-08-01,testcovid19.org.es,mail.nominalia.com,,
 2020-08-01,testcovid19.org.es,testcovid19.org.es,,
+2020-08-01,thecure4covid19.com,156.67.222.207,SG,Asia
+2020-08-01,thecure4covid19.com,thecure4covid19.com,,
+2020-08-01,www.covid-stats.hcqcure.net,192.254.189.208,US,North America
+2020-08-02,shouldihaveacovid19test.com,shouldihaveacovid19test.com,,
