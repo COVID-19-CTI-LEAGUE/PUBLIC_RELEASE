@@ -131,6 +131,8 @@
 2020-08-03,pcrcovidtesting.com,ns3.lyricalhost.com,,
 2020-08-03,pcrcovidtesting.com,ns4.lyricalhost.com,,
 2020-08-03,pcrcovidtesting.com,pcrcovidtesting.com,,
+2020-08-03,pcrcovidtesting.com,*v=spf1 include:spf.stackmail.com a mx -all,,
+2020-08-03,rightcovid19testkit.com.ba,rightcovid19testkit.com.ba,,
 2020-08-03,samedaycovidtestresults.com,34.102.136.180,US,North America
 2020-08-03,samedaycovidtestresults.com,samedaycovidtestresults.com,,
 2020-08-03,testcovidhk.com,34.102.136.180,US,North America
