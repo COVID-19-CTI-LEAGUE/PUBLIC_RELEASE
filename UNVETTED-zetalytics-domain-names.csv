@@ -2,146 +2,59 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-02,athomecovidtest.club,34.102.136.180,US,North America
-2020-08-02,athomecovidtest.club,athomecovidtest.club,,
-2020-08-02,corona19testkit.edu.jo,193.188.66.238,JO,Asia
-2020-08-02,corona19testkit.edu.jo,corona19testkit.edu.jo,,
-2020-08-02,covid19biosecure.com,34.102.136.180,US,North America
-2020-08-02,covid19biosecure.com,covid19biosecure.com,,
-2020-08-02,covid19hometest.jo,covid19hometest.jo,,
-2020-08-02,covid19hometestkits.com.jo,covid19hometestkits.com.jo,,
-2020-08-02,covid19hometestkits.org.jo,193.188.66.238,JO,Asia
-2020-08-02,covid19hometestkits.org.jo,covid19hometestkits.org.jo,,
-2020-08-02,covid19test.edu.jo,covid19test.edu.jo,,
-2020-08-02,covid19testkitusa.com.jo,193.188.66.238,JO,Asia
-2020-08-02,covid19testkitusa.com.jo,covid19testkitusa.com.jo,,
-2020-08-02,covid19testkit.xn--mgbayh7gpa,193.188.66.238,JO,Asia
-2020-08-02,covid19testkit.xn--mgbayh7gpa,covid19testkit.xn--mgbayh7gpa,,
-2020-08-02,covid19testus.org,covid19testus.org,,
-2020-08-02,covidhousequicktest.com,34.102.136.180,US,North America
-2020-08-02,covidhousequicktest.com,covidhousequicktest.com,,
-2020-08-02,covid-secure.us,208.91.197.27,US,North America
-2020-08-02,covid-secure.us,covid-secure.us,,
-2020-08-02,covidselftests.net,34.102.136.180,US,North America
-2020-08-02,covidselftests.net,covidselftests.net,,
-2020-08-02,covidtest911.com,34.102.136.180,US,North America
-2020-08-02,covidtest911.com,covidtest911.com,,
-2020-08-02,covidtestathome.com.jo,covidtestathome.com.jo,,
-2020-08-02,covid-testing.edu.jo,covid-testing.edu.jo,,
-2020-08-02,freecovidtestingdallas.com,23.236.62.147,US,North America
-2020-08-02,freecovidtestingdallas.com,freecovidtestingdallas.com,,
-2020-08-02,freecovidtestingdallas.com,ns10.wixdns.net,,
-2020-08-02,freecovidtestingdallas.com,ns11.wixdns.net,,
-2020-08-02,inhomerapidcovidtest.com,34.102.136.180,US,North America
-2020-08-02,inhomerapidcovidtest.com,inhomerapidcovidtest.com,,
-2020-08-02,masstestcovid19.com,66.96.162.129,US,North America
-2020-08-02,masstestcovid19.com,masstestcovid19.com,,
-2020-08-02,masstestcovid19.com,ns1.domain.com,,
-2020-08-02,masstestcovid19.com,ns2.domain.com,,
-2020-08-02,myquickcovidtest.com,34.102.136.180,US,North America
-2020-08-02,myquickcovidtest.com,myquickcovidtest.com,,
-2020-08-02,myqwestcovidtest.com,198.58.118.167,US,North America
-2020-08-02,myqwestcovidtest.com,45.33.23.183,US,North America
-2020-08-02,myqwestcovidtest.com,45.33.2.79,US,North America
-2020-08-02,myqwestcovidtest.com,45.56.79.23,US,North America
-2020-08-02,myqwestcovidtest.com,45.79.19.196,US,North America
-2020-08-02,myqwestcovidtest.com,96.126.123.244,US,North America
-2020-08-02,myqwestcovidtest.com,myqwestcovidtest.com,,
-2020-08-02,protestcovid19.net,208.91.197.91,VG,North America
-2020-08-02,protestcovid19.net,protestcovid19.net,,
-2020-08-02,protestcovid19.org,protestcovid19.org,,
-2020-08-02,safetytestcovid-19.com.ba,195.222.33.180,BA,Europe
-2020-08-02,safetytestcovid-19.com.ba,safetytestcovid-19.com.ba,,
-2020-08-02,samedaycoronavirusantibodytesting.xn--io0a7i.cn,samedaycoronavirusantibodytesting.xn--io0a7i.cn,,
-2020-08-02,sanantoniocoronavirustesting.com.ba,195.222.33.180,BA,Europe
-2020-08-02,sanantoniocoronavirustesting.com.ba,sanantoniocoronavirustesting.com.ba,,
-2020-08-02,sanantoniocovid19tests.com.ba,195.222.33.180,BA,Europe
-2020-08-02,sanantoniocovid19tests.com.ba,sanantoniocovid19tests.com.ba,,
-2020-08-02,sanfranciscocovid-19test.com.ba,195.222.33.180,BA,Europe
-2020-08-02,sanfranciscocovid-19test.com.ba,sanfranciscocovid-19test.com.ba,,
-2020-08-02,sarscovid19rapidtest.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-08-02,sarscovid19rapidtest.xn--55qx5d.cn,sarscovid19rapidtest.xn--55qx5d.cn,,
-2020-08-02,scheduleacoronavirustest.com.ba,195.222.33.180,BA,Europe
-2020-08-02,scheduleacoronavirustest.com.ba,scheduleacoronavirustest.com.ba,,
-2020-08-02,schnelltest-covid19.xn--fiqs8s,schnelltest-covid19.xn--fiqs8s,,
-2020-08-02,seniorscovid19testingkit.la,seniorscovid19testingkit.la,,
-2020-08-02,seniorscovid19testingkit.xn--55qx5d.cn,seniorscovid19testingkit.xn--55qx5d.cn,,
-2020-08-02,shouldihaveacovid19test.com,198.58.118.167,US,North America
-2020-08-02,shouldihaveacovid19test.com,45.33.23.183,US,North America
-2020-08-02,shouldihaveacovid19test.com,45.33.2.79,US,North America
-2020-08-02,shouldihaveacovid19test.com,45.56.79.23,US,North America
-2020-08-02,shouldihaveacovid19test.com,45.79.19.196,US,North America
-2020-08-02,shouldihaveacovid19test.com,96.126.123.244,US,North America
-2020-08-02,shouldihaveacovid19test.com,ns1.mytrafficmanagement.com,,
-2020-08-02,shouldihaveacovid19test.com,ns2.mytrafficmanagement.com,,
-2020-08-02,shouldihaveacovid19test.com,shouldihaveacovid19test.com,,
-2020-08-02,www77.myqwestcovidtest.com,11339.searchmagnified.com,,
-2020-08-02,www77.myqwestcovidtest.com,199.191.50.39,VG,North America
-2020-08-02,www77.shouldihaveacovid19test.com,11339.searchmagnified.com,,
-2020-08-02,www77.shouldihaveacovid19test.com,199.191.50.39,VG,North America
-2020-08-02,www.covid19biosecure.com,34.102.136.180,US,North America
-2020-08-02,www.covid19biosecure.com,covid19biosecure.com,,
-2020-08-02,www.covid19hometest.jo,193.188.66.238,JO,Asia
-2020-08-02,www.covid19hometestkits.com.jo,193.188.66.238,JO,Asia
-2020-08-02,www.covid19test.edu.jo,193.188.66.238,JO,Asia
-2020-08-02,www.covid19testkitusa.com.jo,193.188.66.238,JO,Asia
-2020-08-02,www.covid19testkit.xn--mgbayh7gpa,193.188.66.238,JO,Asia
-2020-08-02,www.covidtest911.com,covidtest911.com,,
-2020-08-02,www.protestcovid19.net,208.91.197.91,VG,North America
-2020-08-03,14mincovidtest.com,14mincovidtest.com,,
-2020-08-03,24hrcovid19test.com,24hrcovid19test.com,,
-2020-08-03,24hrcovid19test.com,34.102.136.180,US,North America
-2020-08-03,cabocovidtesting.com,34.102.136.180,US,North America
-2020-08-03,cabocovidtesting.com,cabocovidtesting.com,,
-2020-08-03,covid-19rapidtest.org.jo,covid-19rapidtest.org.jo,,
-2020-08-03,covid-19testdistributor.com,34.102.136.180,US,North America
-2020-08-03,covid-19testdistributor.com,covid-19testdistributor.com,,
-2020-08-03,covid19testkit.com.jo,193.188.66.238,JO,Asia
-2020-08-03,covid19testkit.com.jo,covid19testkit.com.jo,,
-2020-08-03,covidcure2021.com,34.102.136.180,US,North America
-2020-08-03,covidcure2021.com,covidcure2021.com,,
-2020-08-03,covidtestathome.org.jo,193.188.66.238,JO,Asia
-2020-08-03,covidtestathome.org.jo,covidtestathome.org.jo,,
-2020-08-03,covidtest.cghmt.com.ph,45.79.222.138,US,North America
-2020-08-03,covidtestdrive.com,34.102.136.180,US,North America
-2020-08-03,covidtestdrive.com,covidtestdrive.com,,
-2020-08-03,covid-testing.xn--mgbayh7gpa,covid-testing.xn--mgbayh7gpa,,
-2020-08-03,covidtestors.com,34.102.136.180,US,North America
-2020-08-03,covidtestors.com,covidtestors.com,,
-2020-08-03,covidtestvaulthealth.com,198.58.118.167,US,North America
-2020-08-03,covidtestvaulthealth.com,45.33.23.183,US,North America
-2020-08-03,covidtestvaulthealth.com,45.33.2.79,US,North America
-2020-08-03,covidtestvaulthealth.com,45.56.79.23,US,North America
-2020-08-03,covidtestvaulthealth.com,45.79.19.196,US,North America
-2020-08-03,covidtestvaulthealth.com,96.126.123.244,US,North America
-2020-08-03,covidtestvaulthealth.com,covidtestvaulthealth.com,,
-2020-08-03,covidvoicetest.com,34.102.136.180,US,North America
-2020-08-03,covidvoicetest.com,covidvoicetest.com,,
-2020-08-03,hometestkitscoronavirus.jo,hometestkitscoronavirus.jo,,
-2020-08-03,ilcovidtesting.com,34.102.136.180,US,North America
-2020-08-03,ilcovidtesting.com,ilcovidtesting.com,,
-2020-08-03,instantcovid19test.ws,64.70.19.203,US,North America
-2020-08-03,instantcovid19test.ws,instantcovid19test.ws,,
-2020-08-03,massachusettscovid19testingsites.com,34.102.136.180,US,North America
-2020-08-03,massachusettscovid19testingsites.com,massachusettscovid19testingsites.com,,
-2020-08-03,massachusettscovid19testingsites.com,ns23.domaincontrol.com,,
-2020-08-03,massachusettscovid19testingsites.com,ns24.domaincontrol.com,,
-2020-08-03,painless-covidretesting.com,34.102.136.180,US,North America
-2020-08-03,painless-covidretesting.com,painless-covidretesting.com,,
-2020-08-03,pcrcovidtesting.com,KnY9c3BmMSBpbmNsdWRlOnNwZi5zdGFja21haWwuY29tIGEgbXggLWFsbA==,,
-2020-08-03,pcrcovidtesting.com,ns1.lyricalhost.com,,
-2020-08-03,pcrcovidtesting.com,ns2.lyricalhost.com,,
-2020-08-03,pcrcovidtesting.com,ns3.lyricalhost.com,,
-2020-08-03,pcrcovidtesting.com,ns4.lyricalhost.com,,
-2020-08-03,pcrcovidtesting.com,pcrcovidtesting.com,,
-2020-08-03,pcrcovidtesting.com,*v=spf1 include:spf.stackmail.com a mx -all,,
-2020-08-03,rightcovid19testkit.com.ba,195.222.33.180,BA,Europe
-2020-08-03,rightcovid19testkit.com.ba,rightcovid19testkit.com.ba,,
-2020-08-03,samedaycovidtestresults.com,34.102.136.180,US,North America
-2020-08-03,samedaycovidtestresults.com,samedaycovidtestresults.com,,
-2020-08-03,testcovid19.jo,testcovid19.jo,,
-2020-08-03,testcovidhk.com,34.102.136.180,US,North America
-2020-08-03,testcovidhk.com,testcovidhk.com,,
-2020-08-03,testerapidocovid19nutriex.com.br,testerapidocovid19nutriex.com.br,,
-2020-08-03,www.testerapidocovid19nutriex.com.br,3.130.228.150,US,North America
-2020-08-03,www.testerapidocovid19nutriex.com.br,shops.oncartx.io,,
+2020-08-04,atxmobilecovidtesting.com,atxmobilecovidtesting.com,,
+2020-08-04,bhpcovidtestcenter.com.au,202.124.241.178,AU,Oceania
+2020-08-04,bhpcovidtestcenter.com.au,bhpcovidtestcenter.com.au,,
+2020-08-04,biohitcovidtesting.com,34.102.136.180,US,North America
+2020-08-04,biohitcovidtesting.com,biohitcovidtesting.com,,
+2020-08-04,biohitcovidtestsupplies.com,34.102.136.180,US,North America
+2020-08-04,biohitcovidtestsupplies.com,biohitcovidtestsupplies.com,,
+2020-08-04,covid-19-tested.com,34.102.136.180,US,North America
+2020-08-04,covid-19-tested.com,covid-19-tested.com,,
+2020-08-04,covid-19-tested.com,ns55.domaincontrol.com,,
+2020-08-04,covid-19-tested.com,ns56.domaincontrol.com,,
+2020-08-04,covidrapidtest.nyc,34.102.136.180,US,North America
+2020-08-04,covidrapidtest.nyc,covidrapidtest.nyc,,
+2020-08-04,covidrapidtest.nyc,ns17.domaincontrol.com,,
+2020-08-04,covidrapidtest.nyc,ns18.domaincontrol.com,,
+2020-08-04,covidtestsites.net,34.102.136.180,US,North America
+2020-08-04,covidtestsites.net,covidtestsites.net,,
+2020-08-04,covidvoicetest.net,34.102.136.180,US,North America
+2020-08-04,covidvoicetest.net,covidvoicetest.net,,
+2020-08-04,dolneedacovid19test.co,198.58.118.167,US,North America
+2020-08-04,dolneedacovid19test.co,45.33.23.183,US,North America
+2020-08-04,dolneedacovid19test.co,45.33.2.79,US,North America
+2020-08-04,dolneedacovid19test.co,45.56.79.23,US,North America
+2020-08-04,dolneedacovid19test.co,45.79.19.196,US,North America
+2020-08-04,dolneedacovid19test.co,96.126.123.244,US,North America
+2020-08-04,dolneedacovid19test.co,dolneedacovid19test.co,,
+2020-08-04,noninvasivecovid19test.jo,193.188.66.238,JO,Asia
+2020-08-04,noninvasivecovid19test.jo,noninvasivecovid19test.jo,,
+2020-08-04,painfreecovidtest.com,34.102.136.180,US,North America
+2020-08-04,painfreecovidtest.com,painfreecovidtest.com,,
+2020-08-04,painlesscovidtesting.today,painlesscovidtesting.today,,
+2020-08-04,pomcovidtest.com,pomcovidtest.com,,
+2020-08-04,quickcovid-19testing.com.ba,quickcovid-19testing.com.ba,,
+2020-08-04,rapidcoronavirustestingkit.la,173.230.141.80,US,North America
+2020-08-04,rapidcoronavirustestingkit.la,rapidcoronavirustestingkit.la,,
+2020-08-04,rapidcovid19antibodytestkits.com.ba,195.222.33.180,BA,Europe
+2020-08-04,rapidcovid19antibodytestkits.com.ba,rapidcovid19antibodytestkits.com.ba,,
+2020-08-04,rapidcovid19antibodytests.com.ba,195.222.33.180,BA,Europe
+2020-08-04,rapidcovid19antibodytests.com.ba,rapidcovid19antibodytests.com.ba,,
+2020-08-04,rapidcovid19cleartest.xn--fiqs8s,rapidcovid19cleartest.xn--fiqs8s,,
+2020-08-04,rapid-test-corona-virus.com.ba,195.222.33.180,BA,Europe
+2020-08-04,rapid-test-corona-virus.com.ba,rapid-test-corona-virus.com.ba,,
+2020-08-04,rapidtestcovid2019.xn--od0alg.cn,rapidtestcovid2019.xn--od0alg.cn,,
+2020-08-04,realcoronaviruscure.com.ba,195.222.33.180,BA,Europe
+2020-08-04,realcoronaviruscure.com.ba,realcoronaviruscure.com.ba,,
+2020-08-04,registercovid19test.com.ba,195.222.33.180,BA,Europe
+2020-08-04,registercovid19test.com.ba,registercovid19test.com.ba,,
+2020-08-04,remotecovid19hometestkit.com.ba,195.222.33.180,BA,Europe
+2020-08-04,remotecovid19hometestkit.com.ba,remotecovid19hometestkit.com.ba,,
+2020-08-04,sacovidtesting.com.au,202.124.241.178,AU,Oceania
+2020-08-04,sacovidtesting.com.au,sacovidtesting.com.au,,
+2020-08-04,safesurgerycovidtesting.com,34.102.136.180,US,North America
+2020-08-04,safesurgerycovidtesting.com,safesurgerycovidtesting.com,,
+2020-08-04,studentcovid19testing.com,34.102.136.180,US,North America
+2020-08-04,studentcovid19testing.com,studentcovid19testing.com,,
+2020-08-04,wwwdolneedacovid19test.jo,wwwdolneedacovid19test.jo,,
