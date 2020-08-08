@@ -2,81 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-06,coronavirustest.cf,216.239.32.21,US,North America
-2020-08-06,coronavirustest.cf,216.239.34.21,US,North America
-2020-08-06,coronavirustest.cf,216.239.36.21,US,North America
-2020-08-06,coronavirustest.cf,216.239.38.21,US,North America
-2020-08-06,coronavirustest.cf,coronavirustest.cf,,
-2020-08-06,covid19antibodytestnow.com,34.102.136.180,US,North America
-2020-08-06,covid19antibodytestnow.com,covid19antibodytestnow.com,,
-2020-08-06,covid19thuistestkit.nl,covid19thuistestkit.nl,,
-2020-08-06,covid-secure.online,34.102.136.180,US,North America
-2020-08-06,covid-secure.online,covid-secure.online,,
-2020-08-06,covidtest10.com,34.102.136.180,US,North America
-2020-08-06,covidtest10.com,covidtest10.com,,
-2020-08-06,covidtest10.com,ns45.domaincontrol.com,,
-2020-08-06,covidtest10.com,ns46.domaincontrol.com,,
-2020-08-06,covidtestfortravel.com,34.102.136.180,US,North America
-2020-08-06,covidtestfortravel.com,covidtestfortravel.com,,
-2020-08-06,covidtestgilbert.com,34.102.136.180,US,North America
-2020-08-06,covidtestgilbert.com,covidtestgilbert.com,,
-2020-08-06,covidtesting123.com,34.102.136.180,US,North America
-2020-08-06,covidtesting123.com,covidtesting123.com,,
-2020-08-06,covidtestquick.com,34.102.136.180,US,North America
-2020-08-06,covidtestquick.com,covidtestquick.com,,
-2020-08-06,covidtestquick.com,pdns01.domaincontrol.com,,
-2020-08-06,covidtestquick.com,pdns02.domaincontrol.com,,
-2020-08-06,cureforcovid.info,34.102.136.180,US,North America
-2020-08-06,cureforcovid.info,cureforcovid.info,,
-2020-08-06,doctorscurecovid.com,184.168.131.241,US,North America
-2020-08-06,doctorscurecovid.com,doctorscurecovid.com,,
-2020-08-06,doctorscurecovid.com,ns31.domaincontrol.com,,
-2020-08-06,doctorscurecovid.com,ns32.domaincontrol.com,,
-2020-08-06,doineesacovid19test.ws,doineesacovid19test.ws,,
-2020-08-06,doineesacovid19test.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-08-06,doineesacovid19test.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-08-06,ellumecovidhometest.com,184.168.131.241,US,North America
-2020-08-06,ellumecovidhometest.com,ellumecovidhometest.com,,
-2020-08-06,latestcovid19.ml,162.241.252.194,US,North America
-2020-08-06,latestcovid19.ml,latestcovid19.ml,,
-2020-08-06,mail.latestcovid19.ml,162.241.252.194,US,North America
-2020-08-06,mycovid19test.ca,158.85.87.76,CA,North America
-2020-08-06,mycovid19test.ca,mycovid19test.ca,,
-2020-08-06,mycovid19test.ca,slns1.namespro.ca,,
-2020-08-06,mycovid19test.ca,slns2.namespro.ca,,
-2020-08-06,naucovidtesting.com,198.58.118.167,US,North America
-2020-08-06,naucovidtesting.com,45.33.23.183,US,North America
-2020-08-06,naucovidtesting.com,45.33.2.79,US,North America
-2020-08-06,naucovidtesting.com,45.56.79.23,US,North America
-2020-08-06,naucovidtesting.com,45.79.19.196,US,North America
-2020-08-06,naucovidtesting.com,96.126.123.244,US,North America
-2020-08-06,naucovidtesting.com,naucovidtesting.com,,
-2020-08-06,naucovidtesting.com,ns1.mytrafficmanagement.com,,
-2020-08-06,naucovidtesting.com,ns2.mytrafficmanagement.com,,
-2020-08-06,philadelphiacovid19tests.la,philadelphiacovid19tests.la,,
-2020-08-06,pointofcaretestcoronavirus.xn--fiqs8s,pointofcaretestcoronavirus.xn--fiqs8s,,
-2020-08-06,smartcovidtest.com,ns41.domaincontrol.com,,
-2020-08-06,smartcovidtest.com,ns42.domaincontrol.com,,
-2020-08-06,smartcovidtest.com,smartcovidtest.com,,
-2020-08-06,southwellnesscovidtest.com,198.185.159.144,US,North America
-2020-08-06,southwellnesscovidtest.com,ns09.domaincontrol.com,,
-2020-08-06,southwellnesscovidtest.com,ns10.domaincontrol.com,,
-2020-08-06,southwellnesscovidtest.com,southwellnesscovidtest.com,,
-2020-08-06,testnacovid.ru,87.236.16.222,RU,Europe
-2020-08-06,testnacovid.ru,ns1.beget.com,,
-2020-08-06,testnacovid.ru,ns1.beget.pro,,
-2020-08-06,testnacovid.ru,ns1.beget.ru,,
-2020-08-06,testnacovid.ru,ns2.beget.com,,
-2020-08-06,testnacovid.ru,ns2.beget.pro,,
-2020-08-06,testnacovid.ru,ns2.beget.ru,,
-2020-08-06,testnacovid.ru,testnacovid.ru,,
-2020-08-06,www77.naucovidtesting.com,11339.searchmagnified.com,,
-2020-08-06,www77.naucovidtesting.com,199.191.50.39,VG,North America
-2020-08-06,www.coronavirustest.cf,172.217.170.83,US,North America
-2020-08-06,www.coronavirustest.cf,ghs.google.com,,
-2020-08-06,www.latestcovid19.ml,162.241.252.194,US,North America
-2020-08-06,www.latestcovid19.ml,latestcovid19.ml,,
-2020-08-06,www.testnacovid.ru,87.236.16.222,RU,Europe
 2020-08-07,centraltexas.spartancovidtesting.com,162.223.228.136,CA,North America
 2020-08-07,corona19-cure.ws,corona19-cure.ws,,
 2020-08-07,corona19-cure.ws,mail.hope-mail.com,,
@@ -128,6 +53,7 @@
 2020-08-07,covid19-rapid-test-kit.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-08-07,covid19serologytest.ws,covid19serologytest.ws,,
 2020-08-07,covid19serologytest.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
+2020-08-07,covid19serologytest.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-08-07,covid19snifftest.com,covid19snifftest.com,,
 2020-08-07,covid19snifftest.com,ns41.domaincontrol.com,,
 2020-08-07,covid19snifftest.com,ns42.domaincontrol.com,,
@@ -144,6 +70,8 @@
 2020-08-07,covid19testmybiz.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
 2020-08-07,covid19testmybiz.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-08-07,covid-19testpoint.ws,covid-19testpoint.ws,,
+2020-08-07,covid-19testpoint.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
+2020-08-07,covid-19testpoint.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
 2020-08-07,covid19testrapid.ws,64.70.19.203,US,North America
 2020-08-07,covid19testrapid.ws,covid19testrapid.ws,,
 2020-08-07,covid19testregistration.ws,covid19testregistration.ws,,
