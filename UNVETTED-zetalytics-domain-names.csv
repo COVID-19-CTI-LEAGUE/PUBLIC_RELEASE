@@ -2,80 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-08,asuepcovid19test.ws,asuepcovid19test.ws,,
-2020-08-08,asuepcovid19test.ws,mail.hope-mail.com,,
-2020-08-08,biohitcovid19rapidtest.com,biohitcovid19rapidtest.com,,
-2020-08-08,centrotestcoronavirus.ws,64.70.19.203,US,North America
-2020-08-08,centrotestcoronavirus.ws,centrotestcoronavirus.ws,,
-2020-08-08,cheapcovid19testkit.ws,64.70.19.203,US,North America
-2020-08-08,cheapcovid19testkit.ws,cheapcovid19testkit.ws,,
-2020-08-08,chicagocovid19tests.ws,chicagocovid19tests.ws,,
-2020-08-08,chicagocovid19tests.ws,I3Y9c3BmMSBpcDY6ZmRkMDo5NTFlOmVkZTc6Oi80OCAtYWxs,,
-2020-08-08,chicagocovid19tests.ws,#v=spf1 ip6:fdd0:951e:ede7::/48 -all,,
-2020-08-08,covid19-securezone.com,covid19-securezone.com,,
-2020-08-08,covid-test-finder.com,covid-test-finder.com,,
-2020-08-08,covid-test-finder.com,dns1.namecheaphosting.com,,
-2020-08-08,covid-test-finder.com,dns1.registrar-servers.com,,
-2020-08-08,covid-test-finder.com,dns2.namecheaphosting.com,,
-2020-08-08,covid-test-finder.com,dns2.registrar-servers.com,,
-2020-08-08,covidtestsnow.gov.jo,193.188.66.238,JO,Asia
-2020-08-08,covidtestsnow.gov.jo,covidtestsnow.gov.jo,,
-2020-08-08,covidtestsolution.com,184.168.131.241,US,North America
-2020-08-08,covidtestsolution.com,covidtestsolution.com,,
-2020-08-08,covidtestsolution.com,ns31.domaincontrol.com,,
-2020-08-08,covidtestsolution.com,ns32.domaincontrol.com,,
-2020-08-08,cvscovidtesting.info,cvscovidtesting.info,,
-2020-08-08,cvscovidtesting.info,ns-cloud-c1.googledomains.com,,
-2020-08-08,cvscovidtesting.info,ns-cloud-c2.googledomains.com,,
-2020-08-08,cvscovidtesting.info,ns-cloud-c3.googledomains.com,,
-2020-08-08,cvscovidtesting.info,ns-cloud-c4.googledomains.com,,
-2020-08-08,doineedacovid19testtest.com,199.59.242.153,US,North America
-2020-08-08,doineedacovid19testtest.com,doineedacovid19testtest.com,,
-2020-08-08,doineedacovid19testtest.com,ns1.bodis.com,,
-2020-08-08,doineedacovid19testtest.com,ns2.bodis.com,,
-2020-08-08,hometestkitscoronavirus.gov.jo,hometestkitscoronavirus.gov.jo,,
-2020-08-08,newportcovidtests.com,34.102.136.180,US,North America
-2020-08-08,newportcovidtests.com,newportcovidtests.com,,
-2020-08-08,newportcovidtests.com,ns49.domaincontrol.com,,
-2020-08-08,newportcovidtests.com,ns50.domaincontrol.com,,
-2020-08-08,oakbrookcovid19test.com.ba,195.222.33.180,BA,Europe
-2020-08-08,oakbrookcovid19test.com.ba,oakbrookcovid19test.com.ba,,
-2020-08-08,officialcovid19test.xn--io0a7i.cn,officialcovid19test.xn--io0a7i.cn,,
-2020-08-08,ohiocovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-08,ohiocovid19testing.com.ba,ohiocovid19testing.com.ba,,
-2020-08-08,ondemandcovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-08,ondemandcovid19testing.com.ba,ondemandcovid19testing.com.ba,,
-2020-08-08,onlinecoronavirustest.com.ba,195.222.33.180,BA,Europe
-2020-08-08,onlinecoronavirustest.com.ba,onlinecoronavirustest.com.ba,,
-2020-08-08,onlinecoronavirustester.la,173.230.141.80,US,North America
-2020-08-08,onlinecoronavirustester.la,onlinecoronavirustester.la,,
-2020-08-08,onlinecovid19test.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-08-08,onlinecovid19test.xn--io0a7i.cn,onlinecovid19test.xn--io0a7i.cn,,
-2020-08-08,onlinetest-covid19.com.ba,195.222.33.180,BA,Europe
-2020-08-08,onlinetest-covid19.com.ba,onlinetest-covid19.com.ba,,
-2020-08-08,onlinetestkitcovid19.com.ba,195.222.33.180,BA,Europe
-2020-08-08,onlinetestkitcovid19.com.ba,onlinetestkitcovid19.com.ba,,
-2020-08-08,oralcovid19test.xn--55qx5d.cn,oralcovid19test.xn--55qx5d.cn,,
-2020-08-08,ordercovid19testkit.com.ba,195.222.33.180,BA,Europe
-2020-08-08,ordercovid19testkit.com.ba,ordercovid19testkit.com.ba,,
-2020-08-08,orlandocovid19tests.la,orlandocovid19tests.la,,
-2020-08-08,orlandocovid19test.xn--55qx5d.cn,orlandocovid19test.xn--55qx5d.cn,,
-2020-08-08,outdoorcovid19test.la,outdoorcovid19test.la,,
-2020-08-08,phxcovidtesting.com,34.102.136.180,US,North America
-2020-08-08,phxcovidtesting.com,ns09.domaincontrol.com,,
-2020-08-08,phxcovidtesting.com,ns10.domaincontrol.com,,
-2020-08-08,phxcovidtesting.com,phxcovidtesting.com,,
-2020-08-08,testcovidwroclaw.pl,46.242.244.80,PL,Europe
-2020-08-08,testcovidwroclaw.pl,testcovidwroclaw.pl,,
-2020-08-08,uscg-covid-testing.com,ns-cloud-b1.googledomains.com,,
-2020-08-08,uscg-covid-testing.com,ns-cloud-b2.googledomains.com,,
-2020-08-08,uscg-covid-testing.com,ns-cloud-b3.googledomains.com,,
-2020-08-08,uscg-covid-testing.com,ns-cloud-b4.googledomains.com,,
-2020-08-08,uscg-covid-testing.com,uscg-covid-testing.com,,
-2020-08-08,www.covid-test-finder.com,68.65.120.222,US,North America
-2020-08-08,www.covid-test-finder.com,covid-test-finder.com,,
-2020-08-08,www.testcovidwroclaw.pl,46.242.244.80,PL,Europe
-2020-08-08,www.testcovidwroclaw.pl,testcovidwroclaw.pl,,
 2020-08-09,buycoronaviruscure.ws,64.70.19.203,US,North America
 2020-08-09,buycoronaviruscure.ws,buycoronaviruscure.ws,,
 2020-08-09,buycovid19rapidtest.ws,64.70.19.203,US,North America
@@ -86,6 +12,8 @@
 2020-08-09,covidquicktest.events,covidquicktest.events,,
 2020-08-09,covidquicktest.events,ns75.domaincontrol.com,,
 2020-08-09,covidquicktest.events,ns76.domaincontrol.com,,
+2020-08-09,nationalcoronavirustestcenters.com.ba,195.222.33.180,BA,Europe
+2020-08-09,nationalcoronavirustestcenters.com.ba,nationalcoronavirustestcenters.com.ba,,
 2020-08-09,newcoronavirustest.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-08-09,newcoronavirustest.xn--55qx5d.cn,newcoronavirustest.xn--55qx5d.cn,,
 2020-08-09,newcovid19testingkit.xn--fiqs8s,newcovid19testingkit.xn--fiqs8s,,
