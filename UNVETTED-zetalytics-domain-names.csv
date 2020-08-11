@@ -2,58 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-09,buycoronaviruscure.ws,64.70.19.203,US,North America
-2020-08-09,buycoronaviruscure.ws,buycoronaviruscure.ws,,
-2020-08-09,buycovid19rapidtest.ws,64.70.19.203,US,North America
-2020-08-09,buycovid19rapidtest.ws,buycovid19rapidtest.ws,,
-2020-08-09,chloroquinetest.org.ph,chloroquinetest.org.ph,,
-2020-08-09,covid19hometest.gov.jo,covid19hometest.gov.jo,,
-2020-08-09,covidquicktest.events,34.102.136.180,US,North America
-2020-08-09,covidquicktest.events,covidquicktest.events,,
-2020-08-09,covidquicktest.events,ns75.domaincontrol.com,,
-2020-08-09,covidquicktest.events,ns76.domaincontrol.com,,
-2020-08-09,nationalcoronavirustestcenters.com.ba,195.222.33.180,BA,Europe
-2020-08-09,nationalcoronavirustestcenters.com.ba,nationalcoronavirustestcenters.com.ba,,
-2020-08-09,newcoronavirustest.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-08-09,newcoronavirustest.xn--55qx5d.cn,newcoronavirustest.xn--55qx5d.cn,,
-2020-08-09,newcovid19testingkit.xn--fiqs8s,newcovid19testingkit.xn--fiqs8s,,
-2020-08-09,newcovid19testing.xn--55qx5d.cn,newcovid19testing.xn--55qx5d.cn,,
-2020-08-09,new-orleans-covid-19-test.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-08-09,new-orleans-covid-19-test.xn--od0alg.cn,new-orleans-covid-19-test.xn--od0alg.cn,,
-2020-08-09,newtestcovid-19.com.ba,195.222.33.180,BA,Europe
-2020-08-09,newtestcovid-19.com.ba,newtestcovid-19.com.ba,,
-2020-08-09,newyorkcitycovid-19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-09,newyorkcitycovid-19testing.com.ba,newyorkcitycovid-19testing.com.ba,,
-2020-08-09,newyorkcitycovid19tests.xn--55qx5d.cn,newyorkcitycovid19tests.xn--55qx5d.cn,,
-2020-08-09,newyorkcitycovid-19test.xn--fiqs8s,newyorkcitycovid-19test.xn--fiqs8s,,
-2020-08-09,newyorkcoronavirustesting.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-08-09,newyorkcoronavirustesting.xn--fiqz9s,newyorkcoronavirustesting.xn--fiqz9s,,
-2020-08-09,newyorkcoronavirustests.xn--io0a7i.cn,newyorkcoronavirustests.xn--io0a7i.cn,,
-2020-08-09,novelcoronavirustestingkit.com.ba,195.222.33.180,BA,Europe
-2020-08-09,novelcoronavirustestingkit.com.ba,novelcoronavirustestingkit.com.ba,,
-2020-08-09,novelcoronavirustestkit.com.ba,195.222.33.180,BA,Europe
-2020-08-09,novelcoronavirustestkit.com.ba,novelcoronavirustestkit.com.ba,,
-2020-08-09,novelcovid19hometestkit.com.ba,195.222.33.180,BA,Europe
-2020-08-09,novelcovid19hometestkit.com.ba,novelcovid19hometestkit.com.ba,,
-2020-08-09,nycoronavirustest.com.ba,195.222.33.180,BA,Europe
-2020-08-09,nycoronavirustest.com.ba,nycoronavirustest.com.ba,,
-2020-08-09,nzcovid19cure.com.ba,195.222.33.180,BA,Europe
-2020-08-09,nzcovid19cure.com.ba,nzcovid19cure.com.ba,,
-2020-08-09,quicktestcovid.info,34.102.136.180,US,North America
-2020-08-09,quicktestcovid.info,ns75.domaincontrol.com,,
-2020-08-09,quicktestcovid.info,ns76.domaincontrol.com,,
-2020-08-09,quicktestcovid.info,quicktestcovid.info,,
-2020-08-09,realcovidcure.com,ns-cloud-b1.googledomains.com,,
-2020-08-09,realcovidcure.com,ns-cloud-b2.googledomains.com,,
-2020-08-09,realcovidcure.com,ns-cloud-b3.googledomains.com,,
-2020-08-09,realcovidcure.com,ns-cloud-b4.googledomains.com,,
-2020-08-09,realcovidcure.com,realcovidcure.com,,
-2020-08-09,www.covid19hometest.gov.jo,193.188.66.238,JO,Asia
-2020-08-09,www.newyorkcitycovid-19test.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-08-09,yourcovidtest.online,34.102.136.180,US,North America
-2020-08-09,yourcovidtest.online,ns67.domaincontrol.com,,
-2020-08-09,yourcovidtest.online,ns68.domaincontrol.com,,
-2020-08-09,yourcovidtest.online,yourcovidtest.online,,
 2020-08-10,30mincovidtest.com,30mincovidtest.com,,
 2020-08-10,30mincovidtest.com,34.102.136.180,US,North America
 2020-08-10,30mincovidtest.com,ns05.domaincontrol.com,,
@@ -121,6 +69,9 @@
 2020-08-10,covidlatestupdate.com,ns72.domaincontrol.com,,
 2020-08-10,covidtest30.com,107.180.28.116,US,North America
 2020-08-10,covidtest30.com,covidtest30.com,,
+2020-08-10,covidtest.com.ph,covidtest.com.ph,,
+2020-08-10,covidtest.com.ph,dns1.domains.ph,,
+2020-08-10,covidtest.com.ph,dns2.domains.ph,,
 2020-08-10,covidtest.equipment,34.102.136.180,US,North America
 2020-08-10,covidtest.equipment,covidtest.equipment,,
 2020-08-10,covidtest.equipment,ns47.domaincontrol.com,,
@@ -186,8 +137,10 @@
 2020-08-10,mysmartcovid19test.com.ba,195.222.33.180,BA,Europe
 2020-08-10,mysmartcovid19test.com.ba,mysmartcovid19test.com.ba,,
 2020-08-10,mytest4covid19.xn--od0alg.cn,mytest4covid19.xn--od0alg.cn,,
+2020-08-10,quickcovidtestingfla.com,34.102.136.180,US,North America
 2020-08-10,quickcovidtestingfla.com,ns05.domaincontrol.com,,
 2020-08-10,quickcovidtestingfla.com,ns06.domaincontrol.com,,
+2020-08-10,quickcovidtestingfla.com,quickcovidtestingfla.com,,
 2020-08-10,tanacovidtesting.com,66.96.162.132,US,North America
 2020-08-10,tanacovidtesting.com,ns1.domain.com,,
 2020-08-10,tanacovidtesting.com,ns2.domain.com,,
@@ -211,3 +164,5 @@
 2020-08-10,www77.doindeedacovidtest19.com,199.191.50.39,VG,North America
 2020-08-10,www.drivethrutestcovid19.com.br,186.202.153.79,BR,South America
 2020-08-10,www.drivethrutestcovid19.com.br,drivethrutestcovid19.com.br,,
+2020-08-11,covid-19antigentests.com.ph,covid-19antigentests.com.ph,,
+2020-08-11,mobilecovid19test.la,mobilecovid19test.la,,
