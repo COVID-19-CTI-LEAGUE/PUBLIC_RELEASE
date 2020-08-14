@@ -2,100 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-12,airportcovidtest.com,airportcovidtest.com,,
-2020-08-12,airportcovidtest.com,ns1.iwantmyname.net,,
-2020-08-12,airportcovidtest.com,ns2.iwantmyname.net,,
-2020-08-12,airportcovidtest.com,ns3.iwantmyname.net,,
-2020-08-12,airportcovidtest.com,ns4.iwantmyname.net,,
-2020-08-12,corona19testkit.gov.jo,corona19testkit.gov.jo,,
-2020-08-12,covid19-15mintest.ws,covid19-15mintest.ws,,
-2020-08-12,covid19-15mintest.ws,mail.hope-mail.com,,
-2020-08-12,covid2019rapidtest.com.sn,covid2019rapidtest.com.sn,,
-2020-08-12,covidsafetested.com,34.102.136.180,US,North America
-2020-08-12,covidsafetested.com,covidsafetested.com,,
-2020-08-12,covidsafetested.com,ns29.domaincontrol.com,,
-2020-08-12,covidsafetested.com,ns30.domaincontrol.com,,
-2020-08-12,covidtestingevents.com,covidtestingevents.com,,
-2020-08-12,covidtestingevents.com,ns47.domaincontrol.com,,
-2020-08-12,covidtestingevents.com,ns48.domaincontrol.com,,
-2020-08-12,covid-test.la,covid-test.la,,
-2020-08-12,covid-test.net.ph,covid-test.net.ph,,
-2020-08-12,covidtest.no,covidtest.no,,
-2020-08-12,covidtest.no,hostmaster@domeneshop.no,,
-2020-08-12,covidtest.no,ns1.hyp.net,,
-2020-08-12,covidtest.no,v=spf1 -all,,
-2020-08-12,covidtestsupplier.com,covidtestsupplier.com,,
-2020-08-12,covidtestsupplier.com,ns1.machighway.com,,
-2020-08-12,covidtestsupplier.com,ns2.machighway.com,,
-2020-08-12,covidvoicetest.app,covidvoicetest.app,,
-2020-08-12,covidvoicetest.app,ns45.domaincontrol.com,,
-2020-08-12,covidvoicetest.app,ns46.domaincontrol.com,,
-2020-08-12,drivebycovidtesting.com,74.208.236.211,US,North America
-2020-08-12,drivebycovidtesting.com,drivebycovidtesting.com,,
-2020-08-12,drivebycovidtesting.com,ns1052.ui-dns.de,,
-2020-08-12,drivebycovidtesting.com,ns1079.ui-dns.org,,
-2020-08-12,drivebycovidtesting.com,ns1095.ui-dns.com,,
-2020-08-12,drivebycovidtesting.com,ns1106.ui-dns.biz,,
-2020-08-12,fakecovidtest.com,23.236.62.147,US,North America
-2020-08-12,fakecovidtest.com,fakecovidtest.com,,
-2020-08-12,fakecovidtest.com,ns0.wixdns.net,,
-2020-08-12,fakecovidtest.com,ns1.wixdns.net,,
-2020-08-12,fakecovidtest.com,ns-cloud-a1.googledomains.com,,
-2020-08-12,fakecovidtest.com,ns-cloud-a2.googledomains.com,,
-2020-08-12,fakecovidtest.com,ns-cloud-a3.googledomains.com,,
-2020-08-12,fakecovidtest.com,ns-cloud-a4.googledomains.com,,
-2020-08-12,forms.fakecovidtest.com,204.141.42.199,US,North America
-2020-08-12,forms.fakecovidtest.com,forms.cs.zohohost.com,,
-2020-08-12,forms.fakecovidtest.com,zs-us4-lczhost.zohohost.com,,
-2020-08-12,getacovid19test.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-08-12,getacovid19test.xn--io0a7i.cn,getacovid19test.xn--io0a7i.cn,,
-2020-08-12,jacksonvillecovidtest.com,jacksonvillecovidtest.com,,
-2020-08-12,jacksonvillecovidtest.com,ns1.dotster.com,,
-2020-08-12,jacksonvillecovidtest.com,ns2.dotster.com,,
-2020-08-12,jacksonvillecovidtest.site,66.96.161.249,US,North America
-2020-08-12,jacksonvillecovidtest.site,jacksonvillecovidtest.site,,
-2020-08-12,jacksonvillecovidtest.site,ns1.dotster.com,,
-2020-08-12,jacksonvillecovidtest.site,ns2.dotster.com,,
-2020-08-12,lullycovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-12,lullycovid19testing.com.ba,lullycovid19testing.com.ba,,
-2020-08-12,mailincovid19test.la,mailincovid19test.la,,
-2020-08-12,mailmycovid19test.com.ba,195.222.33.180,BA,Europe
-2020-08-12,mailmycovid19test.com.ba,mailmycovid19test.com.ba,,
-2020-08-12,mycovidhometest.net,mycovidhometest.net,,
-2020-08-12,mycovidhometest.net,ns-cloud-a1.googledomains.com,,
-2020-08-12,mycovidhometest.net,ns-cloud-a2.googledomains.com,,
-2020-08-12,mycovidhometest.net,ns-cloud-a3.googledomains.com,,
-2020-08-12,mycovidhometest.net,ns-cloud-a4.googledomains.com,,
-2020-08-12,mycovidtestresult.com,34.102.136.180,US,North America
-2020-08-12,mycovidtestresult.com,mycovidtestresult.com,,
-2020-08-12,mycovidtestresult.com,ns37.domaincontrol.com,,
-2020-08-12,mycovidtestresult.com,ns38.domaincontrol.com,,
-2020-08-12,rapidtestingcovid.com,pdns13.domaincontrol.com,,
-2020-08-12,rapidtestingcovid.com,pdns14.domaincontrol.com,,
-2020-08-12,rapidtestingcovid.com,rapidtestingcovid.com,,
-2020-08-12,samedaycovidtest.com,23.236.62.147,US,North America
-2020-08-12,samedaycovidtest.com,ns69.domaincontrol.com,,
-2020-08-12,samedaycovidtest.com,ns70.domaincontrol.com,,
-2020-08-12,samedaycovidtest.com,ns8.wixdns.net,,
-2020-08-12,samedaycovidtest.com,ns9.wixdns.net,,
-2020-08-12,samedaycovidtest.com,samedaycovidtest.com,,
-2020-08-12,taoscovidtesting.com,96.30.46.60,US,North America
-2020-08-12,taoscovidtesting.com,ns1.liquidweb.com,,
-2020-08-12,taoscovidtesting.com,ns.liquidweb.com,,
-2020-08-12,taoscovidtesting.com,taoscovidtesting.com,,
-2020-08-12,testnow-covid-19-ag.com,85.214.45.45,DE,Europe
-2020-08-12,testnow-covid19-ag.com,85.214.45.45,DE,Europe
-2020-08-12,testnow-covid-19-ag.com,ns3.stratoserver.net,,
-2020-08-12,testnow-covid19-ag.com,ns3.stratoserver.net,,
-2020-08-12,testnow-covid-19-ag.com,ns4.stratoserver.net,,
-2020-08-12,testnow-covid19-ag.com,ns4.stratoserver.net,,
-2020-08-12,testnow-covid-19-ag.com,testnow-covid-19-ag.com,,
-2020-08-12,testnow-covid19-ag.com,testnow-covid19-ag.com,,
-2020-08-12,testnow-covid19-antigen.com,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,DE,Europe
-2020-08-12,testnow-covid19-antigen.com,85.214.45.45,DE,Europe
-2020-08-12,testnow-covid19-antigen.com,ns3.stratoserver.net,,
-2020-08-12,testnow-covid19-antigen.com,ns4.stratoserver.net,,
-2020-08-12,testnow-covid19-antigen.com,testnow-covid19-antigen.com,,
 2020-08-13,acrpointcovidtesting.com,acrpointcovidtesting.com,,
 2020-08-13,becomeacovidtestingsite.com,23.227.38.32,CA,North America
 2020-08-13,becomeacovidtestingsite.com,becomeacovidtestingsite.com,,
@@ -151,7 +57,13 @@
 2020-08-13,covidtestresultsatraisingcanes.com,covidtestresultsatraisingcanes.com,,
 2020-08-13,covidtestresultsatraisingcanes.com,ns1.mytrafficmanagement.com,,
 2020-08-13,covidtestresultsatraisingcanes.com,ns2.mytrafficmanagement.com,,
+2020-08-13,freecovidtestga.com,34.102.136.180,US,North America
 2020-08-13,freecovidtestga.com,freecovidtestga.com,,
+2020-08-13,freecovidtestga.com,ns50.domaincontrol.com,,
+2020-08-13,lastestcovid-19.xn--fiqz9s,218.241.116.40,CN,Asia
+2020-08-13,lastestcovid-19.xn--fiqz9s,lastestcovid-19.xn--fiqz9s,,
+2020-08-13,latestcovid19movie.com.ba,195.222.33.180,BA,Europe
+2020-08-13,latestcovid19movie.com.ba,latestcovid19movie.com.ba,,
 2020-08-13,latestoncovid19.xn--55qx5d.cn,218.241.116.40,CN,Asia
 2020-08-13,latestoncovid19.xn--55qx5d.cn,latestoncovid19.xn--55qx5d.cn,,
 2020-08-13,leritascovid19testing.com.ba,195.222.33.180,BA,Europe
