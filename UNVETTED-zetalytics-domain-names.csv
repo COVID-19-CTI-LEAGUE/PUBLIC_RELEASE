@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-08-13,acrpointcovidtesting.com,34.102.136.180,US,North America
 2020-08-13,acrpointcovidtesting.com,acrpointcovidtesting.com,,
 2020-08-13,becomeacovidtestingsite.com,23.227.38.32,CA,North America
 2020-08-13,becomeacovidtestingsite.com,becomeacovidtestingsite.com,,
@@ -159,6 +160,8 @@
 2020-08-14,filmandcovidtestsolutions.com,filmandcovidtestsolutions.com,,
 2020-08-14,filmandcovidtestsolutions.com,ns11.domaincontrol.com,,
 2020-08-14,filmandcovidtestsolutions.com,ns12.domaincontrol.com,,
+2020-08-14,kit4testingcovid19.com.ba,195.222.33.180,BA,Europe
+2020-08-14,kit4testingcovid19.com.ba,kit4testingcovid19.com.ba,,
 2020-08-14,lacoronavirustests.com.ba,195.222.33.180,BA,Europe
 2020-08-14,lacoronavirustests.com.ba,lacoronavirustests.com.ba,,
 2020-08-14,rushcovidtest.com,34.102.136.180,US,North America
