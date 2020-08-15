@@ -2,127 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-13,acrpointcovidtesting.com,34.102.136.180,US,North America
-2020-08-13,acrpointcovidtesting.com,acrpointcovidtesting.com,,
-2020-08-13,becomeacovidtestingsite.com,23.227.38.32,CA,North America
-2020-08-13,becomeacovidtestingsite.com,becomeacovidtestingsite.com,,
-2020-08-13,becomeacovidtestingsite.com,ns47.domaincontrol.com,,
-2020-08-13,becomeacovidtestingsite.com,ns48.domaincontrol.com,,
-2020-08-13,chloroquine-test.la,chloroquine-test.la,,
-2020-08-13,coronavirustest.equipment,34.102.136.180,US,North America
-2020-08-13,coronavirustest.equipment,coronavirustest.equipment,,
-2020-08-13,coronavirustest.equipment,ns37.domaincontrol.com,,
-2020-08-13,coronavirustest.equipment,ns38.domaincontrol.com,,
-2020-08-13,coronavirus-testkit.online,163.44.185.241,JP,Asia
-2020-08-13,coronavirus-testkit.online,coronavirus-testkit.online,,
-2020-08-13,coronavirus-testkit.online,dns01.muumuu-domain.com,,
-2020-08-13,coronavirus-testkit.online,dns02.muumuu-domain.com,,
-2020-08-13,coronavirus-testkit.online,postmaster@coronavirus-testkit.online,,
-2020-08-13,covid19spittest.events,34.102.136.180,US,North America
-2020-08-13,covid19spittest.events,covid19spittest.events,,
-2020-08-13,covid19spittest.events,ns39.domaincontrol.com,,
-2020-08-13,covid19spittest.events,ns40.domaincontrol.com,,
-2020-08-13,coviddkrstest.online,coviddkrstest.online,,
-2020-08-13,coviddkrstest.online,ns1.dns-parking.com,,
-2020-08-13,coviddkrstest.online,ns2.dns-parking.com,,
-2020-08-13,covidlatest.com.au,covidlatest.com.au,,
-2020-08-13,covidrapidresponsetesting.com,covidrapidresponsetesting.com,,
-2020-08-13,covidresidentialtestingservice.com,34.102.136.180,US,North America
-2020-08-13,covidresidentialtestingservice.com,covidresidentialtestingservice.com,,
-2020-08-13,covidresidentialtestingservice.com,ns45.domaincontrol.com,,
-2020-08-13,covidresidentialtestingservice.com,ns46.domaincontrol.com,,
-2020-08-13,covidsecure.pl,85.128.128.104,PL,Europe
-2020-08-13,covidsecure.pl,biuro@nazwa.pl,,
-2020-08-13,covidsecure.pl,covidsecure.pl,,
-2020-08-13,covidsecure.pl,ns1.nazwa.pl,,
-2020-08-13,covidsecure.pl,ns2.nazwa.pl,,
-2020-08-13,covidsecure.pl,ns3.nazwa.pl,,
-2020-08-13,covidspittesting.com,34.102.136.180,US,North America
-2020-08-13,covidspittesting.com,covidspittesting.com,,
-2020-08-13,covidspittesting.com,ns39.domaincontrol.com,,
-2020-08-13,covidspittesting.com,ns40.domaincontrol.com,,
-2020-08-13,covidspittest.net,covidspittest.net,,
-2020-08-13,covidspittest.net,ns75.domaincontrol.com,,
-2020-08-13,covidspittest.net,ns76.domaincontrol.com,,
-2020-08-13,covidtestinghtx.com,34.102.136.180,US,North America
-2020-08-13,covidtestinghtx.com,covidtestinghtx.com,,
-2020-08-13,covidtestinghtx.com,ns53.domaincontrol.com,,
-2020-08-13,covidtestinghtx.com,ns54.domaincontrol.com,,
-2020-08-13,covidtestkis.info,34.102.136.180,US,North America
-2020-08-13,covidtestkis.info,covidtestkis.info,,
-2020-08-13,covidtestkis.info,ns11.domaincontrol.com,,
-2020-08-13,covidtestkis.info,ns12.domaincontrol.com,,
-2020-08-13,covidtestresultsatraisingcanes.com,198.58.118.167,US,North America
-2020-08-13,covidtestresultsatraisingcanes.com,45.33.23.183,US,North America
-2020-08-13,covidtestresultsatraisingcanes.com,45.33.2.79,US,North America
-2020-08-13,covidtestresultsatraisingcanes.com,45.56.79.23,US,North America
-2020-08-13,covidtestresultsatraisingcanes.com,45.79.19.196,US,North America
-2020-08-13,covidtestresultsatraisingcanes.com,96.126.123.244,US,North America
-2020-08-13,covidtestresultsatraisingcanes.com,covidtestresultsatraisingcanes.com,,
-2020-08-13,covidtestresultsatraisingcanes.com,ns1.mytrafficmanagement.com,,
-2020-08-13,covidtestresultsatraisingcanes.com,ns2.mytrafficmanagement.com,,
-2020-08-13,freecovidtestga.com,34.102.136.180,US,North America
-2020-08-13,freecovidtestga.com,freecovidtestga.com,,
-2020-08-13,freecovidtestga.com,ns49.domaincontrol.com,,
-2020-08-13,freecovidtestga.com,ns50.domaincontrol.com,,
-2020-08-13,lastestcovid-19.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-08-13,lastestcovid-19.xn--fiqz9s,lastestcovid-19.xn--fiqz9s,,
-2020-08-13,latestcovid19movie.com.ba,195.222.33.180,BA,Europe
-2020-08-13,latestcovid19movie.com.ba,latestcovid19movie.com.ba,,
-2020-08-13,latestoncovid19.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-08-13,latestoncovid19.xn--55qx5d.cn,latestoncovid19.xn--55qx5d.cn,,
-2020-08-13,leritascovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-13,leritascovid19testing.com.ba,leritascovid19testing.com.ba,,
-2020-08-13,letscurecovid19.com.ba,195.222.33.180,BA,Europe
-2020-08-13,letscurecovid19.com.ba,letscurecovid19.com.ba,,
-2020-08-13,lillycovid199testing.la,173.230.141.80,US,North America
-2020-08-13,lillycovid199testing.la,lillycovid199testing.la,,
-2020-08-13,lillycovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-13,lillycovid19testing.com.ba,lillycovid19testing.com.ba,,
-2020-08-13,lillycovid19testinh.com.ba,195.222.33.180,BA,Europe
-2020-08-13,lillycovid19testinh.com.ba,lillycovid19testinh.com.ba,,
-2020-08-13,lillycovid19testinng.com.ba,195.222.33.180,BA,Europe
-2020-08-13,lillycovid19testinng.com.ba,lillycovid19testinng.com.ba,,
-2020-08-13,localcoronavirustest.com.ba,195.222.33.180,BA,Europe
-2020-08-13,localcoronavirustest.com.ba,localcoronavirustest.com.ba,,
-2020-08-13,losangelescovid19test.com.ba,195.222.33.180,BA,Europe
-2020-08-13,losangelescovid19test.com.ba,losangelescovid19test.com.ba,,
-2020-08-13,losangelescovid-19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-13,losangelescovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-13,losangelescovid-19testing.com.ba,losangelescovid-19testing.com.ba,,
-2020-08-13,losangelescovid19testing.com.ba,losangelescovid19testing.com.ba,,
-2020-08-13,miamicovid-19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-13,miamicovid-19testing.com.ba,miamicovid-19testing.com.ba,,
-2020-08-13,miamicovidtests.com,34.102.136.180,US,North America
-2020-08-13,miamicovidtests.com,miamicovidtests.com,,
-2020-08-13,miamicovidtests.com,ns01.domaincontrol.com,,
-2020-08-13,miamicovidtests.com,ns02.domaincontrol.com,,
-2020-08-13,northwestcovidtesting.com,34.102.136.180,US,North America
-2020-08-13,northwestcovidtesting.com,northwestcovidtesting.com,,
-2020-08-13,northwestcovidtesting.com,ns15.domaincontrol.com,,
-2020-08-13,northwestcovidtesting.com,ns16.domaincontrol.com,,
-2020-08-13,rdvtestcovid.tn,ns4.ati.tn,,
-2020-08-13,rdvtestcovid.tn,ns6.ati.tn,,
-2020-08-13,rdvtestcovid.tn,rdvtestcovid.tn,,
-2020-08-13,testcovid19.best,ns1.matbao.com,,
-2020-08-13,testcovid19.best,ns2.matbao.com,,
-2020-08-13,testcovid19.best,testcovid19.best,,
-2020-08-13,testcovid.nyc,34.102.136.180,US,North America
-2020-08-13,testcovid.nyc,testcovid.nyc,,
-2020-08-13,testnow-covid-19-antigen.com,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,DE,Europe
-2020-08-13,testnow-covid-19-antigen.com,85.214.45.45,DE,Europe
-2020-08-13,testnow-covid-19-antigen.com,ns3.stratoserver.net,,
-2020-08-13,testnow-covid-19-antigen.com,ns4.stratoserver.net,,
-2020-08-13,testnow-covid-19-antigen.com,testnow-covid-19-antigen.com,,
-2020-08-13,utahcoronavirustesting.com,104.196.237.226,US,North America
-2020-08-13,utahcoronavirustesting.com,ns-cloud-d1.googledomains.com,,
-2020-08-13,utahcoronavirustesting.com,ns-cloud-d2.googledomains.com,,
-2020-08-13,utahcoronavirustesting.com,ns-cloud-d3.googledomains.com,,
-2020-08-13,utahcoronavirustesting.com,ns-cloud-d4.googledomains.com,,
-2020-08-13,utahcoronavirustesting.com,utahcoronavirustesting.com,,
-2020-08-13,www.becomeacovidtestingsite.com,23.227.38.64,CA,North America
-2020-08-13,www.becomeacovidtestingsite.com,become-a-covid-testing-site.myshopify.com,,
-2020-08-13,www.becomeacovidtestingsite.com,shops.myshopify.com,,
 2020-08-14,bostoncovidtesting.com,34.102.136.180,US,North America
 2020-08-14,bostoncovidtesting.com,bostoncovidtesting.com,,
 2020-08-14,bostoncovidtesting.com,ns23.domaincontrol.com,,
@@ -159,6 +38,10 @@
 2020-08-14,covidtesthyderabad.com,covidtesthyderabad.com,,
 2020-08-14,covidtesthyderabad.com,ns49.domaincontrol.com,,
 2020-08-14,covidtesthyderabad.com,ns50.domaincontrol.com,,
+2020-08-14,covidtest.miami,207.242.104.50,US,North America
+2020-08-14,covidtest.miami,covidtest.miami,,
+2020-08-14,covidtest.miami,ns45.domaincontrol.com,,
+2020-08-14,covidtest.miami,ns46.domaincontrol.com,,
 2020-08-14,covidtestmybusiness.com,34.102.136.180,US,North America
 2020-08-14,covidtestmybusiness.com,covidtestmybusiness.com,,
 2020-08-14,covidtestmybusiness.com,ns51.domaincontrol.com,,
