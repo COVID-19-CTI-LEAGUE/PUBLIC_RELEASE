@@ -2,126 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-14,bostoncovidtesting.com,34.102.136.180,US,North America
-2020-08-14,bostoncovidtesting.com,bostoncovidtesting.com,,
-2020-08-14,bostoncovidtesting.com,ns23.domaincontrol.com,,
-2020-08-14,bostoncovidtesting.com,ns24.domaincontrol.com,,
-2020-08-14,campuscovid19testing.shop,107.161.23.204,US,North America
-2020-08-14,campuscovid19testing.shop,192.161.187.200,US,North America
-2020-08-14,campuscovid19testing.shop,209.141.38.71,US,North America
-2020-08-14,campuscovid19testing.shop,campuscovid19testing.shop,,
-2020-08-14,campuscovid19testing.shop,ns1.dnsowl.com,,
-2020-08-14,campuscovid19testing.shop,ns2.dnsowl.com,,
-2020-08-14,campuscovid19testing.shop,ns3.dnsowl.com,,
-2020-08-14,coronavirustestingla.co,104.247.81.14,CA,North America
-2020-08-14,coronavirustestingla.co,coronavirustestingla.co,,
-2020-08-14,covid-19testreport.in,covid-19testreport.in,,
-2020-08-14,covid-19testreport.in,ns45.domaincontrol.com,,
-2020-08-14,covid-19testreport.in,ns46.domaincontrol.com,,
-2020-08-14,covid-crashtest.com,109.234.162.39,FR,Europe
-2020-08-14,covid-crashtest.com,covid-crashtest.com,,
-2020-08-14,covid-crashtest.com,ns1.o2switch.net,,
-2020-08-14,covid-crashtest.com,ns2.o2switch.net,,
-2020-08-14,covidspittesting.events,34.102.136.180,US,North America
-2020-08-14,covidspittesting.events,covidspittesting.events,,
-2020-08-14,covidspittesting.events,ns31.domaincontrol.com,,
-2020-08-14,covidspittesting.events,ns32.domaincontrol.com,,
-2020-08-14,covidspittesting.net,34.102.136.180,US,North America
-2020-08-14,covidspittesting.net,covidspittesting.net,,
-2020-08-14,covidspittesting.net,ns47.domaincontrol.com,,
-2020-08-14,covidspittesting.net,ns48.domaincontrol.com,,
-2020-08-14,covidtesthtx.com,34.102.136.180,US,North America
-2020-08-14,covidtesthtx.com,covidtesthtx.com,,
-2020-08-14,covidtesthtx.com,ns31.domaincontrol.com,,
-2020-08-14,covidtesthtx.com,ns32.domaincontrol.com,,
-2020-08-14,covidtesthyderabad.com,34.102.136.180,US,North America
-2020-08-14,covidtesthyderabad.com,covidtesthyderabad.com,,
-2020-08-14,covidtesthyderabad.com,ns49.domaincontrol.com,,
-2020-08-14,covidtesthyderabad.com,ns50.domaincontrol.com,,
-2020-08-14,covidtest.miami,207.242.104.50,US,North America
-2020-08-14,covidtest.miami,covidtest.miami,,
-2020-08-14,covidtest.miami,ns45.domaincontrol.com,,
-2020-08-14,covidtest.miami,ns46.domaincontrol.com,,
-2020-08-14,covidtestmybusiness.com,34.102.136.180,US,North America
-2020-08-14,covidtestmybusiness.com,covidtestmybusiness.com,,
-2020-08-14,covidtestmybusiness.com,ns51.domaincontrol.com,,
-2020-08-14,covidtestmybusiness.com,ns52.domaincontrol.com,,
-2020-08-14,covidtestsforteachers.com,91.195.240.94,DE,Europe
-2020-08-14,covidtestsforteachers.com,covidtestsforteachers.com,,
-2020-08-14,covidtestsforteachers.com,ns1dhq.name.com,,
-2020-08-14,covidtestsforteachers.com,ns2fln.name.com,,
-2020-08-14,covidtestsforteachers.com,ns3nrz.name.com,,
-2020-08-14,covidtestsforteachers.com,ns4lny.name.com,,
-2020-08-14,covidtestswab.com,192.0.78.142,US,North America
-2020-08-14,covidtestswab.com,192.0.78.241,US,North America
-2020-08-14,covidtestswab.com,covidtestswab.com,,
-2020-08-14,covidtestswab.com,ns1.wordpress.com,,
-2020-08-14,covidtestswab.com,ns2.wordpress.com,,
-2020-08-14,covidtestswab.com,ns3.wordpress.com,,
-2020-08-14,diycoronavirustesting.com,34.102.136.180,US,North America
-2020-08-14,diycoronavirustesting.com,diycoronavirustesting.com,,
-2020-08-14,diycoronavirustesting.com,ns15.domaincontrol.com,,
-2020-08-14,diycoronavirustesting.com,ns16.domaincontrol.com,,
-2020-08-14,filmandcovidtestsolutions.com,filmandcovidtestsolutions.com,,
-2020-08-14,filmandcovidtestsolutions.com,ns11.domaincontrol.com,,
-2020-08-14,filmandcovidtestsolutions.com,ns12.domaincontrol.com,,
-2020-08-14,kit4testingcovid19.com.ba,195.222.33.180,BA,Europe
-2020-08-14,kit4testingcovid19.com.ba,kit4testingcovid19.com.ba,,
-2020-08-14,lacoronavirustests.com.ba,195.222.33.180,BA,Europe
-2020-08-14,lacoronavirustests.com.ba,lacoronavirustests.com.ba,,
-2020-08-14,mococovidtesting.com,271.ns1.above.com,,
-2020-08-14,mococovidtesting.com,271.ns2.above.com,,
-2020-08-14,mococovidtesting.com,mococovidtesting.com,,
-2020-08-14,privatecovidtestingkit.com,34.102.136.180,US,North America
-2020-08-14,privatecovidtestingkit.com,ns49.domaincontrol.com,,
-2020-08-14,privatecovidtestingkit.com,ns50.domaincontrol.com,,
-2020-08-14,privatecovidtestingkit.com,privatecovidtestingkit.com,,
-2020-08-14,rdvtestcovid.rns.tn,hostmaster@ati.tn,,
-2020-08-14,rdvtestcovid.rns.tn,ns4.ati.tn,,
-2020-08-14,rdvtestcovid.rns.tn,ns6.ati.tn,,
-2020-08-14,rdvtestcovid.rns.tn,rdvtestcovid.rns.tn,,
-2020-08-14,rushcovidtest.com,34.102.136.180,US,North America
-2020-08-14,rushcovidtest.com,ns55.domaincontrol.com,,
-2020-08-14,rushcovidtest.com,rushcovidtest.com,,
-2020-08-14,testforcovid19free.com,ns-cloud-d1.googledomains.com,,
-2020-08-14,testforcovid19free.com,ns-cloud-d2.googledomains.com,,
-2020-08-14,testforcovid19free.com,ns-cloud-d3.googledomains.com,,
-2020-08-14,testforcovid19free.com,ns-cloud-d4.googledomains.com,,
-2020-08-14,testforcovid19free.com,testforcovid19free.com,,
-2020-08-14,testingsitecovid19.com,34.102.136.180,US,North America
-2020-08-14,testingsitecovid19.com,ns51.domaincontrol.com,,
-2020-08-14,testingsitecovid19.com,ns52.domaincontrol.com,,
-2020-08-14,testingsitecovid19.com,testingsitecovid19.com,,
-2020-08-14,testnow-covid-19-ag.de,85.214.45.45,DE,Europe
-2020-08-14,testnow-covid19-ag.de,85.214.45.45,DE,Europe
-2020-08-14,testnow-covid-19-ag.de,testnow-covid-19-ag.de,,
-2020-08-14,testnow-covid19-ag.de,testnow-covid19-ag.de,,
-2020-08-14,testnow-covid19-antigen.de,2a01:238:43a0:5900:deb2:8a9a:48cc:a37d,DE,Europe
-2020-08-14,testnow-covid19-antigen.de,85.214.45.45,DE,Europe
-2020-08-14,testnow-covid19-antigen.de,ns3.stratoserver.net,,
-2020-08-14,testnow-covid19-antigen.de,ns4.stratoserver.net,,
-2020-08-14,testnow-covid19-antigen.de,testnow-covid19-antigen.de,,
-2020-08-14,thecovidtestingkit.com,34.102.136.180,US,North America
-2020-08-14,thecovidtestingkit.com,ns73.domaincontrol.com,,
-2020-08-14,thecovidtestingkit.com,ns74.domaincontrol.com,,
-2020-08-14,thecovidtestingkit.com,thecovidtestingkit.com,,
-2020-08-14,ww25.mococovidtesting.com,199.59.242.153,US,North America
-2020-08-14,ww25.mococovidtesting.com,77037.bodis.com,,
-2020-08-14,www.campuscovid19testing.shop,107.161.23.204,US,North America
-2020-08-14,www.campuscovid19testing.shop,168.235.88.209,US,North America
-2020-08-14,www.campuscovid19testing.shop,188.164.131.200,IT,Europe
-2020-08-14,www.campuscovid19testing.shop,192.161.187.200,US,North America
-2020-08-14,www.campuscovid19testing.shop,198.251.81.30,US,North America
-2020-08-14,www.campuscovid19testing.shop,198.251.84.92,US,North America
-2020-08-14,www.campuscovid19testing.shop,204.188.203.155,US,North America
-2020-08-14,www.campuscovid19testing.shop,209.141.38.71,US,North America
-2020-08-14,www.campuscovid19testing.shop,45.58.190.82,US,North America
-2020-08-14,www.campuscovid19testing.shop,64.32.22.102,US,North America
-2020-08-14,www.campuscovid19testing.shop,70.39.125.244,US,North America
-2020-08-14,www.campuscovid19testing.shop,parking.namesilo.com,,
-2020-08-14,www.filmandcovidtestsolutions.com,13.230.50.185,JP,Asia
-2020-08-14,www.filmandcovidtestsolutions.com,54.178.132.37,JP,Asia
-2020-08-14,www.filmandcovidtestsolutions.com,www.yourdomain.com.s.strikinglydns.com,,
 2020-08-15,5secondcovidtest.com,5secondcovidtest.com,,
 2020-08-15,5secondcovidtest.com,ns-cloud-c1.googledomains.com,,
 2020-08-15,5secondcovidtest.com,ns-cloud-c2.googledomains.com,,
@@ -200,9 +80,18 @@
 2020-08-15,fastcovidtestresults.com,fastcovidtestresults.com,,
 2020-08-15,fastcovidtestresults.com,ns1.lev3.com,,
 2020-08-15,fastcovidtestresults.com,ns2.lev3.com,,
+2020-08-15,fivesecondcovidtest.com,fivesecondcovidtest.com,,
+2020-08-15,fivesecondcovidtest.com,ns-cloud-c1.googledomains.com,,
+2020-08-15,fivesecondcovidtest.com,ns-cloud-c2.googledomains.com,,
+2020-08-15,fivesecondcovidtest.com,ns-cloud-c3.googledomains.com,,
+2020-08-15,fivesecondcovidtest.com,ns-cloud-c4.googledomains.com,,
 2020-08-15,free518covidtesting.com,free518covidtesting.com,,
 2020-08-15,iecovid19test1.tk,iecovid19test1.tk,,
+2020-08-15,inhomecoronavirustests.la,173.230.141.80,US,North America
+2020-08-15,inhomecoronavirustests.la,inhomecoronavirustests.la,,
+2020-08-15,inhomecovid-19test.com.ba,195.222.33.180,BA,Europe
 2020-08-15,inhomecovid-19test.com.ba,inhomecovid-19test.com.ba,,
+2020-08-15,inhomecovid-19tests.xn--55qx5d.cn,inhomecovid-19tests.xn--55qx5d.cn,,
 2020-08-15,instantcovid19rapidtest.com.ba,195.222.33.180,BA,Europe
 2020-08-15,instantcovid19rapidtest.com.ba,instantcovid19rapidtest.com.ba,,
 2020-08-15,itestedpositiveforcoronavirus.com.ba,195.222.33.180,BA,Europe
