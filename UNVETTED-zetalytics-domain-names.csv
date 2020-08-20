@@ -2,117 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-18,16covidtest.com,16covidtest.com,,
-2020-08-18,16covidtest.com,184.168.131.241,US,North America
-2020-08-18,aspencovidtest.com,aspencovidtest.com,,
-2020-08-18,coronavirushometest.info,coronavirushometest.info,,
-2020-08-18,coronavirushometest.info,ns73.domaincontrol.com,,
-2020-08-18,coronavirushometest.info,ns74.domaincontrol.com,,
-2020-08-18,covid19rapidtesti.com,covid19rapidtesti.com,,
-2020-08-18,covid19rapidtesti.com,ns11.guzelhosting.com,,
-2020-08-18,covid19rapidtesti.com,ns12.guzelhosting.com,,
-2020-08-18,covid19rapidtesti.com,ns1.guzelhosting.com,,
-2020-08-18,covid19rapidtesti.com,ns2.guzelhosting.com,,
-2020-08-18,covid19rapidtesti.com,OnY9c3BmMSArYSArbXggK2lwNDo4OS4yNTIuMTg3LjE1MSAraXA0Ojg5LjI1Mi4xODcuMTkzIH5hbGw=,,
-2020-08-18,covid19rapidtesti.com,:v=spf1 +a +mx +ip4:89.252.187.151 +ip4:89.252.187.193 ~all,,
-2020-08-18,covid19salivadirecttest.ca,covid19salivadirecttest.ca,,
-2020-08-18,covidcuredrug.com,covidcuredrug.com,,
-2020-08-18,covidcuredrug.com,ns59.domaincontrol.com,,
-2020-08-18,covidcuredrug.com,ns60.domaincontrol.com,,
-2020-08-18,covidcure.health,34.102.136.180,US,North America
-2020-08-18,covidcure.health,covidcure.health,,
-2020-08-18,covidtestconcierge.com,208.91.112.55,CA,North America
-2020-08-18,covidtestfastresult.com,ns13.domaincontrol.com,,
-2020-08-18,covidtestfastresult.com,ns14.domaincontrol.com,,
-2020-08-18,covidtestforme.com,198.199.88.47,US,North America
-2020-08-18,covidtestforme.com,covidtestforme.com,,
-2020-08-18,covidtestmiamifl.com,covidtestmiamifl.com,,
-2020-08-18,covidtestmiamifl.com,ns17.domaincontrol.com,,
-2020-08-18,covidtestmiamifl.com,ns18.domaincontrol.com,,
-2020-08-18,covid-test-solution.info,covid-test-solution.info,,
-2020-08-18,covidtesttampafl.com,34.102.136.180,US,North America
-2020-08-18,covidtesttampafl.com,covidtesttampafl.com,,
-2020-08-18,covidtesttampafl.com,ns27.domaincontrol.com,,
-2020-08-18,covidtesttampafl.com,ns28.domaincontrol.com,,
-2020-08-18,covid-test.vg,covid-test.vg,,
-2020-08-18,dineedacovid19test.co,198.58.118.167,US,North America
-2020-08-18,dineedacovid19test.co,45.33.23.183,US,North America
-2020-08-18,dineedacovid19test.co,45.33.2.79,US,North America
-2020-08-18,dineedacovid19test.co,45.56.79.23,US,North America
-2020-08-18,dineedacovid19test.co,45.79.19.196,US,North America
-2020-08-18,dineedacovid19test.co,96.126.123.244,US,North America
-2020-08-18,dineedacovid19test.co,dineedacovid19test.co,,
-2020-08-18,ebc-covidtesting.com,34.102.136.180,US,North America
-2020-08-18,ebc-covidtesting.com,ebc-covidtesting.com,,
-2020-08-18,getacoronavirustest.com.ba,195.222.33.180,BA,Europe
-2020-08-18,getacoronavirustest.com.ba,getacoronavirustest.com.ba,,
-2020-08-18,getacoronavirustest.la,getacoronavirustest.la,,
-2020-08-18,getcoronavirustested.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-08-18,getcoronavirustested.xn--od0alg.cn,getcoronavirustested.xn--od0alg.cn,,
-2020-08-18,getcoronavirustestkit.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-08-18,getcoronavirustestkit.xn--fiqs8s,getcoronavirustestkit.xn--fiqs8s,,
-2020-08-18,getcovid19tested.xn--55qx5d.cn,getcovid19tested.xn--55qx5d.cn,,
-2020-08-18,getcovid-19tested.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-08-18,getcovid-19tested.xn--io0a7i.cn,getcovid-19tested.xn--io0a7i.cn,,
-2020-08-18,getcovid19testingathome.la,173.230.141.80,US,North America
-2020-08-18,getcovid19testingathome.la,getcovid19testingathome.la,,
-2020-08-18,getcovid-19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-18,getcovid-19testing.com.ba,getcovid-19testing.com.ba,,
-2020-08-18,getcovid19testing.la,getcovid19testing.la,,
-2020-08-18,getcovid19testkit.com.ba,195.222.33.180,BA,Europe
-2020-08-18,getcovid19testkit.com.ba,getcovid19testkit.com.ba,,
-2020-08-18,get-covid-19-test.la,173.230.141.80,US,North America
-2020-08-18,get-covid-19-test.la,get-covid-19-test.la,,
-2020-08-18,getcovid19tests.la,getcovid19tests.la,,
-2020-08-18,getquicktestcovid19.com.ba,195.222.33.180,BA,Europe
-2020-08-18,getquicktestcovid19.com.ba,getquicktestcovid19.com.ba,,
-2020-08-18,gettestedcovid19.com.ba,195.222.33.180,BA,Europe
-2020-08-18,gettestedcovid19.com.ba,gettestedcovid19.com.ba,,
-2020-08-18,gettestedforcovid-19.la,173.230.141.80,US,North America
-2020-08-18,gettestedforcovid19.la,173.230.141.80,US,North America
-2020-08-18,gettestedforcovid-19.la,gettestedforcovid-19.la,,
-2020-08-18,gettestedforcovid19.la,gettestedforcovid19.la,,
-2020-08-18,global-corona-virus-test.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-08-18,global-corona-virus-test.xn--od0alg.cn,global-corona-virus-test.xn--od0alg.cn,,
-2020-08-18,novelcoronavirustestkit.fm,novelcoronavirustestkit.fm,,
-2020-08-18,springercovid19test.ph,45.79.222.138,US,North America
-2020-08-18,springercovid19test.ph,springercovid19test.ph,,
-2020-08-18,suny-covid-test.com,13.32.182.35,US,North America
-2020-08-18,suny-covid-test.com,13.32.182.67,US,North America
-2020-08-18,suny-covid-test.com,13.32.182.7,US,North America
-2020-08-18,suny-covid-test.com,13.32.182.88,US,North America
-2020-08-18,suny-covid-test.com,suny-covid-test.com,,
-2020-08-18,swiss-covid-test.ch,dns10.ovh.net,,
-2020-08-18,swiss-covid-test.ch,mx1.mail.ovh.net,,
-2020-08-18,swiss-covid-test.ch,mx2.mail.ovh.net,,
-2020-08-18,swiss-covid-test.ch,mx3.mail.ovh.net,,
-2020-08-18,swiss-covid-test.ch,ns10.ovh.net,,
-2020-08-18,swiss-covid-test.ch,swiss-covid-test.ch,,
-2020-08-18,testcovidnearme.com,34.102.136.180,US,North America
-2020-08-18,testcovidnearme.com,testcovidnearme.com,,
-2020-08-18,testerapidocovidgoiania.com.br,162.241.203.26,US,North America
-2020-08-18,testerapidocovidgoiania.com.br,testerapidocovidgoiania.com.br,,
-2020-08-18,testerapidocovidpalmas.com.br,162.241.203.26,US,North America
-2020-08-18,testerapidocovidpalmas.com.br,d.sec.dns.br,,
-2020-08-18,testerapidocovidpalmas.com.br,e.sec.dns.br,,
-2020-08-18,testerapidocovidpalmas.com.br,testerapidocovidpalmas.com.br,,
-2020-08-18,wehaveinstantcovidtests.com,162.255.119.79,US,North America
-2020-08-18,wehaveinstantcovidtests.com,wehaveinstantcovidtests.com,,
-2020-08-18,wwcovidtest.ph,45.79.222.138,US,North America
-2020-08-18,wwcovidtest.ph,wwcovidtest.ph,,
-2020-08-18,www.getcovid19testing.la,173.230.141.80,US,North America
-2020-08-18,www.get-covid-19-test.la,173.230.141.80,US,North America
-2020-08-18,www.gettestedforcovid-19.la,173.230.141.80,US,North America
-2020-08-18,www.gettestedforcovid19.la,173.230.141.80,US,North America
-2020-08-18,www.suny-covid-test.com,13.226.139.128,US,North America
-2020-08-18,www.suny-covid-test.com,13.226.139.13,US,North America
-2020-08-18,www.suny-covid-test.com,13.226.139.4,US,North America
-2020-08-18,www.suny-covid-test.com,13.226.139.86,US,North America
-2020-08-18,www.suny-covid-test.com,d2una3vtdtau1z.cloudfront.net,,
-2020-08-18,www.testerapidocovidgoiania.com.br,162.241.203.26,US,North America
-2020-08-18,www.testerapidocovidgoiania.com.br,testerapidocovidgoiania.com.br,,
-2020-08-18,www.testerapidocovidpalmas.com.br,162.241.203.26,US,North America
-2020-08-18,www.testerapidocovidpalmas.com.br,testerapidocovidpalmas.com.br,,
 2020-08-19,antigencovidtesting.com,34.102.136.180,US,North America
 2020-08-19,antigencovidtesting.com,antigencovidtesting.com,,
 2020-08-19,athomecovidtestcenter.com,192.185.0.218,US,North America
@@ -145,6 +34,8 @@
 2020-08-19,cdphcovidtesting.org,45.79.19.196,US,North America
 2020-08-19,cdphcovidtesting.org,96.126.123.244,US,North America
 2020-08-19,cdphcovidtesting.org,cdphcovidtesting.org,,
+2020-08-19,coronacovid19test.ws,coronacovid19test.ws,,
+2020-08-19,coronacovid19test.ws,mail.hope-mail.com,,
 2020-08-19,coronavirustesting.app,coronavirustesting.app,,
 2020-08-19,covid19employertest.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
 2020-08-19,covid19employertest.fm,covid19employertest.fm,,
@@ -163,6 +54,8 @@
 2020-08-19,covid19testinglv.com,216.239.38.21,US,North America
 2020-08-19,covid19testinglv.com,covid19testinglv.com,,
 2020-08-19,covid19testkit.gov.jo,covid19testkit.gov.jo,,
+2020-08-19,covid19testsnationwide.fm,covid19testsnationwide.fm,,
+2020-08-19,covid19testsnationwide.fm,mail.h-email.net,,
 2020-08-19,covidrapidtest.shop,184.168.131.241,US,North America
 2020-08-19,covidrapidtest.shop,covidrapidtest.shop,,
 2020-08-19,covidrapidtestusa.com,34.102.136.180,US,North America
