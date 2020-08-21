@@ -2,122 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-19,antigencovidtesting.com,34.102.136.180,US,North America
-2020-08-19,antigencovidtesting.com,antigencovidtesting.com,,
-2020-08-19,athomecovidtestcenter.com,192.185.0.218,US,North America
-2020-08-19,athomecovidtestcenter.com,athomecovidtestcenter.com,,
-2020-08-19,becomeacovidtestingsite.space,217.70.184.38,FR,Europe
-2020-08-19,becomeacovidtestingsite.space,becomeacovidtestingsite.space,,
-2020-08-19,becomeacovidtestingsite.space,fb.mail.gandi.net,,
-2020-08-19,becomeacovidtestingsite.space,J3Y9c3BmMSBpbmNsdWRlOl9tYWlsY3VzdC5nYW5kaS5uZXQgP2FsbA==,,
-2020-08-19,becomeacovidtestingsite.space,ns-147-b.gandi.net,,
-2020-08-19,becomeacovidtestingsite.space,ns-181-a.gandi.net,,
-2020-08-19,becomeacovidtestingsite.space,ns-199-c.gandi.net,,
-2020-08-19,becomeacovidtestingsite.space,spool.mail.gandi.net,,
-2020-08-19,becomeacovidtestingsite.space,'v=spf1 include:_mailcust.gandi.net ?all,,
-2020-08-19,carolinacovidtesting.com,carolinacovidtesting.com,,
-2020-08-19,cchcicovidtesting.com,198.58.118.167,US,North America
-2020-08-19,cchcicovidtesting.com,45.33.23.183,US,North America
-2020-08-19,cchcicovidtesting.com,45.33.2.79,US,North America
-2020-08-19,cchcicovidtesting.com,45.56.79.23,US,North America
-2020-08-19,cchcicovidtesting.com,45.79.19.196,US,North America
-2020-08-19,cchcicovidtesting.com,96.126.123.244,US,North America
-2020-08-19,cchcicovidtesting.com,cchcicovidtesting.com,,
-2020-08-19,cdphcovidtesting19.org,198.58.118.167,US,North America
-2020-08-19,cdphcovidtesting19.org,45.33.23.183,US,North America
-2020-08-19,cdphcovidtesting19.org,45.33.2.79,US,North America
-2020-08-19,cdphcovidtesting19.org,45.56.79.23,US,North America
-2020-08-19,cdphcovidtesting19.org,45.79.19.196,US,North America
-2020-08-19,cdphcovidtesting19.org,96.126.123.244,US,North America
-2020-08-19,cdphcovidtesting19.org,cdphcovidtesting19.org,,
-2020-08-19,cdphcovidtesting19.org,ns1.mytrafficmanagement.com,,
-2020-08-19,cdphcovidtesting19.org,ns2.mytrafficmanagement.com,,
-2020-08-19,cdphcovidtesting.org,198.58.118.167,US,North America
-2020-08-19,cdphcovidtesting.org,45.33.23.183,US,North America
-2020-08-19,cdphcovidtesting.org,45.33.2.79,US,North America
-2020-08-19,cdphcovidtesting.org,45.56.79.23,US,North America
-2020-08-19,cdphcovidtesting.org,45.79.19.196,US,North America
-2020-08-19,cdphcovidtesting.org,96.126.123.244,US,North America
-2020-08-19,cdphcovidtesting.org,cdphcovidtesting.org,,
-2020-08-19,cdphcovidtesting.org,ns1.mytrafficmanagement.com,,
-2020-08-19,cdphcovidtesting.org,ns2.mytrafficmanagement.com,,
-2020-08-19,coronacovid19test.ws,coronacovid19test.ws,,
-2020-08-19,coronacovid19test.ws,mail.hope-mail.com,,
-2020-08-19,coronavirustesting.app,coronavirustesting.app,,
-2020-08-19,covid19employertest.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
-2020-08-19,covid19employertest.fm,covid19employertest.fm,,
-2020-08-19,covid19employertest.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-08-19,covid19employertest.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-08-19,covid19employertest.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-08-19,covid19etestsolutions.com,23.236.62.147,US,North America
-2020-08-19,covid19etestsolutions.com,covid19etestsolutions.com,,
-2020-08-19,covid19testinglv.com,2001:4860:4802:32::15,US,North America
-2020-08-19,covid19testinglv.com,2001:4860:4802:34::15,US,North America
-2020-08-19,covid19testinglv.com,2001:4860:4802:36::15,US,North America
-2020-08-19,covid19testinglv.com,2001:4860:4802:38::15,US,North America
-2020-08-19,covid19testinglv.com,216.239.32.21,US,North America
-2020-08-19,covid19testinglv.com,216.239.34.21,US,North America
-2020-08-19,covid19testinglv.com,216.239.36.21,US,North America
-2020-08-19,covid19testinglv.com,216.239.38.21,US,North America
-2020-08-19,covid19testinglv.com,covid19testinglv.com,,
-2020-08-19,covid19testinglv.com,ns-cloud-b1.googledomains.com,,
-2020-08-19,covid19testinglv.com,ns-cloud-b2.googledomains.com,,
-2020-08-19,covid19testinglv.com,ns-cloud-b3.googledomains.com,,
-2020-08-19,covid19testinglv.com,ns-cloud-b4.googledomains.com,,
-2020-08-19,covid19testkit.gov.jo,covid19testkit.gov.jo,,
-2020-08-19,covid19testsnationwide.fm,covid19testsnationwide.fm,,
-2020-08-19,covid19testsnationwide.fm,mail.h-email.net,,
-2020-08-19,covidrapidtest.shop,184.168.131.241,US,North America
-2020-08-19,covidrapidtest.shop,covidrapidtest.shop,,
-2020-08-19,covidrapidtestusa.com,34.102.136.180,US,North America
-2020-08-19,covidrapidtestusa.com,covidrapidtestusa.com,,
-2020-08-19,covidtestathome.hu,88.151.96.8,HU,Europe
-2020-08-19,covidtestathome.hu,covidtestathome.hu,,
-2020-08-19,covidtestingbooth.com,covidtestingbooth.com,,
-2020-08-19,covidtestingsystems.com,203.170.80.250,AU,Oceania
-2020-08-19,covidtestingsystems.com,covidtestingsystems.com,,
-2020-08-19,covidtestingsystems.com,ns1.crazydomains.com,,
-2020-08-19,covidtestingsystems.com,ns2.crazydomains.com,,
-2020-08-19,covidtesti.org,44.227.76.166,US,North America
-2020-08-19,covidtesti.org,covidtesti.org,,
-2020-08-19,covidtesti.org,curitiba.porkbun.com,,
-2020-08-19,covidtesti.org,DnY9c3BmMSBteCB+YWxs,,
-2020-08-19,covidtesti.org,fortaleza.porkbun.com,,
-2020-08-19,covidtesti.org,maceio.porkbun.com,,
-2020-08-19,covidtesti.org,salvador.porkbun.com,,
-2020-08-19,covidtesti.org,v=spf1 mx ~all,,
-2020-08-19,covidtestoahu.com,34.102.136.180,US,North America
-2020-08-19,covidtestoahu.com,covidtestoahu.com,,
-2020-08-19,easyhomecovidtest.com,34.102.136.180,US,North America
-2020-08-19,easyhomecovidtest.com,easyhomecovidtest.com,,
-2020-08-19,easytestcovid19hk.com,34.102.136.180,US,North America
-2020-08-19,easytestcovid19hk.com,easytestcovid19hk.com,,
-2020-08-19,freecoronavirustests.la,173.230.141.80,US,North America
-2020-08-19,freecoronavirustests.la,freecoronavirustests.la,,
-2020-08-19,freecovid19testing.com.ba,195.222.33.180,BA,Europe
-2020-08-19,freecovid19testing.com.ba,freecovid19testing.com.ba,,
-2020-08-19,freecovid19testing.xn--od0alg.cn,freecovid19testing.xn--od0alg.cn,,
-2020-08-19,freecovid-19testkits.com.ba,195.222.33.180,BA,Europe
-2020-08-19,freecovid-19testkits.com.ba,freecovid-19testkits.com.ba,,
-2020-08-19,freecovid19test.xn--fiqs8s,freecovid19test.xn--fiqs8s,,
-2020-08-19,gardenacovidtesting.com.ba,195.222.33.180,BA,Europe
-2020-08-19,gardenacovidtesting.com.ba,gardenacovidtesting.com.ba,,
-2020-08-19,globalcoronaviruscure.ph,45.79.222.138,US,North America
-2020-08-19,globalcoronaviruscure.ph,globalcoronaviruscure.ph,,
-2020-08-19,irvinerapidcovidtest.com,irvinerapidcovidtest.com,,
-2020-08-19,mobiletestingcovid.org,mobiletestingcovid.org,,
-2020-08-19,notavalid.covidtestingbooth.com,sbsfe-p8.geo.mf0.yahoodns.net,,
-2020-08-19,rapidcovidtest.live,ns45.domaincontrol.com,,
-2020-08-19,rapidcovidtest.live,ns46.domaincontrol.com,,
-2020-08-19,rapidcovidtest.live,rapidcovidtest.live,,
-2020-08-19,southwellnesscovidtest.co,198.58.118.167,US,North America
-2020-08-19,southwellnesscovidtest.co,45.33.23.183,US,North America
-2020-08-19,southwellnesscovidtest.co,45.33.2.79,US,North America
-2020-08-19,southwellnesscovidtest.co,45.56.79.23,US,North America
-2020-08-19,southwellnesscovidtest.co,45.79.19.196,US,North America
-2020-08-19,southwellnesscovidtest.co,96.126.123.244,US,North America
-2020-08-19,southwellnesscovidtest.co,southwellnesscovidtest.co,,
-2020-08-19,www.covid19testkit.gov.jo,193.188.66.238,JO,Asia
 2020-08-20,asuprepcovid19test.site,52.42.74.211,US,North America
 2020-08-20,asuprepcovid19test.site,asuprepcovid19test.site,,
 2020-08-20,bayareacovid19testing.com.ph,bayareacovid19testing.com.ph,,
@@ -136,6 +20,7 @@
 2020-08-20,cpcalendars.covidtestinginstitute.com,198.57.149.106,US,North America
 2020-08-20,cureforcovid19.tech,66.96.162.134,US,North America
 2020-08-20,cureforcovid19.tech,cureforcovid19.tech,,
+2020-08-20,cureforcovid19.tech,HnY9c3BmMSBpcDQ6NjYuOTYuMTI4LjAvMTggP2FsbA==,,
 2020-08-20,cureforcovid2020.com,34.102.136.180,US,North America
 2020-08-20,cureforcovid2020.com,cureforcovid2020.com,,
 2020-08-20,drivethrucovidtest.eu,drivethrucovidtest.eu,,
@@ -146,6 +31,7 @@
 2020-08-20,fdarapidcovidtesting.com,ns01.cashparking.com,,
 2020-08-20,fdarapidcovidtesting.com,ns02.cashparking.com,,
 2020-08-20,flcoronavirustest.xn--fiqz9s,flcoronavirustest.xn--fiqz9s,,
+2020-08-20,flcovid19test.la,flcovid19test.la,,
 2020-08-20,flcovid19test.xn--od0alg.cn,218.241.116.40,CN,Asia
 2020-08-20,flcovid19test.xn--od0alg.cn,flcovid19test.xn--od0alg.cn,,
 2020-08-20,forcoronavirustesting.com.ba,195.222.33.180,BA,Europe
@@ -154,6 +40,8 @@
 2020-08-20,grandstrandcovidtesting.com,grandstrandcovidtesting.com,,
 2020-08-20,instantcovidtest.net,34.102.136.180,US,North America
 2020-08-20,instantcovidtest.net,instantcovidtest.net,,
+2020-08-20,instantcovidtest.net,ns09.domaincontrol.com,,
+2020-08-20,instantcovidtest.net,ns10.domaincontrol.com,,
 2020-08-20,needcovidtesting.com,needcovidtesting.com,,
 2020-08-20,onlinetestcovid19.co,onlinetestcovid19.co,,
 2020-08-20,t2covidtesting.com,34.102.136.180,US,North America
