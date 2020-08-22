@@ -2,67 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-20,asuprepcovid19test.site,52.42.74.211,US,North America
-2020-08-20,asuprepcovid19test.site,asuprepcovid19test.site,,
-2020-08-20,bayareacovid19testing.com.ph,45.79.222.138,US,North America
-2020-08-20,bayareacovid19testing.com.ph,bayareacovid19testing.com.ph,,
-2020-08-20,bayareacovid19testing.fm,198.74.54.240,US,North America
-2020-08-20,bayareacovid19testing.fm,bayareacovid19testing.fm,,
-2020-08-20,chloroquine-test.org.ph,chloroquine-test.org.ph,,
-2020-08-20,coronavirussalivahometestkit.com,coronavirussalivahometestkit.com,,
-2020-08-20,covid19-15mintest.com,34.102.136.180,US,North America
-2020-08-20,covid19-15mintest.com,covid19-15mintest.com,,
-2020-08-20,covid-19testingmesa.com,52.44.94.227,US,North America
-2020-08-20,covid-19testingmesa.com,covid-19testingmesa.com,,
-2020-08-20,covidtestcharleston.com,covidtestcharleston.com,,
-2020-08-20,covidtestinginstitute.com,covidtestinginstitute.com,,
-2020-08-20,covidtestinginstitute.com,ns6099.hostgator.com,,
-2020-08-20,covidtestinginstitute.com,ns6100.hostgator.com,,
-2020-08-20,covidtestinginstitute.covidtestinginstitute.com,198.57.149.106,US,North America
-2020-08-20,covid-test-research.co.uk,covid-test-research.co.uk,,
-2020-08-20,cpcalendars.covidtestinginstitute.com,198.57.149.106,US,North America
-2020-08-20,cureforcovid19.tech,66.96.162.134,US,North America
-2020-08-20,cureforcovid19.tech,cureforcovid19.tech,,
-2020-08-20,cureforcovid19.tech,HnY9c3BmMSBpcDQ6NjYuOTYuMTI4LjAvMTggP2FsbA==,,
-2020-08-20,cureforcovid19.tech,ns1.domain.com,,
-2020-08-20,cureforcovid19.tech,ns2.domain.com,,
-2020-08-20,cureforcovid19.tech,v=spf1 ip4:66.96.128.0/18 ?all,,
-2020-08-20,cureforcovid2020.com,34.102.136.180,US,North America
-2020-08-20,cureforcovid2020.com,cureforcovid2020.com,,
-2020-08-20,drivethrucovidtest.eu,drivethrucovidtest.eu,,
-2020-08-20,fdarapidcovidtest.com,fdarapidcovidtest.com,,
-2020-08-20,fdarapidcovidtest.com,ns01.cashparking.com,,
-2020-08-20,fdarapidcovidtest.com,ns02.cashparking.com,,
-2020-08-20,fdarapidcovidtesting.com,fdarapidcovidtesting.com,,
-2020-08-20,fdarapidcovidtesting.com,ns01.cashparking.com,,
-2020-08-20,fdarapidcovidtesting.com,ns02.cashparking.com,,
-2020-08-20,findcoronavirustests.com.ba,195.222.33.180,BA,Europe
-2020-08-20,findcoronavirustests.com.ba,findcoronavirustests.com.ba,,
-2020-08-20,flcoronavirustest.xn--fiqz9s,flcoronavirustest.xn--fiqz9s,,
-2020-08-20,flcovid19test.la,flcovid19test.la,,
-2020-08-20,flcovid19test.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-08-20,flcovid19test.xn--od0alg.cn,flcovid19test.xn--od0alg.cn,,
-2020-08-20,forcoronavirustesting.com.ba,195.222.33.180,BA,Europe
-2020-08-20,forcoronavirustesting.com.ba,forcoronavirustesting.com.ba,,
-2020-08-20,grandstrandcovidtesting.com,107.180.2.153,US,North America
-2020-08-20,grandstrandcovidtesting.com,grandstrandcovidtesting.com,,
-2020-08-20,instantcovidtest.net,34.102.136.180,US,North America
-2020-08-20,instantcovidtest.net,instantcovidtest.net,,
-2020-08-20,instantcovidtest.net,ns09.domaincontrol.com,,
-2020-08-20,instantcovidtest.net,ns10.domaincontrol.com,,
-2020-08-20,needcovidtesting.com,needcovidtesting.com,,
-2020-08-20,onlinetestcovid19.co,onlinetestcovid19.co,,
-2020-08-20,t2covidtesting.com,34.102.136.180,US,North America
-2020-08-20,t2covidtesting.com,t2covidtesting.com,,
-2020-08-20,testcovid19latino.fm,198.74.54.240,US,North America
-2020-08-20,testcovid19latino.fm,mail.h-email.net,,
-2020-08-20,testcovid19latino.fm,testcovid19latino.fm,,
-2020-08-20,testercovid19.com,I3Y9c3BmMSBpcDY6ZmQxYjoyMTJjOmE1Zjk6Oi80OCAtYWxs,,
-2020-08-20,testercovid19.com,testercovid19.com,,
-2020-08-20,testercovid19.com,#v=spf1 ip6:fd1b:212c:a5f9::/48 -all,,
-2020-08-20,webdisk.covidtestinginstitute.com,198.57.149.106,US,North America
-2020-08-20,www.covid19-15mintest.com,34.102.136.180,US,North America
-2020-08-20,www.covid19-15mintest.com,covid19-15mintest.com,,
 2020-08-21,californiarapidcovidtestin.com,californiarapidcovidtestin.com,,
 2020-08-21,californiarapidcovidtestin.com,ns-cloud-b1.googledomains.com,,
 2020-08-21,californiarapidcovidtestin.com,ns-cloud-b2.googledomains.com,,
@@ -80,8 +19,12 @@
 2020-08-21,covidtestkis.com,covidtestkis.com,,
 2020-08-21,covidtestpack.co,184.168.131.241,US,North America
 2020-08-21,covidtestpack.co,covidtestpack.co,,
+2020-08-21,covidtests.la,217.70.184.38,FR,Europe
+2020-08-21,covidtests.la,covidtests.la,,
 2020-08-21,cureforcovid19.net,66.96.162.134,US,North America
 2020-08-21,cureforcovid19.net,cureforcovid19.net,,
+2020-08-21,express-test-covid19.la,express-test-covid19.la,,
+2020-08-21,express-test-covid19.xn--io0a7i.cn,express-test-covid19.xn--io0a7i.cn,,
 2020-08-21,ez2getcovid19test.com.ba,195.222.33.180,BA,Europe
 2020-08-21,ez2getcovid19test.com.ba,ez2getcovid19test.com.ba,,
 2020-08-21,fastcovid-19hometest.com.ba,195.222.33.180,BA,Europe
