@@ -3,6 +3,8 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-08-22,anticovid19rapidtest.com,anticovid19rapidtest.com,,
+2020-08-22,anticovid19rapidtest.com,ns1.switchplus.ch,,
+2020-08-22,anticovid19rapidtest.com,ns2.switchplus.ch,,
 2020-08-22,bahamascovidtest.com,bahamascovidtest.com,,
 2020-08-22,covid19andtests.com,203.245.44.86,KR,Asia
 2020-08-22,covid19andtests.com,covid19andtests.com,,
