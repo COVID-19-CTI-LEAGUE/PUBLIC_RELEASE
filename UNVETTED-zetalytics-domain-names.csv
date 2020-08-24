@@ -3,6 +3,8 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-08-23,2mincovidtest.com,2mincovidtest.com,,
+2020-08-23,aberdeencovid19testing.com,184.168.131.241,US,North America
+2020-08-23,aberdeencovid19testing.com,aberdeencovid19testing.com,,
 2020-08-23,buymycovidtest.com,buymycovidtest.com,,
 2020-08-23,clecovidtests.com,clecovidtests.com,,
 2020-08-23,clecovidtests.com,ns-cloud-c1.googledomains.com,,
