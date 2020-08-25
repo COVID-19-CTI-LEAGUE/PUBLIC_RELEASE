@@ -3,6 +3,7 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-08-24,coronavirusbreathalyzertest.com,coronavirusbreathalyzertest.com,,
+2020-08-24,covid19etest.com,23.236.62.147,US,North America
 2020-08-24,covid19etest.com,covid19etest.com,,
 2020-08-24,covid-smell-test.com,34.102.136.180,US,North America
 2020-08-24,covid-smell-test.com,covid-smell-test.com,,
