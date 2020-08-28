@@ -2,54 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-26,covid-19-instant-test.info,covid-19-instant-test.info,,
-2020-08-26,covid-19-instant-test.info,mx00.ionos.com,,
-2020-08-26,covid-19-instant-test.info,mx01.ionos.com,,
-2020-08-26,covid-19-instant-test.info,ns1044.ui-dns.com,,
-2020-08-26,covid-19-instant-test.info,ns1073.ui-dns.biz,,
-2020-08-26,covid-19-instant-test.info,ns1074.ui-dns.de,,
-2020-08-26,covid-19-instant-test.info,ns1110.ui-dns.org,,
-2020-08-26,covid-19-instant-test.org,2607:f1c0:100f:f000::2b4,US,North America
-2020-08-26,covid-19-instant-test.org,74.208.236.127,US,North America
-2020-08-26,covid-19-instant-test.org,covid-19-instant-test.org,,
-2020-08-26,covid-19-quick-test.com,covid-19-quick-test.com,,
-2020-08-26,covid-19salivahometestkit.com,covid-19salivahometestkit.com,,
-2020-08-26,covid19teststrip.ph,45.79.222.138,US,North America
-2020-08-26,covid19teststrip.ph,covid19teststrip.ph,,
-2020-08-26,covid-instant-test.info,covid-instant-test.info,,
-2020-08-26,covid-instant-test.info,mx00.ionos.com,,
-2020-08-26,covid-instant-test.info,mx01.ionos.com,,
-2020-08-26,covid-instant-test.info,ns1044.ui-dns.com,,
-2020-08-26,covid-instant-test.info,ns1073.ui-dns.biz,,
-2020-08-26,covid-instant-test.info,ns1074.ui-dns.de,,
-2020-08-26,covid-instant-test.info,ns1110.ui-dns.org,,
-2020-08-26,covid-instant-test.org,ns1044.ui-dns.com,,
-2020-08-26,covid-instant-test.org,ns1073.ui-dns.biz,,
-2020-08-26,covid-instant-test.org,ns1074.ui-dns.de,,
-2020-08-26,covid-instant-test.org,ns1110.ui-dns.org,,
-2020-08-26,covidsecured.se,ns01.one.com,,
-2020-08-26,covidsecured.se,ns02.one.com,,
-2020-08-26,covidtestinformation.com,34.102.136.180,US,North America
-2020-08-26,covidtestinformation.com,covidtestinformation.com,,
-2020-08-26,covidtestinformation.com,ns13.domaincontrol.com,,
-2020-08-26,covidtestinformation.com,ns14.domaincontrol.com,,
-2020-08-26,covidtestingasia.com,covidtestingasia.com,,
-2020-08-26,covidtestpunten.com,covidtestpunten.com,,
-2020-08-26,diycovid19cure.com.ba,diycovid19cure.com.ba,,
-2020-08-26,doineedacovid-19test.com.ba,doineedacovid-19test.com.ba,,
-2020-08-26,doineedacovid19testing.com.ba,doineedacovid19testing.com.ba,,
-2020-08-26,doineedscovid19test.com.ba,doineedscovid19test.com.ba,,
-2020-08-26,doineedtogetacovid19test.xn--io0a7i.cn,doineedtogetacovid19test.xn--io0a7i.cn,,
-2020-08-26,doineeedacovid19test.com.ba,195.222.33.180,BA,Europe
-2020-08-26,doineeedacovid19test.com.ba,doineeedacovid19test.com.ba,,
-2020-08-26,doineefacovid19test.com.ba,doineefacovid19test.com.ba,,
-2020-08-26,doneedacovid19test.com.ba,195.222.33.180,BA,Europe
-2020-08-26,doneedacovid19test.com.ba,doneedacovid19test.com.ba,,
-2020-08-26,testcovidvoyages.net,testcovidvoyages.net,,
-2020-08-26,test-for-coronavirus.gov.ge,test-for-coronavirus.gov.ge,,
-2020-08-26,test-kit-coronavirus.com.ph,test-kit-coronavirus.com.ph,,
-2020-08-26,test-na-covid.ru,178.132.201.54,RU,Europe
-2020-08-26,test-na-covid.ru,test-na-covid.ru,,
 2020-08-27,2minutecovidtest.com,2minutecovidtest.com,,
 2020-08-27,covid-19-instant-test.com,2607:f1c0:100f:f000::2b4,US,North America
 2020-08-27,covid-19-instant-test.com,covid-19-instant-test.com,,
