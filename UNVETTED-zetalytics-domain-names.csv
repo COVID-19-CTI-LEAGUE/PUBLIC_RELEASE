@@ -2,33 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-27,2minutecovidtest.com,2minutecovidtest.com,,
-2020-08-27,covid-19-instant-test.com,2607:f1c0:100f:f000::2b4,US,North America
-2020-08-27,covid-19-instant-test.com,covid-19-instant-test.com,,
-2020-08-27,covid-19-instant-test.com,mx00.ionos.com,,
-2020-08-27,covid-19-instant-test.com,mx01.ionos.com,,
-2020-08-27,covidtest.cm,covidtest.cm,,
-2020-08-27,covidtestingcalgary.com,covidtestingcalgary.com,,
-2020-08-27,covidtestingcalgary.com,ns-cloud-a1.googledomains.com,,
-2020-08-27,covidtestingcalgary.com,ns-cloud-a2.googledomains.com,,
-2020-08-27,covidtestingcalgary.com,ns-cloud-a3.googledomains.com,,
-2020-08-27,covidtestingcalgary.com,ns-cloud-a4.googledomains.com,,
-2020-08-27,covidtestingchicago.com,50.87.253.212,US,North America
-2020-08-27,covidtestingchicago.com,covidtestingchicago.com,,
-2020-08-27,covidtestingchicago.com,ns1.bluehost.com,,
-2020-08-27,covidtestingchicago.com,ns2.bluehost.com,,
-2020-08-27,covidtestrychle.sk,covidtestrychle.sk,,
-2020-08-27,denvercoronavirustest.xn--io0a7i.cn,218.241.116.40,CN,Asia
-2020-08-27,denvercoronavirustest.xn--io0a7i.cn,denvercoronavirustest.xn--io0a7i.cn,,
-2020-08-27,device2curecovid19.xn--fiqz9s,device2curecovid19.xn--fiqz9s,,
-2020-08-27,get-testedcovid19.org,get-testedcovid19.org,,
-2020-08-27,statecovid19testing.ws,statecovid19testing.ws,,
-2020-08-27,testnacovid19.sk,testnacovid19.sk,,
-2020-08-27,test-na-covid.online,5.101.152.161,RU,Europe
-2020-08-27,test-na-covid.online,test-na-covid.online,,
-2020-08-27,testynacovid.sk,testynacovid.sk,,
-2020-08-27,www.get-testedcovid19.org,23.202.231.167,US,North America
-2020-08-27,www.get-testedcovid19.org,23.217.138.108,US,North America
 2020-08-28,1hrcovidtest.com,1hrcovidtest.com,,
 2020-08-28,305covidtest.com,305covidtest.com,,
 2020-08-28,becomeaacovidtestingsite.com,198.58.118.167,US,North America
@@ -41,6 +14,7 @@
 2020-08-28,biohitcovidtest.com,biohitcovidtest.com,,
 2020-08-28,clarenceallencovid19testkits.ph,45.79.222.138,US,North America
 2020-08-28,clarenceallencovid19testkits.ph,clarenceallencovid19testkits.ph,,
+2020-08-28,covid19coronatests.com,34.102.136.180,US,North America
 2020-08-28,covid19coronatests.com,covid19coronatests.com,,
 2020-08-28,covid19coronavirustest.com,covid19coronavirustest.com,,
 2020-08-28,covid19hometest.org.ge,covid19hometest.org.ge,,
@@ -75,11 +49,13 @@
 2020-08-28,test-na-covid.sk,test-na-covid.sk,,
 2020-08-28,testovanie-covid19.sk,testovanie-covid19.sk,,
 2020-08-28,testovaniecovid19.sk,testovaniecovid19.sk,,
+2020-08-28,testovanie-covid.sk,81.95.96.29,CZ,Europe
 2020-08-28,testovanie-covid.sk,testovanie-covid.sk,,
 2020-08-28,testpcrcovid.com,213.186.33.5,FR,Europe
 2020-08-28,testpcrcovid.com,dns10.ovh.net,,
 2020-08-28,testpcrcovid.com,ns10.ovh.net,,
 2020-08-28,testpcrcovid.com,testpcrcovid.com,,
+2020-08-28,testy-covid19.sk,81.95.96.29,CZ,Europe
 2020-08-28,testy-covid19.sk,testy-covid19.sk,,
 2020-08-28,testy-covid.sk,testy-covid.sk,,
 2020-08-28,vchcovidtestwaits.ca,vchcovidtestwaits.ca,,
