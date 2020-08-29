@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-08-28,1hrcovidtest.com,192.145.236.203,US,North America
 2020-08-28,1hrcovidtest.com,1hrcovidtest.com,,
 2020-08-28,305covidtest.com,305covidtest.com,,
 2020-08-28,becomeaacovidtestingsite.com,198.58.118.167,US,North America
@@ -62,4 +63,6 @@
 2020-08-28,vchcovidtestwaits.ca,vchcovidtestwaits.ca,,
 2020-08-28,worksitecovidtesting.com,worksitecovidtesting.com,,
 2020-08-28,www.pathmdlabscovidtesting.com,192.252.156.120,US,North America
+2020-08-28,www.worksitecovidtesting.com,72.167.191.69,US,North America
+2020-08-28,www.worksitecovidtesting.com,worksitecovidtesting.com,,
 2020-08-29,testynacovid19.sk,testynacovid19.sk,,
