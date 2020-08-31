@@ -2,58 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-08-29,cure2covid19.com.ba,195.222.33.180,BA,Europe
-2020-08-29,cure2covid19.com.ba,cure2covid19.com.ba,,
-2020-08-29,cure2covid-19.la,cure2covid-19.la,,
-2020-08-29,cure4covid-19.com.ba,195.222.33.180,BA,Europe
-2020-08-29,cure4covid-19.com.ba,cure4covid-19.com.ba,,
-2020-08-29,cureandtreatmentsforcoronavirus.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-08-29,cureandtreatmentsforcoronavirus.xn--fiqs8s,cureandtreatmentsforcoronavirus.xn--fiqs8s,,
-2020-08-29,curecorona-19.la,curecorona-19.la,,
-2020-08-29,curecorona-virus.la,173.230.141.80,US,North America
-2020-08-29,curecorona-virus.la,curecorona-virus.la,,
-2020-08-29,curecoronavirusnow.la,173.230.141.80,US,North America
-2020-08-29,curecoronavirusnow.la,curecoronavirusnow.la,,
-2020-08-29,cure-coronavirus.xn--od0alg.cn,218.241.116.40,CN,Asia
-2020-08-29,cure-coronavirus.xn--od0alg.cn,cure-coronavirus.xn--od0alg.cn,,
-2020-08-29,curecovid-1921.com.ba,195.222.33.180,BA,Europe
-2020-08-29,curecovid-1921.com.ba,curecovid-1921.com.ba,,
-2020-08-29,cure-covid-19.la,cure-covid-19.la,,
-2020-08-29,curecovid-19now.com.ba,195.222.33.180,BA,Europe
-2020-08-29,curecovid-19now.com.ba,curecovid-19now.com.ba,,
-2020-08-29,curecovid19nyc.la,curecovid19nyc.la,,
-2020-08-29,curecovid19.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-08-29,curecovid19.xn--fiqz9s,curecovid19.xn--fiqz9s,,
-2020-08-29,curedcovid19.xn--io0a7i.cn,curedcovid19.xn--io0a7i.cn,,
-2020-08-29,cureforcorona-19.com.ba,195.222.33.180,BA,Europe
-2020-08-29,cureforcorona-19.com.ba,cureforcorona-19.com.ba,,
-2020-08-29,cure-for-coronavirus.la,173.230.141.80,US,North America
-2020-08-29,cure-for-coronavirus.la,cure-for-coronavirus.la,,
-2020-08-29,cureforcovid-19.com.ba,195.222.33.180,BA,Europe
-2020-08-29,cureforcovid-19.com.ba,cureforcovid-19.com.ba,,
-2020-08-29,cureforcovid19.la,173.230.141.80,US,North America
-2020-08-29,cureforcovid19.la,cureforcovid19.la,,
-2020-08-29,cureforcovid2019.la,cureforcovid2019.la,,
-2020-08-29,curefornovelcoronavirus.la,curefornovelcoronavirus.la,,
-2020-08-29,curemecoronavirus.com.ba,195.222.33.180,BA,Europe
-2020-08-29,curemecoronavirus.com.ba,curemecoronavirus.com.ba,,
-2020-08-29,curencovid.la,173.230.141.80,US,North America
-2020-08-29,curencovid.la,curencovid.la,,
-2020-08-29,cureofcovid19.xn--fiqz9s,cureofcovid19.xn--fiqz9s,,
-2020-08-29,curescovid19.com.ba,195.222.33.180,BA,Europe
-2020-08-29,curescovid19.com.ba,curescovid19.com.ba,,
-2020-08-29,curesforcovid19.com.ba,195.222.33.180,BA,Europe
-2020-08-29,curesforcovid19.com.ba,curesforcovid19.com.ba,,
-2020-08-29,curethecoronav.com.ba,195.222.33.180,BA,Europe
-2020-08-29,curethecoronav.com.ba,curethecoronav.com.ba,,
-2020-08-29,curethecoronavirus.la,173.230.141.80,US,North America
-2020-08-29,curethecoronavirus.la,curethecoronavirus.la,,
-2020-08-29,curethecoronavirus.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-08-29,curethecoronavirus.xn--fiqs8s,curethecoronavirus.xn--fiqs8s,,
-2020-08-29,curethecoronav.xn--fiqz9s,curethecoronav.xn--fiqz9s,,
-2020-08-29,curetocovid19.la,curetocovid19.la,,
-2020-08-29,www.covidurinetest.com,91.184.0.100,NL,Europe
-2020-08-29,www.covidurinetest.com,covidurinetest.com,,
 2020-08-30,advancecovidtest.com,ns-cloud-b1.googledomains.com,,
 2020-08-30,advancecovidtest.com,ns-cloud-b2.googledomains.com,,
 2020-08-30,advancecovidtest.com,ns-cloud-b3.googledomains.com,,
@@ -367,6 +315,7 @@
 2020-08-30,covid19rapidantigentestkit.la,covid19rapidantigentestkit.la,,
 2020-08-30,covid19rapidtestdoc.com.ba,195.222.33.180,BA,Europe
 2020-08-30,covid19rapidtestdoc.com.ba,covid19rapidtestdoc.com.ba,,
+2020-08-30,covid-19rapidtestkit.la,covid-19rapidtestkit.la,,
 2020-08-30,covid-19-rapidtestkit.xn--io0a7i.cn,218.241.116.40,CN,Asia
 2020-08-30,covid-19-rapidtestkit.xn--io0a7i.cn,covid-19-rapidtestkit.xn--io0a7i.cn,,
 2020-08-30,covid19resultstests.xn--od0alg.cn,covid19resultstests.xn--od0alg.cn,,
@@ -404,6 +353,8 @@
 2020-08-30,covid-19-testingkits.la,173.230.141.80,US,North America
 2020-08-30,covid-19-testingkits.la,covid-19-testingkits.la,,
 2020-08-30,covid-19testing.la,covid-19testing.la,,
+2020-08-30,covid-19testingsites.com.ba,195.222.33.180,BA,Europe
+2020-08-30,covid-19testingsites.com.ba,covid-19testingsites.com.ba,,
 2020-08-30,covid19testkitkorea.la,covid19testkitkorea.la,,
 2020-08-30,covid-19test-kit.la,173.230.141.80,US,North America
 2020-08-30,covid-19test-kit.la,covid-19test-kit.la,,
