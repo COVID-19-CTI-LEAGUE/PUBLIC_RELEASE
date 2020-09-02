@@ -9,6 +9,7 @@
 2020-09-01,20mincovidtest.com,dns1.registrar-servers.com,,
 2020-09-01,20mincovidtest.com,dns2.registrar-servers.com,,
 2020-09-01,antibodycovid19testkit.com,antibodycovid19testkit.com,,
+2020-09-01,antibodycovid19testkit.com,antibodycovid19testkit-com.mail.protection.outlook.com,,
 2020-09-01,antibodycovid19testkit.com,ns65.domaincontrol.com,,
 2020-09-01,antibodycovid19testkit.com,ns66.domaincontrol.com,,
 2020-09-01,austinmobilecovidtest.com,austinmobilecovidtest.com,,
@@ -49,6 +50,9 @@
 2020-09-01,freecovid-19testing.com,freecovid-19testing.com,,
 2020-09-01,getcovidtest.today,35.209.162.24,US,North America
 2020-09-01,getcovidtest.today,getcovidtest.today,,
+2020-09-01,getcovidtest.today,mx10.mailspamprotection.com,,
+2020-09-01,getcovidtest.today,mx20.mailspamprotection.com,,
+2020-09-01,getcovidtest.today,mx30.mailspamprotection.com,,
 2020-09-01,homecovidtest.today,homecovidtest.today,,
 2020-09-01,homecovidtest.today,ns19.domaincontrol.com,,
 2020-09-01,homecovidtest.today,ns20.domaincontrol.com,,
@@ -99,6 +103,8 @@
 2020-09-01,testcovid19latino.com,ns08.domaincontrol.com,,
 2020-09-01,testcovid19latino.com,testcovid19latino.com,,
 2020-09-01,testerapidocovidbrasilia.com.br,162.241.203.26,US,North America
+2020-09-01,testerapidocovidbrasilia.com.br,b.sec.dns.br,,
+2020-09-01,testerapidocovidbrasilia.com.br,c.sec.dns.br,,
 2020-09-01,testerapidocovidbrasilia.com.br,testerapidocovidbrasilia.com.br,,
 2020-09-01,testpcrcoronavirus.com,213.186.33.5,FR,Europe
 2020-09-01,testpcrcoronavirus.com,dns102.ovh.net,,
@@ -108,12 +114,16 @@
 2020-09-01,www.testcovid19consejeriaeducacioncomunidadmadrid.com,185.254.206.186,UA,Europe
 2020-09-02,arcpointcovidtesting.com,34.102.136.180,US,North America
 2020-09-02,arcpointcovidtesting.com,arcpointcovidtesting.com,,
+2020-09-02,arcpointcovidtesting.com,ns13.domaincontrol.com,,
+2020-09-02,arcpointcovidtesting.com,ns14.domaincontrol.com,,
 2020-09-02,asapcovidtest.com,34.102.136.180,US,North America
 2020-09-02,asapcovidtest.com,asapcovidtest.com,,
 2020-09-02,asapcovidtest.com,ns17.domaincontrol.com,,
 2020-09-02,asapcovidtest.com,ns18.domaincontrol.com,,
 2020-09-02,atxmobilecovidtest.com,146.112.61.107,,Europe
 2020-09-02,atxmobilecovidtest.com,atxmobilecovidtest.com,,
+2020-09-02,atxmobilecovidtest.com,dns1.registrar-servers.com,,
+2020-09-02,atxmobilecovidtest.com,dns2.registrar-servers.com,,
 2020-09-02,bestcoronavirustest.com,bestcoronavirustest.com,,
 2020-09-02,bestcoronavirustest.com,ns41.domaincontrol.com,,
 2020-09-02,bestcoronavirustest.com,ns42.domaincontrol.com,,
@@ -213,6 +223,8 @@
 2020-09-02,covidtestwynwood.com,covidtestwynwood.com,,
 2020-09-02,diycoronavirustesting.services,diycoronavirustesting.services,,
 2020-09-02,doineedacovid19ttest.com,doineedacovid19ttest.com,,
+2020-09-02,doineedacovid19ttest.com,mail.mailerhost.net,,
+2020-09-02,doineedacovid19ttest.com,mail.mxproc.com,,
 2020-09-02,doineedacovid19ttest.com,ns1.mytrafficmanagement.com,,
 2020-09-02,doineedacovid19ttest.com,ns2.mytrafficmanagement.com,,
 2020-09-02,fastcovidtestkit.com,34.102.136.180,US,North America
@@ -251,6 +263,10 @@
 2020-09-02,testerapidecovid.ro,ns3.mxserver.ro,,
 2020-09-02,testerapidecovid.ro,ns4.mxserver.ro,,
 2020-09-02,testerapidecovid.ro,testerapidecovid.ro,,
+2020-09-02,testesdevacinasdecovid19-br.com,ns1.p30.dynect.net,,
+2020-09-02,testesdevacinasdecovid19-br.com,ns2.p30.dynect.net,,
+2020-09-02,testesdevacinasdecovid19-br.com,ns3.p30.dynect.net,,
+2020-09-02,testesdevacinasdecovid19-br.com,ns4.p30.dynect.net,,
 2020-09-02,testesdevacinasdecovid19-br.com,testesdevacinasdecovid19-br.com,,
 2020-09-02,testquickcovid.com,ns25.domaincontrol.com,,
 2020-09-02,testquickcovid.com,ns26.domaincontrol.com,,
