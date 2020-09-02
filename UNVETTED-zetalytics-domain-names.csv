@@ -42,17 +42,15 @@
 2020-09-01,curecovid2022.com,ns75.domaincontrol.com,,
 2020-09-01,curecovid2022.com,ns76.domaincontrol.com,,
 2020-09-01,freecovid-19testing.com,98.124.199.7,US,North America
-2020-09-01,freecovid-19testing.com,dns1.name-services.com,,
-2020-09-01,freecovid-19testing.com,dns2.name-services.com,,
-2020-09-01,freecovid-19testing.com,dns3.name-services.com,,
-2020-09-01,freecovid-19testing.com,dns4.name-services.com,,
-2020-09-01,freecovid-19testing.com,dns5.name-services.com,,
 2020-09-01,freecovid-19testing.com,freecovid-19testing.com,,
 2020-09-01,getcovidtest.today,35.209.162.24,US,North America
 2020-09-01,getcovidtest.today,getcovidtest.today,,
 2020-09-01,getcovidtest.today,mx10.mailspamprotection.com,,
 2020-09-01,getcovidtest.today,mx20.mailspamprotection.com,,
 2020-09-01,getcovidtest.today,mx30.mailspamprotection.com,,
+2020-09-01,getcovidtest.today,ns1.giowm1055.siteground.biz,,
+2020-09-01,getcovidtest.today,ns2.giowm1055.siteground.biz,,
+2020-09-01,homecovidtest.today,34.102.136.180,US,North America
 2020-09-01,homecovidtest.today,homecovidtest.today,,
 2020-09-01,homecovidtest.today,ns19.domaincontrol.com,,
 2020-09-01,homecovidtest.today,ns20.domaincontrol.com,,
@@ -77,8 +75,6 @@
 2020-09-01,rapidcovidtestingpro.com,ns06.domaincontrol.com,,
 2020-09-01,rapidcovidtestingpro.com,rapidcovidtestingpro.com,,
 2020-09-01,rapidcovidtests.nyc,34.102.136.180,US,North America
-2020-09-01,rapidcovidtests.nyc,ns19.domaincontrol.com,,
-2020-09-01,rapidcovidtests.nyc,ns20.domaincontrol.com,,
 2020-09-01,rapidcovidtests.nyc,rapidcovidtests.nyc,,
 2020-09-01,roccovidtesting.com,198.185.159.144,US,North America
 2020-09-01,roccovidtesting.com,198.185.159.145,US,North America
@@ -102,6 +98,8 @@
 2020-09-01,testpcrcoronavirus.com,testpcrcoronavirus.com,,
 2020-09-01,www.getcovidtest.today,35.209.162.24,US,North America
 2020-09-01,www.testcovid19consejeriaeducacioncomunidadmadrid.com,185.254.206.186,UA,Europe
+2020-09-02,20mincovidtests.com,184.168.131.241,US,North America
+2020-09-02,20mincovidtests.com,20mincovidtests.com,,
 2020-09-02,alaskacovidsecureapp.com,198.58.118.167,US,North America
 2020-09-02,alaskacovidsecureapp.com,45.33.23.183,US,North America
 2020-09-02,alaskacovidsecureapp.com,45.33.2.79,US,North America
@@ -127,6 +125,14 @@
 2020-09-02,bestcoronavirustest.com,bestcoronavirustest.com,,
 2020-09-02,bestcoronavirustest.com,ns41.domaincontrol.com,,
 2020-09-02,bestcoronavirustest.com,ns42.domaincontrol.com,,
+2020-09-02,chicagocoronavirustests.com.ba,195.222.33.180,BA,Europe
+2020-09-02,chicagocoronavirustests.com.ba,chicagocoronavirustests.com.ba,,
+2020-09-02,chicagocoronavirustests.la,173.230.141.80,US,North America
+2020-09-02,chicagocoronavirustests.la,chicagocoronavirustests.la,,
+2020-09-02,chicagocovid-19test.com.ba,195.222.33.180,BA,Europe
+2020-09-02,chicagocovid-19test.com.ba,chicagocovid-19test.com.ba,,
+2020-09-02,chicagocovid-19test.la,173.230.141.80,US,North America
+2020-09-02,chicagocovid-19test.la,chicagocovid-19test.la,,
 2020-09-02,chloroquinecoronacure.xn--io0a7i.cn,chloroquinecoronacure.xn--io0a7i.cn,,
 2020-09-02,citestcovid19web.com.ba,195.222.33.180,BA,Europe
 2020-09-02,citestcovid19web.com.ba,citestcovid19web.com.ba,,
@@ -161,12 +167,8 @@
 2020-09-02,covid-19testingcenters.net,34.102.136.180,US,North America
 2020-09-02,covid-19testingcenters.net,covid-19testingcenters.net,,
 2020-09-02,covid-19testingcenters.net,covid19testingcenters-net01c.mail.protection.outlook.com,,
-2020-09-02,covid-19testingcenters.net,ns27.domaincontrol.com,,
-2020-09-02,covid-19testingcenters.net,ns28.domaincontrol.com,,
 2020-09-02,covid-19testingcenters.today,34.102.136.180,US,North America
 2020-09-02,covid-19testingcenters.today,covid-19testingcenters.today,,
-2020-09-02,covid-19testingcenters.today,ns53.domaincontrol.com,,
-2020-09-02,covid-19testingcenters.today,ns54.domaincontrol.com,,
 2020-09-02,covid-19-test.us,covid-19-test.us,,
 2020-09-02,covid-19-test.us,ns2.hostpoint.ch,,
 2020-09-02,covid-19-test.us,ns3.hostpoint.ch,,
@@ -209,6 +211,7 @@
 2020-09-02,covidtestaspen.com,ns2.dnsimple.com,,
 2020-09-02,covidtestaspen.com,ns3.dnsimple.com,,
 2020-09-02,covidtestaspen.com,ns4.dnsimple.com,,
+2020-09-02,covidtestathome.net,covidtestathome.net,,
 2020-09-02,covidtestequipment.com,34.102.136.180,US,North America
 2020-09-02,covidtestequipment.com,covidtestequipment.com,,
 2020-09-02,covidtestequipment.com,ns37.domaincontrol.com,,
@@ -222,6 +225,11 @@
 2020-09-02,covidtestingfails.com,ns10.domaincontrol.com,,
 2020-09-02,covidtestwynwood.com,184.168.131.241,US,North America
 2020-09-02,covidtestwynwood.com,covidtestwynwood.com,,
+2020-09-02,covidtriptest.ca,covidtriptest.ca,,
+2020-09-02,curecovidiocy.com,104.28.26.166,US,North America
+2020-09-02,curecovidiocy.com,104.28.27.166,US,North America
+2020-09-02,curecovidiocy.com,172.67.183.34,US,North America
+2020-09-02,curecovidiocy.com,curecovidiocy.com,,
 2020-09-02,diycoronavirustesting.services,184.168.131.241,US,North America
 2020-09-02,diycoronavirustesting.services,diycoronavirustesting.services,,
 2020-09-02,doineedacovid19ttest.com,doineedacovid19ttest.com,,
@@ -259,6 +267,7 @@
 2020-09-02,protestcovid-19.com,ns48.domaincontrol.com,,
 2020-09-02,protestcovid-19.com,protestcovid-19.com,,
 2020-09-02,quickcovidtestkits.com,160.153.136.3,US,North America
+2020-09-02,quickcovidtestkits.com,182.50.132.242,SG,Asia
 2020-09-02,quickcovidtestkits.com,198.71.232.3,US,North America
 2020-09-02,quickcovidtestkits.com,quickcovidtestkits.com,,
 2020-09-02,rapid15minutecovidtest.com,34.102.136.180,US,North America
@@ -292,6 +301,8 @@
 2020-09-02,testquickcovid.com,testquickcovid.com,,
 2020-09-02,testrapidocovid.it,89.46.110.20,IT,Europe
 2020-09-02,testrapidocovid.it,testrapidocovid.it,,
+2020-09-02,threedaycovidtest.com,184.168.131.241,US,North America
+2020-09-02,threedaycovidtest.com,threedaycovidtest.com,,
 2020-09-02,topcoronavirustest.com,ns51.domaincontrol.com,,
 2020-09-02,topcoronavirustest.com,ns52.domaincontrol.com,,
 2020-09-02,topcoronavirustest.com,topcoronavirustest.com,,
@@ -304,6 +315,7 @@
 2020-09-02,tucsoncovidtesting.co,mail.mailerhost.net,,
 2020-09-02,tucsoncovidtesting.co,mail.mxproc.com,,
 2020-09-02,tucsoncovidtesting.co,tucsoncovidtesting.co,,
+2020-09-02,twominutecovidtest.com,34.102.136.180,US,North America
 2020-09-02,twominutecovidtest.com,ns65.domaincontrol.com,,
 2020-09-02,twominutecovidtest.com,ns66.domaincontrol.com,,
 2020-09-02,twominutecovidtest.com,twominutecovidtest.com,,
@@ -313,5 +325,7 @@
 2020-09-02,www.bestcoronavirustest.com,bestcoronavirustest.com,,
 2020-09-02,www.covid19testfortlauderdale.com,covidlabtest.myshopify.com,,
 2020-09-02,www.covid19testfortlauderdale.com,shops.myshopify.com,,
+2020-09-02,www.covidtriptest.ca,covid-19-trip-test.myshopify.com,,
+2020-09-02,www.covidtriptest.ca,shops.myshopify.com,,
 2020-09-02,z6391ztbgl.covid-19-test.us,217.26.48.101,CH,Europe
 2020-09-02,z6391ztbgl.covid-19-test.us,2a00:d70::a:0:0:0:166,CH,Europe
