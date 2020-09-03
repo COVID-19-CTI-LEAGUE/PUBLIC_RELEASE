@@ -28,6 +28,8 @@
 2020-09-02,atxmobilecovidtest.com,dns1.registrar-servers.com,,
 2020-09-02,atxmobilecovidtest.com,dns2.registrar-servers.com,,
 2020-09-02,austincovid19test.com,austincovid19test.com,,
+2020-09-02,austincovid19test.com,dns1.registrar-servers.com,,
+2020-09-02,austincovid19test.com,dns2.registrar-servers.com,,
 2020-09-02,autodiscover.disktestecovid.com.br,189.113.163.43,BR,South America
 2020-09-02,bestcoronavirustest.com,bestcoronavirustest.com,,
 2020-09-02,bestcoronavirustest.com,ns41.domaincontrol.com,,
@@ -213,6 +215,8 @@
 2020-09-02,rcovidtests.com,ns52.domaincontrol.com,,
 2020-09-02,rcovidtests.com,rcovidtests.com,,
 2020-09-02,salivadirectcovidtest.com,34.102.136.180,US,North America
+2020-09-02,salivadirectcovidtest.com,ns17.domaincontrol.com,,
+2020-09-02,salivadirectcovidtest.com,ns18.domaincontrol.com,,
 2020-09-02,salivadirectcovidtest.com,salivadirectcovidtest.com,,
 2020-09-02,testcoronavirusmadrid.com,217.76.130.87,ES,Europe
 2020-09-02,testcoronavirusmadrid.com,dns13.servidoresdns.net,,
@@ -259,6 +263,7 @@
 2020-09-02,www.bestcoronavirustest.com,bestcoronavirustest.com,,
 2020-09-02,www.covid19athometestkits.org,covid19athometestkits.myshopify.com,,
 2020-09-02,www.covid19athometestkits.org,shops.myshopify.com,,
+2020-09-02,www.covid19testfortlauderdale.com,23.227.38.64,CA,North America
 2020-09-02,www.covid19testfortlauderdale.com,covidlabtest.myshopify.com,,
 2020-09-02,www.covid19testfortlauderdale.com,shops.myshopify.com,,
 2020-09-02,www.covidtriptest.ca,covid-19-trip-test.myshopify.com,,
@@ -275,3 +280,9 @@
 2020-09-03,covidtestsoflo.com,covidtestsoflo.com,,
 2020-09-03,covidtestsoflo.com,ns57.domaincontrol.com,,
 2020-09-03,covidtestsoflo.com,ns58.domaincontrol.com,,
+2020-09-03,overnightcovidtest.com,ns49.domaincontrol.com,,
+2020-09-03,overnightcovidtest.com,ns50.domaincontrol.com,,
+2020-09-03,overnightcovidtest.com,overnightcovidtest.com,,
+2020-09-03,rapidcovidtestla.com,ns49.domaincontrol.com,,
+2020-09-03,rapidcovidtestla.com,ns50.domaincontrol.com,,
+2020-09-03,rapidcovidtestla.com,rapidcovidtestla.com,,
