@@ -2,125 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-09-05,20minutecovidtesting.com,198.185.159.144,US,North America
-2020-09-05,20minutecovidtesting.com,198.185.159.145,US,North America
-2020-09-05,20minutecovidtesting.com,198.49.23.144,US,North America
-2020-09-05,20minutecovidtesting.com,198.49.23.145,US,North America
-2020-09-05,20minutecovidtesting.com,20minutecovidtesting.com,,
-2020-09-05,20minutecovidtesting.com,alt1.aspmx.l.google.com,,
-2020-09-05,20minutecovidtesting.com,alt2.aspmx.l.google.com,,
-2020-09-05,20minutecovidtesting.com,alt3.aspmx.l.google.com,,
-2020-09-05,20minutecovidtesting.com,alt4.aspmx.l.google.com,,
-2020-09-05,20minutecovidtesting.com,aspmx.l.google.com,,
-2020-09-05,20minutecovidtesting.com,dns1.p03.nsone.net,,
-2020-09-05,20minutecovidtesting.com,dns2.p03.nsone.net,,
-2020-09-05,20minutecovidtesting.com,dns3.p03.nsone.net,,
-2020-09-05,20minutecovidtesting.com,dns4.p03.nsone.net,,
-2020-09-05,20minutecovidtesting.com,ns01.squarespacedns.com,,
-2020-09-05,20minutecovidtesting.com,ns02.squarespacedns.com,,
-2020-09-05,20minutecovidtesting.com,ns03.squarespacedns.com,,
-2020-09-05,20minutecovidtesting.com,ns04.squarespacedns.com,,
-2020-09-05,bayareacovidtesting.com,34.102.136.180,US,North America
-2020-09-05,bayareacovidtesting.com,bayareacovidtesting.com,,
-2020-09-05,bayareacovidtesting.com,ns57.domaincontrol.com,,
-2020-09-05,bayareacovidtesting.com,ns58.domaincontrol.com,,
-2020-09-05,bestcovidtestkits.com,146.112.61.107,,Europe
-2020-09-05,bestcovidtestkits.com,bestcovidtestkits.com,,
-2020-09-05,bestcovidtestkits.com,bestcovidtestkits-com.mail.protection.outlook.com,,
-2020-09-05,bestcovidtestkits.com,ns57.domaincontrol.com,,
-2020-09-05,bestcovidtestkits.com,ns58.domaincontrol.com,,
-2020-09-05,buycovid19testkit.com.ba,195.222.33.180,BA,Europe
-2020-09-05,buycovid19testkit.com.ba,buycovid19testkit.com.ba,,
-2020-09-05,buycovid19test.la,173.230.141.80,US,North America
-2020-09-05,buycovid19test.la,buycovid19test.la,,
-2020-09-05,cacovid-19test.la,cacovid-19test.la,,
-2020-09-05,californiacoronavirustest.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-09-05,californiacoronavirustest.xn--fiqs8s,californiacoronavirustest.xn--fiqs8s,,
-2020-09-05,californiacovid-19testing.la,173.230.141.80,US,North America
-2020-09-05,californiacovid-19testing.la,californiacovid-19testing.la,,
-2020-09-05,californiacovid19testing.la,californiacovid19testing.la,,
-2020-09-05,californiacovid19test.la,173.230.141.80,US,North America
-2020-09-05,californiacovid19test.la,californiacovid19test.la,,
-2020-09-05,californiacovid-19tests.la,173.230.141.80,US,North America
-2020-09-05,californiacovid-19tests.la,californiacovid-19tests.la,,
-2020-09-05,coronavirusantibodytest.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-09-05,coronavirusantibodytest.xn--55qx5d.cn,coronavirusantibodytest.xn--55qx5d.cn,,
-2020-09-05,coronavirusrapidtest.online,coronavirusrapidtest.online,,
-2020-09-05,coronavirusrapidtest.online,nszero1.axc.nl,,
-2020-09-05,coronavirusrapidtest.online,nszero2.axc.nl,,
-2020-09-05,covid19testsdirect.com,107.180.41.85,US,North America
-2020-09-05,covid19testsdirect.com,covid19testsdirect.com,,
-2020-09-05,covid19testsdirect.com,ns63.domaincontrol.com,,
-2020-09-05,covid19testsdirect.com,ns64.domaincontrol.com,,
-2020-09-05,covidlamptest.nl,2a01:7c8:3:1337::29,NL,Europe
-2020-09-05,covidlamptest.nl,covidlamptest.nl,,
-2020-09-05,covidlamptest.nl,ns0.nl,,
-2020-09-05,covidlamptest.nl,ns11.net,,
-2020-09-05,covidlamptest.nl,ns5.be,,
-2020-09-05,covidquicktest.online,covidquicktest.online,,
-2020-09-05,covidquicktest.online,nszero1.axc.nl,,
-2020-09-05,covidquicktest.online,nszero2.axc.nl,,
-2020-09-05,covidrapidtest.online,146.112.61.107,,Europe
-2020-09-05,covidrapidtest.online,covidrapidtest.online,,
-2020-09-05,covidrapidtest.online,nszero1.axc.nl,,
-2020-09-05,covidrapidtest.online,nszero2.axc.nl,,
-2020-09-05,covidtestlv.com,52.218.176.146,US,North America
-2020-09-05,covidtestlv.com,52.218.246.154,US,North America
-2020-09-05,covidtestlv.com,covidtestlv.com,,
-2020-09-05,covidtestlv.com,ns-1393.awsdns-46.org,,
-2020-09-05,covidtestlv.com,ns-1960.awsdns-53.co.uk,,
-2020-09-05,covidtestlv.com,ns-275.awsdns-34.com,,
-2020-09-05,covidtestlv.com,ns-845.awsdns-41.net,,
-2020-09-05,dallascovidtests.com,34.102.136.180,US,North America
-2020-09-05,dallascovidtests.com,dallascovidtests.com,,
-2020-09-05,dallascovidtests.com,ns07.domaincontrol.com,,
-2020-09-05,dallascovidtests.com,ns08.domaincontrol.com,,
-2020-09-05,htxcovidtest.com,htxcovidtest.com,,
-2020-09-05,itestcovid.com,itestcovid.com,,
-2020-09-05,itestcovid.com,ns77.domaincontrol.com,,
-2020-09-05,itestcovid.com,ns78.domaincontrol.com,,
-2020-09-05,mobilecoronavirustestingsites.com.ph,45.79.222.138,US,North America
-2020-09-05,mobilecoronavirustestingsites.com.ph,mobilecoronavirustestingsites.com.ph,,
-2020-09-05,mycoronavirustests.com.ph,45.79.222.138,US,North America
-2020-09-05,mycoronavirustests.com.ph,mycoronavirustests.com.ph,,
-2020-09-05,pinnaclecovidtests.com,34.102.136.180,US,North America
-2020-09-05,pinnaclecovidtests.com,ns49.domaincontrol.com,,
-2020-09-05,pinnaclecovidtests.com,ns50.domaincontrol.com,,
-2020-09-05,pinnaclecovidtests.com,pinnaclecovidtests.com,,
-2020-09-05,rapidcovidhometests.com,34.102.136.180,US,North America
-2020-09-05,rapidcovidhometests.com,ns63.domaincontrol.com,,
-2020-09-05,rapidcovidhometests.com,ns64.domaincontrol.com,,
-2020-09-05,rapidcovidhometests.com,rapidcovidhometests.com,,
-2020-09-05,rapid-covidtest.com,81.95.96.29,CZ,Europe
-2020-09-05,rapid-covidtest.com,alfa.ns.active24.cz,,
-2020-09-05,rapid-covidtest.com,beta.ns.active24.cz,,
-2020-09-05,rapid-covidtest.com,gama.ns.active24.sk,,
-2020-09-05,rapid-covidtest.com,hostmaster@active24.cz,,
-2020-09-05,rapid-covidtest.com,rapid-covidtest.com,,
-2020-09-05,testcovid19consejeriaeducacioncomunidad.com,192.64.147.163,US,North America
-2020-09-05,testcovid19consejeriaeducacioncomunidad.com,ns1.voodoo.com,,
-2020-09-05,testcovid19consejeriaeducacioncomunidad.com,ns2.voodoo.com,,
-2020-09-05,testcovid19consejeriaeducacioncomunidad.com,testcovid19consejeriaeducacioncomunidad.com,,
-2020-09-05,testcovidconsejeriaeducacioncomunidadmadrid.com,199.59.242.153,US,North America
-2020-09-05,testcovidconsejeriaeducacioncomunidadmadrid.com,mx76.m2bp.com,,
-2020-09-05,testcovidconsejeriaeducacioncomunidadmadrid.com,mx76.mb1p.com,,
-2020-09-05,testcovidconsejeriaeducacioncomunidadmadrid.com,ns1.bodis.com,,
-2020-09-05,testcovidconsejeriaeducacioncomunidadmadrid.com,ns2.bodis.com,,
-2020-09-05,testcovidconsejeriaeducacioncomunidadmadrid.com,testcovidconsejeriaeducacioncomunidadmadrid.com,,
-2020-09-05,testovaniecovid.sk,testovaniecovid.sk,,
-2020-09-05,testrapidecovid.com,ns-cloud-b1.googledomains.com,,
-2020-09-05,testrapidecovid.com,ns-cloud-b2.googledomains.com,,
-2020-09-05,testrapidecovid.com,ns-cloud-b3.googledomains.com,,
-2020-09-05,testrapidecovid.com,ns-cloud-b4.googledomains.com,,
-2020-09-05,testrapidecovid.com,testrapidecovid.com,,
-2020-09-05,uscovidtestinglocations.com,157.230.3.6,US,North America
-2020-09-05,uscovidtestinglocations.com,ns1.digitalocean.com,,
-2020-09-05,uscovidtestinglocations.com,ns2.digitalocean.com,,
-2020-09-05,uscovidtestinglocations.com,ns3.digitalocean.com,,
-2020-09-05,uscovidtestinglocations.com,ns57.domaincontrol.com,,
-2020-09-05,uscovidtestinglocations.com,ns58.domaincontrol.com,,
-2020-09-05,uscovidtestinglocations.com,uscovidtestinglocations.com,,
-2020-09-05,www.mycoronavirustests.com.ph,45.79.222.138,US,North America
 2020-09-06,20minutecovid19testkits.com,20minutecovid19testkits.com,,
 2020-09-06,20minutecovid19testkits.com,34.102.136.180,US,North America
 2020-09-06,20minutecovid19testkits.com,ns47.domaincontrol.com,,
@@ -142,6 +23,7 @@
 2020-09-06,covidtesting.solutions,ns1.ipage.com,,
 2020-09-06,covidtesting.solutions,ns2.ipage.com,,
 2020-09-06,covidtestkis.org,covidtestkis.org,,
+2020-09-06,covidtestklagenfurt.at,covidtestklagenfurt.at,,
 2020-09-06,covidteststjohns.com,184.168.131.241,US,North America
 2020-09-06,covidteststjohns.com,covidteststjohns.com,,
 2020-09-06,eastbaycovidtesting.com,34.102.136.180,US,North America
@@ -167,4 +49,46 @@
 2020-09-06,swiftcovidtests.com,ns27.domaincontrol.com,,
 2020-09-06,swiftcovidtests.com,ns28.domaincontrol.com,,
 2020-09-06,swiftcovidtests.com,swiftcovidtests.com,,
+2020-09-06,www.covidtestklagenfurt.at,www205.wixdns.net,,
 2020-09-06,xn--covidtestkrnten-9kb.at,xn--covidtestkrnten-9kb.at,,
+2020-09-07,bookmycovidtest.com,34.102.136.180,US,North America
+2020-09-07,bookmycovidtest.com,bookmycovidtest.com,,
+2020-09-07,bookmycovidtest.com,ns33.domaincontrol.com,,
+2020-09-07,bookmycovidtest.com,ns34.domaincontrol.com,,
+2020-09-07,buycovidtests.com,buycovidtests.com,,
+2020-09-07,covid19testlocatie.nl,covid19testlocatie.nl,,
+2020-09-07,covidantistoftesten.nl,covidantistoftesten.nl,,
+2020-09-07,covidantistoftest.nl,covidantistoftest.nl,,
+2020-09-07,covidtest-klagenfurt.at,covidtest-klagenfurt.at,,
+2020-09-07,covidteststraat.nl,covidteststraat.nl,,
+2020-09-07,covidurinetest.nl,covidurinetest.nl,,
+2020-09-07,disquetestecovid.com.br,disquetestecovid.com.br,,
+2020-09-07,familytestingcovid.com,23.227.38.32,CA,North America
+2020-09-07,familytestingcovid.com,familytestingcovid.com,,
+2020-09-07,levnycovidtest.cz,81.95.96.29,CZ,Europe
+2020-09-07,levnycovidtest.cz,levnycovidtest.cz,,
+2020-09-07,maccura-covid19test.com.ph,45.79.222.138,US,North America
+2020-09-07,maccura-covid19test.com.ph,maccura-covid19test.com.ph,,
+2020-09-07,mail.covidteststraat.nl,185.182.56.12,NL,Europe
+2020-09-07,masstestcovid19.ph,masstestcovid19.ph,,
+2020-09-07,rapidcovidtestpro.com,ns1.ipage.com,,
+2020-09-07,rapidcovidtestpro.com,ns2.ipage.com,,
+2020-09-07,rapidcovidtestpro.com,rapidcovidtestpro.com,,
+2020-09-07,rapid-covidtest.sk,81.95.96.29,CZ,Europe
+2020-09-07,rapid-covidtest.sk,rapid-covidtest.sk,,
+2020-09-07,saccountycovidtesting.org,ns0.wixdns.net,,
+2020-09-07,saccountycovidtesting.org,ns1.wixdns.net,,
+2020-09-07,saccountycovidtesting.org,saccountycovidtesting.org,,
+2020-09-07,sneltest-covid.nl,nszero1.axc.nl,,
+2020-09-07,sneltest-covid.nl,nszero2.axc.nl,,
+2020-09-07,sneltest-covid.nl,sneltest-covid.nl,,
+2020-09-07,tallahasseecovidtesting.com,ns15.domaincontrol.com,,
+2020-09-07,tallahasseecovidtesting.com,ns16.domaincontrol.com,,
+2020-09-07,tallahasseecovidtesting.com,tallahasseecovidtesting.com,,
+2020-09-07,testcovid.madrid,dns13.servidoresdns.net,,
+2020-09-07,testcovid.madrid,dns14.servidoresdns.net,,
+2020-09-07,testcovid.madrid,testcovid.madrid,,
+2020-09-07,testcovidvoyage.net,34.102.136.180,US,North America
+2020-09-07,testcovidvoyage.net,testcovidvoyage.net,,
+2020-09-07,www.familytestingcovid.com,familytestingcovid19.myshopify.com,,
+2020-09-07,www.familytestingcovid.com,shops.myshopify.com,,
