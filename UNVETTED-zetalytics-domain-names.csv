@@ -2,55 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-09-06,20minutecovid19testkits.com,20minutecovid19testkits.com,,
-2020-09-06,20minutecovid19testkits.com,34.102.136.180,US,North America
-2020-09-06,20minutecovid19testkits.com,ns47.domaincontrol.com,,
-2020-09-06,20minutecovid19testkits.com,ns48.domaincontrol.com,,
-2020-09-06,buscovid19testing.la,buscovid19testing.la,,
-2020-09-06,buyacoronavirustestkit.la,buyacoronavirustestkit.la,,
-2020-09-06,canitrustthiscovidtest.com,canitrustthiscovidtest.com,,
-2020-09-06,covid-19testingnearme.com,94.136.40.51,GB,Europe
-2020-09-06,covid-19testingnearme.com,covid-19testingnearme.com,,
-2020-09-06,covid-19testingnearme.com,mx0.123-reg.co.uk,,
-2020-09-06,covid-19testingnearme.com,mx1.123-reg.co.uk,,
-2020-09-06,covid-19testingnearme.com,ns.123-reg.co.uk,,
-2020-09-06,covid-19testingnearme.com,ns2.123-reg.co.uk,,
-2020-09-06,covidhugtest.com,34.102.136.180,US,North America
-2020-09-06,covidhugtest.com,covidhugtest.com,,
-2020-09-06,covidhugtest.com,ns63.domaincontrol.com,,
-2020-09-06,covidhugtest.com,ns64.domaincontrol.com,,
-2020-09-06,covidtesting.solutions,covidtesting.solutions,,
-2020-09-06,covidtesting.solutions,ns1.ipage.com,,
-2020-09-06,covidtesting.solutions,ns2.ipage.com,,
-2020-09-06,covidtestkis.org,covidtestkis.org,,
-2020-09-06,covidtestklagenfurt.at,covidtestklagenfurt.at,,
-2020-09-06,covidteststjohns.com,184.168.131.241,US,North America
-2020-09-06,covidteststjohns.com,covidteststjohns.com,,
-2020-09-06,eastbaycovidtesting.com,34.102.136.180,US,North America
-2020-09-06,eastbaycovidtesting.com,eastbaycovidtesting.com,,
-2020-09-06,eastbaycovidtesting.com,pdns07.domaincontrol.com,,
-2020-09-06,eastbaycovidtesting.com,pdns08.domaincontrol.com,,
-2020-09-06,icovid19tests.com,icovid19tests.com,,
-2020-09-06,icovid19tests.com,ns1.misk.com,,
-2020-09-06,icovid19tests.com,ns2.misk.com,,
-2020-09-06,miamicovid19testing.com.ph,miamicovid19testing.com.ph,,
-2020-09-06,preview.canitrustthiscovidtest.com,64.98.145.30,CA,North America
-2020-09-06,rapidcovid19test.info,34.102.136.180,US,North America
-2020-09-06,rapidcovid19test.info,ns55.domaincontrol.com,,
-2020-09-06,rapidcovid19test.info,ns56.domaincontrol.com,,
-2020-09-06,rapidcovid19test.info,rapidcovid19test.info,,
-2020-09-06,socalcovidtesting.com,34.102.136.180,US,North America
-2020-09-06,socalcovidtesting.com,socalcovidtesting.com,,
-2020-09-06,statcovidtest.org,ns1.domain.com,,
-2020-09-06,statcovidtest.org,ns2.domain.com,,
-2020-09-06,statcovidtest.org,statcovidtest.org,,
-2020-09-06,statnicovidtest.cz,statnicovidtest.cz,,
-2020-09-06,swiftcovidtests.com,34.102.136.180,US,North America
-2020-09-06,swiftcovidtests.com,ns27.domaincontrol.com,,
-2020-09-06,swiftcovidtests.com,ns28.domaincontrol.com,,
-2020-09-06,swiftcovidtests.com,swiftcovidtests.com,,
-2020-09-06,www.covidtestklagenfurt.at,www205.wixdns.net,,
-2020-09-06,xn--covidtestkrnten-9kb.at,xn--covidtestkrnten-9kb.at,,
 2020-09-07,bloodtestcovid19.la,173.230.141.80,US,North America
 2020-09-07,bloodtestcovid19.la,bloodtestcovid19.la,,
 2020-09-07,bookmycovidtest.com,34.102.136.180,US,North America
