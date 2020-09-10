@@ -2,49 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-09-08,autodiscover.coetestescovid.com.br,108.179.253.242,US,North America
-2020-09-08,bleachcoronaviruscure.la,173.230.141.80,US,North America
-2020-09-08,bleachcoronaviruscure.la,bleachcoronaviruscure.la,,
-2020-09-08,coetestescovid.com.br,108.179.253.242,US,North America
-2020-09-08,coetestescovid.com.br,coetestescovid.com.br,,
-2020-09-08,coronavirusnutritiontesting.com.ph,45.79.222.138,US,North America
-2020-09-08,coronavirusnutritiontesting.com.ph,coronavirusnutritiontesting.com.ph,,
-2020-09-08,covid19test.co.in,103.53.42.17,IN,Asia
-2020-09-08,covid19test.co.in,covid19test.co.in,,
-2020-09-08,covid19testlocaties.nl,covid19testlocaties.nl,,
-2020-09-08,covidspeedtest.online,covidspeedtest.online,,
-2020-09-08,covidspeedtest.online,nszero1.axc.nl,,
-2020-09-08,covidspeedtest.online,nszero2.axc.nl,,
-2020-09-08,covidtestmefast.com,34.102.136.180,US,North America
-2020-09-08,covidtestmefast.com,covidtestmefast.com,,
-2020-09-08,covidtestmefast.com,ns33.domaincontrol.com,,
-2020-09-08,covidtestmefast.com,ns34.domaincontrol.com,,
-2020-09-08,koreancovid-19test.com,66.235.200.146,US,North America
-2020-09-08,koreancovid-19test.com,koreancovid-19test.com,,
-2020-09-08,koreancovid-19test.com,mail.koreancovid-19test.com,,
-2020-09-08,koreancovid-19test.com,ns1.bluehost.com,,
-2020-09-08,koreancovid-19test.com,ns2.bluehost.com,,
-2020-09-08,lamp-test.ilvaccinocovid.it,195.201.150.75,DE,Europe
-2020-09-08,lehighvalleycovid19testing.ws,lehighvalleycovid19testing.ws,,
-2020-09-08,lehighvalleycovid19testing.ws,mail.hope-mail.com,,
-2020-09-08,losangelescovid19test.ph,losangelescovid19test.ph,,
-2020-09-08,sarscovidtest.com,34.102.136.180,US,North America
-2020-09-08,sarscovidtest.com,ns49.domaincontrol.com,,
-2020-09-08,sarscovidtest.com,ns50.domaincontrol.com,,
-2020-09-08,sarscovidtest.com,sarscovidtest.com,,
-2020-09-08,testcovid19conserjeriaeducacioncomunidadmadrid.com,199.59.242.153,US,North America
-2020-09-08,testcovid19conserjeriaeducacioncomunidadmadrid.com,mx76.m2bp.com,,
-2020-09-08,testcovid19conserjeriaeducacioncomunidadmadrid.com,mx76.mb1p.com,,
-2020-09-08,testcovid19conserjeriaeducacioncomunidadmadrid.com,ns1.bodis.com,,
-2020-09-08,testcovid19conserjeriaeducacioncomunidadmadrid.com,ns2.bodis.com,,
-2020-09-08,testcovid19conserjeriaeducacioncomunidadmadrid.com,testcovid19conserjeriaeducacioncomunidadmadrid.com,,
-2020-09-08,testcovidmadrid.com,82.98.135.44,ES,Europe
-2020-09-08,testcovidmadrid.com,ns2.dinahosting.com,,
-2020-09-08,testcovidmadrid.com,ns3.dinahosting.com,,
-2020-09-08,testcovidmadrid.com,ns4.dinahosting.com,,
-2020-09-08,testcovidmadrid.com,ns.dinahosting.com,,
-2020-09-08,testcovidmadrid.com,testcovidmadrid.com,,
-2020-09-08,www.coronavirusnutritiontesting.com.ph,45.79.222.138,US,North America
 2020-09-09,besafetestcovid19.la,173.230.141.80,US,North America
 2020-09-09,besafetestcovid19.la,besafetestcovid19.la,,
 2020-09-09,bestcovid19testing.la,bestcovid19testing.la,,
