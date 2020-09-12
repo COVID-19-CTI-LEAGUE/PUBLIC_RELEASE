@@ -2,90 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-09-10,biolabcovidtest.com,34.102.136.180,US,North America
-2020-09-10,biolabcovidtest.com,biolabcovidtest.com,,
-2020-09-10,coronaviruscovidantibodytest.com,75.119.203.109,US,North America
-2020-09-10,coronaviruscovidantibodytest.com,coronaviruscovidantibodytest.com,,
-2020-09-10,coronaviruscovidantibodytest.com,ns1.dreamhost.com,,
-2020-09-10,coronaviruscovidantibodytest.com,ns2.dreamhost.com,,
-2020-09-10,coronaviruscovidantibodytest.com,ns3.dreamhost.com,,
-2020-09-10,covid19-blitztest.com,a.ns14.net,,
-2020-09-10,covid19blitztest.com,a.ns14.net,,
-2020-09-10,covid19-blitztest.com,b.ns14.net,,
-2020-09-10,covid19blitztest.com,b.ns14.net,,
-2020-09-10,covid19-blitztest.com,c.ns14.net,,
-2020-09-10,covid19blitztest.com,c.ns14.net,,
-2020-09-10,covid19-blitztest.com,covid19-blitztest.com,,
-2020-09-10,covid19blitztest.com,covid19blitztest.com,,
-2020-09-10,covid19-blitztest.com,d.ns14.net,,
-2020-09-10,covid19blitztest.com,d.ns14.net,,
-2020-09-10,covid19-blitztest.com,do-not-reply@covid19-blitztest.com,,
-2020-09-10,covid19blitztest.com,do-not-reply@covid19blitztest.com,,
-2020-09-10,covid19-testi.xyz,covid19-testi.xyz,,
-2020-09-10,covid19-testi.xyz,ns1.webofisi.org,,
-2020-09-10,covid19-testi.xyz,ns2.webofisi.org,,
-2020-09-10,covid19testme.no,194.63.248.52,NO,Europe
-2020-09-10,covid19testme.no,covid19testme.no,,
-2020-09-10,covid19testme.no,hostmaster@domeneshop.no,,
-2020-09-10,covid19testme.no,ns1.hyp.net,,
-2020-09-10,covid19virusantibodytesting.com,75.119.205.122,US,North America
-2020-09-10,covid19virusantibodytesting.com,covid19virusantibodytesting.com,,
-2020-09-10,covid19virusantibodytesting.com,ns1.dreamhost.com,,
-2020-09-10,covid19virusantibodytesting.com,ns2.dreamhost.com,,
-2020-09-10,covid19virusantibodytesting.com,ns3.dreamhost.com,,
-2020-09-10,covidassurancetest.com,34.102.136.180,US,North America
-2020-09-10,covidassurancetest.com,covidassurancetest.com,,
-2020-09-10,covidassurancetest.com,ns01.domaincontrol.com,,
-2020-09-10,covidassurancetest.com,ns02.domaincontrol.com,,
-2020-09-10,covidassurancetesting.com,34.102.136.180,US,North America
-2020-09-10,covidassurancetesting.com,covidassurancetesting.com,,
-2020-09-10,covidassurancetesting.com,ns67.domaincontrol.com,,
-2020-09-10,covidassurancetesting.com,ns68.domaincontrol.com,,
-2020-09-10,covidrapidtest-houston.com,184.168.131.241,US,North America
-2020-09-10,covidrapidtest-houston.com,covidrapidtest-houston.com,,
-2020-09-10,covidrapidtest-houston.com,ns07.domaincontrol.com,,
-2020-09-10,covidrapidtest-houston.com,ns08.domaincontrol.com,,
-2020-09-10,covidrapidtest-miami.com,184.168.131.241,US,North America
-2020-09-10,covidrapidtest-miami.com,covidrapidtest-miami.com,,
-2020-09-10,covidrapidtest-miami.com,ns07.domaincontrol.com,,
-2020-09-10,covidrapidtest-miami.com,ns08.domaincontrol.com,,
-2020-09-10,covidrapidtest-texas.com,184.168.131.241,US,North America
-2020-09-10,covidrapidtest-texas.com,covidrapidtest-texas.com,,
-2020-09-10,covidrapidtest-texas.com,ns07.domaincontrol.com,,
-2020-09-10,covidrapidtest-texas.com,ns08.domaincontrol.com,,
-2020-09-10,covid-testi.com,185.250.240.14,TR,Asia
-2020-09-10,covid-testi.com,covid-testi.com,,
-2020-09-10,covid-testi.com,mail.covid-testi.com,,
-2020-09-10,covid-testi.com,ns1.webofisi.org,,
-2020-09-10,covid-testi.com,ns2.webofisi.org,,
-2020-09-10,covid-testi.xyz,covid-testi.xyz,,
-2020-09-10,covid-testi.xyz,ns1.webofisi.org,,
-2020-09-10,covid-testi.xyz,ns2.webofisi.org,,
-2020-09-10,covidtestpraha.cz,95.215.81.17,CZ,Europe
-2020-09-10,covidtestpraha.cz,covidtestpraha.cz,,
-2020-09-10,covidtestpraha.cz,mail.covidtestpraha.cz,,
-2020-09-10,drivethroughcovidtest.com,34.102.136.180,US,North America
-2020-09-10,drivethroughcovidtest.com,drivethroughcovidtest.com,,
-2020-09-10,drivethroughcovidtest.com,ns07.domaincontrol.com,,
-2020-09-10,drivethroughcovidtest.com,ns08.domaincontrol.com,,
-2020-09-10,humasistestcovid.it,35.233.85.168,US,North America
-2020-09-10,humasistestcovid.it,humasistestcovid.it,,
-2020-09-10,lamobilecovidtest.com,34.102.136.180,US,North America
-2020-09-10,lamobilecovidtest.com,lamobilecovidtest.com,,
-2020-09-10,quickcovid19test.nl,quickcovid19test.nl,,
-2020-09-10,test-covid19.nl,35.214.180.85,US,North America
-2020-09-10,test-covid19.nl,ns1.gnldm1027.siteground.biz,,
-2020-09-10,test-covid19.nl,ns2.gnldm1027.siteground.biz,,
-2020-09-10,test-covid19.nl,test-covid19.nl,,
-2020-09-10,www.covidtestpraha.cz,95.215.81.17,CZ,Europe
-2020-09-10,www.covidtestpraha.cz,covidtestpraha.cz,,
-2020-09-10,zerocostcovid19testing.com,ns53.domaincontrol.com,,
-2020-09-10,zerocostcovid19testing.com,ns54.domaincontrol.com,,
-2020-09-10,zerocostcovid19testing.com,zerocostcovid19testing.com,,
-2020-09-10,zerocostcovidtesting.com,34.102.136.180,US,North America
-2020-09-10,zerocostcovidtesting.com,ns43.domaincontrol.com,,
-2020-09-10,zerocostcovidtesting.com,ns44.domaincontrol.com,,
-2020-09-10,zerocostcovidtesting.com,zerocostcovidtesting.com,,
 2020-09-11,athomecovidtestkits.com,184.168.131.241,US,North America
 2020-09-11,athomecovidtestkits.com,athomecovidtestkits.com,,
 2020-09-11,athomecovidtestkits.com,ns37.domaincontrol.com,,
@@ -120,6 +36,8 @@
 2020-09-11,covidflighttest.co.uk,ns1047.ui-dns.de,,
 2020-09-11,covidflighttest.co.uk,ns1098.ui-dns.biz,,
 2020-09-11,covidflighttest.co.uk,ns1106.ui-dns.org,,
+2020-09-11,covidsecureme.com,50.87.253.44,US,North America
+2020-09-11,covidsecureme.com,covidsecureme.com,,
 2020-09-11,covidtest4business.co.uk,2a00:1ee0:2:9::2eb7:f5b,GB,Europe
 2020-09-11,covidtest4business.co.uk,46.183.15.91,GB,Europe
 2020-09-11,covidtest4business.co.uk,covidtest4business.co.uk,,
@@ -229,3 +147,4 @@
 2020-09-11,www.test-vaccin-covid.fr,domain.par.clever-cloud.com,,
 2020-09-11,yourcovidtest.org,34.102.136.180,US,North America
 2020-09-11,yourcovidtest.org,yourcovidtest.org,,
+2020-09-12,covid19-rapidtest.eu,covid19-rapidtest.eu,,
