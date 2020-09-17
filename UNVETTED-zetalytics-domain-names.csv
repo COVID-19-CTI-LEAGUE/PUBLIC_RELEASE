@@ -2,61 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-09-15,antibodycoronavirustesting.com.ba,195.222.33.180,BA,Europe
-2020-09-15,antibodycoronavirustesting.com.ba,antibodycoronavirustesting.com.ba,,
-2020-09-15,antibodyforcoronavirustest.xn--55qx5d.cn,218.241.116.40,CN,Asia
-2020-09-15,antibodyforcoronavirustest.xn--55qx5d.cn,antibodyforcoronavirustest.xn--55qx5d.cn,,
-2020-09-15,antibodytestingcovid-19.la,antibodytestingcovid-19.la,,
-2020-09-15,artemiscovidtest.net,34.102.136.180,US,North America
-2020-09-15,artemiscovidtest.net,artemiscovidtest.net,,
-2020-09-15,artemiscovidtest.net,ns13.domaincontrol.com,,
-2020-09-15,artemiscovidtest.net,ns14.domaincontrol.com,,
-2020-09-15,covid19test.awsfsjvtoaiu.15.09.2020.kvhl.futbol,ghs.googlehosted.com,,
-2020-09-15,covid19test.lvmwzjsrrupw.15.09.2020.kvhl.futbol,172.217.5.19,US,North America
-2020-09-15,covid19test.lvmwzjsrrupw.15.09.2020.kvhl.futbol,ghs.googlehosted.com,,
-2020-09-15,covid19test.ucsumgfdravo.15.09.2020.kvhl.futbol,ghs.googlehosted.com,,
-2020-09-15,covid19test.zrwcmiosfqng.15.09.2020.kvhl.futbol,ghs.googlehosted.com,,
-2020-09-15,covid19virusantibodytest.com,75.119.204.183,US,North America
-2020-09-15,covid19virusantibodytest.com,covid19virusantibodytest.com,,
-2020-09-15,covid19virusantibodytest.com,ns1.dreamhost.com,,
-2020-09-15,covid19virusantibodytest.com,ns2.dreamhost.com,,
-2020-09-15,covid19virusantibodytest.com,ns3.dreamhost.com,,
-2020-09-15,covidtesting911.com,34.102.136.180,US,North America
-2020-09-15,covidtesting911.com,covidtesting911.com,,
-2020-09-15,covidtesting911.com,ns77.domaincontrol.com,,
-2020-09-15,covidtesting911.com,ns78.domaincontrol.com,,
-2020-09-15,covidtesting911.info,covidtesting911.info,,
-2020-09-15,covidtesting911.info,ns43.domaincontrol.com,,
-2020-09-15,covidtesting911.info,ns44.domaincontrol.com,,
-2020-09-15,covidtesting911.org,covidtesting911.org,,
-2020-09-15,covidtesting911.org,ns43.domaincontrol.com,,
-2020-09-15,covidtesting911.org,ns44.domaincontrol.com,,
-2020-09-15,deincoronavirustest.de,2a02:2350:5:102:8082:d544:7cd2:7dd,DK,Europe
-2020-09-15,deincoronavirustest.de,77.111.240.176,DK,Europe
-2020-09-15,deincoronavirustest.de,deincoronavirustest.de,,
-2020-09-15,healthyworksitecovid-19testing.ph,healthyworksitecovid-19testing.ph,,
-2020-09-15,leidosbadcovidtest.org,leidosbadcovidtest.org,,
-2020-09-15,leidosbadcovidtest.org,ns35.domaincontrol.com,,
-2020-09-15,leidosbadcovidtest.org,ns36.domaincontrol.com,,
-2020-09-15,leidosbadcovidtest.org,ns-cloud-a1.googledomains.com,,
-2020-09-15,leidosbadcovidtest.org,ns-cloud-a2.googledomains.com,,
-2020-09-15,leidosbadcovidtest.org,ns-cloud-a3.googledomains.com,,
-2020-09-15,leidosbadcovidtest.org,ns-cloud-a4.googledomains.com,,
-2020-09-15,nottestedforcovid19.ws,64.70.19.203,US,North America
-2020-09-15,nottestedforcovid19.ws,nottestedforcovid19.ws,,
-2020-09-15,pop.testeanticovid.com,195.110.124.132,IT,Europe
-2020-09-15,pop.testeanticovid.com,mail.register.it,,
-2020-09-15,publiccovidtest.com,34.102.136.180,US,North America
-2020-09-15,publiccovidtest.com,ns27.domaincontrol.com,,
-2020-09-15,publiccovidtest.com,ns28.domaincontrol.com,,
-2020-09-15,publiccovidtest.com,publiccovidtest.com,,
-2020-09-15,testeanticovid.com,195.110.124.133,IT,Europe
-2020-09-15,testeanticovid.com,ns1.register.it,,
-2020-09-15,testeanticovid.com,ns2.register.it,,
-2020-09-15,testeanticovid.com,testeanticovid.com,,
-2020-09-15,www.deincoronavirustest.de,77.111.240.176,DK,Europe
-2020-09-15,www.testeanticovid.com,195.110.124.133,IT,Europe
-2020-09-15,www.testeanticovid.com,testeanticovid.com,,
 2020-09-16,a1rapidcovidtesting.net,66.96.162.149,US,North America
 2020-09-16,a1rapidcovidtesting.net,a1rapidcovidtesting.net,,
 2020-09-16,abccovidtest.com,abccovidtest.com,,
@@ -77,6 +22,7 @@
 2020-09-16,covid15mintests.com,covid15mintests.com,,
 2020-09-16,covid15mintests.com,ns31.domaincontrol.com,,
 2020-09-16,covid15mintests.com,ns32.domaincontrol.com,,
+2020-09-16,covid15minutetests.info,34.102.136.180,US,North America
 2020-09-16,covid15minutetests.info,covid15minutetests.info,,
 2020-09-16,covid15minutetests.info,ns41.domaincontrol.com,,
 2020-09-16,covid15minutetests.info,ns42.domaincontrol.com,,
@@ -127,6 +73,7 @@
 2020-09-16,safeathomecovidtest.com,ns25.domaincontrol.com,,
 2020-09-16,safeathomecovidtest.com,ns26.domaincontrol.com,,
 2020-09-16,safeathomecovidtest.com,safeathomecovidtest.com,,
+2020-09-16,selftest4covid.com,selftest4covid.com,,
 2020-09-16,test4covid.ru,hostmaster@ns1.reg.ru,,
 2020-09-16,test4covid.ru,JXlhbmRleC12ZXJpZmljYXRpb246IGM4Y2JmOGMyMzQxNmNiYjM=,,
 2020-09-16,test4covid.ru,ns1.reg.ru,,
