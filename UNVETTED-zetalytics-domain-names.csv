@@ -2,29 +2,4 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-09-19,a1rapidcovidtesting.com,66.96.162.149,US,North America
-2020-09-19,chloroquinetest.net.ph,chloroquinetest.net.ph,,
-2020-09-19,covid19testwa.xn--fiqz9s,covid19testwa.xn--fiqz9s,,
-2020-09-19,covidtestuk.org,covidtestuk.org,,
-2020-09-19,freecovidtestkits.com,35.186.238.101,US,North America
-2020-09-19,leedscovidtesting.net,34.102.136.180,US,North America
-2020-09-19,leedscovidtesting.net,leedscovidtesting.net,,
-2020-09-19,leedscovidtesting.net,ns59.domaincontrol.com,,
-2020-09-19,leedscovidtesting.net,ns60.domaincontrol.com,,
-2020-09-19,pinpointcovidtesting.com,34.102.136.180,US,North America
-2020-09-19,pinpointcovidtesting.com,ns27.domaincontrol.com,,
-2020-09-19,pinpointcovidtesting.com,ns28.domaincontrol.com,,
-2020-09-19,pinpointcovidtesting.com,pinpointcovidtesting.com,,
-2020-09-19,privatecovid19test.shop,alt1.aspmx.l.google.com,,
-2020-09-19,privatecovid19test.shop,alt2.aspmx.l.google.com,,
-2020-09-19,privatecovid19test.shop,alt3.aspmx.l.google.com,,
-2020-09-19,privatecovid19test.shop,alt4.aspmx.l.google.com,,
-2020-09-19,privatecovid19test.shop,aspmx.l.google.com,,
-2020-09-19,privatecovid19test.shop,privatecovid19test.shop,,
-2020-09-19,schoolcovidtest.com,34.102.136.180,US,North America
-2020-09-19,schoolcovidtest.com,schoolcovidtest.com,,
-2020-09-19,slinovytestcovid.cz,slinovytestcovid.cz,,
-2020-09-19,vacinecovid19cure360.com,34.102.136.180,US,North America
-2020-09-19,vacinecovid19cure360.com,vacinecovid19cure360.com,,
-2020-09-19,www.covidtestuk.org,ghs.googlehosted.com,,
-2020-09-19,www.slinovytestcovid.cz,81.95.96.29,CZ,Europe
+
