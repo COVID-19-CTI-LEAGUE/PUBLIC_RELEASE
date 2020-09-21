@@ -2,4 +2,34 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-
+2020-09-20,covidtestkitsuk.net,94.136.40.51,GB,Europe
+2020-09-20,pinpointcovidtesting.net,34.102.136.180,US,North America
+2020-09-20,travelcovidtests.com,ns09.domaincontrol.com,,
+2020-09-20,travelcovidtests.com,ns10.domaincontrol.com,,
+2020-09-20,wwwprivatecoronavirustests.com,ns1.above.com,,
+2020-09-20,wwwprivatecoronavirustests.com,ns2.above.com,,
+2020-09-20,wwwprivatecoronavirustests.com,park-mx.above.com,,
+2020-09-21,10minutecoronavirustest.xn--fiqs8s,10minutecoronavirustest.xn--fiqs8s,,
+2020-09-21,10minutecoronavirustest.xn--fiqs8s,218.241.116.40,CN,Asia
+2020-09-21,15-minutecovid-19test.xn--od0alg.cn,15-minutecovid-19test.xn--od0alg.cn,,
+2020-09-21,1stepcovid19testkit.xn--fiqs8s,1stepcovid19testkit.xn--fiqs8s,,
+2020-09-21,48hourcovid19testkit.com.ba,195.222.33.180,BA,Europe
+2020-09-21,48hourcovid19testkit.com.ba,48hourcovid19testkit.com.ba,,
+2020-09-21,abbottcoronavirustesting.xn--od0alg.cn,abbottcoronavirustesting.xn--od0alg.cn,,
+2020-09-21,covidstesting.com,covidstesting.com,,
+2020-09-21,covidtest-express.com,covidtest-express.com,,
+2020-09-21,covidtestskit.com,covidtestskit.com,,
+2020-09-21,covidtestskit.com,ns15.domaincontrol.com,,
+2020-09-21,covidtestskit.com,ns16.domaincontrol.com,,
+2020-09-21,covidtestsoc.com,covidtestsoc.com,,
+2020-09-21,covidtestsoc.com,ns27.domaincontrol.com,,
+2020-09-21,covidtestsoc.com,ns28.domaincontrol.com,,
+2020-09-21,discoverycovid19tests.ph,discoverycovid19tests.ph,,
+2020-09-21,diycovid19testing.com,34.102.136.180,US,North America
+2020-09-21,quickcovidtest.co,34.102.136.180,US,North America
+2020-09-21,quickcovidtest.co,quickcovidtest.co,,
+2020-09-21,testnacovid.xyz,185.253.212.22,PL,Europe
+2020-09-21,testnacovid.xyz,testnacovid.xyz,,
+2020-09-21,travelcovidtest.us,travelcovidtest.us,,
+2020-09-21,www.travelcovidtest.us,34.102.136.180,US,North America
+2020-09-21,www.travelcovidtest.us,travelcovidtest.us,,
