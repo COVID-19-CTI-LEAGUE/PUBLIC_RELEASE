@@ -2,6 +2,8 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-09-20,19covidtest.com.ba,195.222.33.180,BA,Europe
+2020-09-20,19covidtest.com.ba,19covidtest.com.ba,,
 2020-09-20,covid19testandtrace.co.uk,85.233.160.22,GB,Europe
 2020-09-20,covid19testandtrace.co.uk,covid19testandtrace.co.uk,,
 2020-09-20,covidrapidtestsite.com,covidrapidtestsite.com,,
@@ -30,11 +32,13 @@
 2020-09-20,www.covidrapidtestsite.com,35.246.6.109,US,North America
 2020-09-20,www.covidrapidtestsite.com,balancer.wixdns.net,,
 2020-09-20,www.covidrapidtestsite.com,www208.wixdns.net,,
+2020-09-20,wwwprivatecoronavirustests.com,103.224.182.242,AU,Oceania
 2020-09-20,wwwprivatecoronavirustests.com,600.ns1.above.com,,
 2020-09-20,wwwprivatecoronavirustests.com,600.ns2.above.com,,
 2020-09-20,wwwprivatecoronavirustests.com,ns1.above.com,,
 2020-09-20,wwwprivatecoronavirustests.com,ns2.above.com,,
 2020-09-20,wwwprivatecoronavirustests.com,park-mx.above.com,,
+2020-09-20,wwwprivatecoronavirustests.com,wwwprivatecoronavirustests.com,,
 2020-09-21,10minutecoronavirustest.xn--fiqs8s,10minutecoronavirustest.xn--fiqs8s,,
 2020-09-21,10minutecoronavirustest.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-09-21,15mincovid19test.com.ba,15mincovid19test.com.ba,,
@@ -46,6 +50,7 @@
 2020-09-21,48hourcovid19testkit.com.ba,48hourcovid19testkit.com.ba,,
 2020-09-21,5minutecovid19test.com.ba,195.222.33.180,BA,Europe
 2020-09-21,5minutecovid19test.com.ba,5minutecovid19test.com.ba,,
+2020-09-21,abbottcoronavirustesting.xn--od0alg.cn,218.241.116.40,CN,Asia
 2020-09-21,abbottcoronavirustesting.xn--od0alg.cn,abbottcoronavirustesting.xn--od0alg.cn,,
 2020-09-21,coronavirusdiseasecures.com,34.102.136.180,US,North America
 2020-09-21,coronavirusdiseasecures.com,coronavirusdiseasecures.com,,
@@ -53,15 +58,30 @@
 2020-09-21,coronavirustesting.guide,coronavirustesting.guide,,
 2020-09-21,coronavirustesting.guide,ns1.giowm1131.siteground.biz,,
 2020-09-21,coronavirustesting.guide,ns2.giowm1131.siteground.biz,,
+2020-09-21,covid19garglespittest.com,45.88.202.115,,
 2020-09-21,covid19garglespittest.com,covid19garglespittest.com,,
+2020-09-21,covid19garglespittest.com,ns3.epik.com,,
+2020-09-21,covid19garglespittest.com,ns4.epik.com,,
+2020-09-21,covid19garglespittest.com,support@epik.com,,
+2020-09-21,covid19gargletest.com,45.88.202.115,,
+2020-09-21,covid19gargletest.com,covid19gargletest.com,,
+2020-09-21,covid19gargletest.com,ns3.epik.com,,
+2020-09-21,covid19gargletest.com,ns4.epik.com,,
+2020-09-21,covid19gargletest.com,support@epik.com,,
 2020-09-21,covidcures.world,184.168.131.241,US,North America
 2020-09-21,covidcures.world,covidcures.world,,
+2020-09-21,covidgargletest.com,45.88.202.115,,
 2020-09-21,covidgargletest.com,covidgargletest.com,,
+2020-09-21,covidgargletest.com,ns3.epik.com,,
+2020-09-21,covidgargletest.com,ns4.epik.com,,
 2020-09-21,covidstesting.com,covidstesting.com,,
 2020-09-21,covidtest-express.com,covidtest-express.com,,
 2020-09-21,covidtestingfast.com,34.102.136.180,US,North America
 2020-09-21,covidtestingfast.com,covidtestingfast.com,,
 2020-09-21,covidtestjobs.com,covidtestjobs.com,,
+2020-09-21,covidtestjobs.com,ns0.phase8.net,,
+2020-09-21,covidtestjobs.com,ns1.phase8.net,,
+2020-09-21,covidtestjobs.com,ns2.phase8.net,,
 2020-09-21,covidtestjobs.co.uk,athena.hosts.co.uk,,
 2020-09-21,covidtestjobs.co.uk,covidtestjobs.co.uk,,
 2020-09-21,covidtestjobs.co.uk,hermes.hosts.co.uk,,
@@ -94,5 +114,7 @@
 2020-09-21,www.coronavirustesting.guide,2606:4700:3033::681f:5380,US,North America
 2020-09-21,www.coronavirustesting.guide,2606:4700:3037::ac43:c267,US,North America
 2020-09-21,www.coronavirustesting.guide,www.coronavirustesting.guide.cdn.cloudflare.net,,
+2020-09-21,www.covid19garglespittest.com,45.88.202.115,,
+2020-09-21,www.covidgargletest.com,45.88.202.115,,
 2020-09-21,www.travelcovidtest.us,34.102.136.180,US,North America
 2020-09-21,www.travelcovidtest.us,travelcovidtest.us,,
