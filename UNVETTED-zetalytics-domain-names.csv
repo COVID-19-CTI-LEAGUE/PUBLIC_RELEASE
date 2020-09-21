@@ -2,30 +2,75 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-09-20,covid19testandtrace.co.uk,85.233.160.22,GB,Europe
+2020-09-20,covid19testandtrace.co.uk,covid19testandtrace.co.uk,,
+2020-09-20,covidrapidtestsite.com,covidrapidtestsite.com,,
+2020-09-20,covidtestingco.com,34.102.136.180,US,North America
+2020-09-20,covidtestingco.com,covidtestingco.com,,
 2020-09-20,covidtestkitsuk.net,94.136.40.51,GB,Europe
+2020-09-20,covidtestkitsuk.net,covidtestkitsuk.net,,
+2020-09-20,covidtestkitsuk.net,mx0.123-reg.co.uk,,
+2020-09-20,covidtestkitsuk.net,mx1.123-reg.co.uk,,
+2020-09-20,covidtestkituk.com,covidtestkituk.com,,
+2020-09-20,covidtestkituk.com,ns29.domaincontrol.com,,
+2020-09-20,covidtestkituk.com,ns30.domaincontrol.com,,
+2020-09-20,doneedacovid19test.com.ph,doneedacovid19test.com.ph,,
 2020-09-20,pinpointcovidtesting.net,34.102.136.180,US,North America
+2020-09-20,pinpointcovidtesting.net,ns27.domaincontrol.com,,
+2020-09-20,pinpointcovidtesting.net,ns28.domaincontrol.com,,
+2020-09-20,pinpointcovidtesting.net,pinpointcovidtesting.net,,
+2020-09-20,testcovidvoyage.com,34.102.136.180,US,North America
+2020-09-20,testcovidvoyage.com,testcovidvoyage.com,,
+2020-09-20,travelcovidtest.info,34.102.136.180,US,North America
+2020-09-20,travelcovidtest.info,travelcovidtest.info,,
+2020-09-20,travelcovidtests.com,34.102.136.180,US,North America
 2020-09-20,travelcovidtests.com,ns09.domaincontrol.com,,
 2020-09-20,travelcovidtests.com,ns10.domaincontrol.com,,
+2020-09-20,travelcovidtests.com,travelcovidtests.com,,
+2020-09-20,www.covidrapidtestsite.com,35.246.6.109,US,North America
+2020-09-20,www.covidrapidtestsite.com,balancer.wixdns.net,,
+2020-09-20,www.covidrapidtestsite.com,www208.wixdns.net,,
+2020-09-20,wwwprivatecoronavirustests.com,600.ns1.above.com,,
+2020-09-20,wwwprivatecoronavirustests.com,600.ns2.above.com,,
 2020-09-20,wwwprivatecoronavirustests.com,ns1.above.com,,
 2020-09-20,wwwprivatecoronavirustests.com,ns2.above.com,,
 2020-09-20,wwwprivatecoronavirustests.com,park-mx.above.com,,
 2020-09-21,10minutecoronavirustest.xn--fiqs8s,10minutecoronavirustest.xn--fiqs8s,,
 2020-09-21,10minutecoronavirustest.xn--fiqs8s,218.241.116.40,CN,Asia
+2020-09-21,15mincovid19test.com.ba,15mincovid19test.com.ba,,
+2020-09-21,15mincovid19test.com.ba,195.222.33.180,BA,Europe
 2020-09-21,15-minutecovid-19test.xn--od0alg.cn,15-minutecovid-19test.xn--od0alg.cn,,
 2020-09-21,1stepcovid19testkit.xn--fiqs8s,1stepcovid19testkit.xn--fiqs8s,,
+2020-09-21,2curecoronavirus.xn--fiqz9s,2curecoronavirus.xn--fiqz9s,,
 2020-09-21,48hourcovid19testkit.com.ba,195.222.33.180,BA,Europe
 2020-09-21,48hourcovid19testkit.com.ba,48hourcovid19testkit.com.ba,,
+2020-09-21,5minutecovid19test.com.ba,195.222.33.180,BA,Europe
+2020-09-21,5minutecovid19test.com.ba,5minutecovid19test.com.ba,,
 2020-09-21,abbottcoronavirustesting.xn--od0alg.cn,abbottcoronavirustesting.xn--od0alg.cn,,
+2020-09-21,coronavirustesting.guide,coronavirustesting.guide,,
+2020-09-21,coronavirustesting.guide,ns1.giowm1131.siteground.biz,,
+2020-09-21,coronavirustesting.guide,ns2.giowm1131.siteground.biz,,
 2020-09-21,covidstesting.com,covidstesting.com,,
 2020-09-21,covidtest-express.com,covidtest-express.com,,
+2020-09-21,covidtestingfast.com,34.102.136.180,US,North America
+2020-09-21,covidtestingfast.com,covidtestingfast.com,,
 2020-09-21,covidtestskit.com,covidtestskit.com,,
 2020-09-21,covidtestskit.com,ns15.domaincontrol.com,,
 2020-09-21,covidtestskit.com,ns16.domaincontrol.com,,
 2020-09-21,covidtestsoc.com,covidtestsoc.com,,
 2020-09-21,covidtestsoc.com,ns27.domaincontrol.com,,
 2020-09-21,covidtestsoc.com,ns28.domaincontrol.com,,
+2020-09-21,diineedacovid19test.ws,diineedacovid19test.ws,,
+2020-09-21,diineedacovid19test.ws,mail.hope-mail.com,,
+2020-09-21,discoverycovid19tests.ph,45.79.222.138,US,North America
 2020-09-21,discoverycovid19tests.ph,discoverycovid19tests.ph,,
 2020-09-21,diycovid19testing.com,34.102.136.180,US,North America
+2020-09-21,diycovid19testing.com,diycovid19testing.com,,
+2020-09-21,diycovid19testing.com,ns27.domaincontrol.com,,
+2020-09-21,diycovid19testing.com,ns28.domaincontrol.com,,
+2020-09-21,primecovidtesting.com,lisa.ns.cloudflare.com,,
+2020-09-21,primecovidtesting.com,primecovidtesting.com,,
+2020-09-21,primecovidtesting.com,terry.ns.cloudflare.com,,
 2020-09-21,quickcovidtest.co,34.102.136.180,US,North America
 2020-09-21,quickcovidtest.co,quickcovidtest.co,,
 2020-09-21,testnacovid.xyz,185.253.212.22,PL,Europe
