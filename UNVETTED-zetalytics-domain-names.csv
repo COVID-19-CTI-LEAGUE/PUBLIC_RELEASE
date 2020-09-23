@@ -142,10 +142,6 @@
 2020-09-22,covidantibodytestmatch.ph,covidantibodytestmatch.ph,,
 2020-09-22,covidatest.com,82.223.107.237,ES,Europe
 2020-09-22,covidatest.com,covidatest.com,,
-2020-09-22,covidatest.com,ns1022.ui-dns.com,,
-2020-09-22,covidatest.com,ns1027.ui-dns.org,,
-2020-09-22,covidatest.com,ns1037.ui-dns.de,,
-2020-09-22,covidatest.com,ns1083.ui-dns.biz,,
 2020-09-22,covid-gemotest.ru,81.177.139.151,RU,Europe
 2020-09-22,covid-gemotest.ru,covid-gemotest.ru,,
 2020-09-22,covid-gemotest.ru,ns1.jino.ru,,
@@ -191,9 +187,7 @@
 2020-09-22,cureforcovid19.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
 2020-09-22,cureforcovid19.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
 2020-09-22,cureforcovid19.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-09-22,ontario-covid19-testing.com,158.85.87.76,CA,North America
 2020-09-22,ontariocovid19testing.com,158.85.87.76,CA,North America
-2020-09-22,ontario-covid19-testing.com,ontario-covid19-testing.com,,
 2020-09-22,ontariocovid19testing.com,ontariocovid19testing.com,,
 2020-09-22,rapidcovid19testing.co.uk,athena.hosts.co.uk,,
 2020-09-22,rapidcovid19testing.co.uk,hermes.hosts.co.uk,,
@@ -218,6 +212,8 @@
 2020-09-22,www.rapidcovid19testing.co.uk,rapidcovid19testing.co.uk,,
 2020-09-23,collegecovidtesting.fm,collegecovidtesting.fm,,
 2020-09-23,collegecovidtesting.fm,mail.h-email.net,,
+2020-09-23,collegecovidtesting.ph,45.79.222.138,US,North America
+2020-09-23,collegecovidtesting.ph,collegecovidtesting.ph,,
 2020-09-23,coronavirussalivainstanttest.com,34.102.136.180,US,North America
 2020-09-23,coronavirussalivainstanttest.com,coronavirussalivainstanttest.com,,
 2020-09-23,coronavirussalivainstanttest.com,ns51.domaincontrol.com,,
@@ -234,12 +230,17 @@
 2020-09-23,covid-schnelltest.org,ns1069.ui-dns.biz,,
 2020-09-23,covid-schnelltest.org,ns1085.ui-dns.de,,
 2020-09-23,covidsneltest.nu,188.93.150.35,NL,Europe
+2020-09-23,covidsneltest.nu,2a00:4e40:1:1::2:207,NL,Europe
 2020-09-23,covidsneltest.nu,covidsneltest.nu,,
 2020-09-23,covidsneltest.nu,ns1.metaregistrar.nl,,
 2020-09-23,covidsneltest.nu,ns2.metaregistrar.nl,,
 2020-09-23,covidtestcost.com,3.10.182.60,GB,Europe
 2020-09-23,covidtestcost.com,3.10.74.165,GB,Europe
 2020-09-23,covidtestcost.com,covidtestcost.com,,
+2020-09-23,covidtestcost.com,ns-1268.awsdns-30.org,,
+2020-09-23,covidtestcost.com,ns-1741.awsdns-25.co.uk,,
+2020-09-23,covidtestcost.com,ns-489.awsdns-61.com,,
+2020-09-23,covidtestcost.com,ns-539.awsdns-03.net,,
 2020-09-23,covidtesthuntingtonbeach.com,covidtesthuntingtonbeach.com,,
 2020-09-23,covidtesthuntingtonbeach.com,ns21.domaincontrol.com,,
 2020-09-23,covidtesthuntingtonbeach.com,ns22.domaincontrol.com,,
@@ -265,6 +266,8 @@
 2020-09-23,floridarapidcovidtest.com,ns02.squarespacedns.com,,
 2020-09-23,floridarapidcovidtest.com,ns03.squarespacedns.com,,
 2020-09-23,floridarapidcovidtest.com,ns04.squarespacedns.com,,
+2020-09-23,freecovidtesting.us,184.168.131.241,US,North America
+2020-09-23,freecovidtesting.us,freecovidtesting.us,,
 2020-09-23,getatestcovid.com,getatestcovid.com,,
 2020-09-23,getatestcovid.com,ns-cloud-b1.googledomains.com,,
 2020-09-23,getatestcovid.com,ns-cloud-b2.googledomains.com,,
