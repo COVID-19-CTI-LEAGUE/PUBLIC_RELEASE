@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-09-23,airportcovidtesting.com,34.102.136.180,US,North America
 2020-09-23,airportcovidtesting.com,airportcovidtesting.com,,
 2020-09-23,airportcovidtesting.com,ns01.domaincontrol.com,,
 2020-09-23,airportcovidtesting.com,ns02.domaincontrol.com,,
@@ -117,3 +118,4 @@
 2020-09-23,www.vacovid19testing.com,198.71.232.3,US,North America
 2020-09-23,www.vacovid19testing.com,vacovid19testing.com,,
 2020-09-23,xn--covidtest-krnten-5nb.at,xn--covidtest-krnten-5nb.at,,
+2020-09-24,covidtestyou.com,covidtestyou.com,,
