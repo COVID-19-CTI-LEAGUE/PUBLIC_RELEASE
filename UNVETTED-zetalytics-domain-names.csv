@@ -2,84 +2,14 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-09-24,247covid19testing.com,247covid19testing.com,,
-2020-09-24,48hourairportcovidtesting.com,34.102.136.180,US,North America
-2020-09-24,48hourairportcovidtesting.com,48hourairportcovidtesting.com,,
-2020-09-24,48hourairportcovidtesting.com,ns21.domaincontrol.com,,
-2020-09-24,48hourairportcovidtesting.com,ns22.domaincontrol.com,,
-2020-09-24,48hourcovidtesting.com,34.102.136.180,US,North America
-2020-09-24,48hourcovidtesting.com,48hourcovidtesting.com,,
-2020-09-24,48hourcovidtesting.com,ns73.domaincontrol.com,,
-2020-09-24,48hourcovidtesting.com,ns74.domaincontrol.com,,
-2020-09-24,amazoncovidtest.com,2607:f1c0:100f:f000::275,US,North America
-2020-09-24,amazoncovidtest.com,74.208.236.8,US,North America
-2020-09-24,amazoncovidtest.com,amazoncovidtest.com,,
-2020-09-24,amazoncovidtest.com,ns1022.ui-dns.biz,,
-2020-09-24,amazoncovidtest.com,ns1038.ui-dns.de,,
-2020-09-24,amazoncovidtest.com,ns1111.ui-dns.org,,
-2020-09-24,amazoncovidtest.com,ns1119.ui-dns.com,,
-2020-09-24,canadacovidtest.com,canadacovidtest.com,,
-2020-09-24,chicagocovid19tests.ph,chicagocovid19tests.ph,,
-2020-09-24,chloroquinetest.com.ph,chloroquinetest.com.ph,,
-2020-09-24,covid19hometestkits.gouv.sn,covid19hometestkits.gouv.sn,,
-2020-09-24,covid19quicktest.eu,covid19quicktest.eu,,
-2020-09-24,covid19testcanada.com,74.208.236.8,US,North America
-2020-09-24,covid19testcanada.com,covid19testcanada.com,,
-2020-09-24,covid19testcanada.com,ns1022.ui-dns.biz,,
-2020-09-24,covid19testcanada.com,ns1038.ui-dns.de,,
-2020-09-24,covid19testcanada.com,ns1111.ui-dns.org,,
-2020-09-24,covid19testcanada.com,ns1119.ui-dns.com,,
-2020-09-24,covid19testcvs.com,covid19testcvs.com,,
-2020-09-24,covid19testcvs.com,ns1.mytrafficmanagement.com,,
-2020-09-24,covid19testcvs.com,ns2.mytrafficmanagement.com,,
-2020-09-24,covid19testleri.com,covid19testleri.com,,
-2020-09-24,covidatest.pt,covidatest.pt,,
-2020-09-24,covid-schnelltest.info,covid-schnelltest.info,,
-2020-09-24,covid-secure-cleaning.com,covid-secure-cleaning.com,,
-2020-09-24,covid-teststation.com,2a01:238:20a:202:1082::,DE,Europe
-2020-09-24,covid-teststation.com,81.169.145.82,DE,Europe
-2020-09-24,covid-teststation.com,covid-teststation.com,,
-2020-09-24,covidtestyou.com,covidtestyou.com,,
-2020-09-24,getcovidtesthome.com,getcovidtesthome.com,,
-2020-09-24,gocovidsecure.com,gocovidsecure.com,,
-2020-09-24,hamiltoncovidtest.ca,dns@jomax.net,,
-2020-09-24,hamiltoncovidtest.ca,hamiltoncovidtest.ca,,
-2020-09-24,hamiltoncovidtest.ca,ns53.domaincontrol.com,,
-2020-09-24,leedscovidtesting.org,leedscovidtesting.org,,
-2020-09-24,loganrapidcovidtesting.com,loganrapidcovidtesting.com,,
-2020-09-24,massachusettscovidtesting.com,massachusettscovidtesting.com,,
-2020-09-24,nilexcovidtest.com,nilexcovidtest.com,,
-2020-09-24,nilexcovidtest.com,ns73.domaincontrol.com,,
-2020-09-24,nilexcovidtest.com,ns74.domaincontrol.com,,
-2020-09-24,otccovidtest.com,34.102.136.180,US,North America
-2020-09-24,otccovidtest.com,otccovidtest.com,,
-2020-09-24,revealcovid19test.xyz,revealcovid19test.xyz,,
-2020-09-24,secure-covid.com,alt1.aspmx.l.google.com,,
-2020-09-24,secure-covid.com,alt2.aspmx.l.google.com,,
-2020-09-24,secure-covid.com,alt3.aspmx.l.google.com,,
-2020-09-24,secure-covid.com,alt4.aspmx.l.google.com,,
-2020-09-24,secure-covid.com,secure-covid.com,,
-2020-09-24,testdfecoviddevices.org.uk,217.70.184.38,FR,Europe
-2020-09-24,testdfecoviddevices.org.uk,testdfecoviddevices.org.uk,,
-2020-09-24,testi-coronavirus.ru,87.236.16.82,RU,Europe
-2020-09-24,testi-coronavirus.ru,mx1.beget.com,,
-2020-09-24,testi-coronavirus.ru,mx2.beget.com,,
-2020-09-24,testi-coronavirus.ru,ns1.beget.com,,
-2020-09-24,testi-coronavirus.ru,ns1.beget.pro,,
-2020-09-24,testi-coronavirus.ru,ns1.beget.ru,,
-2020-09-24,testi-coronavirus.ru,ns2.beget.com,,
-2020-09-24,testi-coronavirus.ru,ns2.beget.pro,,
-2020-09-24,testi-coronavirus.ru,ns2.beget.ru,,
-2020-09-24,testi-coronavirus.ru,testi-coronavirus.ru,,
-2020-09-24,www.amazoncovidtest.com,74.208.236.8,US,North America
-2020-09-24,www.hamiltoncovidtest.ca,hamiltoncovidtest.ca,,
-2020-09-24,www.revealcovid19test.xyz,93.89.226.17,CY,Europe
-2020-09-24,www.revealcovid19test.xyz,revealcovid19test.xyz,,
 2020-09-25,4minutecovidtest.com,4minutecovidtest.com,,
+2020-09-25,amazoncovid19test.com,2607:f1c0:100f:f000::275,US,North America
+2020-09-25,amazoncovid19test.com,amazoncovid19test.com,,
 2020-09-25,cbfindcovidtests.net,66.96.162.138,US,North America
 2020-09-25,cbfindcovidtests.net,cbfindcovidtests.net,,
 2020-09-25,cbfindcovidtests.net,mx.cbfindcovidtests.net,,
 2020-09-25,cbfindcovidtests.online,cbfindcovidtests.online,,
+2020-09-25,cbfindcovidtests.store,66.96.162.138,US,North America
 2020-09-25,cbfindcovidtests.store,cbfindcovidtests.store,,
 2020-09-25,covid19-schnelltest.info,2001:8d8:100f:f000::21b,DE,Europe
 2020-09-25,covid19-schnelltest.info,covid19-schnelltest.info,,
@@ -115,11 +45,13 @@
 2020-09-25,covidtestmexico.com,2607:f1c0:100f:f000::275,US,North America
 2020-09-25,covidtestmexico.com,74.208.236.8,US,North America
 2020-09-25,covidtestmexico.com,covidtestmexico.com,,
+2020-09-25,covidtestsb.com,covidtestsb.com,,
 2020-09-25,covidtestskits.com,34.102.136.180,US,North America
 2020-09-25,covidtestskits.com,covidtestskits.com,,
 2020-09-25,covidtestskits.com,ns19.domaincontrol.com,,
 2020-09-25,covidtestskits.com,ns20.domaincontrol.com,,
 2020-09-25,doineedacovidi9test.com,doineedacovidi9test.com,,
+2020-09-25,inhometestcovid19.com,inhometestcovid19.com,,
 2020-09-25,instanttestcovid19.xn--od0alg.cn,instanttestcovid19.xn--od0alg.cn,,
 2020-09-25,massachusettscovid19testing.com,massachusettscovid19testing.com,,
 2020-09-25,millicovidtesti.com,millicovidtesti.com,,
