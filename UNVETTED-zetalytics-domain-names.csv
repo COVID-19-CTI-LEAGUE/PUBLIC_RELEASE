@@ -4,6 +4,7 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-09-25,4minutecovidtest.com,4minutecovidtest.com,,
 2020-09-25,amazoncovid19test.com,2607:f1c0:100f:f000::275,US,North America
+2020-09-25,amazoncovid19test.com,74.208.236.8,US,North America
 2020-09-25,amazoncovid19test.com,amazoncovid19test.com,,
 2020-09-25,cbfindcovidtests.com,66.96.162.138,US,North America
 2020-09-25,cbfindcovidtests.com,cbfindcovidtests.com,,
@@ -121,6 +122,7 @@
 2020-09-25,xpresscovidtest.com,xpresscovidtest.com,,
 2020-09-26,amazoncovidtest.ph,45.79.222.138,US,North America
 2020-09-26,amazoncovidtest.ph,amazoncovidtest.ph,,
+2020-09-26,buycoronavirustestkit.ph,buycoronavirustestkit.ph,,
 2020-09-26,californiacoronavirustesting.com.ph,californiacoronavirustesting.com.ph,,
 2020-09-26,confidentialcovidtesting.ca,confidentialcovidtesting.ca,,
 2020-09-26,covid-schnelltest.net,covid-schnelltest.net,,
@@ -128,7 +130,10 @@
 2020-09-26,covid-schnelltest.net,ns1054.ui-dns.org,,
 2020-09-26,covid-schnelltest.net,ns1062.ui-dns.de,,
 2020-09-26,covid-schnelltest.net,ns1069.ui-dns.biz,,
+2020-09-26,covidspeedtester.com,34.102.136.180,US,North America
 2020-09-26,covidspeedtester.com,covidspeedtester.com,,
+2020-09-26,covidspeedtester.com,ns17.domaincontrol.com,,
+2020-09-26,covidspeedtester.com,ns18.domaincontrol.com,,
 2020-09-26,covidtester.ch,covidtester.ch,,
 2020-09-26,covidtestival.nl,52.58.154.10,DE,Europe
 2020-09-26,covidtestival.nl,covidtestival.nl,,
