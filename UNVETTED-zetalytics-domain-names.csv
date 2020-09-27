@@ -4,6 +4,7 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-09-26,amazoncovidtest.ph,45.79.222.138,US,North America
 2020-09-26,amazoncovidtest.ph,amazoncovidtest.ph,,
+2020-09-26,buycoronavirustestkit.ph,45.79.222.138,US,North America
 2020-09-26,buycoronavirustestkit.ph,buycoronavirustestkit.ph,,
 2020-09-26,californiacoronavirustesting.com.ph,45.79.222.138,US,North America
 2020-09-26,californiacoronavirustesting.com.ph,californiacoronavirustesting.com.ph,,
@@ -13,6 +14,8 @@
 2020-09-26,covid-schnelltest.net,2001:8d8:100f:f000::21b,DE,Europe
 2020-09-26,covid-schnelltest.net,217.160.0.94,DE,Europe
 2020-09-26,covid-schnelltest.net,covid-schnelltest.net,,
+2020-09-26,covid-schnelltest.net,mx00.ionos.de,,
+2020-09-26,covid-schnelltest.net,mx01.ionos.de,,
 2020-09-26,covid-schnelltest.net,ns1032.ui-dns.com,,
 2020-09-26,covid-schnelltest.net,ns1054.ui-dns.org,,
 2020-09-26,covid-schnelltest.net,ns1062.ui-dns.de,,
@@ -74,6 +77,7 @@
 2020-09-27,hometestmycovid.com,hometestmycovid.com,,
 2020-09-27,hometestmycovid.com,ns75.domaincontrol.com,,
 2020-09-27,hometestmycovid.com,ns76.domaincontrol.com,,
+2020-09-27,myoncallcovidtest.com,34.102.136.180,US,North America
 2020-09-27,myoncallcovidtest.com,myoncallcovidtest.com,,
 2020-09-27,myoncallcovidtest.com,ns49.domaincontrol.com,,
 2020-09-27,myoncallcovidtest.com,ns50.domaincontrol.com,,
