@@ -2,69 +2,13 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-09-26,amazoncovidtest.ph,45.79.222.138,US,North America
-2020-09-26,amazoncovidtest.ph,amazoncovidtest.ph,,
-2020-09-26,buycoronavirustestkit.ph,45.79.222.138,US,North America
-2020-09-26,buycoronavirustestkit.ph,buycoronavirustestkit.ph,,
-2020-09-26,californiacoronavirustesting.com.ph,45.79.222.138,US,North America
-2020-09-26,californiacoronavirustesting.com.ph,californiacoronavirustesting.com.ph,,
-2020-09-26,confidentialcovidtesting.ca,confidentialcovidtesting.ca,,
-2020-09-26,corona19testkit.gov.me,corona19testkit.gov.me,,
-2020-09-26,covid19testkit.org.ge,covid19testkit.org.ge,,
-2020-09-26,covid-schnelltest.net,2001:8d8:100f:f000::21b,DE,Europe
-2020-09-26,covid-schnelltest.net,217.160.0.94,DE,Europe
-2020-09-26,covid-schnelltest.net,covid-schnelltest.net,,
-2020-09-26,covid-schnelltest.net,mx00.ionos.de,,
-2020-09-26,covid-schnelltest.net,mx01.ionos.de,,
-2020-09-26,covid-schnelltest.net,ns1032.ui-dns.com,,
-2020-09-26,covid-schnelltest.net,ns1054.ui-dns.org,,
-2020-09-26,covid-schnelltest.net,ns1062.ui-dns.de,,
-2020-09-26,covid-schnelltest.net,ns1069.ui-dns.biz,,
-2020-09-26,covidspeedtester.com,34.102.136.180,US,North America
-2020-09-26,covidspeedtester.com,covidspeedtester.com,,
-2020-09-26,covidspeedtester.com,ns17.domaincontrol.com,,
-2020-09-26,covidspeedtester.com,ns18.domaincontrol.com,,
-2020-09-26,covidtester.ch,2a00:d70::a:0:0:0:166,CH,Europe
-2020-09-26,covidtester.ch,covidtester.ch,,
-2020-09-26,covidtestival.nl,52.58.154.10,DE,Europe
-2020-09-26,covidtestival.nl,covidtestival.nl,,
-2020-09-26,covid-teststation.at,185.51.8.94,AT,Europe
-2020-09-26,covid-teststation.at,covid-teststation.at,,
-2020-09-26,covid-teststation.at,covidteststation-at01c.mail.protection.outlook.com,,
-2020-09-26,gemotest-covid.ru,gemotest-covid.ru,,
-2020-09-26,gemotest-covid.ru,mail.gemotest-covid.ru,,
-2020-09-26,hacertestcovid.com,2001:8d8:100f:f000::2da,DE,Europe
-2020-09-26,hacertestcovid.com,217.160.0.113,DE,Europe
-2020-09-26,hacertestcovid.com,hacertestcovid.com,,
-2020-09-26,hacertestcovid.com,ns1034.ui-dns.de,,
-2020-09-26,hacertestcovid.com,ns1076.ui-dns.com,,
-2020-09-26,hacertestcovid.com,ns1105.ui-dns.org,,
-2020-09-26,hacertestcovid.com,ns1117.ui-dns.biz,,
-2020-09-26,k9covidtest.com,146.112.61.107,,Europe
-2020-09-26,k9covidtest.com,k9covidtest.com,,
-2020-09-26,keyworkercovidtests.com,34.102.136.180,US,North America
-2020-09-26,keyworkercovidtests.com,keyworkercovidtests.com,,
-2020-09-26,keyworkercovidtests.com,ns11.domaincontrol.com,,
-2020-09-26,keyworkercovidtests.com,ns12.domaincontrol.com,,
-2020-09-26,socalcovidmobiletesting.com,34.102.136.180,US,North America
-2020-09-26,socalcovidmobiletesting.com,ns11.domaincontrol.com,,
-2020-09-26,socalcovidmobiletesting.com,ns12.domaincontrol.com,,
-2020-09-26,socalcovidmobiletesting.com,socalcovidmobiletesting.com,,
-2020-09-26,testantigenoscovid.com,146.112.61.107,,Europe
-2020-09-26,testantigenoscovid.com,dns1.raiolanetworks.es,,
-2020-09-26,testantigenoscovid.com,dns2.raiolanetworks.es,,
-2020-09-26,testantigenoscovid.com,dns3.raiolanetworks.es,,
-2020-09-26,testantigenoscovid.com,testantigenoscovid.com,,
-2020-09-26,testesaudementalcoronavirus.page,testesaudementalcoronavirus.page,,
-2020-09-26,tests-covid.fr,tests-covid.fr,,
-2020-09-26,www.covidtester.ch,217.26.48.101,CH,Europe
-2020-09-26,www.covidtestival.nl,2a05:d014:953:a00:6874:7470:7270:3,DE,Europe
-2020-09-26,www.covidtestival.nl,52.58.154.10,DE,Europe
 2020-09-27,austinmobilecovidtesting.com,austinmobilecovidtesting.com,,
 2020-09-27,bhcovidtest.com,34.102.136.180,US,North America
 2020-09-27,bhcovidtest.com,bhcovidtest.com,,
 2020-09-27,bhcovidtest.com,ns75.domaincontrol.com,,
 2020-09-27,bhcovidtest.com,ns76.domaincontrol.com,,
+2020-09-27,covidquicktestkit.com,94.73.150.48,TR,Asia
+2020-09-27,covidquicktestkit.com,covidquicktestkit.com,,
 2020-09-27,covid-rapidtest.ch,covid-rapidtest.ch,,
 2020-09-27,covid-rapidtest.ch,nsany1.infomaniak.com,,
 2020-09-27,covid-rapidtest.ch,nsany2.infomaniak.com,,
