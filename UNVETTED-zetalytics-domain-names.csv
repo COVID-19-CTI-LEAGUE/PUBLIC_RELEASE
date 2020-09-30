@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-09-29,covidcure.global,garry@redrawinternet.com,,
 2020-09-29,covidcure.global,ns2.awellconnected.net,,
 2020-09-29,covidcure.global,ns3.awellconnected.net,,
 2020-09-29,covidcure.global,ns.awellconnected.net,,
@@ -12,6 +13,7 @@
 2020-09-29,www.covidcure.global,covidcure.global,,
 2020-09-30,athomecoronavirustesting.ws,athomecoronavirustesting.ws,,
 2020-09-30,athomecoronavirustesting.ws,mail.hope-mail.com,,
+2020-09-30,athome-coronavirustest.ws,64.70.19.203,US,North America
 2020-09-30,athome-coronavirustest.ws,athome-coronavirustest.ws,,
 2020-09-30,coronavaccinecure.info,coronavaccinecure.info,,
 2020-09-30,covidsecureppe.com,2001:8d8:100f:f000::242,DE,Europe
@@ -37,3 +39,5 @@
 2020-09-30,deltacovidtests.com,23.227.38.32,CA,North America
 2020-09-30,rapidcovidtest.biz,208.91.197.27,US,North America
 2020-09-30,rapidcovidtest.biz,rapidcovidtest.biz,,
+2020-09-30,wearecovidsecure.com,217.160.0.230,DE,Europe
+2020-09-30,wearecovidsecure.com,wearecovidsecure.com,,
