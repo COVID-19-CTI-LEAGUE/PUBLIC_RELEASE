@@ -3,3 +3,16 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-09-30,covidsecureshops.com,covidsecureshops.com,,
+2020-09-30,covidsecureshops.com,ns1023.ui-dns.de,,
+2020-09-30,covidsecureshops.com,ns1060.ui-dns.biz,,
+2020-09-30,covidsecureshops.com,ns1084.ui-dns.org,,
+2020-09-30,covidsecureshops.com,ns1097.ui-dns.com,,
+2020-09-30,covidtesta4.nl,covidtesta4.nl,,
+2020-09-30,covid-testpunt.nl,alt1.aspmx.l.google.com,,
+2020-09-30,covid-testpunt.nl,alt2.aspmx.l.google.com,,
+2020-09-30,covid-testpunt.nl,aspmx2.googlemail.com,,
+2020-09-30,covid-testpunt.nl,aspmx3.googlemail.com,,
+2020-09-30,covid-testpunt.nl,aspmx4.googlemail.com,,
+2020-09-30,covid-testpunt.nl,aspmx5.googlemail.com,,
+2020-09-30,covid-testpunt.nl,aspmx.l.google.com,,
+2020-09-30,covid-testpunt.nl,covid-testpunt.nl,,
