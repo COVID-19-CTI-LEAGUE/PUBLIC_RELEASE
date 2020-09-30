@@ -2,8 +2,12 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-09-29,covidcure.global,ns2.awellconnected.net,,
+2020-09-29,covidcure.global,ns3.awellconnected.net,,
+2020-09-29,covidcure.global,ns.awellconnected.net,,
 2020-09-29,covidtest-logicmed.com,ns25.domaincontrol.com,,
 2020-09-29,covidtest-logicmed.com,ns26.domaincontrol.com,,
+2020-09-29,mucovidcontestforum.net,mail.mucovidcontestforum.net,,
 2020-09-29,www.covidcure.global,83.167.180.132,GB,Europe
 2020-09-29,www.covidcure.global,covidcure.global,,
 2020-09-30,athomecoronavirustesting.ws,athomecoronavirustesting.ws,,
