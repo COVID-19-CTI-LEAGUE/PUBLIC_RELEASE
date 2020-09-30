@@ -2,12 +2,26 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-09-29,covidtest-logicmed.com,ns25.domaincontrol.com,,
+2020-09-29,covidtest-logicmed.com,ns26.domaincontrol.com,,
+2020-09-29,www.covidcure.global,83.167.180.132,GB,Europe
+2020-09-29,www.covidcure.global,covidcure.global,,
+2020-09-30,athomecoronavirustesting.ws,athomecoronavirustesting.ws,,
+2020-09-30,athomecoronavirustesting.ws,mail.hope-mail.com,,
+2020-09-30,athome-coronavirustest.ws,athome-coronavirustest.ws,,
+2020-09-30,coronavaccinecure.info,coronavaccinecure.info,,
+2020-09-30,covidsecureppe.com,2001:8d8:100f:f000::242,DE,Europe
+2020-09-30,covidsecureppe.com,covidsecureppe.com,,
 2020-09-30,covidsecureshops.com,covidsecureshops.com,,
 2020-09-30,covidsecureshops.com,ns1023.ui-dns.de,,
 2020-09-30,covidsecureshops.com,ns1060.ui-dns.biz,,
 2020-09-30,covidsecureshops.com,ns1084.ui-dns.org,,
 2020-09-30,covidsecureshops.com,ns1097.ui-dns.com,,
 2020-09-30,covidtesta4.nl,covidtesta4.nl,,
+2020-09-30,covidtestingcentre.co.uk,covidtestingcentre.co.uk,,
+2020-09-30,covidtestingcentre.co.uk,ns1.bluehost.com,,
+2020-09-30,covidtestingcentre.co.uk,ns2.bluehost.com,,
+2020-09-30,covidtestmobil.de,covidtestmobil.de,,
 2020-09-30,covid-testpunt.nl,alt1.aspmx.l.google.com,,
 2020-09-30,covid-testpunt.nl,alt2.aspmx.l.google.com,,
 2020-09-30,covid-testpunt.nl,aspmx2.googlemail.com,,
@@ -16,3 +30,6 @@
 2020-09-30,covid-testpunt.nl,aspmx5.googlemail.com,,
 2020-09-30,covid-testpunt.nl,aspmx.l.google.com,,
 2020-09-30,covid-testpunt.nl,covid-testpunt.nl,,
+2020-09-30,deltacovidtests.com,23.227.38.32,CA,North America
+2020-09-30,rapidcovidtest.biz,208.91.197.27,US,North America
+2020-09-30,rapidcovidtest.biz,rapidcovidtest.biz,,
