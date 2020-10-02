@@ -33,6 +33,8 @@
 2020-10-01,covidsecurebusiness.com,ns1084.ui-dns.org,,
 2020-10-01,covidsecurebusiness.com,ns1097.ui-dns.com,,
 2020-10-01,covidtest.delivery,covidtest.delivery,,
+2020-10-01,covidtest.delivery,ns67.domaincontrol.com,,
+2020-10-01,covidtest.delivery,ns68.domaincontrol.com,,
 2020-10-01,covidtestingtoolkit.org,covidtestingtoolkit.org,,
 2020-10-01,covidtestingtoolkit.org,ns-cloud-e1.googledomains.com,,
 2020-10-01,covidtestingtoolkit.org,ns-cloud-e2.googledomains.com,,
@@ -62,11 +64,20 @@
 2020-10-01,www.covidtest.delivery,2607:f8b0:4000:816::2013,US,North America
 2020-10-01,www.covidtest.delivery,ghs.googlehosted.com,,
 2020-10-02,1800covidtesting.com,1800covidtesting.com,,
+2020-10-02,1800covidtesting.com,ns1.uniregistry-dns.com,,
+2020-10-02,1800covidtesting.com,ns1.uniregistry-dns.net,,
+2020-10-02,1800covidtesting.com,ns2.uniregistry-dns.com,,
+2020-10-02,1800covidtesting.com,ns2.uniregistry-dns.net,,
 2020-10-02,autodiscover.covid19-testovi.com,91.234.46.86,HR,Europe
 2020-10-02,covid19antijentesti.com,85.159.66.93,TR,Asia
 2020-10-02,covid19antijentesti.com,covid19antijentesti.com,,
+2020-10-02,covid-19-bloodtest.xn--fiqs8s,covid-19-bloodtest.xn--fiqs8s,,
 2020-10-02,covid19-heimtest.com,217.160.223.111,DE,Europe
 2020-10-02,covid19-heimtest.com,covid19-heimtest.com,,
+2020-10-02,covid19-heimtest.com,ns1073.ui-dns.com,,
+2020-10-02,covid19-heimtest.com,ns1088.ui-dns.de,,
+2020-10-02,covid19-heimtest.com,ns1095.ui-dns.biz,,
+2020-10-02,covid19-heimtest.com,ns1097.ui-dns.org,,
 2020-10-02,covid19-testovi.com,91.234.46.86,HR,Europe
 2020-10-02,covid19-testovi.com,covid19-testovi.com,,
 2020-10-02,easyrapidcovidtestkits.com,easyrapidcovidtestkits.com,,
@@ -85,6 +96,7 @@
 2020-10-02,pooledcovidtest.com,ns57.domaincontrol.com,,
 2020-10-02,pooledcovidtest.com,ns58.domaincontrol.com,,
 2020-10-02,pooledcovidtest.com,pooledcovidtest.com,,
+2020-10-02,stopcovidtesting.ca,stopcovidtesting.ca,,
 2020-10-02,tucovidtest.com,82.98.135.44,ES,Europe
 2020-10-02,tucovidtest.com,tucovidtest.com,,
 2020-10-02,wicovidtest.com,34.102.136.180,US,North America
