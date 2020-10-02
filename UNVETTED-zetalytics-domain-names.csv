@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-10-01,airportcovid19test.com,208.91.197.91,VG,North America
 2020-10-01,airportcovid19test.com,airportcovid19test.com,,
 2020-10-01,airportcovid19test.com,ns1.whois.com,,
 2020-10-01,airportcovid19test.com,ns2.whois.com,,
@@ -96,6 +97,8 @@
 2020-10-02,covid19-rychlotest.sk,covid19-rychlotest.sk,,
 2020-10-02,covid19-testovi.com,91.234.46.86,HR,Europe
 2020-10-02,covid19-testovi.com,covid19-testovi.com,,
+2020-10-02,covid19-testovi.com,ns1.crohost.net,,
+2020-10-02,covid19-testovi.com,ns2.crohost.net,,
 2020-10-02,covidtestingaustralia.com.au,202.124.241.178,AU,Oceania
 2020-10-02,covidtestingaustralia.com.au,covidtestingaustralia.com.au,,
 2020-10-02,covidtestinglm.ca,covidtestinglm.ca,,
@@ -116,6 +119,7 @@
 2020-10-02,hicovidtest.com,hicovidtest.com,,
 2020-10-02,hicovidtest.com,ns41.domaincontrol.com,,
 2020-10-02,hicovidtest.com,ns42.domaincontrol.com,,
+2020-10-02,occovidtest.com,occovidtest.com,,
 2020-10-02,ottawacovidtestingcommunityforum.com,23.236.62.147,US,North America
 2020-10-02,ottawacovidtestingcommunityforum.com,ottawacovidtestingcommunityforum.com,,
 2020-10-02,pooledcovidtest.com,34.102.136.180,US,North America
