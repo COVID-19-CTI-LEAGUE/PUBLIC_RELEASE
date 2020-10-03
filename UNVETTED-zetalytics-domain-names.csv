@@ -3,6 +3,7 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-10-02,1800covidtesting.com,1800covidtesting.com,,
+2020-10-02,1800covidtesting.com,69.172.201.218,US,North America
 2020-10-02,1800covidtesting.com,ns1.uniregistry-dns.com,,
 2020-10-02,1800covidtesting.com,ns1.uniregistry-dns.net,,
 2020-10-02,1800covidtesting.com,ns2.uniregistry-dns.com,,
@@ -115,6 +116,7 @@
 2020-10-03,covid19zelftesten.com,ns1.hostnet.nl,,
 2020-10-03,covid19zelftesten.com,ns2.hostnetbv.com,,
 2020-10-03,covid19zelftesten.com,ns3.hostnetbv.nl,,
+2020-10-03,covidhometestkit.co.za,129.232.251.95,ZA,Africa
 2020-10-03,covidhometestkit.co.za,covidhometestkit.co.za,,
 2020-10-03,covidplustesting.com,23.236.62.147,US,North America
 2020-10-03,covidplustesting.com,covidplustesting.com,,
@@ -138,6 +140,8 @@
 2020-10-03,curecovid19.today,curecovid19.today,,
 2020-10-03,curecovid19.today,ns21.domaincontrol.com,,
 2020-10-03,curecovid19.today,ns22.domaincontrol.com,,
+2020-10-03,ftp.covidhometestkit.co.za,129.232.251.95,ZA,Africa
+2020-10-03,ftp.covidhometestkit.co.za,www.covidhometestkit.co.za,,
 2020-10-03,hnlcovidtest.com,34.102.136.180,US,North America
 2020-10-03,hnlcovidtest.com,hnlcovidtest.com,,
 2020-10-03,hnlcovidtest.com,ns19.domaincontrol.com,,
@@ -145,10 +149,17 @@
 2020-10-03,homecovidtest.org,homecovidtest.org,,
 2020-10-03,homecovidtest.org,ns15.domaincontrol.com,,
 2020-10-03,homecovidtest.org,ns16.domaincontrol.com,,
+2020-10-03,imap.covidhometestkit.co.za,129.232.251.95,ZA,Africa
+2020-10-03,imap.covidhometestkit.co.za,mail.covidhometestkit.co.za,,
+2020-10-03,mail.covidhometestkit.co.za,129.232.251.95,ZA,Africa
 2020-10-03,officecovidtesting.com,34.102.136.180,US,North America
 2020-10-03,officecovidtesting.com,officecovidtesting.com,,
 2020-10-03,officecovidtesting.com,pdns07.domaincontrol.com,,
 2020-10-03,officecovidtesting.com,pdns08.domaincontrol.com,,
+2020-10-03,pop.covidhometestkit.co.za,129.232.251.95,ZA,Africa
+2020-10-03,pop.covidhometestkit.co.za,mail.covidhometestkit.co.za,,
+2020-10-03,smtp.covidhometestkit.co.za,129.232.251.95,ZA,Africa
+2020-10-03,smtp.covidhometestkit.co.za,mail.covidhometestkit.co.za,,
 2020-10-03,snacovidtest.com,34.102.136.180,US,North America
 2020-10-03,snacovidtest.com,snacovidtest.com,,
 2020-10-03,sneltest-corona-covid19.nl,195.20.9.57,NL,Europe
@@ -164,3 +175,4 @@
 2020-10-03,tvlcovidtest.com,tvlcovidtest.com,,
 2020-10-03,www.covid19-heimtest.online,2001:8d8:1000:1007:9d66:45b:a685:c03e,DE,Europe
 2020-10-03,www.covid19-heimtest.online,217.160.223.111,DE,Europe
+2020-10-03,www.covidhometestkit.co.za,129.232.251.95,ZA,Africa
