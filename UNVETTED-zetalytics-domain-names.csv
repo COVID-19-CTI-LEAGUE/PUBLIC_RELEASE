@@ -51,6 +51,7 @@
 2020-10-03,covid19thuistest.com,ns1.hostnet.nl,,
 2020-10-03,covid19thuistest.com,ns2.hostnetbv.com,,
 2020-10-03,covid19thuistest.com,ns3.hostnetbv.nl,,
+2020-10-03,covid19thuistest.com,(v=spf1 a mx include:_spf.hostnet.nl -all,,
 2020-10-03,covid19zelftesten.com,covid19zelftesten.com,,
 2020-10-03,covid19zelftesten.com,ns1.hostnet.nl,,
 2020-10-03,covid19zelftesten.com,ns2.hostnetbv.com,,
@@ -165,10 +166,12 @@
 2020-10-03,testescovid.com,ns7.wixdns.net,,
 2020-10-03,testescovid.com,testescovid.com,,
 2020-10-03,testingcovid19yourzelf.com,91.184.0.100,NL,Europe
+2020-10-03,testingcovid19yourzelf.com,KHY9c3BmMSBhIG14IGluY2x1ZGU6X3NwZi5ob3N0bmV0Lm5sIC1hbGw=,,
 2020-10-03,testingcovid19yourzelf.com,ns1.hostnet.nl,,
 2020-10-03,testingcovid19yourzelf.com,ns2.hostnetbv.com,,
 2020-10-03,testingcovid19yourzelf.com,ns3.hostnetbv.nl,,
 2020-10-03,testingcovid19yourzelf.com,testingcovid19yourzelf.com,,
+2020-10-03,testingcovid19yourzelf.com,(v=spf1 a mx include:_spf.hostnet.nl -all,,
 2020-10-03,testynacovid.czest.pl,blackhole.aftermarket.pl,,
 2020-10-03,testynacovid.czest.pl,testynacovid.czest.pl,,
 2020-10-03,tvlcovidtest.com,34.102.136.180,US,North America
@@ -207,6 +210,7 @@
 2020-10-04,covid19-schnelltest.org,ns2.world4you.at,,
 2020-10-04,covid19testung.de,covid19testung.de,,
 2020-10-04,covid2019rapidtest.dev,covid2019rapidtest.dev,,
+2020-10-04,covidaccutest.com,34.102.136.180,US,North America
 2020-10-04,covidaccutest.com,covidaccutest.com,,
 2020-10-04,covidaccutest.com,ns35.domaincontrol.com,,
 2020-10-04,covidaccutest.com,ns36.domaincontrol.com,,
@@ -238,6 +242,7 @@
 2020-10-04,curecorona19.net,ns29.domaincontrol.com,,
 2020-10-04,curecorona-19.net,ns30.domaincontrol.com,,
 2020-10-04,curecorona19.net,ns30.domaincontrol.com,,
+2020-10-04,curelongcovid.com,217.160.0.185,DE,Europe
 2020-10-04,curelongcovid.com,curelongcovid.com,,
 2020-10-04,curelongcovid.com,ns1019.ui-dns.com,,
 2020-10-04,curelongcovid.com,ns1023.ui-dns.biz,,
