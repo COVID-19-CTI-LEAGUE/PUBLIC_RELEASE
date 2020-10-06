@@ -2,122 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-04,1st2curecoronavirus.ph,1st2curecoronavirus.ph,,
-2020-10-04,5minutecovid-19test.fm,5minutecovid-19test.fm,,
-2020-10-04,5minutecovid-19test.fm,,bio=95866ffa72b905b06f2ac03e95657df9d17c4f47,,
-2020-10-04,5minutecovid-19test.fm,I3Y9c3BmMSBpcDY6ZmRkYjowY2Y0OmEzY2Y6Oi80OCAtYWxs,,
-2020-10-04,5minutecovid-19test.fm,LGJpbz05NTg2NmZmYTcyYjkwNWIwNmYyYWMwM2U5NTY1N2RmOWQxN2M0ZjQ3,,
-2020-10-04,5minutecovid-19test.fm,#v=spf1 ip6:fddb:0cf4:a3cf::/48 -all,,
-2020-10-04,allltcovidtest.com,66.113.136.229,US,North America
-2020-10-04,allltcovidtest.com,a.dns.hostway.net,,
-2020-10-04,allltcovidtest.com,allltcovidtest.com,,
-2020-10-04,allltcovidtest.com,b.dns.hostway.net,,
-2020-10-04,bergencovidtesting.com,184.168.131.241,US,North America
-2020-10-04,bergencovidtesting.com,bergencovidtesting.com,,
-2020-10-04,bergencovidtesting.com,ns73.domaincontrol.com,,
-2020-10-04,bergencovidtesting.com,ns74.domaincontrol.com,,
-2020-10-04,coronavirustestkitpro.xn--fiqz9s,218.241.116.40,CN,Asia
-2020-10-04,coronavirustestkitpro.xn--fiqz9s,coronavirustestkitpro.xn--fiqz9s,,
-2020-10-04,coronavirustest-shop.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-10-04,coronavirustest-shop.xn--fiqs8s,coronavirustest-shop.xn--fiqs8s,,
-2020-10-04,covid19-schnelltest.org,81.19.154.98,AT,Europe
-2020-10-04,covid19-schnelltest.org,covid19-schnelltest.org,,
-2020-10-04,covid19-schnelltest.org,ns1.world4you.at,,
-2020-10-04,covid19-schnelltest.org,ns2.world4you.at,,
-2020-10-04,covid19testung.de,covid19testung.de,,
-2020-10-04,covid2019rapidtest.dev,covid2019rapidtest.dev,,
-2020-10-04,covidaccutest.com,34.102.136.180,US,North America
-2020-10-04,covidaccutest.com,covidaccutest.com,,
-2020-10-04,covidaccutest.com,ns35.domaincontrol.com,,
-2020-10-04,covidaccutest.com,ns36.domaincontrol.com,,
-2020-10-04,covid-gargletest.com,a.ns14.net,,
-2020-10-04,covid-gargletest.com,b.ns14.net,,
-2020-10-04,covid-gargletest.com,c.ns14.net,,
-2020-10-04,covid-gargletest.com,covid-gargletest.com,,
-2020-10-04,covid-gargletest.com,d.ns14.net,,
-2020-10-04,covid-gargletest.com,do-not-reply@covid-gargletest.com,,
-2020-10-04,covid-schnelltests.info,covid-schnelltests.info,,
-2020-10-04,covid-schnelltests.info,ns1.world4you.at,,
-2020-10-04,covid-schnelltests.info,ns2.world4you.at,,
-2020-10-04,covidtest.co.il,212.150.158.183,IL,Asia
-2020-10-04,covidtest.co.il,covidtest.co.il,,
-2020-10-04,covidtestingaustralia.com,covidtestingaustralia.com,,
-2020-10-04,covidtestingaustralia.com,ns1.netregistry.net,,
-2020-10-04,covidtestingaustralia.com,ns2.netregistry.net,,
-2020-10-04,covidtestingaustralia.com,ns3.netregistry.net,,
-2020-10-04,covidtestlondon.co.uk,88.208.248.84,GB,Europe
-2020-10-04,covidtestlondon.co.uk,alt1.aspmx.l.google.com,,
-2020-10-04,covidtestlondon.co.uk,alt2.aspmx.l.google.com,,
-2020-10-04,covidtestlondon.co.uk,alt3.aspmx.l.google.com,,
-2020-10-04,covidtestlondon.co.uk,alt4.aspmx.l.google.com,,
-2020-10-04,covidtestlondon.co.uk,aspmx.l.google.com,,
-2020-10-04,covidtestlondon.co.uk,covidtestlondon.co.uk,,
-2020-10-04,covidvirustest.dev,covidvirustest.dev,,
-2020-10-04,curecorona-19.net,34.102.136.180,US,North America
-2020-10-04,curecorona19.net,34.102.136.180,US,North America
-2020-10-04,curecorona-19.net,curecorona-19.net,,
-2020-10-04,curecorona19.net,curecorona19.net,,
-2020-10-04,curecorona-19.net,ns29.domaincontrol.com,,
-2020-10-04,curecorona19.net,ns29.domaincontrol.com,,
-2020-10-04,curecorona-19.net,ns30.domaincontrol.com,,
-2020-10-04,curecorona19.net,ns30.domaincontrol.com,,
-2020-10-04,curecorona19.org,curecorona19.org,,
-2020-10-04,curelongcovid.com,217.160.0.185,DE,Europe
-2020-10-04,curelongcovid.com,curelongcovid.com,,
-2020-10-04,curelongcovid.com,ns1019.ui-dns.com,,
-2020-10-04,curelongcovid.com,ns1023.ui-dns.biz,,
-2020-10-04,curelongcovid.com,ns1072.ui-dns.org,,
-2020-10-04,curelongcovid.com,ns1082.ui-dns.de,,
-2020-10-04,fasttestcovid.com,23.227.38.32,CA,North America
-2020-10-04,fasttestcovid.com,fasttestcovid.com,,
-2020-10-04,fasttestcovid.com,ns11.domaincontrol.com,,
-2020-10-04,fasttestcovid.com,ns12.domaincontrol.com,,
-2020-10-04,lasvegascovid19testing.com,198.71.232.3,US,North America
-2020-10-04,lasvegascovid19testing.com,lasvegascovid19testing.com,,
-2020-10-04,lasvegascovid19testing.com,ns09.domaincontrol.com,,
-2020-10-04,lasvegascovid19testing.com,ns10.domaincontrol.com,,
-2020-10-04,nevadacovidtest.com,nevadacovidtest.com,,
-2020-10-04,nevadacovidtest.com,ns25.domaincontrol.com,,
-2020-10-04,nevadacovidtest.com,ns26.domaincontrol.com,,
-2020-10-04,nmcovid19test.com,146.112.61.107,,Europe
-2020-10-04,nmcovid19test.com,nmcovid19test.com,,
-2020-10-04,ontario-covid19-testing.ca,ontario-covid19-testing.ca,,
-2020-10-04,pooledcovid19testing.com,184.168.131.241,US,North America
-2020-10-04,pooledcovid19testing.com,ns57.domaincontrol.com,,
-2020-10-04,pooledcovid19testing.com,ns58.domaincontrol.com,,
-2020-10-04,pooledcovid19testing.com,pooledcovid19testing.com,,
-2020-10-04,pooledcovidtests.com,184.168.131.241,US,North America
-2020-10-04,pooledcovidtests.com,34.102.136.180,US,North America
-2020-10-04,pooledcovidtests.com,ns07.domaincontrol.com,,
-2020-10-04,pooledcovidtests.com,ns08.domaincontrol.com,,
-2020-10-04,pooledcovidtests.com,pooledcovidtests.com,,
-2020-10-04,privatecoronavirutests.com,185.53.177.13,DE,Europe
-2020-10-04,privatecoronavirutests.com,ns1.parkingcrew.net,,
-2020-10-04,privatecoronavirutests.com,ns2.parkingcrew.net,,
-2020-10-04,privatecoronavirutests.com,privatecoronavirutests.com,,
-2020-10-04,selectcovidtest.com,a.dns.hostway.net,,
-2020-10-04,selectcovidtest.com,b.dns.hostway.net,,
-2020-10-04,selectcovidtest.com,selectcovidtest.com,,
-2020-10-04,test.covidtonverre.com,13.227.44.113,US,North America
-2020-10-04,test.covidtonverre.com,13.227.44.14,US,North America
-2020-10-04,test.covidtonverre.com,13.227.44.38,US,North America
-2020-10-04,test.covidtonverre.com,13.227.44.72,US,North America
-2020-10-04,test.covidtonverre.com,99.84.181.116,US,North America
-2020-10-04,test.covidtonverre.com,99.84.181.117,US,North America
-2020-10-04,test.covidtonverre.com,99.84.181.35,US,North America
-2020-10-04,test.covidtonverre.com,99.84.181.55,US,North America
-2020-10-04,testingkit-coronavirus.xn--ngbrx,127.0.53.53,,
-2020-10-04,testingkit-coronavirus.xn--ngbrx,testingkit-coronavirus.xn--ngbrx,,
-2020-10-04,testingkit-covid-19.politie,127.0.53.53,,
-2020-10-04,testingkit-covid-19.politie,testingkit-covid-19.politie,,
-2020-10-04,testingkit-covid19.xn--node,188.93.95.11,GE,Asia
-2020-10-04,testingkit-covid19.xn--node,testingkit-covid19.xn--node,,
-2020-10-04,testnacovid.eu,testnacovid.eu,,
-2020-10-04,testynacovid.com,185.253.212.22,PL,Europe
-2020-10-04,testynacovid.com,ns1.aftermarket.pl,,
-2020-10-04,testynacovid.com,ns2.aftermarket.pl,,
-2020-10-04,testynacovid.com,testynacovid.com,,
-2020-10-04,www.testingkit-covid-19.politie,127.0.53.53,,
 2020-10-05,adventhealthcoronavirustesting.ph,45.79.222.138,US,North America
 2020-10-05,adventhealthcoronavirustesting.ph,adventhealthcoronavirustesting.ph,,
 2020-10-05,adventhealthcoronavirustesting.xn--ngbrx,127.0.53.53,,
@@ -155,6 +39,7 @@
 2020-10-05,mycovidtest.es,ns1.wixdns.net,,
 2020-10-05,pop.mycovidtest.es,195.110.124.132,IT,Europe
 2020-10-05,pop.mycovidtest.es,mail.nominalia.com,,
+2020-10-05,testathomeforcovid.com,198.71.232.3,US,North America
 2020-10-05,testathomeforcovid.com,testathomeforcovid.com,,
 2020-10-05,trumptestedposativeforcoronavirus.com,ns-cloud-a1.googledomains.com,,
 2020-10-05,trumptestedposativeforcoronavirus.com,ns-cloud-a2.googledomains.com,,
