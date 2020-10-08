@@ -2,69 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-06,123covid19sneltest.nl,123covid19sneltest.nl,,
-2020-10-06,24hrcovidtestingnow.com,24hrcovidtestingnow.com,,
-2020-10-06,24hrcovidtestingnow.com,34.102.136.180,US,North America
-2020-10-06,24hrcovidtestingnow.com,ns59.domaincontrol.com,,
-2020-10-06,24hrcovidtestingnow.com,ns60.domaincontrol.com,,
-2020-10-06,covidantijentesti.com,covidantijentesti.com,,
-2020-10-06,covidhealthtestinglabs.com,covidhealthtestinglabs.com,,
-2020-10-06,covidhealthtestinglabs.com,ns-cloud-d1.googledomains.com,,
-2020-10-06,covidhealthtestinglabs.com,ns-cloud-d2.googledomains.com,,
-2020-10-06,covidhealthtestinglabs.com,ns-cloud-d3.googledomains.com,,
-2020-10-06,covidhealthtestinglabs.com,ns-cloud-d4.googledomains.com,,
-2020-10-06,covid-secureworkplace.com,2001:8d8:100f:f000::28d,DE,Europe
-2020-10-06,covid-secureworkplace.com,217.160.0.154,DE,Europe
-2020-10-06,covid-secureworkplace.com,covid-secureworkplace.com,,
-2020-10-06,covid-secureworkplace.com,ns1043.ui-dns.biz,,
-2020-10-06,covid-secureworkplace.com,ns1064.ui-dns.de,,
-2020-10-06,covid-secureworkplace.com,ns1090.ui-dns.org,,
-2020-10-06,covid-secureworkplace.com,ns1091.ui-dns.com,,
-2020-10-06,covidstresscure.com,covidstresscure.com,,
-2020-10-06,covidstresscure.com,ns17.domaincontrol.com,,
-2020-10-06,covidstresscure.com,ns18.domaincontrol.com,,
-2020-10-06,covidtestingnevada.com,34.102.136.180,US,North America
-2020-10-06,covidtestingnevada.com,covidtestingnevada.com,,
-2020-10-06,covidtestingnevada.com,ns09.domaincontrol.com,,
-2020-10-06,covidtestingnevada.com,ns10.domaincontrol.com,,
-2020-10-06,covidtestzdomova.cz,185.129.138.40,CZ,Europe
-2020-10-06,covidtestzdomova.cz,covidtestzdomova.cz,,
-2020-10-06,covidtestzdomova.online,81.2.194.128,CZ,Europe
-2020-10-06,covidtestzdomova.online,covidtestzdomova.online,,
-2020-10-06,covidtestzdomova.online,ns.forpsi.cz,,
-2020-10-06,covidtestzdomova.online,ns.forpsi.it,,
-2020-10-06,covidtestzdomova.online,ns.forpsi.net,,
-2020-10-06,lasvegascovid19test.com,lasvegascovid19test.com,,
-2020-10-06,lasvegascovid19test.com,ns13.domaincontrol.com,,
-2020-10-06,lasvegascovid19test.com,ns14.domaincontrol.com,,
-2020-10-06,laxcovidtest.com,34.102.136.180,US,North America
-2020-10-06,laxcovidtest.com,laxcovidtest.com,,
-2020-10-06,laxcovidtest.com,ns77.domaincontrol.com,,
-2020-10-06,laxcovidtest.com,ns78.domaincontrol.com,,
-2020-10-06,mein-covid-test.de,mein-covid-test.de,,
-2020-10-06,mydualcovidtest.com,mydualcovidtest.com,,
-2020-10-06,mydualcovidtest.com,ns53.domaincontrol.com,,
-2020-10-06,mydualcovidtest.com,ns54.domaincontrol.com,,
-2020-10-06,rapid-test-corona-covid19.com,195.20.11.59,NL,Europe
-2020-10-06,rapid-test-corona-covid19.com,195.20.9.57,NL,Europe
-2020-10-06,rapid-test-corona-covid19.com,2001:1460:2::1c21:6dff:fe00:103,NL,Europe
-2020-10-06,rapid-test-corona-covid19.com,2001:1460:2::1c21:c2ff:fe00:104,NL,Europe
-2020-10-06,rapid-test-corona-covid19.com,ns2.eatserver.nl,,
-2020-10-06,rapid-test-corona-covid19.com,ns.eatserver.nl,,
-2020-10-06,rapid-test-corona-covid19.com,rapid-test-corona-covid19.com,,
-2020-10-06,testeacovid.com,dns112.ovh.net,,
-2020-10-06,testeacovid.com,ns112.ovh.net,,
-2020-10-06,testeacovid.com,testeacovid.com,,
-2020-10-06,testycovid.sk,139.162.130.60,DE,Europe
-2020-10-06,testycovid.sk,testycovid.sk,,
-2020-10-06,travelcovidtest.org,34.102.136.180,US,North America
-2020-10-06,travelcovidtest.org,travelcovidtest.org,,
-2020-10-06,www.covidtestzdomova.cz,185.129.138.40,CZ,Europe
-2020-10-06,www.rapid-test-corona-covid19.com,195.20.11.59,NL,Europe
-2020-10-06,www.rapid-test-corona-covid19.com,195.20.9.57,NL,Europe
-2020-10-06,www.rapid-test-corona-covid19.com,2001:1460:2::1c21:6dff:fe00:103,NL,Europe
-2020-10-06,www.testeacovid.com,213.186.33.5,FR,Europe
-2020-10-06,www.testycovid.sk,139.162.130.60,DE,Europe
 2020-10-07,abc19covidtest.com,abc19covidtest.com,,
 2020-10-07,coronavirustestingresults.ws,coronavirustestingresults.ws,,
 2020-10-07,coronavirustestingresults.ws,mail.hope-mail.com,,
@@ -83,6 +20,9 @@
 2020-10-07,covid-19sensitivitytest.com,ns05.domaincontrol.com,,
 2020-10-07,covid-19sensitivitytest.com,ns06.domaincontrol.com,,
 2020-10-07,covid19testathome.ca,covid19testathome.ca,,
+2020-10-07,covid19-test-camera.com,covid19-test-camera.com,,
+2020-10-07,covid19-test-camera.com,ns1.curanet.dk,,
+2020-10-07,covid19-test-camera.com,ns2.curanet.dk,,
 2020-10-07,covidquickertest.com,covidquickertest.com,,
 2020-10-07,covidquickertest.com,ns29.domaincontrol.com,,
 2020-10-07,covidquickertest.com,ns30.domaincontrol.com,,
@@ -103,6 +43,12 @@
 2020-10-07,covidsecureppe.co.uk,ns1084.ui-dns.org,,
 2020-10-07,covidsecureppe.co.uk,ns1097.ui-dns.com,,
 2020-10-07,covidtesthengelo.nl,covidtesthengelo.nl,,
+2020-10-07,covidtestingokc.com,198.58.118.167,US,North America
+2020-10-07,covidtestingokc.com,45.33.23.183,US,North America
+2020-10-07,covidtestingokc.com,45.33.2.79,US,North America
+2020-10-07,covidtestingokc.com,45.56.79.23,US,North America
+2020-10-07,covidtestingokc.com,45.79.19.196,US,North America
+2020-10-07,covidtestingokc.com,96.126.123.244,US,North America
 2020-10-07,covidtestingokc.com,,bio=cd5542453bd47807b6a02dc4688c863c567da68f,,
 2020-10-07,covidtestingokc.com,covidtestingokc.com,,
 2020-10-07,covidtestingokc.com,I3Y9c3BmMSBpcDY6ZmQ0MzpjMGQxOmMwOTA6Oi80OCAtYWxs,,
@@ -119,6 +65,9 @@
 2020-10-07,hanslocovid19cure.com,hanslocovid19cure.com,,
 2020-10-07,hanslocovid19cure.com,ns11.domaincontrol.com,,
 2020-10-07,hanslocovid19cure.com,ns12.domaincontrol.com,,
+2020-10-07,instantcovidtest.be,instantcovidtest.be,,
+2020-10-07,instantcovidtest.be,ns01.one.com,,
+2020-10-07,instantcovidtest.be,ns02.one.com,,
 2020-10-07,megnacovidtest.com,34.102.136.180,US,North America
 2020-10-07,megnacovidtest.com,megnacovidtest.com,,
 2020-10-07,micovidtest.es,micovidtest.es,,
