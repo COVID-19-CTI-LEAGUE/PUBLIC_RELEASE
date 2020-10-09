@@ -2,10 +2,13 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-10-08,autodiscover.facilitycovidtesting.com,40.101.60.232,NL,Europe
+2020-10-08,autodiscover.facilitycovidtesting.com,40.101.91.88,NL,Europe
 2020-10-08,autodiscover.facilitycovidtesting.com,40.97.132.40,US,North America
 2020-10-08,autodiscover.facilitycovidtesting.com,40.97.160.8,US,North America
 2020-10-08,autodiscover.facilitycovidtesting.com,40.97.80.40,US,North America
 2020-10-08,autodiscover.facilitycovidtesting.com,40.97.84.24,US,North America
+2020-10-08,autodiscover.facilitycovidtesting.com,52.97.178.104,US,North America
 2020-10-08,autodiscover.facilitycovidtesting.com,autod.ha-autod.office.com,,
 2020-10-08,autodiscover.facilitycovidtesting.com,autodiscover.outlook.com,,
 2020-10-08,autodiscover.facilitycovidtesting.com,autod.ms-acdc-autod.office.com,,
@@ -74,15 +77,25 @@
 2020-10-08,unitecovidtest.com,ns-cloud-e3.googledomains.com,,
 2020-10-08,unitecovidtest.com,ns-cloud-e4.googledomains.com,,
 2020-10-08,unitecovidtest.com,unitecovidtest.com,,
+2020-10-09,covid19foamingtests.com,34.102.136.180,US,North America
+2020-10-09,covid19foamingtests.com,covid19foamingtests.com,,
 2020-10-09,covid19testingpuertorico.com,covid19testingpuertorico.com,,
 2020-10-09,covidtest-alyan.com,covidtest-alyan.com,,
 2020-10-09,covidtest-alyan.com,dns47.servidoresdns.net,,
 2020-10-09,covidtest-alyan.com,dns48.servidoresdns.net,,
+2020-10-09,covidtestsb.co,198.58.118.167,US,North America
+2020-10-09,covidtestsb.co,45.33.23.183,US,North America
+2020-10-09,covidtestsb.co,45.33.2.79,US,North America
+2020-10-09,covidtestsb.co,45.56.79.23,US,North America
+2020-10-09,covidtestsb.co,45.79.19.196,US,North America
+2020-10-09,covidtestsb.co,96.126.123.244,US,North America
+2020-10-09,covidtestsb.co,covidtestsb.co,,
 2020-10-09,longcovidcure.com,longcovidcure.com,,
 2020-10-09,longcovidcure.com,ns55.domaincontrol.com,,
 2020-10-09,longcovidcure.com,ns56.domaincontrol.com,,
 2020-10-09,mail.rapidcovid19-testing.com,149.255.62.6,GB,Europe
 2020-10-09,mail.rapidcovid19-testing.com,rapidcovid19-testing.com,,
+2020-10-09,puertoricocovid19testing.com,puertoricocovid19testing.com,,
 2020-10-09,rapidcovid19-testing.com,149.255.62.6,GB,Europe
 2020-10-09,rapidcovid19-testing.com,ns15.domaincontrol.com,,
 2020-10-09,rapidcovid19-testing.com,ns16.domaincontrol.com,,
