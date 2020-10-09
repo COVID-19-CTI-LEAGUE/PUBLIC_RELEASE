@@ -2,6 +2,13 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-10-08,autodiscover.facilitycovidtesting.com,40.97.132.40,US,North America
+2020-10-08,autodiscover.facilitycovidtesting.com,40.97.160.8,US,North America
+2020-10-08,autodiscover.facilitycovidtesting.com,40.97.80.40,US,North America
+2020-10-08,autodiscover.facilitycovidtesting.com,40.97.84.24,US,North America
+2020-10-08,autodiscover.facilitycovidtesting.com,autod.ha-autod.office.com,,
+2020-10-08,autodiscover.facilitycovidtesting.com,autodiscover.outlook.com,,
+2020-10-08,autodiscover.facilitycovidtesting.com,autod.ms-acdc-autod.office.com,,
 2020-10-08,boston48hourcovidtesting.com,boston48hourcovidtesting.com,,
 2020-10-08,boston48hourcovidtesting.com,ns37.domaincontrol.com,,
 2020-10-08,boston48hourcovidtesting.com,ns38.domaincontrol.com,,
@@ -67,3 +74,9 @@
 2020-10-08,unitecovidtest.com,ns-cloud-e3.googledomains.com,,
 2020-10-08,unitecovidtest.com,ns-cloud-e4.googledomains.com,,
 2020-10-08,unitecovidtest.com,unitecovidtest.com,,
+2020-10-09,mail.rapidcovid19-testing.com,149.255.62.6,GB,Europe
+2020-10-09,mail.rapidcovid19-testing.com,rapidcovid19-testing.com,,
+2020-10-09,rapidcovid19-testing.com,149.255.62.6,GB,Europe
+2020-10-09,rapidcovid19-testing.com,rapidcovid19-testing.com,,
+2020-10-09,www.rapidcovid19-testing.com,149.255.62.6,GB,Europe
+2020-10-09,www.rapidcovid19-testing.com,rapidcovid19-testing.com,,
