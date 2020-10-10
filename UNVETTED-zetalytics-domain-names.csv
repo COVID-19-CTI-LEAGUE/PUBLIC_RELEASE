@@ -2,93 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-08,autodiscover.facilitycovidtesting.com,40.101.60.232,NL,Europe
-2020-10-08,autodiscover.facilitycovidtesting.com,40.101.91.88,NL,Europe
-2020-10-08,autodiscover.facilitycovidtesting.com,40.97.132.40,US,North America
-2020-10-08,autodiscover.facilitycovidtesting.com,40.97.160.8,US,North America
-2020-10-08,autodiscover.facilitycovidtesting.com,40.97.80.40,US,North America
-2020-10-08,autodiscover.facilitycovidtesting.com,40.97.84.24,US,North America
-2020-10-08,autodiscover.facilitycovidtesting.com,52.97.178.104,US,North America
-2020-10-08,autodiscover.facilitycovidtesting.com,autod.ha-autod.office.com,,
-2020-10-08,autodiscover.facilitycovidtesting.com,autodiscover.outlook.com,,
-2020-10-08,autodiscover.facilitycovidtesting.com,autod.ms-acdc-autod.office.com,,
-2020-10-08,boston48hourcovidtesting.com,boston48hourcovidtesting.com,,
-2020-10-08,boston48hourcovidtesting.com,ns37.domaincontrol.com,,
-2020-10-08,boston48hourcovidtesting.com,ns38.domaincontrol.com,,
-2020-10-08,bostonairportcovidtesting.com,34.102.136.180,US,North America
-2020-10-08,bostonairportcovidtesting.com,bostonairportcovidtesting.com,,
-2020-10-08,bostonairportcovidtesting.com,ns55.domaincontrol.com,,
-2020-10-08,bostonairportcovidtesting.com,ns56.domaincontrol.com,,
-2020-10-08,covid-19testen.nl,covid-19testen.nl,,
-2020-10-08,covid-19testen.nl,Dgoogle-site-verification=Jx1wt9NzBnX6mvb0kk6uuUimoVD4D1XOPUa738O-PF0,,
-2020-10-08,covid-19testen.nl,EHY9c3BmMSBhIG14IC1hbGw=,,
-2020-10-08,covid-19testen.nl,RGdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1KeDF3dDlOekJuWDZtdmIwa2s2dXVVaW1vVkQ0RDFYT1BVYTczOE8tUEYw,,
-2020-10-08,covid-19testen.nl,v=spf1 a mx -all,,
-2020-10-08,covid19-test-kamera.com,93.191.155.37,DK,Europe
-2020-10-08,covid19-test-kamera.com,backup-mx.zitcom.dk,,
-2020-10-08,covid19-test-kamera.com,covid19-test-kamera.com,,
-2020-10-08,covid19-test-kamera.com,mail.covid19-test-kamera.com,,
-2020-10-08,covid19-test-kamera.com,ns1.curanet.dk,,
-2020-10-08,covid19-test-kamera.com,ns2.curanet.dk,,
-2020-10-08,covid2-test.com,covid2-test.com,,
-2020-10-08,covidsneltest.be,covidsneltest.be,,
-2020-10-08,covidsneltest.be,nszero1.axc.nl,,
-2020-10-08,covidsneltest.be,nszero2.axc.nl,,
-2020-10-08,covidsneltest.com,covidsneltest.com,,
-2020-10-08,covidsupersneltest.online,covidsupersneltest.online,,
-2020-10-08,covidtest365.es,93.174.4.8,ES,Europe
-2020-10-08,covidtest365.es,covidtest365.es,,
-2020-10-08,covidtestenschede.nl,covidtestenschede.nl,,
-2020-10-08,covidtestenschede.nl,covidtestenschede-nl.mail.protection.outlook.com,,
-2020-10-08,covidtestenschede.nl,do-not-reply@covidtestenschede.nl,,
-2020-10-08,covidtestenschede.nl,ns1.yourwebhoster.com,,
-2020-10-08,covidtesting411.com,34.102.136.180,US,North America
-2020-10-08,covidtesting411.com,covidtesting411.com,,
-2020-10-08,covidtestzahodinu.cz,81.2.194.128,CZ,Europe
-2020-10-08,covidtestzahodinu.cz,covidtestzahodinu.cz,,
-2020-10-08,cpcalendars.facilitycovidtesting.com,192.254.186.161,US,North America
-2020-10-08,facilitycovidtesting.com,facilitycovidtesting.com,,
-2020-10-08,facilitycovidtesting.com,ns6339.hostgator.com,,
-2020-10-08,facilitycovidtesting.com,ns6340.hostgator.com,,
-2020-10-08,fastcovidtesting.org,fastcovidtesting.org,,
-2020-10-08,fastcovidtesting.org,ns1034.ui-dns.com,,
-2020-10-08,fastcovidtesting.org,ns1053.ui-dns.biz,,
-2020-10-08,fastcovidtesting.org,ns1076.ui-dns.de,,
-2020-10-08,fastcovidtesting.org,ns1115.ui-dns.org,,
-2020-10-08,fllcovidtesting.com,162.255.119.138,US,North America
-2020-10-08,fllcovidtesting.com,fllcovidtesting.com,,
-2020-10-08,instantcovidtest.nl,instantcovidtest.nl,,
-2020-10-08,instantcovidtest.nl,mx1.pub.mailpod9-cph3.one.com,,
-2020-10-08,instantcovidtest.nl,mx2.pub.mailpod9-cph3.one.com,,
-2020-10-08,instantcovidtest.nl,mx3.pub.mailpod9-cph3.one.com,,
-2020-10-08,instantcovidtest.nl,mx4.pub.mailpod9-cph3.one.com,,
-2020-10-08,sneltestcovid-19.com,91.184.0.95,NL,Europe
-2020-10-08,sneltestcovid-19.com,ns1.hostnet.nl,,
-2020-10-08,sneltestcovid-19.com,ns2.hostnetbv.com,,
-2020-10-08,sneltestcovid-19.com,ns3.hostnetbv.nl,,
-2020-10-08,sneltestcovid-19.com,sneltestcovid-19.com,,
-2020-10-08,staffcovidtest.com,94.136.40.51,GB,Europe
-2020-10-08,staffcovidtest.com,staffcovidtest.com,,
-2020-10-08,tvhcovidtest.com,151.101.1.195,US,North America
-2020-10-08,tvhcovidtest.com,151.101.65.195,US,North America
-2020-10-08,tvhcovidtest.com,ns-1073.awsdns-06.org,,
-2020-10-08,tvhcovidtest.com,ns-192.awsdns-24.com,,
-2020-10-08,tvhcovidtest.com,ns-2035.awsdns-62.co.uk,,
-2020-10-08,tvhcovidtest.com,ns-815.awsdns-37.net,,
-2020-10-08,tvhcovidtest.com,tvhcovidtest.com,,
-2020-10-08,unitecovidtest.com,23.236.62.147,US,North America
-2020-10-08,unitecovidtest.com,alt1.aspmx.l.google.com,,
-2020-10-08,unitecovidtest.com,alt2.aspmx.l.google.com,,
-2020-10-08,unitecovidtest.com,alt3.aspmx.l.google.com,,
-2020-10-08,unitecovidtest.com,alt4.aspmx.l.google.com,,
-2020-10-08,unitecovidtest.com,aspmx.l.google.com,,
-2020-10-08,unitecovidtest.com,ns14.wixdns.net,,
-2020-10-08,unitecovidtest.com,ns15.wixdns.net,,
-2020-10-08,unitecovidtest.com,ns-cloud-e1.googledomains.com,,
-2020-10-08,unitecovidtest.com,ns-cloud-e2.googledomains.com,,
-2020-10-08,unitecovidtest.com,ns-cloud-e3.googledomains.com,,
-2020-10-08,unitecovidtest.com,ns-cloud-e4.googledomains.com,,
-2020-10-08,unitecovidtest.com,unitecovidtest.com,,
 2020-10-09,coronavirustestinglabs.xn--fiqs8s,218.241.116.40,CN,Asia
 2020-10-09,coronavirustestinglabs.xn--fiqs8s,coronavirustestinglabs.xn--fiqs8s,,
 2020-10-09,covid19foamingtests.com,34.102.136.180,US,North America
@@ -115,6 +28,7 @@
 2020-10-09,covid2-test.de,covid2-test.de,,
 2020-10-09,covidsupersneltest.com,2a05:d014:953:a00:6874:7470:7270:3,DE,Europe
 2020-10-09,covidsupersneltest.com,covidsupersneltest.com,,
+2020-10-09,covidtest-alyan.com,217.76.128.34,ES,Europe
 2020-10-09,covidtest-alyan.com,covidtest-alyan.com,,
 2020-10-09,covidtest-alyan.com,dns47.servidoresdns.net,,
 2020-10-09,covidtest-alyan.com,dns48.servidoresdns.net,,
