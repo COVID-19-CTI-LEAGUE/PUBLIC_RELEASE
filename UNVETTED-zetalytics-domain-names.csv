@@ -84,6 +84,9 @@
 2020-10-10,www.thecurecovid.com,34.102.136.180,US,North America
 2020-10-10,www.thecurecovid.com,thecurecovid.com,,
 2020-10-10,zelftestcovid.be,62.213.218.244,BE,Europe
+2020-10-10,zelftestcovid.be,ns1.cloudhighway.be,,
+2020-10-10,zelftestcovid.be,ns2.cloudhighway.be,,
+2020-10-10,zelftestcovid.be,ns3.cloudhighway.be,,
 2020-10-10,zelftestcovid.be,zelftestcovid.be,,
 2020-10-11,covid19antikortesti.com,covid19antikortesti.com,,
 2020-10-11,covid19antikortesti.com,hostdns1.doruk.net.tr,,
@@ -91,6 +94,10 @@
 2020-10-11,covid19antikortesti.com,hostdns3.doruk.net.tr,,
 2020-10-11,covid19antikortesti.com,ns1.korudns.com,,
 2020-10-11,covid19antikortesti.com,ns2.korudns.com,,
+2020-10-11,covid19-testirovanie.ru,covid19-testirovanie.ru,,
+2020-10-11,covidsneltestlab.com,covidsneltestlab.com,,
+2020-10-11,covidsneltestlab.com,ns6.wixdns.net,,
+2020-10-11,covidsneltestlab.com,ns7.wixdns.net,,
 2020-10-11,covidtestpr.com,covidtestpr.com,,
 2020-10-11,covidtestpr.com,ns37.worldnic.com,,
 2020-10-11,covidtestpr.com,ns38.worldnic.com,,
@@ -99,11 +106,18 @@
 2020-10-11,freecovidtestinghouston.com,ns2.a2hosting.com,,
 2020-10-11,freecovidtestinghouston.com,ns3.a2hosting.com,,
 2020-10-11,freecovidtestinghouston.com,ns4.a2hosting.com,,
+2020-10-11,mhc-covidtesting.com,34.102.136.180,US,North America
 2020-10-11,mhc-covidtesting.com,mhc-covidtesting.com,,
 2020-10-11,mhc-covidtesting.com,ns15.domaincontrol.com,,
 2020-10-11,mhc-covidtesting.com,ns16.domaincontrol.com,,
+2020-10-11,preflightcovidtest.com,ns17.domaincontrol.com,,
+2020-10-11,preflightcovidtest.com,ns18.domaincontrol.com,,
+2020-10-11,preflightcovidtest.com,preflightcovidtest.com,,
+2020-10-11,privatecovidtest.life,mx0.123-reg.co.uk,,
+2020-10-11,privatecovidtest.life,mx1.123-reg.co.uk,,
 2020-10-11,privatecovidtest.life,ns.123-reg.co.uk,,
 2020-10-11,privatecovidtest.life,ns2.123-reg.co.uk,,
+2020-10-11,privatecovidtest.life,privatecovidtest.life,,
 2020-10-11,screentestcovid.com,34.102.136.180,US,North America
 2020-10-11,screentestcovid.com,ns17.domaincontrol.com,,
 2020-10-11,screentestcovid.com,ns18.domaincontrol.com,,
@@ -112,3 +126,4 @@
 2020-10-11,testcovidmadrid.es,testcovidmadrid.es,,
 2020-10-11,testpcrcovid.es,213.186.33.5,FR,Europe
 2020-10-11,testpcrcovid.es,testpcrcovid.es,,
+2020-10-11,tucovidtest.es,tucovidtest.es,,
