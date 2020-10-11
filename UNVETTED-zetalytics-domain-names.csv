@@ -2,157 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-09,coronavirustestinglabs.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-10-09,coronavirustestinglabs.xn--fiqs8s,coronavirustestinglabs.xn--fiqs8s,,
-2020-10-09,covid19foamingtests.com,34.102.136.180,US,North America
-2020-10-09,covid19foamingtests.com,covid19foamingtests.com,,
-2020-10-09,covid19foamingtests.com,ns53.domaincontrol.com,,
-2020-10-09,covid19foamingtests.com,ns54.domaincontrol.com,,
-2020-10-09,covid19idrartesti.com,34.102.136.180,US,North America
-2020-10-09,covid19idrartesti.com,covid19idrartesti.com,,
-2020-10-09,covid19idrartesti.com,ns37.domaincontrol.com,,
-2020-10-09,covid19idrartesti.com,ns38.domaincontrol.com,,
-2020-10-09,covid-19secure.org,46.23.69.44,GB,Europe
-2020-10-09,covid-19secure.org,covid-19secure.org,,
-2020-10-09,covid-19secure.org,dns1.uk2.net,,
-2020-10-09,covid-19secure.org,dns2.uk2.net,,
-2020-10-09,covid-19secure.org,dns3.uk2.net,,
-2020-10-09,covid19supersneltest.com,52.58.154.10,DE,Europe
-2020-10-09,covid19supersneltest.com,covid19supersneltest.com,,
-2020-10-09,covid19supersneltest.com,ns1.prezent.nl,,
-2020-10-09,covid19supersneltest.com,ns2.prezent.de,,
-2020-10-09,covid19supersneltest.com,ns3.prezent-internet.com,,
-2020-10-09,covid19testingpr.com,208.91.197.27,US,North America
-2020-10-09,covid19testingpr.com,covid19testingpr.com,,
-2020-10-09,covid19testingpr.com,ns51.worldnic.com,,
-2020-10-09,covid19testingpr.com,ns52.worldnic.com,,
-2020-10-09,covid19testingpr.org,covid19testingpr.org,,
-2020-10-09,covid19testingpr.org,ns1.hover.com,,
-2020-10-09,covid19testingpr.org,ns2.hover.com,,
-2020-10-09,covid19testingpuertorico.com,208.91.197.27,US,North America
-2020-10-09,covid19testingpuertorico.com,covid19testingpuertorico.com,,
-2020-10-09,covid19testingpuertorico.com,ns53.worldnic.com,,
-2020-10-09,covid19testingpuertorico.com,ns54.worldnic.com,,
-2020-10-09,covid19tests.site,covid19tests.site,,
-2020-10-09,covid19tests.site,ns75.domaincontrol.com,,
-2020-10-09,covid19tests.site,ns76.domaincontrol.com,,
-2020-10-09,covid2-test.de,covid2-test.de,,
-2020-10-09,covid2-test.de,ns1.lemarit.de,,
-2020-10-09,covid2-test.de,ns1.lemarit.net,,
-2020-10-09,covid2-test.de,ns2.lemarit.de,,
-2020-10-09,covid2-test.de,ns2.lemarit.net,,
-2020-10-09,covid2-test.de,ns3.lemarit.de,,
-2020-10-09,covidsupersneltest.com,2a05:d014:953:a00:6874:7470:7270:3,DE,Europe
-2020-10-09,covidsupersneltest.com,52.58.154.10,DE,Europe
-2020-10-09,covidsupersneltest.com,covidsupersneltest.com,,
-2020-10-09,covidsupersneltest.com,ns1.prezent.nl,,
-2020-10-09,covidsupersneltest.com,ns2.prezent.de,,
-2020-10-09,covidsupersneltest.com,ns3.prezent-internet.com,,
-2020-10-09,covidtest-alyan.com,217.76.128.34,ES,Europe
-2020-10-09,covidtest-alyan.com,covidtest-alyan.com,,
-2020-10-09,covidtest-alyan.com,dns47.servidoresdns.net,,
-2020-10-09,covidtest-alyan.com,dns48.servidoresdns.net,,
-2020-10-09,covidtestnederland.nl,covidtestnederland.nl,,
-2020-10-09,covidtestnederland.nl,ns1.yourwebhoster.com,,
-2020-10-09,covidtestnederland.nl,ns2.yourwebhoster.com,,
-2020-10-09,covidtestnederland.nl,ns3.yourwebhoster.nl,,
-2020-10-09,covidtestnederland.nl,ns4.yourwebhoster.nl,,
-2020-10-09,covidtestokc.com,198.58.118.167,US,North America
-2020-10-09,covidtestokc.com,45.33.23.183,US,North America
-2020-10-09,covidtestokc.com,45.33.2.79,US,North America
-2020-10-09,covidtestokc.com,45.56.79.23,US,North America
-2020-10-09,covidtestokc.com,45.79.19.196,US,North America
-2020-10-09,covidtestokc.com,96.126.123.244,US,North America
-2020-10-09,covidtestokc.com,covidtestokc.com,,
-2020-10-09,covidtestokc.com,mail.mailerhost.net,,
-2020-10-09,covidtestokc.com,mail.mxproc.com,,
-2020-10-09,covidtestokc.com,ns1.mytrafficmanagement.com,,
-2020-10-09,covidtestokc.com,ns2.mytrafficmanagement.com,,
-2020-10-09,covidtestsb.co,198.58.118.167,US,North America
-2020-10-09,covidtestsb.co,45.33.23.183,US,North America
-2020-10-09,covidtestsb.co,45.33.2.79,US,North America
-2020-10-09,covidtestsb.co,45.56.79.23,US,North America
-2020-10-09,covidtestsb.co,45.79.19.196,US,North America
-2020-10-09,covidtestsb.co,96.126.123.244,US,North America
-2020-10-09,covidtestsb.co,covidtestsb.co,,
-2020-10-09,covidtestsb.co,mail.mailerhost.net,,
-2020-10-09,covidtestsb.co,mail.mxproc.com,,
-2020-10-09,covidtestsb.co,ns1.mytrafficmanagement.com,,
-2020-10-09,covidtestsb.co,ns2.mytrafficmanagement.com,,
-2020-10-09,easyrapidcovidtestkit.com,easyrapidcovidtestkit.com,,
-2020-10-09,easyrapidcovidtestkit.com,ns53.domaincontrol.com,,
-2020-10-09,easyrapidcovidtestkit.com,ns54.domaincontrol.com,,
-2020-10-09,longcovidcure.com,longcovidcure.com,,
-2020-10-09,longcovidcure.com,ns55.domaincontrol.com,,
-2020-10-09,longcovidcure.com,ns56.domaincontrol.com,,
-2020-10-09,longcovidtest.com,34.102.136.180,US,North America
-2020-10-09,longcovidtest.com,longcovidtest.com,,
-2020-10-09,mail.rapidcovid19-testing.com,149.255.62.6,GB,Europe
-2020-10-09,mail.rapidcovid19-testing.com,rapidcovid19-testing.com,,
-2020-10-09,ontariocovidtests.com,ns17.domaincontrol.com,,
-2020-10-09,ontariocovidtests.com,ns18.domaincontrol.com,,
-2020-10-09,ontariocovidtests.com,ontariocovidtests.com,,
-2020-10-09,puertoricocovid19testing.com,ns55.worldnic.com,,
-2020-10-09,puertoricocovid19testing.com,ns56.worldnic.com,,
-2020-10-09,puertoricocovid19testing.com,puertoricocovid19testing.com,,
-2020-10-09,rapidcovid19-testing.com,149.255.62.6,GB,Europe
-2020-10-09,rapidcovid19-testing.com,azeem151@hotmail.co.uk,,
-2020-10-09,rapidcovid19-testing.com,JHY9c3BmMSArYSArbXggK2lwNDoxNDkuMjU1LjYyLjYgfmFsbA==,,
-2020-10-09,rapidcovid19-testing.com,ns15.domaincontrol.com,,
-2020-10-09,rapidcovid19-testing.com,ns16.domaincontrol.com,,
-2020-10-09,rapidcovid19-testing.com,ns1.unlimiteddatahosting.com,,
-2020-10-09,rapidcovid19-testing.com,ns2.unlimiteddatahosting.com,,
-2020-10-09,rapidcovid19-testing.com,rapidcovid19-testing.com,,
-2020-10-09,rapidcovid19-testing.com,$v=spf1 +a +mx +ip4:149.255.62.6 ~all,,
-2020-10-09,rapidcovid-19tests.com,34.102.136.180,US,North America
-2020-10-09,rapidcovid-19tests.com,ns55.domaincontrol.com,,
-2020-10-09,rapidcovid-19tests.com,ns56.domaincontrol.com,,
-2020-10-09,rapidcovid-19tests.com,rapidcovid-19tests.com,,
-2020-10-09,rapidmobilecovidtest.com,160.153.136.3,US,North America
-2020-10-09,rapidmobilecovidtest.com,ns77.domaincontrol.com,,
-2020-10-09,rapidmobilecovidtest.com,ns78.domaincontrol.com,,
-2020-10-09,rapidmobilecovidtest.com,rapidmobilecovidtest.com,,
-2020-10-09,rockwallrapidcovid-19testing.com,216.239.32.21,US,North America
-2020-10-09,rockwallrapidcovid-19testing.com,216.239.34.21,US,North America
-2020-10-09,rockwallrapidcovid-19testing.com,216.239.36.21,US,North America
-2020-10-09,rockwallrapidcovid-19testing.com,216.239.38.21,US,North America
-2020-10-09,rockwallrapidcovid-19testing.com,ns-cloud-b1.googledomains.com,,
-2020-10-09,rockwallrapidcovid-19testing.com,ns-cloud-b2.googledomains.com,,
-2020-10-09,rockwallrapidcovid-19testing.com,ns-cloud-b3.googledomains.com,,
-2020-10-09,rockwallrapidcovid-19testing.com,ns-cloud-b4.googledomains.com,,
-2020-10-09,rockwallrapidcovid-19testing.com,rockwallrapidcovid-19testing.com,,
-2020-10-09,sneltestcovid19.com,KHY9c3BmMSBhIG14IGluY2x1ZGU6X3NwZi5ob3N0bmV0Lm5sIC1hbGw=,,
-2020-10-09,sneltestcovid19.com,ns1.hostnet.nl,,
-2020-10-09,sneltestcovid19.com,ns2.hostnetbv.com,,
-2020-10-09,sneltestcovid19.com,ns3.hostnetbv.nl,,
-2020-10-09,sneltestcovid19.com,sneltestcovid19.com,,
-2020-10-09,wedocovidtesting.com,2001:8d8:100f:f000::23f,DE,Europe
-2020-10-09,wedocovidtesting.com,217.160.0.90,DE,Europe
-2020-10-09,wedocovidtesting.com,ns1052.ui-dns.biz,,
-2020-10-09,wedocovidtesting.com,ns1093.ui-dns.org,,
-2020-10-09,wedocovidtesting.com,ns1100.ui-dns.de,,
-2020-10-09,wedocovidtesting.com,ns1112.ui-dns.com,,
-2020-10-09,wedocovidtesting.com,wedocovidtesting.com,,
-2020-10-09,www.rapidcovid19-testing.com,149.255.62.6,GB,Europe
-2020-10-09,www.rapidcovid19-testing.com,rapidcovid19-testing.com,,
-2020-10-09,www.zekmedcovidtest.com,198.185.159.144,US,North America
-2020-10-09,www.zekmedcovidtest.com,198.185.159.145,US,North America
-2020-10-09,www.zekmedcovidtest.com,198.49.23.144,US,North America
-2020-10-09,www.zekmedcovidtest.com,198.49.23.145,US,North America
-2020-10-09,www.zekmedcovidtest.com,ext-sq.squarespace.com,,
-2020-10-09,zekmedcovidtest.com,198.185.159.144,US,North America
-2020-10-09,zekmedcovidtest.com,198.185.159.145,US,North America
-2020-10-09,zekmedcovidtest.com,198.49.23.144,US,North America
-2020-10-09,zekmedcovidtest.com,198.49.23.145,US,North America
-2020-10-09,zekmedcovidtest.com,dns1.p04.nsone.net,,
-2020-10-09,zekmedcovidtest.com,dns2.p04.nsone.net,,
-2020-10-09,zekmedcovidtest.com,dns3.p04.nsone.net,,
-2020-10-09,zekmedcovidtest.com,dns4.p04.nsone.net,,
-2020-10-09,zekmedcovidtest.com,ns01.squarespacedns.com,,
-2020-10-09,zekmedcovidtest.com,ns02.squarespacedns.com,,
-2020-10-09,zekmedcovidtest.com,ns03.squarespacedns.com,,
-2020-10-09,zekmedcovidtest.com,ns04.squarespacedns.com,,
-2020-10-09,zekmedcovidtest.com,zekmedcovidtest.com,,
 2020-10-10,10mincovid19test.com,10mincovid19test.com,,
 2020-10-10,10mincovid19test.com,34.102.136.180,US,North America
 2020-10-10,10mincovid19test.com,ns67.domaincontrol.com,,
@@ -181,6 +30,7 @@
 2020-10-10,covidtest-alyan.net,covidtest-alyan.net,,
 2020-10-10,covidtest-alyan.net,dns47.servidoresdns.net,,
 2020-10-10,covidtest-alyan.net,dns48.servidoresdns.net,,
+2020-10-10,covidtest.ge,80.83.137.132,GE,Asia
 2020-10-10,covidtest.ge,covidtest.ge,,
 2020-10-10,covidtest.ge,mail.covidtest.ge,,
 2020-10-10,covidtestpr.net,208.91.197.27,US,North America
@@ -194,6 +44,11 @@
 2020-10-10,mhc-covidtests.com,mhc-covidtests.com,,
 2020-10-10,mhc-covidtests.com,ns75.domaincontrol.com,,
 2020-10-10,mhc-covidtests.com,ns76.domaincontrol.com,,
+2020-10-10,popupcovidtesting.com,ns-cloud-c1.googledomains.com,,
+2020-10-10,popupcovidtesting.com,ns-cloud-c2.googledomains.com,,
+2020-10-10,popupcovidtesting.com,ns-cloud-c3.googledomains.com,,
+2020-10-10,popupcovidtesting.com,ns-cloud-c4.googledomains.com,,
+2020-10-10,popupcovidtesting.com,popupcovidtesting.com,,
 2020-10-10,shop-testcovid19.com,ns2.lighthosting.net,,
 2020-10-10,shop-testcovid19.com,ns.lh.pl,,
 2020-10-10,shop-testcovid19.com,shop-testcovid19.com,,
