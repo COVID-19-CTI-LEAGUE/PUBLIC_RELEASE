@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-10-11,covid19antikortesti.com,146.112.61.107,,Europe
 2020-10-11,covid19antikortesti.com,covid19antikortesti.com,,
 2020-10-11,covid19antikortesti.com,hostdns1.doruk.net.tr,,
 2020-10-11,covid19antikortesti.com,hostdns2.doruk.net.tr,,
@@ -20,6 +21,7 @@
 2020-10-11,covidcureathome.com,covidcureathome.com,,
 2020-10-11,covidcureathome.com,ns05.domaincontrol.com,,
 2020-10-11,covidcureathome.com,ns06.domaincontrol.com,,
+2020-10-11,covidsneltestlab.com,23.236.62.147,US,North America
 2020-10-11,covidsneltestlab.com,covidsneltestlab.com,,
 2020-10-11,covidsneltestlab.com,ns6.wixdns.net,,
 2020-10-11,covidsneltestlab.com,ns7.wixdns.net,,
@@ -59,6 +61,7 @@
 2020-10-11,screentestcovid.com,ns17.domaincontrol.com,,
 2020-10-11,screentestcovid.com,ns18.domaincontrol.com,,
 2020-10-11,screentestcovid.com,screentestcovid.com,,
+2020-10-11,siparis.covid19testi.info,116.202.128.32,IN,Asia
 2020-10-11,testcovidmadrid.es,82.98.135.44,ES,Europe
 2020-10-11,testcovidmadrid.es,testcovidmadrid.es,,
 2020-10-11,testeocovid.com,ns1.grupoloading.com,,
@@ -78,6 +81,8 @@
 2020-10-12,coronavirus15minuteantibodytest.com,coronavirus15minuteantibodytest.com,,
 2020-10-12,coronavirus15minuteantibodytest.com,ns31.domaincontrol.com,,
 2020-10-12,coronavirus15minuteantibodytest.com,ns32.domaincontrol.com,,
+2020-10-12,covidantibodytestnyc.com,34.102.136.180,US,North America
+2020-10-12,covidantibodytestnyc.com,covidantibodytestnyc.com,,
 2020-10-12,covidtestingglobal.com,covidtestingglobal.com,,
 2020-10-12,covidtestingglobal.com,ns1.ukdnsservers.co.uk,,
 2020-10-12,covidtestingglobal.com,ns2.ukdnsservers.co.uk,,
@@ -86,3 +91,6 @@
 2020-10-12,covidtestingpr.net,covidtestingpr.net,,
 2020-10-12,covidtestingpr.net,ns31.worldnic.com,,
 2020-10-12,covidtestingpr.net,ns32.worldnic.com,,
+2020-10-12,mx.rapidcovidtest.online,66.96.140.154,US,North America
+2020-10-12,mx.rapidcovidtest.online,66.96.140.155,US,North America
+2020-10-12,rapidcovidtest.online,rapidcovidtest.online,,
