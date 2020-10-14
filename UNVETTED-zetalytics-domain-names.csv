@@ -38,6 +38,7 @@
 2020-10-13,rapidtest-covid.com,gama.ns.active24.sk,,
 2020-10-13,rapidtest-covid.com,hostmaster@active24.cz,,
 2020-10-13,rapidtest-covid.com,rapidtest-covid.com,,
+2020-10-13,testscovid.es,mx01.dondominio.com,,
 2020-10-13,testscovid.es,testscovid.es,,
 2020-10-13,www.rapidtest-covid.com,81.95.96.29,CZ,Europe
 2020-10-14,attestation-sortie-covid19.politie,127.0.53.53,,
@@ -60,7 +61,11 @@
 2020-10-14,covidtestimonial.com,ns43.domaincontrol.com,,
 2020-10-14,covidtestimonial.com,ns44.domaincontrol.com,,
 2020-10-14,covid-test.si,212.44.113.14,SI,Europe
+2020-10-14,covid-test.si,cdns1.controlpanel.si,,
+2020-10-14,covid-test.si,cdns2.controlpanel.si,,
 2020-10-14,covid-test.si,covid-test.si,,
+2020-10-14,covid-test.si,LXY9c3BmMSBhIG14IGluY2x1ZGU6X3NwZi5jb250cm9scGFuZWwuc2kgfmFsbA==,,
+2020-10-14,covid-test.si,-v=spf1 a mx include:_spf.controlpanel.si ~all,,
 2020-10-14,cpanel.covid-test.si,212.44.113.14,SI,Europe
 2020-10-14,ftp.covid-test.si,212.44.113.14,SI,Europe
 2020-10-14,ftp.covid-test.si,covid-test.si,,
