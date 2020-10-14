@@ -2,75 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-12,coronavirus15minuteantibodytest.com,34.102.136.180,US,North America
-2020-10-12,coronavirus15minuteantibodytest.com,coronavirus15minuteantibodytest.com,,
-2020-10-12,coronavirus15minuteantibodytest.com,ns31.domaincontrol.com,,
-2020-10-12,coronavirus15minuteantibodytest.com,ns32.domaincontrol.com,,
-2020-10-12,covidantibodytestnyc.com,34.102.136.180,US,North America
-2020-10-12,covidantibodytestnyc.com,covidantibodytestnyc.com,,
-2020-10-12,covidantibodytestnyc.com,ns09.domaincontrol.com,,
-2020-10-12,covidantibodytestnyc.com,ns10.domaincontrol.com,,
-2020-10-12,covidsneltest-service.nl,2a01:7c8:3:1337::27,NL,Europe
-2020-10-12,covidsneltest-service.nl,37.97.254.27,NL,Europe
-2020-10-12,covidsneltest-service.nl,covidsneltest-service.nl,,
-2020-10-12,covidsneltest-service.nl,ns0.transip.net,,
-2020-10-12,covidsneltest-service.nl,ns1.transip.nl,,
-2020-10-12,covidsneltest-service.nl,ns2.transip.eu,,
-2020-10-12,covidsnelteststraat.nl,2a01:7c8:3:1337::27,NL,Europe
-2020-10-12,covidsnelteststraat.nl,37.97.254.27,NL,Europe
-2020-10-12,covidsnelteststraat.nl,covidsnelteststraat.nl,,
-2020-10-12,covidsnelteststraat.nl,DU1TPW1zODE3NjA0MDA=,,
-2020-10-12,covidsnelteststraat.nl,LnY9c3BmMSBpbmNsdWRlOnNwZi5wcm90ZWN0aW9uLm91dGxvb2suY29tIH5hbGw=,,
-2020-10-12,covidsnelteststraat.nl,MS=ms81760400,,
-2020-10-12,covidsnelteststraat.nl,ns0.transip.net,,
-2020-10-12,covidsnelteststraat.nl,ns1.transip.nl,,
-2020-10-12,covidsnelteststraat.nl,ns2.transip.eu,,
-2020-10-12,covidsnelteststraat.nl,.v=spf1 include:spf.protection.outlook.com ~all,,
-2020-10-12,covidtestingglobal.com,covidtestingglobal.com,,
-2020-10-12,covidtestingglobal.com,ns1.ukdnsservers.co.uk,,
-2020-10-12,covidtestingglobal.com,ns2.ukdnsservers.co.uk,,
-2020-10-12,covidtestingglobal.com,ns3.ukdnsservers.co.uk,,
-2020-10-12,covidtestingglobal.com,ns4.ukdnsservers.co.uk,,
-2020-10-12,covidtestingglobal.com,us2.mx1.mailhostbox.com,,
-2020-10-12,covidtestingglobal.com,us2.mx2.mailhostbox.com,,
-2020-10-12,covidtestingglobal.com,us2.mx3.mailhostbox.com,,
-2020-10-12,covidtestingpr.net,208.91.197.27,US,North America
-2020-10-12,covidtestingpr.net,209.17.116.10,US,North America
-2020-10-12,covidtestingpr.net,covidtestingpr.net,,
-2020-10-12,covidtestingpr.net,ns31.worldnic.com,,
-2020-10-12,covidtestingpr.net,ns32.worldnic.com,,
-2020-10-12,mhccovidtesting.com,mhccovidtesting.com,,
-2020-10-12,mhccovidtesting.com,ns17.domaincontrol.com,,
-2020-10-12,mhccovidtesting.com,ns18.domaincontrol.com,,
-2020-10-12,mx.rapidcovidtest.online,66.96.140.154,US,North America
-2020-10-12,mx.rapidcovidtest.online,66.96.140.155,US,North America
-2020-10-12,okcovid19test.com,146.112.61.107,,Europe
-2020-10-12,okcovid19test.com,okcovid19test.com,,
-2020-10-12,oxfordcovidtesting.com,83.170.125.85,GB,Europe
-2020-10-12,oxfordcovidtesting.com,ns1.ridgewayit.com,,
-2020-10-12,oxfordcovidtesting.com,ns2.ridgewayit.com,,
-2020-10-12,oxfordcovidtesting.com,oxfordcovidtesting.com,,
-2020-10-12,rapidcovidtest.online,ns1.domain.com,,
-2020-10-12,rapidcovidtest.online,ns2.domain.com,,
-2020-10-12,rapidcovidtest.online,rapidcovidtest.online,,
-2020-10-12,rapidtestcovid.es,217.160.0.198,DE,Europe
-2020-10-12,rapidtestcovid.es,ns1033.ui-dns.com,,
-2020-10-12,rapidtestcovid.es,ns1071.ui-dns.de,,
-2020-10-12,rapidtestcovid.es,ns1109.ui-dns.biz,,
-2020-10-12,rapidtestcovid.es,ns1119.ui-dns.org,,
-2020-10-12,rapidtestcovid.es,rapidtestcovid.es,,
-2020-10-12,rapidtest-covid.org,81.95.96.29,CZ,Europe
-2020-10-12,rapidtest-covid.org,alfa.ns.active24.cz,,
-2020-10-12,rapidtest-covid.org,beta.ns.active24.cz,,
-2020-10-12,rapidtest-covid.org,gama.ns.active24.sk,,
-2020-10-12,rapidtest-covid.org,ns1.registrant-verification.com,,
-2020-10-12,rapidtest-covid.org,ns2.registrant-verification.com,,
-2020-10-12,rapidtest-covid.org,rapidtest-covid.org,,
-2020-10-12,www.covidsneltest-service.nl,37.97.254.27,NL,Europe
-2020-10-12,www.covidsneltest-service.nl,covidsneltest-service.nl,,
-2020-10-12,www.covidsnelteststraat.nl,37.97.254.27,NL,Europe
-2020-10-12,www.covidsnelteststraat.nl,covidsnelteststraat.nl,,
-2020-10-12,www.covidsnelteststraat.nl,www55.wixdns.net,,
 2020-10-13,15minutencovidtest.nl,15minutencovidtest.nl,,
 2020-10-13,covid19testingcenter.org,covid19testingcenter.org,,
 2020-10-13,covid19testingcenter.org,ns53.domaincontrol.com,,
@@ -81,6 +12,7 @@
 2020-10-13,covid19traveltests.com,ns32.domaincontrol.com,,
 2020-10-13,covid-secure.biz,34.102.136.180,US,North America
 2020-10-13,covid-secure.biz,covid-secure.biz,,
+2020-10-13,covidsupersneltest.eu,covidsupersneltest.eu,,
 2020-10-13,covidtesten.shop,bounce.argewebhosting.nl,,
 2020-10-13,covidtesten.shop,covidtesten.shop,,
 2020-10-13,covidtesten.shop,ns1.argewebhosting.eu,,
