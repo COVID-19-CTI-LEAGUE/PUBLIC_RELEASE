@@ -2,6 +2,7 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-10-13,15minutencovidtest.nl,108.61.117.242,NL,Europe
 2020-10-13,15minutencovidtest.nl,15minutencovidtest.nl,,
 2020-10-13,15minutencovidtest.nl,ns1.argewebhosting.eu,,
 2020-10-13,15minutencovidtest.nl,ns2.argewebhosting.com,,
