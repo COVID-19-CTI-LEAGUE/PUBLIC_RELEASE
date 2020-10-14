@@ -3,6 +3,9 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-10-13,15minutencovidtest.nl,15minutencovidtest.nl,,
+2020-10-13,15minutencovidtest.nl,ns1.argewebhosting.eu,,
+2020-10-13,15minutencovidtest.nl,ns2.argewebhosting.com,,
+2020-10-13,15minutencovidtest.nl,ns3.argewebhosting.nl,,
 2020-10-13,covid19testingcenter.org,covid19testingcenter.org,,
 2020-10-13,covid19testingcenter.org,ns53.domaincontrol.com,,
 2020-10-13,covid19testingcenter.org,ns54.domaincontrol.com,,
@@ -33,3 +36,8 @@
 2020-10-13,rapidtest-covid.com,gama.ns.active24.sk,,
 2020-10-13,rapidtest-covid.com,rapidtest-covid.com,,
 2020-10-13,testscovid.es,testscovid.es,,
+2020-10-14,ukcovidtesting.com,ns1.hpdns.net,,
+2020-10-14,ukcovidtesting.com,ns2.hpdns.net,,
+2020-10-14,ukcovidtesting.com,ns3.hpdns.net,,
+2020-10-14,ukcovidtesting.com,ns4.hpdns.net,,
+2020-10-14,ukcovidtesting.com,ukcovidtesting.com,,
