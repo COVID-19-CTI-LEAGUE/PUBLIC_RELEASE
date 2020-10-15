@@ -2,45 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-13,15minutencovidtest.nl,108.61.117.242,NL,Europe
-2020-10-13,15minutencovidtest.nl,15minutencovidtest.nl,,
-2020-10-13,15minutencovidtest.nl,ns1.argewebhosting.eu,,
-2020-10-13,15minutencovidtest.nl,ns2.argewebhosting.com,,
-2020-10-13,15minutencovidtest.nl,ns3.argewebhosting.nl,,
-2020-10-13,covid19testingcenter.org,covid19testingcenter.org,,
-2020-10-13,covid19testingcenter.org,ns53.domaincontrol.com,,
-2020-10-13,covid19testingcenter.org,ns54.domaincontrol.com,,
-2020-10-13,covid19traveltests.com,198.71.232.3,US,North America
-2020-10-13,covid19traveltests.com,covid19traveltests.com,,
-2020-10-13,covid19traveltests.com,ns31.domaincontrol.com,,
-2020-10-13,covid19traveltests.com,ns32.domaincontrol.com,,
-2020-10-13,covid-secure.biz,34.102.136.180,US,North America
-2020-10-13,covid-secure.biz,covid-secure.biz,,
-2020-10-13,covidsupersneltest.eu,covidsupersneltest.eu,,
-2020-10-13,covidsupersneltest.eu,ns1.prezent.nl,,
-2020-10-13,covidsupersneltest.eu,ns2.prezent.de,,
-2020-10-13,covidsupersneltest.eu,ns3.prezent-internet.com,,
-2020-10-13,covidtesten.shop,2001:678:76c:3760::247,RU,Europe
-2020-10-13,covidtesten.shop,bounce.argewebhosting.nl,,
-2020-10-13,covidtesten.shop,covidtesten.shop,,
-2020-10-13,covidtesten.shop,ns1.argewebhosting.eu,,
-2020-10-13,covidtesten.shop,ns2.argewebhosting.com,,
-2020-10-13,covidtesten.shop,ns3.argewebhosting.nl,,
-2020-10-13,covidtestonline.es,34.102.136.180,US,North America
-2020-10-13,covidtestonline.es,covidtestonline.es,,
-2020-10-13,rapidcovidtestresults.com,34.102.136.180,US,North America
-2020-10-13,rapidcovidtestresults.com,ns05.domaincontrol.com,,
-2020-10-13,rapidcovidtestresults.com,ns06.domaincontrol.com,,
-2020-10-13,rapidcovidtestresults.com,rapidcovidtestresults.com,,
-2020-10-13,rapidtest-covid.com,81.95.96.29,CZ,Europe
-2020-10-13,rapidtest-covid.com,alfa.ns.active24.cz,,
-2020-10-13,rapidtest-covid.com,beta.ns.active24.cz,,
-2020-10-13,rapidtest-covid.com,gama.ns.active24.sk,,
-2020-10-13,rapidtest-covid.com,hostmaster@active24.cz,,
-2020-10-13,rapidtest-covid.com,rapidtest-covid.com,,
-2020-10-13,testscovid.es,mx01.dondominio.com,,
-2020-10-13,testscovid.es,testscovid.es,,
-2020-10-13,www.rapidtest-covid.com,81.95.96.29,CZ,Europe
 2020-10-14,attestation-sortie-covid19.politie,127.0.53.53,,
 2020-10-14,attestation-sortie-covid19.politie,attestation-sortie-covid19.politie,,
 2020-10-14,coronavirustestcenter.be,coronavirustestcenter.be,,
