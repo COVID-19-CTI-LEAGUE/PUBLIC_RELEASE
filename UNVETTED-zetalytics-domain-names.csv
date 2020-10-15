@@ -95,8 +95,13 @@
 2020-10-15,bloomcovidtest.xn--mxtq1m,bloomcovidtest.xn--mxtq1m,,
 2020-10-15,covid19sneltester.nl,185.107.112.222,NL,Europe
 2020-10-15,covid19sneltester.nl,covid19sneltester.nl,,
+2020-10-15,covid19sneltester.nl,ns1.hostnet.nl,,
+2020-10-15,covid19sneltester.nl,ns2.hostnetbv.com,,
+2020-10-15,covid19sneltester.nl,ns3.hostnetbv.nl,,
 2020-10-15,covid4utestkit.com,5v=spf1 include:_spf.email4sand07-d4942.swp23.com ~all,,
 2020-10-15,covid4utestkit.com,covid4utestkit.com,,
+2020-10-15,covid4utestkit.com,ns21.domaincontrol.com,,
+2020-10-15,covid4utestkit.com,ns22.domaincontrol.com,,
 2020-10-15,covid4utestkit.com,NXY9c3BmMSBpbmNsdWRlOl9zcGYuZW1haWw0c2FuZDA3LWQ0OTQyLnN3cDIzLmNvbSB+YWxs,,
 2020-10-15,covid5mintest.com,covid5mintest.com,,
 2020-10-15,covid5mintest.com,dns2.home.pl,,
@@ -132,7 +137,12 @@
 2020-10-15,covidtestingpalmbay.com,ns03.domaincontrol.com,,
 2020-10-15,covidtestingpalmbay.com,ns04.domaincontrol.com,,
 2020-10-15,covidtestlasvegas.org,covidtestlasvegas.org,,
+2020-10-15,covidtestlasvegas.org,ns11.domaincontrol.com,,
+2020-10-15,covidtestlasvegas.org,ns12.domaincontrol.com,,
+2020-10-15,covidtestyourselfkits.com,184.168.131.241,US,North America
 2020-10-15,covidtestyourselfkits.com,covidtestyourselfkits.com,,
+2020-10-15,covidtestyourselfkits.com,ns33.domaincontrol.com,,
+2020-10-15,covidtestyourselfkits.com,ns34.domaincontrol.com,,
 2020-10-15,generationscovidtesting.com,generationscovidtesting.com,,
 2020-10-15,generationscovidtesting.com,ns-cloud-c1.googledomains.com,,
 2020-10-15,generationscovidtesting.com,ns-cloud-c2.googledomains.com,,
@@ -140,12 +150,17 @@
 2020-10-15,generationscovidtesting.com,ns-cloud-c4.googledomains.com,,
 2020-10-15,gettestedforcovid19now.org,192.185.0.218,US,North America
 2020-10-15,gettestedforcovid19now.org,gettestedforcovid19now.org,,
+2020-10-15,gettestedforcovid19now.org,ns1.hostgator.com,,
+2020-10-15,gettestedforcovid19now.org,ns2.hostgator.com,,
 2020-10-15,poccovidtesting.com,ns21.domaincontrol.com,,
 2020-10-15,poccovidtesting.com,ns22.domaincontrol.com,,
 2020-10-15,poccovidtesting.com,poccovidtesting.com,,
 2020-10-15,quiktestcovid-19.com.ba,195.222.33.180,BA,Europe
 2020-10-15,quiktestcovid-19.com.ba,quiktestcovid-19.com.ba,,
 2020-10-15,rapidcovidtest.ca,rapidcovidtest.ca,,
+2020-10-15,rapidcovidtestinghawaii.com,184.168.131.241,US,North America
+2020-10-15,rapidcovidtestinghawaii.com,pdns11.domaincontrol.com,,
+2020-10-15,rapidcovidtestinghawaii.com,pdns12.domaincontrol.com,,
 2020-10-15,rapidcovidtestinghawaii.com,rapidcovidtestinghawaii.com,,
 2020-10-15,testanticovid.com,213.186.33.5,FR,Europe
 2020-10-15,testanticovid.com,dns17.ovh.net,,
@@ -153,6 +168,10 @@
 2020-10-15,testanticovid.com,testanticovid.com,,
 2020-10-15,testrapidcovid.fr,testrapidcovid.fr,,
 2020-10-15,test-salivaire-covid-19.com,217.160.0.164,DE,Europe
+2020-10-15,test-salivaire-covid-19.com,ns1040.ui-dns.org,,
+2020-10-15,test-salivaire-covid-19.com,ns1050.ui-dns.de,,
+2020-10-15,test-salivaire-covid-19.com,ns1072.ui-dns.biz,,
+2020-10-15,test-salivaire-covid-19.com,ns1100.ui-dns.com,,
 2020-10-15,test-salivaire-covid-19.com,test-salivaire-covid-19.com,,
 2020-10-15,test-salivaire-covid.com,217.160.0.164,DE,Europe
 2020-10-15,test-salivaire-covid.com,hostmaster@1und1.com,,
