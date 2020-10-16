@@ -108,8 +108,10 @@
 2020-10-15,test-salivaire-covid.com,ns1100.ui-dns.com,,
 2020-10-15,test-salivaire-covid.com,test-salivaire-covid.com,,
 2020-10-15,thecovidtestkit4u.com,184.168.131.241,US,North America
+2020-10-15,thecovidtestkit4u.com,5v=spf1 include:_spf.email4sand06-d4943.swp23.com ~all,,
 2020-10-15,thecovidtestkit4u.com,ns17.domaincontrol.com,,
 2020-10-15,thecovidtestkit4u.com,ns18.domaincontrol.com,,
+2020-10-15,thecovidtestkit4u.com,NXY9c3BmMSBpbmNsdWRlOl9zcGYuZW1haWw0c2FuZDA2LWQ0OTQzLnN3cDIzLmNvbSB+YWxs,,
 2020-10-15,thecovidtestkit4u.com,thecovidtestkit4u.com,,
 2020-10-15,www.anticovid-test.ru,2a03:6f00:1::5c35:60c3,RU,Europe
 2020-10-15,www.anticovid-test.ru,92.53.96.195,RU,Europe
@@ -142,4 +144,7 @@
 2020-10-16,rpvcovidtest.com,ns29.domaincontrol.com,,
 2020-10-16,rpvcovidtest.com,ns30.domaincontrol.com,,
 2020-10-16,rpvcovidtest.com,rpvcovidtest.com,,
+2020-10-16,sars-cov-2-rt-pcr-test.com,ns1.eftydns.com,,
+2020-10-16,sars-cov-2-rt-pcr-test.com,ns2.eftydns.com,,
+2020-10-16,sars-cov-2-rt-pcr-test.com,sars-cov-2-rt-pcr-test.com,,
 2020-10-16,smtracking.covidtestyourselfkit.com,smtracking.email4sand01.swp23.com,,
