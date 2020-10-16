@@ -2,85 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-14,attestation-sortie-covid19.politie,127.0.53.53,,
-2020-10-14,attestation-sortie-covid19.politie,attestation-sortie-covid19.politie,,
-2020-10-14,coronavirustestcenter.be,coronavirustestcenter.be,,
-2020-10-14,covid19freedomtest.com,34.102.136.180,US,North America
-2020-10-14,covid19freedomtest.com,covid19freedomtest.com,,
-2020-10-14,covid19freedomtest.com,ns25.domaincontrol.com,,
-2020-10-14,covid19freedomtest.com,ns26.domaincontrol.com,,
-2020-10-14,covid19inhometests4u.com,184.168.131.241,US,North America
-2020-10-14,covid19inhometests4u.com,covid19inhometests4u.com,,
-2020-10-14,covid19inhometests4u.com,ns17.domaincontrol.com,,
-2020-10-14,covid19inhometests4u.com,ns18.domaincontrol.com,,
-2020-10-14,covid19testkitsales.com,184.168.131.241,US,North America
-2020-10-14,covid19testkitsales.com,covid19testkitsales.com,,
-2020-10-14,covid19testkitsales.com,ns75.domaincontrol.com,,
-2020-10-14,covid19testkitsales.com,ns76.domaincontrol.com,,
-2020-10-14,covidfreedomtest.com,34.102.136.180,US,North America
-2020-10-14,covidfreedomtest.com,covidfreedomtest.com,,
-2020-10-14,covidfreedomtest.com,ns53.domaincontrol.com,,
-2020-10-14,covidfreedomtest.com,ns54.domaincontrol.com,,
-2020-10-14,covidpcrtesti.com,23.236.62.147,US,North America
-2020-10-14,covidpcrtesti.com,covidpcrtesti.com,,
-2020-10-14,covidpcrtesti.com,ns14.wixdns.net,,
-2020-10-14,covidpcrtesti.com,ns15.wixdns.net,,
-2020-10-14,covidsecureshops.co.uk,217.160.0.230,DE,Europe
-2020-10-14,covidsecureshops.co.uk,covidsecureshops.co.uk,,
-2020-10-14,covidsecureshops.co.uk,ns1023.ui-dns.de,,
-2020-10-14,covidsecureshops.co.uk,ns1060.ui-dns.biz,,
-2020-10-14,covidsecureshops.co.uk,ns1084.ui-dns.org,,
-2020-10-14,covidsecureshops.co.uk,ns1097.ui-dns.com,,
-2020-10-14,covidtestimonial.com,34.102.136.180,US,North America
-2020-10-14,covidtestimonial.com,covidtestimonial.com,,
-2020-10-14,covidtestimonial.com,ns43.domaincontrol.com,,
-2020-10-14,covidtestimonial.com,ns44.domaincontrol.com,,
-2020-10-14,covidtestingnh.net,216.239.32.21,US,North America
-2020-10-14,covidtestingnh.net,216.239.34.21,US,North America
-2020-10-14,covidtestingnh.net,216.239.36.21,US,North America
-2020-10-14,covidtestingnh.net,216.239.38.21,US,North America
-2020-10-14,covidtestingnh.net,covidtestingnh.net,,
-2020-10-14,covid-test.si,212.44.113.14,SI,Europe
-2020-10-14,covid-test.si,cdns1.controlpanel.si,,
-2020-10-14,covid-test.si,cdns2.controlpanel.si,,
-2020-10-14,covid-test.si,covid-test.si,,
-2020-10-14,covid-test.si,LXY9c3BmMSBhIG14IGluY2x1ZGU6X3NwZi5jb250cm9scGFuZWwuc2kgfmFsbA==,,
-2020-10-14,covid-test.si,-v=spf1 a mx include:_spf.controlpanel.si ~all,,
-2020-10-14,cpanel.covid-test.si,212.44.113.14,SI,Europe
-2020-10-14,ftp.covid-test.si,212.44.113.14,SI,Europe
-2020-10-14,ftp.covid-test.si,covid-test.si,,
-2020-10-14,hometestkitscoronavirus.edu.sn,hometestkitscoronavirus.edu.sn,,
-2020-10-14,mail.covid-test.si,212.44.113.14,SI,Europe
-2020-10-14,smtracking.covid19inhometests4u.com,smtracking.email4sand05.swp23.com,,
-2020-10-14,smtracking.testcovid19homekits.com,smtracking.email4sand09.swp23.com,,
-2020-10-14,sneltestenopcovid.nl,5.157.86.9,NL,Europe
-2020-10-14,sneltestenopcovid.nl,sneltestenopcovid.nl,,
-2020-10-14,testcovid19homekits.com,ns75.domaincontrol.com,,
-2020-10-14,testcovid19homekits.com,ns76.domaincontrol.com,,
-2020-10-14,testcovid19homekits.com,testcovid19homekits.com,,
-2020-10-14,testingcovidnamur.be,testingcovidnamur.be,,
-2020-10-14,ukcovidtesting.com,91.238.165.234,GB,Europe
-2020-10-14,ukcovidtesting.com,ns1.hpdns.net,,
-2020-10-14,ukcovidtesting.com,ns2.hpdns.net,,
-2020-10-14,ukcovidtesting.com,ns3.hpdns.net,,
-2020-10-14,ukcovidtesting.com,ns4.hpdns.net,,
-2020-10-14,ukcovidtesting.com,ukcovidtesting.com,,
-2020-10-14,wearecovid-secure.co.uk,217.160.0.230,DE,Europe
-2020-10-14,wearecovid-secure.co.uk,ns1023.ui-dns.de,,
-2020-10-14,wearecovid-secure.co.uk,ns1060.ui-dns.biz,,
-2020-10-14,wearecovid-secure.co.uk,ns1084.ui-dns.org,,
-2020-10-14,wearecovid-secure.co.uk,ns1097.ui-dns.com,,
-2020-10-14,wearecovid-secure.co.uk,wearecovid-secure.co.uk,,
-2020-10-14,webmail.covid-test.si,212.44.113.14,SI,Europe
-2020-10-14,www.coronavirustestcenter.be,198.71.232.3,US,North America
-2020-10-14,www.coronavirustestcenter.be,coronavirustestcenter.be,,
-2020-10-14,www.covidfreedomtest.com,34.102.136.180,US,North America
-2020-10-14,www.covidfreedomtest.com,covidfreedomtest.com,,
-2020-10-14,www.covid-test.si,212.44.113.14,SI,Europe
-2020-10-14,www.covid-test.si,covid-test.si,,
-2020-10-14,www.sneltestenopcovid.nl,5.157.86.9,NL,Europe
-2020-10-14,www.sneltestenopcovid.nl,sneltestenopcovid.nl,,
-2020-10-14,www.testingcovidnamur.be,213.186.33.5,FR,Europe
 2020-10-15,anticovid-test.ru,2a03:6f00:1::5c35:60c3,RU,Europe
 2020-10-15,anticovid-test.ru,92.53.96.195,RU,Europe
 2020-10-15,anticovid-test.ru,anticovid-test.ru,,
@@ -93,9 +14,11 @@
 2020-10-15,biolabcovid19test.com,biolabcovid19test.com,,
 2020-10-15,bloomcovidtest.xn--mxtq1m,127.0.53.53,,
 2020-10-15,bloomcovidtest.xn--mxtq1m,bloomcovidtest.xn--mxtq1m,,
+2020-10-15,covid19foryoutestkit.com,5v=spf1 include:_spf.email4sand08-d4941.swp23.com ~all,,
 2020-10-15,covid19foryoutestkit.com,covid19foryoutestkit.com,,
 2020-10-15,covid19foryoutestkit.com,ns33.domaincontrol.com,,
 2020-10-15,covid19foryoutestkit.com,ns34.domaincontrol.com,,
+2020-10-15,covid19foryoutestkit.com,NXY9c3BmMSBpbmNsdWRlOl9zcGYuZW1haWw0c2FuZDA4LWQ0OTQxLnN3cDIzLmNvbSB+YWxs,,
 2020-10-15,covid19sneltester.nl,185.107.112.222,NL,Europe
 2020-10-15,covid19sneltester.nl,covid19sneltester.nl,,
 2020-10-15,covid19sneltester.nl,ns1.hostnet.nl,,
