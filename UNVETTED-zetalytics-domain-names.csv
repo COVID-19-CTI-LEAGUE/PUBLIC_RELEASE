@@ -67,6 +67,7 @@
 2020-10-15,covidtestlasvegas.org,ns11.domaincontrol.com,,
 2020-10-15,covidtestlasvegas.org,ns12.domaincontrol.com,,
 2020-10-15,covidtestyourselfkits.com,184.168.131.241,US,North America
+2020-10-15,covidtestyourselfkits.com,5v=spf1 include:_spf.email4sand02-d4944.swp23.com ~all,,
 2020-10-15,covidtestyourselfkits.com,covidtestyourselfkits.com,,
 2020-10-15,covidtestyourselfkits.com,ns33.domaincontrol.com,,
 2020-10-15,covidtestyourselfkits.com,ns34.domaincontrol.com,,
@@ -152,6 +153,10 @@
 2020-10-16,covidcreditcure.com,alt4.aspmx.l.google.com,,
 2020-10-16,covidcreditcure.com,aspmx.l.google.com,,
 2020-10-16,covidcreditcure.com,covidcreditcure.com,,
+2020-10-16,covidcreditcure.com,ns-cloud-d1.googledomains.com,,
+2020-10-16,covidcreditcure.com,ns-cloud-d2.googledomains.com,,
+2020-10-16,covidcreditcure.com,ns-cloud-d3.googledomains.com,,
+2020-10-16,covidcreditcure.com,ns-cloud-d4.googledomains.com,,
 2020-10-16,covidmultitest.com,217.146.69.49,EE,Europe
 2020-10-16,covidmultitest.com,covidmultitest.com,,
 2020-10-16,covidmultitest.com,ns2.zone.ee,,
@@ -189,6 +194,9 @@
 2020-10-16,panodyne-covid19testkit.com,ns17.domaincontrol.com,,
 2020-10-16,panodyne-covid19testkit.com,ns18.domaincontrol.com,,
 2020-10-16,panodyne-covid19testkit.com,panodyne-covid19testkit.com,,
+2020-10-16,positivitycurescoronavirus.com.ba,195.222.33.180,BA,Europe
+2020-10-16,positivitycurescoronavirus.com.ba,positivitycurescoronavirus.com.ba,,
+2020-10-16,positivitycurescoronavirus.xn--fiqs8s,positivitycurescoronavirus.xn--fiqs8s,,
 2020-10-16,positivitycurescoronavirus.xn--od0alg.cn,positivitycurescoronavirus.xn--od0alg.cn,,
 2020-10-16,quickcliniccovidtesting.com,34.102.136.180,US,North America
 2020-10-16,quickcliniccovidtesting.com,ns75.domaincontrol.com,,
