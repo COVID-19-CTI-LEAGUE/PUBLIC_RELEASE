@@ -4,6 +4,8 @@
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-10-17,accessbiocovidtest.com,34.102.136.180,US,North America
 2020-10-17,accessbiocovidtest.com,accessbiocovidtest.com,,
+2020-10-17,accessbiocovidtest.com,ns17.domaincontrol.com,,
+2020-10-17,accessbiocovidtest.com,ns18.domaincontrol.com,,
 2020-10-17,claritycovidtests.com,192.185.114.102,US,North America
 2020-10-17,claritycovidtests.com,claritycovidtests.com,,
 2020-10-17,claritycovidtests.com,ns1721.websitewelcome.com,,
@@ -89,6 +91,7 @@
 2020-10-18,covid19-antigen-test.com,ns1079.ui-dns.de,,
 2020-10-18,covid19-antigen-test.com,ns1081.ui-dns.biz,,
 2020-10-18,covid19-antigen-test.com,ns1086.ui-dns.com,,
+2020-10-18,covid19hometest.port.fr,covid19hometest.port.fr,,
 2020-10-18,covid19safetest.com,34.102.136.180,US,North America
 2020-10-18,covid19safetest.com,covid19safetest.com,,
 2020-10-18,covidtestingma.com,covidtestingma.com,,
@@ -106,6 +109,8 @@
 2020-10-18,help4covid19cure.com,34.102.136.180,US,North America
 2020-10-18,help4covid19cure.com,help4covid19cure.com,,
 2020-10-18,inhomecovid19kittests.com,inhomecovid19kittests.com,,
+2020-10-18,inhomecovid19kittests.com,ns65.domaincontrol.com,,
+2020-10-18,inhomecovid19kittests.com,ns66.domaincontrol.com,,
 2020-10-18,instantresultscovidtest.com,34.102.136.180,US,North America
 2020-10-18,instantresultscovidtest.com,instantresultscovidtest.com,,
 2020-10-18,instantresultscovidtest.com,ns45.domaincontrol.com,,
