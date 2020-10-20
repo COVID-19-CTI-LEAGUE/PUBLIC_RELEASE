@@ -2,6 +2,8 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
+2020-10-19,beheer.testcovid19rijnstate.nl,fallback-dhs.srvnl.nl,,
+2020-10-19,beheer.testcovid19rijnstate.nl,mvm-boydis16.srvnl.nl,,
 2020-10-19,coronavirustests.ca,coronavirustests.ca,,
 2020-10-19,covid19antijentest.com,85.159.66.93,TR,Asia
 2020-10-19,covid19antijentest.com,covid19antijentest.com,,
@@ -37,6 +39,7 @@
 2020-10-19,inhomekittestcovid19.com,inhomekittestcovid19.com,,
 2020-10-19,inhometestkitscovid19.com,34.102.136.180,US,North America
 2020-10-19,inhometestkitscovid19.com,inhometestkitscovid19.com,,
+2020-10-19,mail.beheer.testcovid19rijnstate.nl,185.133.88.77,PL,Europe
 2020-10-19,mauicovidtest.com,mauicovidtest.com,,
 2020-10-19,mauicovidtest.com,ns31.domaincontrol.com,,
 2020-10-19,mauicovidtest.com,ns32.domaincontrol.com,,
@@ -56,12 +59,18 @@
 2020-10-19,sneltestcovid.be,sneltestcovid.be,,
 2020-10-19,sql.covidtestveloce.it,217.64.195.208,IT,Europe
 2020-10-19,sql.covidtestveloce.it,m-10.th.seeweb.it,,
+2020-10-19,testcovid19rijnstate.nl,185.133.88.77,PL,Europe
 2020-10-19,testcovid19rijnstate.nl,testcovid19rijnstate.nl,,
+2020-10-19,www.beheer.testcovid19rijnstate.nl,185.133.88.77,PL,Europe
 2020-10-19,www.covidtestveloce.it,2001:4b78:1001::1001,IT,Europe
 2020-10-19,www.covidtestveloce.it,217.64.195.207,IT,Europe
 2020-10-19,www.quickcovidtest.co.uk,217.160.0.164,DE,Europe
 2020-10-19,www.testcovid19rijnstate.nl,185.133.88.77,PL,Europe
 2020-10-19,www.testcovid19rijnstate.nl,2a10:7180:100::185:133:88:77,,
+2020-10-20,123covidtest.com,123covidtest.com,,
+2020-10-20,123covidtest.com,ns1.hostnet.nl,,
+2020-10-20,123covidtest.com,ns2.hostnetbv.com,,
+2020-10-20,123covidtest.com,ns3.hostnetbv.nl,,
 2020-10-20,covid19testperm.com,covid19testperm.com,,
 2020-10-20,covid19testperm.com,ns6.wixdns.net,,
 2020-10-20,covid19testperm.com,ns7.wixdns.net,,
@@ -84,6 +93,10 @@
 2020-10-20,rapidresultcovidtest.com,rapidresultcovidtest.com,,
 2020-10-20,safetestcovid.com,34.102.136.180,US,North America
 2020-10-20,safetestcovid.com,safetestcovid.com,,
+2020-10-20,test-na-covid19.cz,185.64.219.37,CZ,Europe
+2020-10-20,test-na-covid19.cz,2001:1528:240::15,CZ,Europe
+2020-10-20,test-na-covid19.cz,217.11.249.139,CZ,Europe
+2020-10-20,test-na-covid19.cz,test-na-covid19.cz,,
 2020-10-20,www.covid19testperm.com,3b516ea1-balancer.wixdns.net,,
 2020-10-20,www.covid19testperm.com,balancer.wixdns.net,,
 2020-10-20,www.covid19testperm.com,td-balancer-usc1-133-11.wixdns.net,,
