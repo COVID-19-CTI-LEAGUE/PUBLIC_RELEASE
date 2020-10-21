@@ -3,6 +3,7 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-10-20,123covidtest.com,123covidtest.com,,
+2020-10-20,123covidtest.com,2a02:2268:ffff:ffff::4,NL,Europe
 2020-10-20,123covidtest.com,91.184.0.100,NL,Europe
 2020-10-20,123covidtest.com,ns1.hostnet.nl,,
 2020-10-20,123covidtest.com,ns2.hostnetbv.com,,
@@ -45,6 +46,7 @@
 2020-10-20,genbodycovidtest.com,genbodycovidtest.com,,
 2020-10-20,genbodycovidtest.com,ns59.domaincontrol.com,,
 2020-10-20,genbodycovidtest.com,ns60.domaincontrol.com,,
+2020-10-20,inhomecovid19kittest.com,34.102.136.180,US,North America
 2020-10-20,inhomecovid19kittest.com,inhomecovid19kittest.com,,
 2020-10-20,inhomecovid19kittest.com,ns31.domaincontrol.com,,
 2020-10-20,inhomecovid19kittest.com,ns32.domaincontrol.com,,
@@ -101,7 +103,10 @@
 2020-10-20,www.revealcovid19test.com,5.2.84.124,TR,Asia
 2020-10-20,www.revealcovid19test.com,revealcovid19test.com,,
 2020-10-20,www.testcovid-19.id,testcovid-19.id,,
+2020-10-21,covid-19rapidtestunit.com,94.136.40.51,GB,Europe
 2020-10-21,covid-19rapidtestunit.com,covid-19rapidtestunit.com,,
+2020-10-21,covid-19rapidtestunit.com,ns.123-reg.co.uk,,
+2020-10-21,covid-19rapidtestunit.com,ns2.123-reg.co.uk,,
 2020-10-21,covid19sneltesten.com,185.233.173.12,NL,Europe
 2020-10-21,covid19sneltesten.com,2a0c:eb00::f4:185:233:173:12,NL,Europe
 2020-10-21,covid19sneltesten.com,covid19sneltesten.com,,
@@ -125,6 +130,8 @@
 2020-10-21,covidademsneltest.store,nsn1.mijndomein.nl,,
 2020-10-21,covidademsneltest.store,nsn2.mijndomein.nl,,
 2020-10-21,covidademsneltest.store,nsn3.mijndomein.nl,,
+2020-10-21,covidhometesting.us,34.102.136.180,US,North America
+2020-10-21,covidhometesting.us,covidhometesting.us,,
 2020-10-21,covidschnelltest.ch,covidschnelltest.ch,,
 2020-10-21,covidschnelltest.ch,mail.covidschnelltest.ch,,
 2020-10-21,covid-schnelltest.eu,covid-schnelltest.eu,,
@@ -168,6 +175,7 @@
 2020-10-21,njcovidtests.xn--node,188.93.95.11,GE,Asia
 2020-10-21,njcovidtests.xn--node,njcovidtests.xn--node,,
 2020-10-21,public-website.staging.covidtestlimburg.nl,188.166.4.247,NL,Europe
+2020-10-21,wmccovidtesting.com,wmccovidtesting.com,,
 2020-10-21,zelftestcovid19.com,185.233.173.12,NL,Europe
 2020-10-21,zelftestcovid19.com,ns1.cyberfusion.nl,,
 2020-10-21,zelftestcovid19.com,ns2.cyberfusion.be,,
