@@ -78,6 +78,7 @@
 2020-10-20,testcovid-19.id,ns31.jagoweb.org,,
 2020-10-20,testcovid-19.id,ns32.jagoweb.org,,
 2020-10-20,testcovid-19.id,testcovid-19.id,,
+2020-10-20,testcovid-19.id,%v=spf1 +a +mx +ip4:206.72.200.10 ~all,,
 2020-10-20,testcovidrapid.ro,196.52.9.4,US,North America
 2020-10-20,testcovidrapid.ro,testcovidrapid.ro,,
 2020-10-20,test-na-covid19.cz,185.64.219.37,CZ,Europe
@@ -130,5 +131,9 @@
 2020-10-21,instantcovidtestuk.com,instantcovidtestuk.com,,
 2020-10-21,instantcovidtestuk.com,ns67.domaincontrol.com,,
 2020-10-21,instantcovidtestuk.com,ns68.domaincontrol.com,,
+2020-10-21,lubbockcovidtest.us,74.220.199.6,US,North America
+2020-10-21,lubbockcovidtest.us,lubbockcovidtest.us,,
+2020-10-21,lubbockcovidtest.us,ns1.bluehost.com,,
+2020-10-21,lubbockcovidtest.us,ns2.bluehost.com,,
 2020-10-21,njcovidtests.xn--node,188.93.95.11,GE,Asia
 2020-10-21,njcovidtests.xn--node,njcovidtests.xn--node,,
