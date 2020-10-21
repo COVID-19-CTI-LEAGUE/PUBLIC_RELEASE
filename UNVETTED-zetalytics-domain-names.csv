@@ -114,6 +114,9 @@
 2020-10-21,covid-19rapidtestunit.com,covid-19rapidtestunit.com,,
 2020-10-21,covid-19rapidtestunit.com,ns.123-reg.co.uk,,
 2020-10-21,covid-19rapidtestunit.com,ns2.123-reg.co.uk,,
+2020-10-21,covid-19-schnelltests.de,2001:8d8:100f:f000::29a,DE,Europe
+2020-10-21,covid-19-schnelltests.de,217.160.0.66,DE,Europe
+2020-10-21,covid-19-schnelltests.de,covid-19-schnelltests.de,,
 2020-10-21,covid19sneltesten.com,185.233.173.12,NL,Europe
 2020-10-21,covid19sneltesten.com,2a0c:eb00::f4:185:233:173:12,NL,Europe
 2020-10-21,covid19sneltesten.com,covid19sneltesten.com,,
@@ -197,9 +200,12 @@
 2020-10-21,public-website.staging.covidtestlimburg.nl,188.166.4.247,NL,Europe
 2020-10-21,wmccovidtesting.com,35.202.200.140,US,North America
 2020-10-21,wmccovidtesting.com,wmccovidtesting.com,,
+2020-10-21,www.covid-19-schnelltests.de,2001:8d8:100f:f000::29a,DE,Europe
+2020-10-21,www.covid-19-schnelltests.de,217.160.0.66,DE,Europe
 2020-10-21,zelftestcovid19.com,185.233.173.12,NL,Europe
 2020-10-21,zelftestcovid19.com,ns1.cyberfusion.nl,,
 2020-10-21,zelftestcovid19.com,ns2.cyberfusion.be,,
 2020-10-21,zelftestcovid19.com,ns3.cyberfusion.nu,,
 2020-10-21,zelftestcovid19.com,PnY9c3BmMSBhIG14IGlwNDoxODUuMjMzLjE3My41IGluY2x1ZGU6X3NwZi5jeWJlcmZ1c2lvbi5ubCB+YWxs,,
+2020-10-21,zelftestcovid19.com,>v=spf1 a mx ip4:185.233.173.5 include:_spf.cyberfusion.nl ~all,,
 2020-10-21,zelftestcovid19.com,zelftestcovid19.com,,
