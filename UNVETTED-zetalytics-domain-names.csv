@@ -2,117 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-20,123covidtest.com,123covidtest.com,,
-2020-10-20,123covidtest.com,2a02:2268:ffff:ffff::4,NL,Europe
-2020-10-20,123covidtest.com,91.184.0.100,NL,Europe
-2020-10-20,123covidtest.com,ns1.hostnet.nl,,
-2020-10-20,123covidtest.com,ns2.hostnetbv.com,,
-2020-10-20,123covidtest.com,ns3.hostnetbv.nl,,
-2020-10-20,covid-19-test-center.com,217.160.0.175,DE,Europe
-2020-10-20,covid-19-test-center.com,covid-19-test-center.com,,
-2020-10-20,covid-19-test-center.com,ns1019.ui-dns.biz,,
-2020-10-20,covid-19-test-center.com,ns1034.ui-dns.org,,
-2020-10-20,covid-19-test-center.com,ns1115.ui-dns.com,,
-2020-10-20,covid-19-test-center.com,ns1119.ui-dns.de,,
-2020-10-20,covid19testperm.com,covid19testperm.com,,
-2020-10-20,covid19testperm.com,ns6.wixdns.net,,
-2020-10-20,covid19testperm.com,ns7.wixdns.net,,
-2020-10-20,covidbreathtest.online,covidbreathtest.online,,
-2020-10-20,covid-gargle-test.eu,a.ns14.net,,
-2020-10-20,covid-gargle-test.eu,b.ns14.net,,
-2020-10-20,covid-gargle-test.eu,c.ns14.net,,
-2020-10-20,covid-gargle-test.eu,covid-gargle-test.eu,,
-2020-10-20,covid-gargle-test.eu,d.ns14.net,,
-2020-10-20,covidsneltest-rotterdam.store,covidsneltest-rotterdam.store,,
-2020-10-20,covidsneltest-rotterdam.store,nsn1.mijndomein.nl,,
-2020-10-20,covidsneltest-rotterdam.store,nsn2.mijndomein.nl,,
-2020-10-20,covidsneltest-rotterdam.store,nsn3.mijndomein.nl,,
-2020-10-20,covidtestovanie.sk,192.0.78.12,US,North America
-2020-10-20,covidtestovanie.sk,192.0.78.13,US,North America
-2020-10-20,covidtestovanie.sk,covidtestovanie.sk,,
-2020-10-20,covidtestovanie.sk,ns1.websupport.sk,,
-2020-10-20,covidtestovanie.sk,ns2.websupport.sk,,
-2020-10-20,covidtestovanie.sk,ns3.websupport.sk,,
-2020-10-20,covidtestteam.nl,185.18.236.123,NL,Europe
-2020-10-20,covidtestteam.nl,2a05:1e80:3:1:1:236::123,NL,Europe
-2020-10-20,covidtestteam.nl,covidtestteam.nl,,
-2020-10-20,eventcovidsneltest.store,188.93.150.90,NL,Europe
-2020-10-20,eventcovidsneltest.store,eventcovidsneltest.store,,
-2020-10-20,eventcovidsneltest.store,nsn1.mijndomein.nl,,
-2020-10-20,eventcovidsneltest.store,nsn2.mijndomein.nl,,
-2020-10-20,eventcovidsneltest.store,nsn3.mijndomein.nl,,
-2020-10-20,genbodycovid19testkit.com,34.102.136.180,US,North America
-2020-10-20,genbodycovid19testkit.com,genbodycovid19testkit.com,,
-2020-10-20,genbodycovid19testkit.com,ns39.domaincontrol.com,,
-2020-10-20,genbodycovid19testkit.com,ns40.domaincontrol.com,,
-2020-10-20,genbodycovidtest.com,34.102.136.180,US,North America
-2020-10-20,genbodycovidtest.com,genbodycovidtest.com,,
-2020-10-20,genbodycovidtest.com,ns59.domaincontrol.com,,
-2020-10-20,genbodycovidtest.com,ns60.domaincontrol.com,,
-2020-10-20,inhomecovid19kittest.com,34.102.136.180,US,North America
-2020-10-20,inhomecovid19kittest.com,inhomecovid19kittest.com,,
-2020-10-20,inhomecovid19kittest.com,ns31.domaincontrol.com,,
-2020-10-20,inhomecovid19kittest.com,ns32.domaincontrol.com,,
-2020-10-20,mail.testcovid-19.id,206.72.200.10,US,North America
-2020-10-20,mail.testcovid-19.id,testcovid-19.id,,
-2020-10-20,nanocovidtest.com,52.58.78.16,DE,Europe
-2020-10-20,nanocovidtest.com,nanocovidtest.com,,
-2020-10-20,nanocovidtest.com,ns1.dan.com,,
-2020-10-20,nanocovidtest.com,ns2.dan.com,,
-2020-10-20,napacovidtest.com,napacovidtest.com,,
-2020-10-20,qlarescovidtest.nl,qlarescovidtest.nl,,
-2020-10-20,rapidresultcovidtest.com,34.102.136.180,US,North America
-2020-10-20,rapidresultcovidtest.com,ns15.domaincontrol.com,,
-2020-10-20,rapidresultcovidtest.com,ns16.domaincontrol.com,,
-2020-10-20,rapidresultcovidtest.com,rapidresultcovidtest.com,,
-2020-10-20,rapidresultcovidtests.com,34.102.136.180,US,North America
-2020-10-20,rapidresultcovidtests.com,ns43.domaincontrol.com,,
-2020-10-20,rapidresultcovidtests.com,ns44.domaincontrol.com,,
-2020-10-20,rapidresultcovidtests.com,rapidresultcovidtests.com,,
-2020-10-20,revealcovid19test.com,revealcovid19test.com,,
-2020-10-20,safetestcovid.com,34.102.136.180,US,North America
-2020-10-20,safetestcovid.com,ns69.domaincontrol.com,,
-2020-10-20,safetestcovid.com,ns70.domaincontrol.com,,
-2020-10-20,safetestcovid.com,safetestcovid.com,,
-2020-10-20,schnelltestcovid.com,ns23.domaincontrol.com,,
-2020-10-20,schnelltestcovid.com,ns24.domaincontrol.com,,
-2020-10-20,schnelltestcovid.com,schnelltestcovid.com,,
-2020-10-20,sneltestcovid.com,34.102.136.180,US,North America
-2020-10-20,sneltestcovid.com,ns23.domaincontrol.com,,
-2020-10-20,sneltestcovid.com,ns24.domaincontrol.com,,
-2020-10-20,sneltestcovid.com,sneltestcovid.com,,
-2020-10-20,testcovid-19.id,206.72.200.10,US,North America
-2020-10-20,testcovid-19.id,JXY9c3BmMSArYSArbXggK2lwNDoyMDYuNzIuMjAwLjEwIH5hbGw=,,
-2020-10-20,testcovid-19.id,ns11.jagoweb.org,,
-2020-10-20,testcovid-19.id,ns12.jagoweb.org,,
-2020-10-20,testcovid-19.id,ns31.jagoweb.org,,
-2020-10-20,testcovid-19.id,ns32.jagoweb.org,,
-2020-10-20,testcovid-19.id,testcovid-19.id,,
-2020-10-20,testcovid-19.id,%v=spf1 +a +mx +ip4:206.72.200.10 ~all,,
-2020-10-20,testcovidrapid.ro,196.52.9.4,US,North America
-2020-10-20,testcovidrapid.ro,testcovidrapid.ro,,
-2020-10-20,test-na-covid19.cz,185.64.219.37,CZ,Europe
-2020-10-20,test-na-covid19.cz,2001:1528:240::15,CZ,Europe
-2020-10-20,test-na-covid19.cz,217.11.249.139,CZ,Europe
-2020-10-20,test-na-covid19.cz,test-na-covid19.cz,,
-2020-10-20,webmail.testcovid-19.id,206.72.200.10,US,North America
-2020-10-20,wichitacovidtesting.com,162.242.142.236,US,North America
-2020-10-20,wichitacovidtesting.com,ns2.rackspace.com,,
-2020-10-20,wichitacovidtesting.com,ns.rackspace.com,,
-2020-10-20,wichitacovidtesting.com,wichitacovidtesting.com,,
-2020-10-20,www.covid19testperm.com,3b516ea1-balancer.wixdns.net,,
-2020-10-20,www.covid19testperm.com,balancer.wixdns.net,,
-2020-10-20,www.covid19testperm.com,td-balancer-usc1-133-11.wixdns.net,,
-2020-10-20,www.covid19testperm.com,www11.wixdns.net,,
-2020-10-20,www.covidtestteam.nl,185.18.236.123,NL,Europe
-2020-10-20,www.covidtestteam.nl,2a05:1e80:3:1:1:236::123,NL,Europe
-2020-10-20,www.covidtestteam.nl,covidtestteam.nl,,
-2020-10-20,www.revealcovid19test.com,5.2.84.124,TR,Asia
-2020-10-20,www.revealcovid19test.com,revealcovid19test.com,,
-2020-10-20,www.testcovid-19.id,testcovid-19.id,,
-2020-10-20,www.test-na-covid19.cz,185.64.219.37,CZ,Europe
-2020-10-20,www.test-na-covid19.cz,185.64.219.42,CZ,Europe
-2020-10-20,www.test-na-covid19.cz,www.myshoptet.com,,
 2020-10-21,covid-19rapidtestunit.com,94.136.40.51,GB,Europe
 2020-10-21,covid-19rapidtestunit.com,covid-19rapidtestunit.com,,
 2020-10-21,covid-19rapidtestunit.com,ns.123-reg.co.uk,,
@@ -150,6 +39,7 @@
 2020-10-21,covidademsneltest.store,nsn3.mijndomein.nl,,
 2020-10-21,covidhometesting.us,34.102.136.180,US,North America
 2020-10-21,covidhometesting.us,covidhometesting.us,,
+2020-10-21,covidmultitest.cz,covidmultitest.cz,,
 2020-10-21,covidschnelltest.ch,covidschnelltest.ch,,
 2020-10-21,covidschnelltest.ch,mail.covidschnelltest.ch,,
 2020-10-21,covidschnelltest.ch,ns1.hoststar.hosting,,
