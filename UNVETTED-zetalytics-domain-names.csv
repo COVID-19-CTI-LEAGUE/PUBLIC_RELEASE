@@ -117,7 +117,10 @@
 2020-10-21,zelftestcovid19.com,>v=spf1 a mx ip4:185.233.173.5 include:_spf.cyberfusion.nl ~all,,
 2020-10-21,zelftestcovid19.com,zelftestcovid19.com,,
 2020-10-22,coronavirussneltest.store,coronavirussneltest.store,,
+2020-10-22,coronavirussneltest.store,ns21.domaincontrol.com,,
+2020-10-22,coronavirussneltest.store,ns22.domaincontrol.com,,
 2020-10-22,covid19test.ga,covid19test.ga,,
+2020-10-22,covid19-testkits.be,covid19-testkits.be,,
 2020-10-22,covid19teststraat.com,37.97.254.27,NL,Europe
 2020-10-22,covid19teststraat.com,covid19teststraat.com,,
 2020-10-22,covid19teststraat.com,ns0.transip.net,,
@@ -167,6 +170,7 @@
 2020-10-22,covidtesteventos.com,ns3.cdmon.net,,
 2020-10-22,covidtesteventos.com,ns4.cdmondns-01.org,,
 2020-10-22,covidtesteventos.com,ns5.cdmondns-01.com,,
+2020-10-22,covidtest.fi,covidtest.fi,,
 2020-10-22,covid-testing.nl,178.22.57.222,NL,Europe
 2020-10-22,covid-testing.nl,covid-testing.nl,,
 2020-10-22,covidtesting.nl,covidtesting.nl,,
@@ -184,6 +188,9 @@
 2020-10-22,covidxtesting.com,covidxtesting-com.mail.protection.outlook.com,,
 2020-10-22,covidxtesting.com,mx1-us1.ppe-hosted.com,,
 2020-10-22,covidxtesting.com,mx2-us1.ppe-hosted.com,,
+2020-10-22,getcovid21test.com,getcovid21test.com,,
+2020-10-22,getcovid21test.com,ns37.domaincontrol.com,,
+2020-10-22,getcovid21test.com,ns38.domaincontrol.com,,
 2020-10-22,mail.covid-testing.nl,178.22.57.222,NL,Europe
 2020-10-22,newportbeachcovidtesting.com,newportbeachcovidtesting.com,,
 2020-10-22,newportbeachcovidtesting.com,ns37.domaincontrol.com,,
@@ -191,12 +198,16 @@
 2020-10-22,rapidcovidstest.com,ns67.domaincontrol.com,,
 2020-10-22,rapidcovidstest.com,ns68.domaincontrol.com,,
 2020-10-22,rapidcovidstest.com,rapidcovidstest.com,,
+2020-10-22,rapid-covidtest.cz,81.95.96.29,CZ,Europe
 2020-10-22,rapid-covidtest.cz,rapid-covidtest.cz,,
 2020-10-22,sbcovidtesting.com,34.102.136.180,US,North America
 2020-10-22,sbcovidtesting.com,ns37.domaincontrol.com,,
 2020-10-22,sbcovidtesting.com,ns38.domaincontrol.com,,
 2020-10-22,sbcovidtesting.com,sbcovidtesting.com,,
 2020-10-22,sneltestcoronavirus.nl,185.104.29.30,NL,Europe
+2020-10-22,sneltestcoronavirus.nl,ns.zxcs.be,,
+2020-10-22,sneltestcoronavirus.nl,ns.zxcs.eu,,
+2020-10-22,sneltestcoronavirus.nl,ns.zxcs.nl,,
 2020-10-22,sneltestcoronavirus.nl,sneltestcoronavirus.nl,,
 2020-10-22,sneltestcovid19.be,46.30.211.38,DK,Europe
 2020-10-22,sneltestcovid19.be,ns01.one.com,,
@@ -214,6 +225,7 @@
 2020-10-22,testcovidmilano.it,testcovidmilano.it,,
 2020-10-22,testovanienacovid.sk,37.9.175.15,SK,Europe
 2020-10-22,testovanienacovid.sk,testovanienacovid.sk,,
+2020-10-22,testycoviddlafirm.pl,testycoviddlafirm.pl,,
 2020-10-22,tutestcoronavirus.es,2001:8d8:100f:f000::2aa,DE,Europe
 2020-10-22,tutestcoronavirus.es,tutestcoronavirus.es,,
 2020-10-22,ukcovidtests.com,100.24.208.97,US,North America
