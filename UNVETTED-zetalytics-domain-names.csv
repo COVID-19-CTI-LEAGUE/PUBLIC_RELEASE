@@ -178,6 +178,11 @@
 2020-10-23,covidsneltesthaven7.online,ns1.hostnet.nl,,
 2020-10-23,covidsneltesthaven7.online,ns2.hostnetbv.com,,
 2020-10-23,covidsneltesthaven7.online,ns3.hostnetbv.nl,,
+2020-10-23,covidsneltestnl.store,91.184.0.94,NL,Europe
+2020-10-23,covidsneltestnl.store,covidsneltestnl.store,,
+2020-10-23,covidsneltestnl.store,ns1.hostnet.nl,,
+2020-10-23,covidsneltestnl.store,ns2.hostnetbv.com,,
+2020-10-23,covidsneltestnl.store,ns3.hostnetbv.nl,,
 2020-10-23,covidsneltest.store,91.184.0.94,NL,Europe
 2020-10-23,covidsneltest.store,covidsneltest.store,,
 2020-10-23,covidsneltest.store,hostmaster@hostnet.nl,,
@@ -187,12 +192,28 @@
 2020-10-23,covidsneltest.store,ns3.hostnetbv.nl,,
 2020-10-23,covidsneltest.store,(v=spf1 a mx include:_spf.hostnet.nl -all,,
 2020-10-23,covidtest-dordrecht.nl,covidtest-dordrecht.nl,,
+2020-10-23,covidtesteindhoven.nl,109.71.54.40,NL,Europe
+2020-10-23,covidtesteindhoven.nl,covidtesteindhoven.nl,,
+2020-10-23,covidtestrotterdam.nl,109.71.54.40,NL,Europe
+2020-10-23,covidtestrotterdam.nl,covidtestrotterdam.nl,,
+2020-10-23,home-covid-test.com,dns17.ovh.net,,
+2020-10-23,home-covid-test.com,ns17.ovh.net,,
+2020-10-23,instant-covid-test.com,213.186.33.5,FR,Europe
+2020-10-23,instant-covid-test.com,dns17.ovh.net,,
+2020-10-23,instant-covid-test.com,instant-covid-test.com,,
+2020-10-23,instant-covid-test.com,ns17.ovh.net,,
+2020-10-23,integrativecovidtest.com,34.102.136.180,US,North America
+2020-10-23,integrativecovidtest.com,integrativecovidtest.com,,
+2020-10-23,integrativecovidtest.com,ns43.domaincontrol.com,,
+2020-10-23,integrativecovidtest.com,ns44.domaincontrol.com,,
 2020-10-23,orthocovidtesting.com,34.102.136.180,US,North America
 2020-10-23,orthocovidtesting.com,ns03.domaincontrol.com,,
 2020-10-23,orthocovidtesting.com,ns04.domaincontrol.com,,
 2020-10-23,orthocovidtesting.com,orthocovidtesting.com,,
 2020-10-23,rychlotestycovid.cz,81.2.194.128,CZ,Europe
 2020-10-23,rychlotestycovid.cz,rychlotestycovid.cz,,
+2020-10-23,sostestcovid.com,dns17.ovh.net,,
+2020-10-23,sostestcovid.com,ns17.ovh.net,,
 2020-10-23,testingcovidtournai.be,testingcovidtournai.be,,
 2020-10-23,www.rychlotestycovid.cz,81.2.194.128,CZ,Europe
 2020-10-23,www.rychlotestycovid.cz,rychlotestycovid.cz,,
