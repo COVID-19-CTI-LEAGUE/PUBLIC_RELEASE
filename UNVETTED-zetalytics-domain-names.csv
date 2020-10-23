@@ -156,8 +156,6 @@
 2020-10-22,ukcovidtests.com,35.172.94.1,US,North America
 2020-10-22,ukcovidtests.com,mx0.123-reg.co.uk,,
 2020-10-22,ukcovidtests.com,mx1.123-reg.co.uk,,
-2020-10-22,ukcovidtests.com,ns.123-reg.co.uk,,
-2020-10-22,ukcovidtests.com,ns2.123-reg.co.uk,,
 2020-10-22,ukcovidtests.com,ukcovidtests.com,,
 2020-10-22,www.covid19test.ga,ghs.googlehosted.com,,
 2020-10-22,www.covid19testy.cz,2a02:4a8:ac24:110::10:132,CZ,Europe
@@ -192,7 +190,14 @@
 2020-10-23,covid21testsites.net,ns38.domaincontrol.com,,
 2020-10-23,covidioten-test.de,46.30.215.19,DK,Europe
 2020-10-23,covidioten-test.de,covidioten-test.de,,
+2020-10-23,covidioten-test.online,46.30.215.34,DK,Europe
 2020-10-23,covidioten-test.online,covidioten-test.online,,
+2020-10-23,covidioten-test.online,mx1.pub.mailpod9-cph3.one.com,,
+2020-10-23,covidioten-test.online,mx2.pub.mailpod9-cph3.one.com,,
+2020-10-23,covidioten-test.online,mx3.pub.mailpod9-cph3.one.com,,
+2020-10-23,covidioten-test.online,mx4.pub.mailpod9-cph3.one.com,,
+2020-10-23,covidioten-test.online,ns01.one.com,,
+2020-10-23,covidioten-test.online,ns02.one.com,,
 2020-10-23,covidsneltestbrabant.com,91.184.0.94,NL,Europe
 2020-10-23,covidsneltestbrabant.com,covidsneltestbrabant.com,,
 2020-10-23,covidsneltestbrabant.com,ns1.hostnet.nl,,
@@ -278,8 +283,6 @@
 2020-10-23,londontestcovid.co.uk,ns1080.ui-dns.org,,
 2020-10-23,londontestcovid.co.uk,ns1100.ui-dns.de,,
 2020-10-23,orthocovidtesting.com,34.102.136.180,US,North America
-2020-10-23,orthocovidtesting.com,ns03.domaincontrol.com,,
-2020-10-23,orthocovidtesting.com,ns04.domaincontrol.com,,
 2020-10-23,orthocovidtesting.com,orthocovidtesting.com,,
 2020-10-23,rychlotestycovid.cz,81.2.194.128,CZ,Europe
 2020-10-23,rychlotestycovid.cz,rychlotestycovid.cz,,
@@ -287,6 +290,8 @@
 2020-10-23,sostestcovid.com,dns17.ovh.net,,
 2020-10-23,sostestcovid.com,ns17.ovh.net,,
 2020-10-23,sostestcovid.com,sostestcovid.com,,
+2020-10-23,testeacovid.es,217.160.0.47,DE,Europe
+2020-10-23,testeacovid.es,testeacovid.es,,
 2020-10-23,testingcovidtournai.be,testingcovidtournai.be,,
 2020-10-23,www.covidtest.ga,195.20.52.76,NL,Europe
 2020-10-23,www.covidtest.ga,covidtest.ga,,
