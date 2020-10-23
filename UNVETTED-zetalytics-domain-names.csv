@@ -76,9 +76,7 @@
 2020-10-22,covidsneltestnl.online,ns3.hostnetbv.nl,,
 2020-10-22,covidtesteventos.com,covidtesteventos.com,,
 2020-10-22,covidtesteventos.com,ns1.cdmon.net,,
-2020-10-22,covidtesteventos.com,ns2.cdmon.net,,
 2020-10-22,covidtesteventos.com,ns3.cdmon.net,,
-2020-10-22,covidtesteventos.com,ns4.cdmondns-01.org,,
 2020-10-22,covidtesteventos.com,ns5.cdmondns-01.com,,
 2020-10-22,covidtest.fi,covidtest.fi,,
 2020-10-22,covid-testing.nl,178.22.57.222,NL,Europe
@@ -151,11 +149,8 @@
 2020-10-22,testycoviddlafirm.pl,testycoviddlafirm.pl,,
 2020-10-22,tutestcoronavirus.es,2001:8d8:100f:f000::2aa,DE,Europe
 2020-10-22,tutestcoronavirus.es,tutestcoronavirus.es,,
-2020-10-22,ukcovidtests.com,100.24.208.97,US,North America
-2020-10-22,ukcovidtests.com,35.172.94.1,US,North America
 2020-10-22,ukcovidtests.com,mx0.123-reg.co.uk,,
 2020-10-22,ukcovidtests.com,mx1.123-reg.co.uk,,
-2020-10-22,ukcovidtests.com,ukcovidtests.com,,
 2020-10-22,www.covid19test.ga,ghs.googlehosted.com,,
 2020-10-22,www.covid19testy.cz,2a02:4a8:ac24:110::10:132,CZ,Europe
 2020-10-22,www.covid19testy.cz,31.15.10.132,CZ,Europe
@@ -166,8 +161,6 @@
 2020-10-23,anytime911covidtesting.com,ns21.domaincontrol.com,,
 2020-10-23,anytime911covidtesting.com,ns22.domaincontrol.com,,
 2020-10-23,covid19hatzalahtesting.org,covid19hatzalahtesting.org,,
-2020-10-23,covid19hatzalahtesting.org,ns21.domaincontrol.com,,
-2020-10-23,covid19hatzalahtesting.org,ns22.domaincontrol.com,,
 2020-10-23,covid19tester.ru,91.227.68.220,RU,Europe
 2020-10-23,covid19tester.ru,covid19tester.ru,,
 2020-10-23,covid19testers.be,covid19testers.be,,
@@ -264,6 +257,8 @@
 2020-10-23,covidtest.ga,covidtest.ga,,
 2020-10-23,covidtestrotterdam.nl,109.71.54.40,NL,Europe
 2020-10-23,covidtestrotterdam.nl,covidtestrotterdam.nl,,
+2020-10-23,gemotestcovid.ru,45.67.231.15,,
+2020-10-23,gemotestcovid.ru,gemotestcovid.ru,,
 2020-10-23,home-covid-test.com,213.186.33.5,FR,Europe
 2020-10-23,home-covid-test.com,dns17.ovh.net,,
 2020-10-23,home-covid-test.com,home-covid-test.com,,
@@ -291,8 +286,11 @@
 2020-10-23,testeacovid.es,217.160.0.47,DE,Europe
 2020-10-23,testeacovid.es,testeacovid.es,,
 2020-10-23,testingcovidtournai.be,testingcovidtournai.be,,
+2020-10-23,www.covidsneltestnederland.online,91.184.0.94,NL,Europe
+2020-10-23,www.covidsneltestnederland.online,covidsneltestnederland.online,,
 2020-10-23,www.covidtest.ga,195.20.52.76,NL,Europe
 2020-10-23,www.covidtest.ga,covidtest.ga,,
+2020-10-23,www.gemotestcovid.ru,gemotestcovid.ru,,
 2020-10-23,www.home-covid-test.com,213.186.33.5,FR,Europe
 2020-10-23,www.londontestcovid.co.uk,217.160.230.253,DE,Europe
 2020-10-23,www.rychlotestycovid.cz,81.2.194.128,CZ,Europe
