@@ -2,122 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-21,covid-19rapidtestunit.com,94.136.40.51,GB,Europe
-2020-10-21,covid-19rapidtestunit.com,covid-19rapidtestunit.com,,
-2020-10-21,covid-19rapidtestunit.com,ns.123-reg.co.uk,,
-2020-10-21,covid-19rapidtestunit.com,ns2.123-reg.co.uk,,
-2020-10-21,covid-19-schnelltests.de,2001:8d8:100f:f000::29a,DE,Europe
-2020-10-21,covid-19-schnelltests.de,217.160.0.66,DE,Europe
-2020-10-21,covid-19-schnelltests.de,covid-19-schnelltests.de,,
-2020-10-21,covid-19-schnelltests.de,mx00.ionos.de,,
-2020-10-21,covid-19-schnelltests.de,mx01.ionos.de,,
-2020-10-21,covid19sneltesten.com,185.233.173.12,NL,Europe
-2020-10-21,covid19sneltesten.com,2a0c:eb00::f4:185:233:173:12,NL,Europe
-2020-10-21,covid19sneltesten.com,covid19sneltesten.com,,
-2020-10-21,covid19sneltesten.com,ns1.cyberfusion.nl,,
-2020-10-21,covid19sneltesten.com,ns2.cyberfusion.be,,
-2020-10-21,covid19sneltesten.com,ns3.cyberfusion.nu,,
-2020-10-21,covid-19-test-center.berlin,2001:8d8:100f:f000::2f2,DE,Europe
-2020-10-21,covid-19-test-center.berlin,covid-19-test-center.berlin,,
-2020-10-21,covid-19-test-center.berlin,ns1019.ui-dns.biz,,
-2020-10-21,covid-19-test-center.berlin,ns1034.ui-dns.org,,
-2020-10-21,covid-19-test-center.berlin,ns1115.ui-dns.com,,
-2020-10-21,covid-19-test-center.berlin,ns1119.ui-dns.de,,
-2020-10-21,covid19-testing.info,covid19-testing.info,,
-2020-10-21,covid19testinglondon.com,34.102.136.180,US,North America
-2020-10-21,covid19testinglondon.com,covid19testinglondon.com,,
-2020-10-21,covid19testinglondon.com,ns25.domaincontrol.com,,
-2020-10-21,covid19testinglondon.com,ns26.domaincontrol.com,,
-2020-10-21,covid19testkopen.com,185.233.173.12,NL,Europe
-2020-10-21,covid19testkopen.com,2a0c:eb00::f4:185:233:173:12,NL,Europe
-2020-10-21,covid19testkopen.com,covid19testkopen.com,,
-2020-10-21,covid19testkopen.com,ns1.cyberfusion.nl,,
-2020-10-21,covid19testkopen.com,ns2.cyberfusion.be,,
-2020-10-21,covid19testkopen.com,ns3.cyberfusion.nu,,
-2020-10-21,covid19zelftesten.be,covid19zelftesten.be,,
-2020-10-21,covidademsneltest.store,188.93.150.57,NL,Europe
-2020-10-21,covidademsneltest.store,covidademsneltest.store,,
-2020-10-21,covidademsneltest.store,nsn1.mijndomein.nl,,
-2020-10-21,covidademsneltest.store,nsn2.mijndomein.nl,,
-2020-10-21,covidademsneltest.store,nsn3.mijndomein.nl,,
-2020-10-21,covidhometesting.us,34.102.136.180,US,North America
-2020-10-21,covidhometesting.us,covidhometesting.us,,
-2020-10-21,covidmultitest.cz,31.15.10.132,CZ,Europe
-2020-10-21,covidmultitest.cz,covidmultitest.cz,,
-2020-10-21,covidschnelltest.ch,covidschnelltest.ch,,
-2020-10-21,covidschnelltest.ch,mail.covidschnelltest.ch,,
-2020-10-21,covidschnelltest.ch,ns1.hoststar.hosting,,
-2020-10-21,covidschnelltest.ch,ns2.hoststar.hosting,,
-2020-10-21,covid-schnelltest.eu,covid-schnelltest.eu,,
-2020-10-21,covid-schnelltest.eu,ns1028.ui-dns.com,,
-2020-10-21,covid-schnelltest.eu,ns1035.ui-dns.biz,,
-2020-10-21,covid-schnelltest.eu,ns1045.ui-dns.org,,
-2020-10-21,covid-schnelltest.eu,ns1122.ui-dns.de,,
-2020-10-21,covidsneltest.info,5.157.87.204,NL,Europe
-2020-10-21,covidsneltest.info,covidsneltest.info,,
-2020-10-21,covidsneltest.info,ns3.firstfind.nl,,
-2020-10-21,covidsneltest.info,ns4.firstfind.nl,,
-2020-10-21,covidsneltest.info,ns5.firstfind.net,,
-2020-10-21,covidtestcanada.ca,covidtestcanada.ca,,
-2020-10-21,covidtest.guru,34.102.136.180,US,North America
-2020-10-21,covidtest.guru,covidtest.guru,,
-2020-10-21,covidtest.guru,ns47.domaincontrol.com,,
-2020-10-21,covidtest.guru,ns48.domaincontrol.com,,
-2020-10-21,covidtestkw4.com,covidtestkw4.com,,
-2020-10-21,covidtestkw4.com,ns-cloud-a1.googledomains.com,,
-2020-10-21,covidtestkw4.com,ns-cloud-a2.googledomains.com,,
-2020-10-21,covidtestkw4.com,ns-cloud-a3.googledomains.com,,
-2020-10-21,covidtestkw4.com,ns-cloud-a4.googledomains.com,,
-2020-10-21,covidtestlimburg.nl,188.166.4.247,NL,Europe
-2020-10-21,covidtestlimburg.nl,covidtestlimburg.nl,,
-2020-10-21,covidtestlimburg.nl,ns0.transip.net,,
-2020-10-21,covidtestlimburg.nl,ns1.transip.nl,,
-2020-10-21,covidtestlimburg.nl,ns2.transip.eu,,
-2020-10-21,covid-testservice.nl,2a01:7c8:3:1337::27,NL,Europe
-2020-10-21,covid-testservice.nl,37.97.254.27,NL,Europe
-2020-10-21,covid-testservice.nl,covid-testservice.nl,,
-2020-10-21,covid-testservice.nl,ns0.transip.net,,
-2020-10-21,covid-testservice.nl,ns1.transip.nl,,
-2020-10-21,covid-testservice.nl,ns2.transip.eu,,
-2020-10-21,curecoronavirus19.com,34.102.136.180,US,North America
-2020-10-21,curecoronavirus19.com,curecoronavirus19.com,,
-2020-10-21,curecoronavirus19.com,ns23.domaincontrol.com,,
-2020-10-21,curecoronavirus19.com,ns24.domaincontrol.com,,
-2020-10-21,hudsoncovidtest.org,64.98.145.30,CA,North America
-2020-10-21,hudsoncovidtest.org,hudsoncovidtest.org,,
-2020-10-21,hudsoncovidtest.org,ns1.hover.com,,
-2020-10-21,hudsoncovidtest.org,ns2.hover.com,,
-2020-10-21,inhomekittestscovid19.com,34.102.136.180,US,North America
-2020-10-21,inhomekittestscovid19.com,inhomekittestscovid19.com,,
-2020-10-21,inhomekittestscovid19.com,ns65.domaincontrol.com,,
-2020-10-21,inhomekittestscovid19.com,ns66.domaincontrol.com,,
-2020-10-21,instantcovidtestuk.com,34.102.136.180,US,North America
-2020-10-21,instantcovidtestuk.com,instantcovidtestuk.com,,
-2020-10-21,instantcovidtestuk.com,ns67.domaincontrol.com,,
-2020-10-21,instantcovidtestuk.com,ns68.domaincontrol.com,,
-2020-10-21,lubbockcovidtest.us,74.220.199.6,US,North America
-2020-10-21,lubbockcovidtest.us,lubbockcovidtest.us,,
-2020-10-21,lubbockcovidtest.us,ns1.bluehost.com,,
-2020-10-21,lubbockcovidtest.us,ns2.bluehost.com,,
-2020-10-21,njcovidtests.xn--node,188.93.95.11,GE,Asia
-2020-10-21,njcovidtests.xn--node,njcovidtests.xn--node,,
-2020-10-21,public-website.staging.covidtestlimburg.nl,188.166.4.247,NL,Europe
-2020-10-21,wmccovidtesting.com,35.202.200.140,US,North America
-2020-10-21,wmccovidtesting.com,ns1.giowm7.siteground.biz,,
-2020-10-21,wmccovidtesting.com,ns2.giowm7.siteground.biz,,
-2020-10-21,wmccovidtesting.com,wmccovidtesting.com,,
-2020-10-21,www.covid-19-schnelltests.de,2001:8d8:100f:f000::29a,DE,Europe
-2020-10-21,www.covid-19-schnelltests.de,217.160.0.66,DE,Europe
-2020-10-21,www.covidmultitest.cz,2a02:4a8:ac24:110::10:132,CZ,Europe
-2020-10-21,www.covidmultitest.cz,31.15.10.132,CZ,Europe
-2020-10-21,www.covid-testservice.nl,covid-testservice.nl,,
-2020-10-21,zelftestcovid19.com,185.233.173.12,NL,Europe
-2020-10-21,zelftestcovid19.com,ns1.cyberfusion.nl,,
-2020-10-21,zelftestcovid19.com,ns2.cyberfusion.be,,
-2020-10-21,zelftestcovid19.com,ns3.cyberfusion.nu,,
-2020-10-21,zelftestcovid19.com,PnY9c3BmMSBhIG14IGlwNDoxODUuMjMzLjE3My41IGluY2x1ZGU6X3NwZi5jeWJlcmZ1c2lvbi5ubCB+YWxs,,
-2020-10-21,zelftestcovid19.com,>v=spf1 a mx ip4:185.233.173.5 include:_spf.cyberfusion.nl ~all,,
-2020-10-21,zelftestcovid19.com,zelftestcovid19.com,,
 2020-10-22,coronavirussneltest.store,coronavirussneltest.store,,
 2020-10-22,coronavirussneltest.store,ns21.domaincontrol.com,,
 2020-10-22,coronavirussneltest.store,ns22.domaincontrol.com,,
@@ -210,7 +94,9 @@
 2020-10-22,covidxtesting.com,ns08.domaincontrol.com,,
 2020-10-22,getcovid-21test.com,getcovid-21test.com,,
 2020-10-22,getcovid21test.com,getcovid21test.com,,
+2020-10-22,getcovid-21test.com,ns37.domaincontrol.com,,
 2020-10-22,getcovid21test.com,ns37.domaincontrol.com,,
+2020-10-22,getcovid-21test.com,ns38.domaincontrol.com,,
 2020-10-22,getcovid21test.com,ns38.domaincontrol.com,,
 2020-10-22,mail.covid-testing.nl,178.22.57.222,NL,Europe
 2020-10-22,newportbeachcovidtesting.com,newportbeachcovidtesting.com,,
@@ -264,3 +150,10 @@
 2020-10-22,www.covid19testy.cz,31.15.10.132,CZ,Europe
 2020-10-22,www.testovanienacovid.sk,37.9.175.15,SK,Europe
 2020-10-22,z43k59g4a3.testcovidmilano.it,81.31.147.110,IT,Europe
+2020-10-23,covidsneltest.store,covidsneltest.store,,
+2020-10-23,covidsneltest.store,ns1.hostnet.nl,,
+2020-10-23,covidsneltest.store,ns2.hostnetbv.com,,
+2020-10-23,covidsneltest.store,ns3.hostnetbv.nl,,
+2020-10-23,rychlotestycovid.cz,rychlotestycovid.cz,,
+2020-10-23,www.rychlotestycovid.cz,81.2.194.128,CZ,Europe
+2020-10-23,www.rychlotestycovid.cz,rychlotestycovid.cz,,
