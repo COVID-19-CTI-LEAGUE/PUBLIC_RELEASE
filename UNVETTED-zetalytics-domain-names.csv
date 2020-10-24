@@ -3,6 +3,7 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-10-23,anytime911covidtesting.com,anytime911covidtesting.com,,
+2020-10-23,anytime911covidtesting.com,anytime911covidtesting-com.mail.protection.outlook.com,,
 2020-10-23,anytime911covidtesting.com,ns21.domaincontrol.com,,
 2020-10-23,anytime911covidtesting.com,ns22.domaincontrol.com,,
 2020-10-23,covid19hatzalahtesting.org,covid19hatzalahtesting.org,,
@@ -25,6 +26,7 @@
 2020-10-23,covid-21test.net,covid-21test.net,,
 2020-10-23,covid-21test.net,ns05.domaincontrol.com,,
 2020-10-23,covid-21test.net,ns06.domaincontrol.com,,
+2020-10-23,covid21tests.com,34.102.136.180,US,North America
 2020-10-23,covid21tests.com,covid21tests.com,,
 2020-10-23,covid21tests.com,ns09.domaincontrol.com,,
 2020-10-23,covid21tests.com,ns10.domaincontrol.com,,
