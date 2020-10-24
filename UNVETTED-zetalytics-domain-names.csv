@@ -2,163 +2,12 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-22,coronavirussneltest.store,coronavirussneltest.store,,
-2020-10-22,coronavirussneltest.store,ns21.domaincontrol.com,,
-2020-10-22,coronavirussneltest.store,ns22.domaincontrol.com,,
-2020-10-22,covid-19testers.xn--fiqs8s,218.241.116.40,CN,Asia
-2020-10-22,covid-19testers.xn--fiqs8s,covid-19testers.xn--fiqs8s,,
-2020-10-22,covid19test.ga,covid19test.ga,,
-2020-10-22,covid19-testkits.be,covid19-testkits.be,,
-2020-10-22,covid19teststraat.com,2a01:7c8:3:1337::27,NL,Europe
-2020-10-22,covid19teststraat.com,37.97.254.27,NL,Europe
-2020-10-22,covid19teststraat.com,covid19teststraat.com,,
-2020-10-22,covid19teststraat.com,ns0.transip.net,,
-2020-10-22,covid19teststraat.com,ns1.transip.nl,,
-2020-10-22,covid19teststraat.com,ns2.transip.eu,,
-2020-10-22,covid19testy.cz,2a02:4a8:ac24:110::10:132,CZ,Europe
-2020-10-22,covid19testy.cz,31.15.10.132,CZ,Europe
-2020-10-22,covid19testy.cz,alfa.ns.active24.cz,,
-2020-10-22,covid19testy.cz,beta.ns.active24.cz,,
-2020-10-22,covid19testy.cz,covid19testy.cz,,
-2020-10-22,covid19testy.cz,gama.ns.active24.sk,,
-2020-10-22,covid21cure.com,covid21cure.com,,
-2020-10-22,covid21cure.com,ns51.domaincontrol.com,,
-2020-10-22,covid21cure.com,ns52.domaincontrol.com,,
-2020-10-22,covid-21cures.com,34.102.136.180,US,North America
-2020-10-22,covid-21cures.com,covid-21cures.com,,
-2020-10-22,covid-21cures.com,ns51.domaincontrol.com,,
-2020-10-22,covid-21cures.com,ns52.domaincontrol.com,,
-2020-10-22,covid-21test.com,146.112.61.107,,Europe
-2020-10-22,covid-21test.com,34.102.136.180,US,North America
-2020-10-22,covid21test.com,34.102.136.180,US,North America
-2020-10-22,covid-21test.com,covid-21test.com,,
-2020-10-22,covid21test.com,covid21test.com,,
-2020-10-22,covid-21test.com,ns37.domaincontrol.com,,
-2020-10-22,covid21test.com,ns37.domaincontrol.com,,
-2020-10-22,covid-21test.com,ns38.domaincontrol.com,,
-2020-10-22,covid21test.com,ns38.domaincontrol.com,,
-2020-10-22,covid21testsite.com,34.102.136.180,US,North America
-2020-10-22,covid21testsite.com,covid21testsite.com,,
-2020-10-22,covid21testsite.com,ns05.domaincontrol.com,,
-2020-10-22,covid21testsite.com,ns06.domaincontrol.com,,
-2020-10-22,covid21testsites.com,34.102.136.180,US,North America
-2020-10-22,covid21testsites.com,covid21testsites.com,,
-2020-10-22,covid21testsites.com,ns37.domaincontrol.com,,
-2020-10-22,covid21testsites.com,ns38.domaincontrol.com,,
-2020-10-22,covid21testsites.info,34.102.136.180,US,North America
-2020-10-22,covid21testsites.info,covid21testsites.info,,
-2020-10-22,covid21testsites.info,ns09.domaincontrol.com,,
-2020-10-22,covid21testsites.info,ns10.domaincontrol.com,,
-2020-10-22,covidblaastest.site,covidblaastest.site,,
-2020-10-22,covidfasttest.ru,80.66.91.180,RU,Europe
-2020-10-22,covidfasttest.ru,covidfasttest.ru,,
-2020-10-22,covidfasttest.ru,ns1.flexbe.com,,
-2020-10-22,covidfasttest.ru,ns1.flexbe.ru,,
-2020-10-22,covidfasttest.ru,ns2.flexbe.com,,
-2020-10-22,covidfasttest.ru,ns2.flexbe.ru,,
-2020-10-22,covidfasttest.ru,ns3.flexbe.com,,
-2020-10-22,covidsneltesthaven7.com,91.184.0.94,NL,Europe
-2020-10-22,covidsneltesthaven7.com,covidsneltesthaven7.com,,
-2020-10-22,covidsneltesthaven7.com,ns1.hostnet.nl,,
-2020-10-22,covidsneltesthaven7.com,ns2.hostnetbv.com,,
-2020-10-22,covidsneltesthaven7.com,ns3.hostnetbv.nl,,
-2020-10-22,covidsneltesthaven7.store,covidsneltesthaven7.store,,
-2020-10-22,covidsneltesthaven7.store,hostmaster@hostnet.nl,,
-2020-10-22,covidsneltesthaven7.store,ns1.hostnet.nl,,
-2020-10-22,covidsneltesthaven7.store,ns2.hostnetbv.com,,
-2020-10-22,covidsneltesthaven7.store,ns3.hostnetbv.nl,,
-2020-10-22,covidsneltestnederland.nl,23.227.38.67,CA,North America
-2020-10-22,covidsneltestnederland.nl,covidsneltestnederland.nl,,
-2020-10-22,covidsneltestnl.online,91.184.0.94,NL,Europe
-2020-10-22,covidsneltestnl.online,covidsneltestnl.online,,
-2020-10-22,covidsneltestnl.online,ns1.hostnet.nl,,
-2020-10-22,covidsneltestnl.online,ns2.hostnetbv.com,,
-2020-10-22,covidsneltestnl.online,ns3.hostnetbv.nl,,
-2020-10-22,covidtesteventos.com,ns1.cdmon.net,,
-2020-10-22,covidtesteventos.com,ns5.cdmondns-01.com,,
-2020-10-22,covidtest.fi,covidtest.fi,,
-2020-10-22,covid-testing.nl,178.22.57.222,NL,Europe
-2020-10-22,covid-testing.nl,covid-testing.nl,,
-2020-10-22,covidtesting.nl,covidtesting.nl,,
-2020-10-22,covid-testing.nl,hostmaster@exonet.nl,,
-2020-10-22,covid-testing.nl,mail.covid-testing.nl,,
-2020-10-22,covid-testing.nl,ns1.exonet.nl,,
-2020-10-22,covidtestnwvl.be,covidtestnwvl.be,,
-2020-10-22,covidteststraat.com,2a01:7c8:3:1337::27,NL,Europe
-2020-10-22,covidteststraat.com,37.97.254.27,NL,Europe
-2020-10-22,covidteststraat.com,covidteststraat.com,,
-2020-10-22,covidteststraat.com,ns0.transip.net,,
-2020-10-22,covidteststraat.com,ns1.transip.nl,,
-2020-10-22,covidteststraat.com,ns2.transip.eu,,
-2020-10-22,covidxtesting.com,107.180.51.32,US,North America
-2020-10-22,covidxtesting.com,covidxtesting.com,,
-2020-10-22,covidxtesting.com,covidxtesting-com.mail.protection.outlook.com,,
-2020-10-22,covidxtesting.com,mx1-us1.ppe-hosted.com,,
-2020-10-22,covidxtesting.com,mx2-us1.ppe-hosted.com,,
-2020-10-22,covidxtesting.com,ns07.domaincontrol.com,,
-2020-10-22,covidxtesting.com,ns08.domaincontrol.com,,
-2020-10-22,getcovid-21test.com,34.102.136.180,US,North America
-2020-10-22,getcovid21test.com,34.102.136.180,US,North America
-2020-10-22,getcovid-21test.com,getcovid-21test.com,,
-2020-10-22,getcovid21test.com,getcovid21test.com,,
-2020-10-22,getcovid-21test.com,ns37.domaincontrol.com,,
-2020-10-22,getcovid21test.com,ns37.domaincontrol.com,,
-2020-10-22,getcovid-21test.com,ns38.domaincontrol.com,,
-2020-10-22,getcovid21test.com,ns38.domaincontrol.com,,
-2020-10-22,mail.covid-testing.nl,178.22.57.222,NL,Europe
-2020-10-22,mail.testcovidmilano.it,81.31.147.110,IT,Europe
-2020-10-22,newportbeachcovidtesting.com,newportbeachcovidtesting.com,,
-2020-10-22,newportbeachcovidtesting.com,ns37.domaincontrol.com,,
-2020-10-22,newportbeachcovidtesting.com,ns38.domaincontrol.com,,
-2020-10-22,pkdqqmail.testcovidmilano.it,81.31.147.110,IT,Europe
-2020-10-22,rapidcovidstest.com,ns67.domaincontrol.com,,
-2020-10-22,rapidcovidstest.com,ns68.domaincontrol.com,,
-2020-10-22,rapidcovidstest.com,rapidcovidstest.com,,
-2020-10-22,rapid-covidtest.cz,81.95.96.29,CZ,Europe
-2020-10-22,rapid-covidtest.cz,rapid-covidtest.cz,,
-2020-10-22,sbcovidtesting.com,34.102.136.180,US,North America
-2020-10-22,sbcovidtesting.com,ns37.domaincontrol.com,,
-2020-10-22,sbcovidtesting.com,ns38.domaincontrol.com,,
-2020-10-22,sbcovidtesting.com,sbcovidtesting.com,,
-2020-10-22,sneltestcoronavirus.nl,2a06:2ec0:1::91,NL,Europe
-2020-10-22,sneltestcoronavirus.nl,ns.zxcs.be,,
-2020-10-22,sneltestcoronavirus.nl,ns.zxcs.eu,,
-2020-10-22,sneltestcoronavirus.nl,ns.zxcs.nl,,
-2020-10-22,sneltestcovid19.be,46.30.211.38,DK,Europe
-2020-10-22,sneltestcovid19.be,ns01.one.com,,
-2020-10-22,sneltestcovid19.be,ns02.one.com,,
-2020-10-22,sneltestcovid19.be,sneltestcovid19.be,,
-2020-10-22,staging.testcovidmilano.it,81.31.147.110,IT,Europe
-2020-10-22,testcovid19sardegna.it,62.149.128.151,IT,Europe
-2020-10-22,testcovid19sardegna.it,62.149.128.154,IT,Europe
-2020-10-22,testcovid19sardegna.it,62.149.128.157,IT,Europe
-2020-10-22,testcovid19sardegna.it,62.149.128.160,IT,Europe
-2020-10-22,testcovid19sardegna.it,62.149.128.163,IT,Europe
-2020-10-22,testcovid19sardegna.it,62.149.128.166,IT,Europe
-2020-10-22,testcovid19sardegna.it,62.149.128.72,IT,Europe
-2020-10-22,testcovid19sardegna.it,62.149.128.74,IT,Europe
-2020-10-22,testcovid19sardegna.it,testcovid19sardegna.it,,
-2020-10-22,testcovidmilano.it,testcovidmilano.it,,
-2020-10-22,testesuasaudecoronavirus.com,ns14.wixdns.net,,
-2020-10-22,testesuasaudecoronavirus.com,ns15.wixdns.net,,
-2020-10-22,testesuasaudecoronavirus.com,testesuasaudecoronavirus.com,,
-2020-10-22,testovanienacovid.sk,37.9.175.15,SK,Europe
-2020-10-22,testovanienacovid.sk,testovanienacovid.sk,,
-2020-10-22,testycoviddlafirm.pl,testycoviddlafirm.pl,,
-2020-10-22,tutestcoronavirus.es,2001:8d8:100f:f000::2aa,DE,Europe
-2020-10-22,tutestcoronavirus.es,tutestcoronavirus.es,,
-2020-10-22,ukcovidtests.com,mx0.123-reg.co.uk,,
-2020-10-22,ukcovidtests.com,mx1.123-reg.co.uk,,
-2020-10-22,www.covid19test.ga,ghs.googlehosted.com,,
-2020-10-22,www.covid19testy.cz,2a02:4a8:ac24:110::10:132,CZ,Europe
-2020-10-22,www.covid19testy.cz,31.15.10.132,CZ,Europe
-2020-10-22,www.sneltestcoronavirus.nl,2a06:2ec0:1::91,NL,Europe
-2020-10-22,www.testovanienacovid.sk,37.9.175.15,SK,Europe
-2020-10-22,z43k59g4a3.testcovidmilano.it,81.31.147.110,IT,Europe
 2020-10-23,anytime911covidtesting.com,anytime911covidtesting.com,,
 2020-10-23,anytime911covidtesting.com,ns21.domaincontrol.com,,
 2020-10-23,anytime911covidtesting.com,ns22.domaincontrol.com,,
 2020-10-23,covid19hatzalahtesting.org,covid19hatzalahtesting.org,,
+2020-10-23,covid19hatzalahtesting.org,ns21.domaincontrol.com,,
+2020-10-23,covid19hatzalahtesting.org,ns22.domaincontrol.com,,
 2020-10-23,covid19tester.ru,91.227.68.220,RU,Europe
 2020-10-23,covid19tester.ru,covid19tester.ru,,
 2020-10-23,covid19testers.be,covid19testers.be,,
@@ -174,7 +23,11 @@
 2020-10-23,covid19testfl.com,ns-cloud-e4.googledomains.com,,
 2020-10-23,covid-21test.net,34.102.136.180,US,North America
 2020-10-23,covid-21test.net,covid-21test.net,,
+2020-10-23,covid-21test.net,ns05.domaincontrol.com,,
+2020-10-23,covid-21test.net,ns06.domaincontrol.com,,
 2020-10-23,covid21tests.com,covid21tests.com,,
+2020-10-23,covid21tests.com,ns09.domaincontrol.com,,
+2020-10-23,covid21tests.com,ns10.domaincontrol.com,,
 2020-10-23,covid21testsites.net,34.102.136.180,US,North America
 2020-10-23,covid21testsites.net,covid21testsites.net,,
 2020-10-23,covid21testsites.net,ns37.domaincontrol.com,,
@@ -249,12 +102,21 @@
 2020-10-23,covidsneltestwaalwijk.online,ns3.hostnetbv.nl,,
 2020-10-23,covidtestbahamas.com,34.102.136.180,US,North America
 2020-10-23,covidtestbahamas.com,covidtestbahamas.com,,
+2020-10-23,covidtestbahamas.com,ns21.domaincontrol.com,,
+2020-10-23,covidtestbahamas.com,ns22.domaincontrol.com,,
 2020-10-23,covidtest-dordrecht.nl,covidtest-dordrecht.nl,,
 2020-10-23,covidtesteindhoven.nl,109.71.54.40,NL,Europe
 2020-10-23,covidtesteindhoven.nl,covidtesteindhoven.nl,,
 2020-10-23,covidtest.ga,195.20.52.76,NL,Europe
 2020-10-23,covidtest.ga,covidtest.ga,,
+2020-10-23,covidtestinginc.com,covidtestinginc.com,,
+2020-10-23,covidtestinginc.com,ns19.domaincontrol.com,,
+2020-10-23,covidtestinginc.com,ns20.domaincontrol.com,,
 2020-10-23,covidtestresults.org,covidtestresults.org,,
+2020-10-23,covidtestresults.org,ns-cloud-c1.googledomains.com,,
+2020-10-23,covidtestresults.org,ns-cloud-c2.googledomains.com,,
+2020-10-23,covidtestresults.org,ns-cloud-c3.googledomains.com,,
+2020-10-23,covidtestresults.org,ns-cloud-c4.googledomains.com,,
 2020-10-23,covidtestrotterdam.nl,109.71.54.40,NL,Europe
 2020-10-23,covidtestrotterdam.nl,covidtestrotterdam.nl,,
 2020-10-23,gemotestcovid.ru,45.67.231.15,,
@@ -274,7 +136,13 @@
 2020-10-23,londontestcovid.co.uk,2001:8d8:1001:22e0:b7d6:3c9f:fd12:582d,DE,Europe
 2020-10-23,londontestcovid.co.uk,217.160.230.253,DE,Europe
 2020-10-23,londontestcovid.co.uk,londontestcovid.co.uk,,
+2020-10-23,londontestcovid.co.uk,ns1049.ui-dns.biz,,
+2020-10-23,londontestcovid.co.uk,ns1060.ui-dns.com,,
+2020-10-23,londontestcovid.co.uk,ns1080.ui-dns.org,,
+2020-10-23,londontestcovid.co.uk,ns1100.ui-dns.de,,
 2020-10-23,orthocovidtesting.com,34.102.136.180,US,North America
+2020-10-23,orthocovidtesting.com,ns03.domaincontrol.com,,
+2020-10-23,orthocovidtesting.com,ns04.domaincontrol.com,,
 2020-10-23,orthocovidtesting.com,orthocovidtesting.com,,
 2020-10-23,rychlotestycovid.cz,81.2.194.128,CZ,Europe
 2020-10-23,rychlotestycovid.cz,rychlotestycovid.cz,,
