@@ -2,111 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-25,coronavirus-test.kz,31.31.205.163,RU,Europe
-2020-10-25,coronavirus-test.kz,coronavirus-test.kz,,
-2020-10-25,covid19fasttests.com,34.102.136.180,US,North America
-2020-10-25,covid19fasttests.com,covid19fasttests.com,,
-2020-10-25,covid19fasttests.com,ns21.domaincontrol.com,,
-2020-10-25,covid19fasttests.com,ns22.domaincontrol.com,,
-2020-10-25,covid19rapidathometests.com,34.102.136.180,US,North America
-2020-10-25,covid19rapidathometests.com,covid19rapidathometests.com,,
-2020-10-25,covid19rapidathometests.com,ns21.domaincontrol.com,,
-2020-10-25,covid19rapidathometests.com,ns22.domaincontrol.com,,
-2020-10-25,covid-19-schnelltest.ch,covid-19-schnelltest.ch,,
-2020-10-25,covid19speedytests.com,34.102.136.180,US,North America
-2020-10-25,covid19speedytests.com,covid19speedytests.com,,
-2020-10-25,covid19speedytests.com,ns07.domaincontrol.com,,
-2020-10-25,covid19speedytests.com,ns08.domaincontrol.com,,
-2020-10-25,covid-19-test-center.de,covid-19-test-center.de,,
-2020-10-25,covid19testmidlands.com,34.102.136.180,US,North America
-2020-10-25,covid19testmidlands.com,covid19testmidlands.com,,
-2020-10-25,covid19testmidlands.com,ns13.domaincontrol.com,,
-2020-10-25,covid19testmidlands.com,ns14.domaincontrol.com,,
-2020-10-25,covidairtest.com,34.102.136.180,US,North America
-2020-10-25,covidairtest.com,covidairtest.com,,
-2020-10-25,covidairtest.com,ns13.domaincontrol.com,,
-2020-10-25,covidairtest.com,ns14.domaincontrol.com,,
-2020-10-25,covid-snel-testen.nl,covid-snel-testen.nl,,
-2020-10-25,covid-snel-testen.nl,mx.covid-snel-testen.nl.cust.b.hostedemail.com,,
-2020-10-25,covid-snel-testen.nl,ns-cloud-e1.googledomains.com,,
-2020-10-25,covid-snel-testen.nl,ns-cloud-e2.googledomains.com,,
-2020-10-25,covid-snel-testen.nl,ns-cloud-e3.googledomains.com,,
-2020-10-25,covid-snel-testen.nl,ns-cloud-e4.googledomains.com,,
-2020-10-25,covidtestbirmingham.com,covidtestbirmingham.com,,
-2020-10-25,covidtestbirmingham.com,ns77.domaincontrol.com,,
-2020-10-25,covidtestbirmingham.com,ns78.domaincontrol.com,,
-2020-10-25,covidtestbuffalogrove.com,34.102.136.180,US,North America
-2020-10-25,covidtestbuffalogrove.com,covidtestbuffalogrove.com,,
-2020-10-25,covidtestbuffalogrove.com,ns29.domaincontrol.com,,
-2020-10-25,covidtestbuffalogrove.com,ns30.domaincontrol.com,,
-2020-10-25,covidtestcare.com,34.102.136.180,US,North America
-2020-10-25,covidtestcare.com,covidtestcare.com,,
-2020-10-25,covidtestcare.com,ns63.domaincontrol.com,,
-2020-10-25,covidtestcare.com,ns64.domaincontrol.com,,
-2020-10-25,covidtestcoventry.com,34.102.136.180,US,North America
-2020-10-25,covidtestcoventry.com,covidtestcoventry.com,,
-2020-10-25,covidtestcoventry.com,ns77.domaincontrol.com,,
-2020-10-25,covidtestcoventry.com,ns78.domaincontrol.com,,
-2020-10-25,covidtestdordrecht.nl,109.71.54.40,NL,Europe
-2020-10-25,covidtestdordrecht.nl,covidtestdordrecht.nl,,
-2020-10-25,covidtestdordrecht.nl,covidtestdordrecht-nl.mail.protection.outlook.com,,
-2020-10-25,covidtestdordrecht.nl,ns1.yourwebhoster.com,,
-2020-10-25,covidtestdordrecht.nl,ns2.yourwebhoster.com,,
-2020-10-25,covidtestdordrecht.nl,ns3.yourwebhoster.nl,,
-2020-10-25,covidtestdordrecht.nl,ns4.yourwebhoster.nl,,
-2020-10-25,covid-testi.ru,covid-testi.ru,,
-2020-10-25,covidtestleri.com,covidtestleri.com,,
-2020-10-25,covidtestleri.com,ns1.gosterbana.com,,
-2020-10-25,covidtestleri.com,ns1.veridyen.com,,
-2020-10-25,covidtestleri.com,ns2.gosterbana.com,,
-2020-10-25,covidtestleri.com,ns2.veridyen.com,,
-2020-10-25,covidtestmidlands.com,34.102.136.180,US,North America
-2020-10-25,covidtestmidlands.com,covidtestmidlands.com,,
-2020-10-25,covidtestmidlands.com,ns43.domaincontrol.com,,
-2020-10-25,covidtestmidlands.com,ns44.domaincontrol.com,,
-2020-10-25,covid-test.org.ph,covid-test.org.ph,,
-2020-10-25,integrativecovidtests.com,34.102.136.180,US,North America
-2020-10-25,integrativecovidtests.com,integrativecovidtests.com,,
-2020-10-25,integrativecovidtests.com,ns73.domaincontrol.com,,
-2020-10-25,integrativecovidtests.com,ns74.domaincontrol.com,,
-2020-10-25,psy-test-covid.ru,91.189.114.7,RU,Europe
-2020-10-25,psy-test-covid.ru,psy-test-covid.ru,,
-2020-10-25,schoolcovidtesting.org,198.185.159.144,US,North America
-2020-10-25,schoolcovidtesting.org,198.185.159.145,US,North America
-2020-10-25,schoolcovidtesting.org,198.49.23.144,US,North America
-2020-10-25,schoolcovidtesting.org,198.49.23.145,US,North America
-2020-10-25,schoolcovidtesting.org,dns1.p05.nsone.net,,
-2020-10-25,schoolcovidtesting.org,dns2.p05.nsone.net,,
-2020-10-25,schoolcovidtesting.org,dns3.p05.nsone.net,,
-2020-10-25,schoolcovidtesting.org,dns4.p05.nsone.net,,
-2020-10-25,schoolcovidtesting.org,ns01.squarespacedns.com,,
-2020-10-25,schoolcovidtesting.org,ns02.squarespacedns.com,,
-2020-10-25,schoolcovidtesting.org,ns03.squarespacedns.com,,
-2020-10-25,schoolcovidtesting.org,ns04.squarespacedns.com,,
-2020-10-25,schoolcovidtesting.org,schoolcovidtesting.org,,
-2020-10-25,sneltestcovid-19.nl,sneltestcovid-19.nl,,
-2020-10-25,testforcovidtoday.com,ns19.domaincontrol.com,,
-2020-10-25,testforcovidtoday.com,ns20.domaincontrol.com,,
-2020-10-25,testforcovidtoday.com,testforcovidtoday.com,,
-2020-10-25,test-na-covid19.ru,test-na-covid19.ru,,
-2020-10-25,testviajescovid19.com,dns7.servidoresdns.net,,
-2020-10-25,testviajescovid19.com,dns8.servidoresdns.net,,
-2020-10-25,testviajescovid19.com,mx.serviciodecorreo.es,,
-2020-10-25,testviajescovid19.com,testviajescovid19.com,,
-2020-10-25,testy-covid.com,185.253.212.22,PL,Europe
-2020-10-25,testy-covid.com,ns1.aftermarket.pl,,
-2020-10-25,testy-covid.com,ns2.aftermarket.pl,,
-2020-10-25,testy-covid.com,testy-covid.com,,
-2020-10-25,thecovidtesters.com,34.102.136.180,US,North America
-2020-10-25,thecovidtesters.com,ns73.domaincontrol.com,,
-2020-10-25,thecovidtesters.com,ns74.domaincontrol.com,,
-2020-10-25,thecovidtesters.com,thecovidtesters.com,,
-2020-10-25,thecovidtesters.com,thecovidtesters-com.mail.protection.outlook.com,,
-2020-10-25,wnycovidtest.com,34.102.136.180,US,North America
-2020-10-25,wnycovidtest.com,ns13.domaincontrol.com,,
-2020-10-25,wnycovidtest.com,ns14.domaincontrol.com,,
-2020-10-25,wnycovidtest.com,wnycovidtest.com,,
-2020-10-25,www.testy-covid.com,185.253.212.22,PL,Europe
 2020-10-26,15minutecovidtest.co.uk,15minutecovidtest.co.uk,,
 2020-10-26,aircovidtest.com,34.102.136.180,US,North America
 2020-10-26,aircovidtest.com,aircovidtest.com,,
@@ -116,6 +11,7 @@
 2020-10-26,anycovidtestnow.com,anycovidtestnow.com,,
 2020-10-26,anycovidtestnow.com,ns07.domaincontrol.com,,
 2020-10-26,anycovidtestnow.com,ns08.domaincontrol.com,,
+2020-10-26,attestationsortiecovid19.com.ba,195.222.33.180,BA,Europe
 2020-10-26,attestationsortiecovid19.com.ba,attestationsortiecovid19.com.ba,,
 2020-10-26,autotestcovid.org,autotestcovid.org,,
 2020-10-26,autotestcovid.org,dns17.ovh.net,,
@@ -158,6 +54,9 @@
 2020-10-26,covidsurfacetestinghawaii.com,covidsurfacetestinghawaii.com,,
 2020-10-26,covidsurfacetestinghawaii.com,ns13.domaincontrol.com,,
 2020-10-26,covidsurfacetestinghawaii.com,ns14.domaincontrol.com,,
+2020-10-26,covidtestbooths.com,covidtestbooths.com,,
+2020-10-26,covidtestbooths.com,ns83.worldnic.com,,
+2020-10-26,covidtestbooths.com,ns84.worldnic.com,,
 2020-10-26,covidtestcenter.de,covidtestcenter.de,,
 2020-10-26,covidtestky.com,184.168.131.241,US,North America
 2020-10-26,covidtestky.com,covidtestky.com,,
