@@ -151,6 +151,7 @@
 2020-10-29,3minutecovidtest.com,ns1.livedns.co.uk,,
 2020-10-29,3minutecovidtest.com,ns2.livedns.co.uk,,
 2020-10-29,3minutecovidtest.com,ns3.livedns.co.uk,,
+2020-10-29,attestation-covid.com,76.76.21.21,US,North America
 2020-10-29,attestation-covid.com,attestation-covid.com,,
 2020-10-29,attestation-covid.com,ns1.vercel-dns.com,,
 2020-10-29,attestation-covid.com,ns2.vercel-dns.com,,
@@ -167,6 +168,7 @@
 2020-10-29,covid19-testkit.shop,ns4.gransy.com,,
 2020-10-29,covid19-testkit.shop,ns5.gransy.com,,
 2020-10-29,covid19-testkit.shop,ns.gransy.com,,
+2020-10-29,covid19test-mobileteam.my,covid19test-mobileteam.my,,
 2020-10-29,covidsneltestshop.com,covidsneltestshop.com,,
 2020-10-29,covidsneltestshop.com,ns1.hostnet.nl,,
 2020-10-29,covidsneltestshop.com,ns2.hostnetbv.com,,
@@ -215,6 +217,8 @@
 2020-10-29,workforcecovidtest.org,ns1.vumc.org,,
 2020-10-29,workforcecovidtest.org,ns2.vumc.org,,
 2020-10-29,workforcecovidtest.org,workforcecovidtest.org,,
+2020-10-29,www.covid19test-mobileteam.my,72.18.131.4,US,North America
+2020-10-29,www.covid19test-mobileteam.my,cname.qualeadi.com,,
 2020-10-29,www.testlabor-covid.at,94.130.14.231,DE,Europe
 2020-10-29,www.workforcecovidtest.org,redirect.gslb.vumc.org,,
 2020-10-29,www.workforcecovidtest.org,redirect.service.vumc.org,,
