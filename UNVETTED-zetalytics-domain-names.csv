@@ -150,6 +150,9 @@
 2020-10-29,3minutecovidtest.com,ns1.livedns.co.uk,,
 2020-10-29,3minutecovidtest.com,ns2.livedns.co.uk,,
 2020-10-29,3minutecovidtest.com,ns3.livedns.co.uk,,
+2020-10-29,attestation-covid.com,attestation-covid.com,,
+2020-10-29,attestation-covid.com,ns1.vercel-dns.com,,
+2020-10-29,attestation-covid.com,ns2.vercel-dns.com,,
 2020-10-29,covid19expresstests.ru,185.72.146.165,RU,Europe
 2020-10-29,covid19expresstests.ru,covid19expresstests.ru,,
 2020-10-29,covid19-sars-testingservices.com,34.102.136.180,US,North America
@@ -163,6 +166,14 @@
 2020-10-29,covid19-testkit.shop,ns4.gransy.com,,
 2020-10-29,covid19-testkit.shop,ns5.gransy.com,,
 2020-10-29,covid19-testkit.shop,ns.gransy.com,,
+2020-10-29,covidsneltestshop.com,covidsneltestshop.com,,
+2020-10-29,covidsneltestshop.com,ns1.hostnet.nl,,
+2020-10-29,covidsneltestshop.com,ns2.hostnetbv.com,,
+2020-10-29,covidsneltestshop.com,ns3.hostnetbv.nl,,
+2020-10-29,covidtestdrivethrough.net,covidtestdrivethrough.net,,
+2020-10-29,covidtestdrivethrough.net,ns0.nl,,
+2020-10-29,covidtestdrivethrough.net,ns11.net,,
+2020-10-29,covidtestdrivethrough.net,ns5.be,,
 2020-10-29,covidtestma.com,covidtestma.com,,
 2020-10-29,covidtestma.com,ns05.domaincontrol.com,,
 2020-10-29,covidtestma.com,ns06.domaincontrol.com,,
@@ -195,3 +206,8 @@
 2020-10-29,schnelltest-covid.com,ns1119.ui-dns.biz,,
 2020-10-29,schnelltest-covid.com,ns1124.ui-dns.org,,
 2020-10-29,schnelltest-covid.com,schnelltest-covid.com,,
+2020-10-29,testlabor-covid.at,94.130.14.231,DE,Europe
+2020-10-29,testlabor-covid.at,ns1.easyname.eu,,
+2020-10-29,testlabor-covid.at,ns2.easyname.eu,,
+2020-10-29,testlabor-covid.at,testlabor-covid.at,,
+2020-10-29,www.testlabor-covid.at,94.130.14.231,DE,Europe
