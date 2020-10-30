@@ -138,6 +138,7 @@
 2020-10-29,www.workforcecovidtest.org,redirect.gslb.vumc.org,,
 2020-10-29,www.workforcecovidtest.org,redirect.service.vumc.org,,
 2020-10-30,americascovidtest.com,americascovidtest.com,,
+2020-10-30,clear19rapidcovidtesting.com,clear19rapidcovidtesting.com,,
 2020-10-30,covid19-quicktest.eu,a.ns14.net,,
 2020-10-30,covid19-quicktest.eu,b.ns14.net,,
 2020-10-30,covid19-quicktest.eu,c.ns14.net,,
@@ -167,7 +168,10 @@
 2020-10-30,covidtesting.health,covidtesting.health,,
 2020-10-30,covidtestitalia.com,covidtestitalia.com,,
 2020-10-30,covidtestsites.ca,covidtestsites.ca,,
+2020-10-30,curbsidecovidtesting.org,curbsidecovidtesting.org,,
 2020-10-30,desneltestcovid19.nl,desneltestcovid19.nl,,
+2020-10-30,ftp.redi-covidtest.it,185.77.84.44,IT,Europe
+2020-10-30,mail.redi-covidtest.it,maillvs.ergonet.it,,
 2020-10-30,mail.testprocovid.online,193.150.15.26,CZ,Europe
 2020-10-30,mx.covidtestitalia.com,62.149.128.151,IT,Europe
 2020-10-30,mx.covidtestitalia.com,62.149.128.154,IT,Europe
@@ -175,9 +179,13 @@
 2020-10-30,mx.covidtestitalia.com,62.149.128.160,IT,Europe
 2020-10-30,mx.covidtestitalia.com,62.149.128.163,IT,Europe
 2020-10-30,mx.covidtestitalia.com,62.149.128.166,IT,Europe
+2020-10-30,ns2.redi-covidtest.it,85.94.215.187,IT,Europe
+2020-10-30,ns3.redi-covidtest.it,88.198.7.157,DE,Europe
 2020-10-30,rapidcovidantigentests.com,ns39.domaincontrol.com,,
 2020-10-30,rapidcovidantigentests.com,ns40.domaincontrol.com,,
 2020-10-30,rapidcovidantigentests.com,rapidcovidantigentests.com,,
+2020-10-30,redi-covidtest.it,redi-covidtest.it,,
+2020-10-30,sql.redi-covidtest.it,185.77.84.44,IT,Europe
 2020-10-30,testantigenocovid.com,ns1.sedoparking.com,,
 2020-10-30,testantigenocovid.com,ns2.sedoparking.com,,
 2020-10-30,testantigenocovid.com,testantigenocovid.com,,
@@ -187,3 +195,4 @@
 2020-10-30,testprocovid.online,mail.testprocovid.online,,
 2020-10-30,testprocovid.online,testprocovid.online,,
 2020-10-30,testprocovid.online,www.cormail.ovh,,
+2020-10-30,webmail.redi-covidtest.it,webmail.ergonet.it,,
