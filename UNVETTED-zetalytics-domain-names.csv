@@ -2,158 +2,10 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-28,aanmelden.covidtestdrivethrough.nl,89.188.8.215,NL,Europe
-2020-10-28,advancedcovidtesting.com,198.12.249.126,US,North America
-2020-10-28,advancedcovidtesting.com,advancedcovidtesting.com,,
-2020-10-28,coronavirustestcentre.co.uk,coronavirustestcentre.co.uk,,
-2020-10-28,covid19bloodtest.ca,covid19bloodtest.ca,,
-2020-10-28,covid-19rapidhometests.com,34.102.136.180,US,North America
-2020-10-28,covid-19rapidhometests.com,covid-19rapidhometests.com,,
-2020-10-28,covid-19rapidhometests.com,ns01.domaincontrol.com,,
-2020-10-28,covid-19rapidhometests.com,ns02.domaincontrol.com,,
-2020-10-28,covid19salivapcrtestkit.com,50.62.195.83,US,North America
-2020-10-28,covid19salivapcrtestkit.com,covid19salivapcrtestkit.com,,
-2020-10-28,covid19salivapcrtestkit.com,ns39.domaincontrol.com,,
-2020-10-28,covid19salivapcrtestkit.com,ns40.domaincontrol.com,,
-2020-10-28,covid19testdriveby.info,34.102.136.180,US,North America
-2020-10-28,covid19testdriveby.info,covid19testdriveby.info,,
-2020-10-28,covidcommunitytest.org,covidcommunitytest.org,,
-2020-10-28,covidcommunitytest.org,ns.123-reg.co.uk,,
-2020-10-28,covidcommunitytest.org,ns2.123-reg.co.uk,,
-2020-10-28,covidcure.online,34.102.136.180,US,North America
-2020-10-28,covidcure.online,covidcure.online,,
-2020-10-28,covidcure.online,ns31.domaincontrol.com,,
-2020-10-28,covidcure.online,ns32.domaincontrol.com,,
-2020-10-28,covidfasttests.com,34.102.136.180,US,North America
-2020-10-28,covidfasttests.com,covidfasttests.com,,
-2020-10-28,covidfasttests.com,ns05.domaincontrol.com,,
-2020-10-28,covidsecure.vote,94.136.40.51,GB,Europe
-2020-10-28,covidsecure.vote,covidsecure.vote,,
-2020-10-28,covidsecure.vote,ns.123-reg.co.uk,,
-2020-10-28,covidsecure.vote,ns2.123-reg.co.uk,,
-2020-10-28,covid-test.com.au,covid-test.com.au,,
-2020-10-28,covidtestdrivethrough.com,149.210.192.121,NL,Europe
-2020-10-28,covidtestdrivethrough.com,covidtestdrivethrough.com,,
-2020-10-28,covidtestdrivethrough.com,ns0.nl,,
-2020-10-28,covidtestdrivethrough.com,ns11.net,,
-2020-10-28,covidtestdrivethrough.com,ns5.be,,
-2020-10-28,covidtestdrivethrough.nl,149.210.192.121,NL,Europe
-2020-10-28,covidtestdrivethrough.nl,covidtestdrivethrough.nl,,
-2020-10-28,covidtestdrivethrough.org,149.210.192.121,NL,Europe
-2020-10-28,covidtestdrivethrough.org,covidtestdrivethrough.org,,
-2020-10-28,covidtestdrivethrough.org,ns0.nl,,
-2020-10-28,covidtestdrivethrough.org,ns11.net,,
-2020-10-28,covidtestdrivethrough.org,ns5.be,,
-2020-10-28,covidtestmilwaukee.com,covidtestmilwaukee.com,,
-2020-10-28,covidtestmilwaukee.com,ns23.domaincontrol.com,,
-2020-10-28,covidtestmilwaukee.com,ns24.domaincontrol.com,,
-2020-10-28,covidtestontour.com,149.210.192.121,NL,Europe
-2020-10-28,covidtestontour.com,covidtestontour.com,,
-2020-10-28,covidtestontour.com,ns0.nl,,
-2020-10-28,covidtestontour.com,ns11.net,,
-2020-10-28,covidtestontour.com,ns5.be,,
-2020-10-28,covidtestontour.info,149.210.192.121,NL,Europe
-2020-10-28,covidtestontour.info,covidtestontour.info,,
-2020-10-28,covidtestontour.info,ns0.nl,,
-2020-10-28,covidtestontour.info,ns11.net,,
-2020-10-28,covidtestontour.info,ns5.be,,
-2020-10-28,covidtestontour.org,149.210.192.121,NL,Europe
-2020-10-28,covidtestontour.org,covidtestontour.org,,
-2020-10-28,covidtestontour.org,ns0.nl,,
-2020-10-28,covidtestontour.org,ns11.net,,
-2020-10-28,covidtestontour.org,ns5.be,,
-2020-10-28,covidtestwalkthrough.com,149.210.192.121,NL,Europe
-2020-10-28,covidtestwalkthrough.com,covidtestwalkthrough.com,,
-2020-10-28,covidtestwalkthrough.com,ns0.nl,,
-2020-10-28,covidtestwalkthrough.com,ns11.net,,
-2020-10-28,covidtestwalkthrough.com,ns5.be,,
-2020-10-28,covidtestwalkthrough.info,149.210.192.121,NL,Europe
-2020-10-28,covidtestwalkthrough.info,covidtestwalkthrough.info,,
-2020-10-28,covidtestwalkthrough.info,ns0.nl,,
-2020-10-28,covidtestwalkthrough.info,ns11.net,,
-2020-10-28,covidtestwalkthrough.info,ns5.be,,
-2020-10-28,covidtestwalkthrough.org,149.210.192.121,NL,Europe
-2020-10-28,covidtestwalkthrough.org,covidtestwalkthrough.org,,
-2020-10-28,covidtestwalkthrough.org,ns0.nl,,
-2020-10-28,covidtestwalkthrough.org,ns11.net,,
-2020-10-28,covidtestwalkthrough.org,ns5.be,,
-2020-10-28,covidultrarapidtest.com,2001:678:76c:3760::248,RU,Europe
-2020-10-28,covidultrarapidtest.com,covidultrarapidtest.com,,
-2020-10-28,covidultrarapidtest.com,ns1.argewebhosting.eu,,
-2020-10-28,covidultrarapidtest.com,ns2.argewebhosting.com,,
-2020-10-28,covidultrarapidtest.com,ns3.argewebhosting.nl,,
-2020-10-28,covidworkplacetest.org,covidworkplacetest.org,,
-2020-10-28,covidworkplacetest.org,ns.123-reg.co.uk,,
-2020-10-28,covidworkplacetest.org,ns2.123-reg.co.uk,,
-2020-10-28,employeecovidtest.org,160.129.166.103,US,North America
-2020-10-28,employeecovidtest.org,160.129.8.103,US,North America
-2020-10-28,employeecovidtest.org,employeecovidtest.org,,
-2020-10-28,employeecovidtest.org,ns1.vumc.org,,
-2020-10-28,employeecovidtest.org,ns2.vumc.org,,
-2020-10-28,employercovidtesting.org,160.129.166.103,US,North America
-2020-10-28,employercovidtesting.org,160.129.8.103,US,North America
-2020-10-28,employercovidtesting.org,employercovidtesting.org,,
-2020-10-28,employercovidtesting.org,ns1.vumc.org,,
-2020-10-28,employercovidtesting.org,ns2.vumc.org,,
-2020-10-28,employercovidtest.org,160.129.166.103,US,North America
-2020-10-28,employercovidtest.org,160.129.8.103,US,North America
-2020-10-28,employercovidtest.org,employercovidtest.org,,
-2020-10-28,employercovidtest.org,ns1.vumc.org,,
-2020-10-28,employercovidtest.org,ns2.vumc.org,,
-2020-10-28,mycovid-test.com,77.68.64.20,GB,Europe
-2020-10-28,mycovid-test.com,mycovid-test.com,,
-2020-10-28,mycovid-test.com,ns1.livedns.co.uk,,
-2020-10-28,mycovid-test.com,ns2.livedns.co.uk,,
-2020-10-28,mycovid-test.com,ns3.livedns.co.uk,,
-2020-10-28,rapidcovid-19-test.com,ns53.domaincontrol.com,,
-2020-10-28,rapidcovid-19-test.com,ns54.domaincontrol.com,,
-2020-10-28,rapidcovid-19-test.com,rapidcovid-19-test.com,,
-2020-10-28,rapidcovidsurfacetesting.com,ns77.domaincontrol.com,,
-2020-10-28,rapidcovidsurfacetesting.com,ns78.domaincontrol.com,,
-2020-10-28,rapidcovidsurfacetesting.com,rapidcovidsurfacetesting.com,,
-2020-10-28,rapidcovidtestllc.com,ns1.whois.com,,
-2020-10-28,rapidcovidtestllc.com,ns2.whois.com,,
-2020-10-28,rapidcovidtestllc.com,ns3.whois.com,,
-2020-10-28,rapidcovidtestllc.com,ns4.whois.com,,
-2020-10-28,rapidcovidtestllc.com,rapidcovidtestllc.com,,
-2020-10-28,sneltestcovid.online,145.131.10.248,NL,Europe
-2020-10-28,sneltestcovid.online,bounce.argewebhosting.nl,,
-2020-10-28,sneltestcovid.online,ns1.argewebhosting.eu,,
-2020-10-28,sneltestcovid.online,ns2.argewebhosting.com,,
-2020-10-28,sneltestcovid.online,ns3.argewebhosting.nl,,
-2020-10-28,sneltestcovid.online,sneltestcovid.online,,
-2020-10-28,sneltestvoorcovid19.nl,23.227.38.65,CA,North America
-2020-10-28,sneltestvoorcovid19.nl,62.221.252.146,NL,Europe
-2020-10-28,sneltestvoorcovid19.nl,sneltestvoorcovid19.nl,,
-2020-10-28,spoedtestcovid19.eu,spoedtestcovid19.eu,,
-2020-10-28,spoedtestcovid19.nl,spoedtestcovid19.nl,,
-2020-10-28,testarcovid.com,mx1.weblink.com.br,,
-2020-10-28,testarcovid.com,mx2.weblink.com.br,,
-2020-10-28,testarcovid.com,ns1.dns-parking.com,,
-2020-10-28,testarcovid.com,ns2.dns-parking.com,,
-2020-10-28,testarcovid.com,testarcovid.com,,
-2020-10-28,testscovid.ch,testscovid.ch,,
-2020-10-28,testyourselfcovid19.com,testyourselfcovid19.com,,
-2020-10-28,tripcovidtest.com,34.102.136.180,US,North America
-2020-10-28,tripcovidtest.com,ns71.domaincontrol.com,,
-2020-10-28,tripcovidtest.com,ns72.domaincontrol.com,,
-2020-10-28,tripcovidtest.com,tripcovidtest.com,,
-2020-10-28,wecurecovid.com,34.102.136.180,US,North America
-2020-10-28,wecurecovid.com,ns71.domaincontrol.com,,
-2020-10-28,wecurecovid.com,ns72.domaincontrol.com,,
-2020-10-28,wecurecovid.com,wecurecovid.com,,
-2020-10-28,workplacecovidtest.org,160.129.166.103,US,North America
-2020-10-28,workplacecovidtest.org,160.129.8.103,US,North America
-2020-10-28,workplacecovidtest.org,ns1.vumc.org,,
-2020-10-28,workplacecovidtest.org,ns2.vumc.org,,
-2020-10-28,workplacecovidtest.org,workplacecovidtest.org,,
-2020-10-28,www.covidtestdrivethrough.nl,149.210.192.121,NL,Europe
-2020-10-28,www.covidtestdrivethrough.nl,covidtestdrivethrough.nl,,
-2020-10-28,www.covidtestdrivethrough.org,149.210.192.121,NL,Europe
-2020-10-28,www.covidtestdrivethrough.org,covidtestdrivethrough.org,,
-2020-10-28,www.covidtestontour.info,149.210.192.121,NL,Europe
-2020-10-28,www.covidtestontour.info,covidtestontour.info,,
-2020-10-28,www.sneltestvoorcovid19.nl,23.227.38.65,CA,North America
+2020-10-29,1minutecovidtest.com,1minutecovidtest.com,,
+2020-10-29,1minutecovidtest.com,ns1.livedns.co.uk,,
+2020-10-29,1minutecovidtest.com,ns2.livedns.co.uk,,
+2020-10-29,1minutecovidtest.com,ns3.livedns.co.uk,,
 2020-10-29,3minutecovidtest.com,213.171.195.105,GB,Europe
 2020-10-29,3minutecovidtest.com,3minutecovidtest.com,,
 2020-10-29,3minutecovidtest.com,ns1.livedns.co.uk,,
@@ -180,6 +32,7 @@
 2020-10-29,covid19expresstests.ru,covid19expresstests.ru,,
 2020-10-29,covid19-sars-testingservices.com,34.102.136.180,US,North America
 2020-10-29,covid19-sars-testingservices.com,covid19-sars-testingservices.com,,
+2020-10-29,covid19-sars-testingservices.com,ns25.domaincontrol.com,,
 2020-10-29,covid19-sars-testingservices.com,ns26.domaincontrol.com,,
 2020-10-29,covid-19sneltest.shop,covid-19sneltest.shop,,
 2020-10-29,covid19-testkit.shop,172.105.107.58,US,North America
@@ -234,6 +87,8 @@
 2020-10-29,elitecovidtest.com,ns42.domaincontrol.com,,
 2020-10-29,fastcovidtesting.co.uk,77.68.122.81,GB,Europe
 2020-10-29,fastcovidtesting.co.uk,fastcovidtesting.co.uk,,
+2020-10-29,fastcovidtesting.co.uk,ns1.fastcovidtesting.co.uk,,
+2020-10-29,fastcovidtesting.co.uk,ns2.fastcovidtesting.co.uk,,
 2020-10-29,hometestingcovid.com,hometestingcovid.com,,
 2020-10-29,hometestingcovid.com,ns27.domaincontrol.com,,
 2020-10-29,hometestingcovid.com,ns28.domaincontrol.com,,
