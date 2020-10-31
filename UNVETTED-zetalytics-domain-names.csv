@@ -27,6 +27,9 @@
 2020-10-30,covidsneltestcentrum.nl,2001:1460:2::1c21:36ff:fe00:1c8,NL,Europe
 2020-10-30,covidsneltestcentrum.nl,62.221.197.214,NL,Europe
 2020-10-30,covidsneltestcentrum.nl,covidsneltestcentrum.nl,,
+2020-10-30,covidsneltestcentrum.nl,esa1.scalasolutions.nl,,
+2020-10-30,covidsneltestcentrum.nl,esa2.scalasolutions.nl,,
+2020-10-30,covidsneltestcentrum.nl,esa3.scalasolutions.nl,,
 2020-10-30,covidtest4travel.com,covidtest4travel.com,,
 2020-10-30,covidtest4travel.com,ns.123-reg.co.uk,,
 2020-10-30,covidtest4travel.com,ns2.123-reg.co.uk,,
@@ -87,6 +90,7 @@
 2020-10-30,www.testrapidicovid19.website,195.110.124.133,IT,Europe
 2020-10-30,www.testrapidicovid19.website,testrapidicovid19.website,,
 2020-10-31,60secondcovidtest.com,60secondcovidtest.com,,
+2020-10-31,clear19covidtesting.com,74.208.236.57,US,North America
 2020-10-31,clear19covidtesting.com,clear19covidtesting.com,,
 2020-10-31,covid19autotest.com,217.116.0.191,ES,Europe
 2020-10-31,covid19autotest.com,covid19autotest.com,,
@@ -105,13 +109,22 @@
 2020-10-31,covidtestcenter.co.uk,217.70.184.38,FR,Europe
 2020-10-31,covidtestcenter.co.uk,covidtestcenter.co.uk,,
 2020-10-31,covidtest.com.cy,covidtest.com.cy,,
+2020-10-31,covidtest.com.cy,dns1.papaki.gr,,
+2020-10-31,covidtest.com.cy,dns2.papaki.gr,,
+2020-10-31,covidtest.com.cy,mail.covidtest.com.cy,,
 2020-10-31,covidtestingalliance.online,covidtestingalliance.online,,
 2020-10-31,covidtestingalliance.online,dns1.uk2.net,,
 2020-10-31,covidtestingalliance.online,dns2.uk2.net,,
 2020-10-31,covidtestingalliance.online,dns3.uk2.net,,
+2020-10-31,covidtestingalliance.online,mx.covidtestingalliance.online.cust.a.hostedemail.com,,
 2020-10-31,covid-testlocatie.online,covid-testlocatie.online,,
 2020-10-31,covidtestresultswaitingtime.com,covidtestresultswaitingtime.com,,
+2020-10-31,covidtestresultswaitingtime.com,ns1.covidtestresultswaitingtime.com,,
+2020-10-31,covidtestresultswaitingtime.com,ns2.covidtestresultswaitingtime.com,,
+2020-10-31,covidtestzenrum.berlin,2a01:238:20a:202:1158::,DE,Europe
+2020-10-31,covidtestzenrum.berlin,81.169.145.158,DE,Europe
 2020-10-31,covidtestzenrum.berlin,covidtestzenrum.berlin,,
+2020-10-31,curativecovidtesting.com,curativecovidtesting.com,,
 2020-10-31,giessecovidtest.com,giessecovidtest.com,,
 2020-10-31,mycovidtestsolution.com,34.102.136.180,US,North America
 2020-10-31,mycovidtestsolution.com,mycovidtestsolution.com,,
@@ -131,10 +144,12 @@
 2020-10-31,testcovidnwvl.be,testcovidnwvl.be,,
 2020-10-31,testcovidrapido.es,217.160.0.146,DE,Europe
 2020-10-31,testcovidrapido.es,testcovidrapido.es,,
+2020-10-31,testes.frenteprevencaocovidrn.com.br,InY9c3BmMSBpbmNsdWRlOnNwZi51bWJsZXIuY29tIH5hbGw=,,
 2020-10-31,testes.frenteprevencaocovidrn.com.br,mx128.umbler.in,,
 2020-10-31,testes.frenteprevencaocovidrn.com.br,mx240.umbler.co.uk,,
 2020-10-31,testes.frenteprevencaocovidrn.com.br,mx364.umbler.com,,
 2020-10-31,testes.frenteprevencaocovidrn.com.br,mx783.umbler.com.br,,
+2020-10-31,testes.frenteprevencaocovidrn.com.br,"v=spf1 include:spf.umbler.com ~all,,
 2020-10-31,todotestcovid.es,mx01.dondominio.com,,
 2020-10-31,todotestcovid.es,todotestcovid.es,,
 2020-10-31,usarapidcovidtesting.com,ns1bcp.name.com,,
