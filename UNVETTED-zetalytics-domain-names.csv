@@ -3,7 +3,9 @@
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
 2020-10-31,60secondcovidtest.com,60secondcovidtest.com,,
+2020-10-31,canigetacoronavirustestifiwantone.politie,127.0.53.53,,
 2020-10-31,canigetacoronavirustestifiwantone.politie,canigetacoronavirustestifiwantone.politie,,
+2020-10-31,canigetacoronavirustestifiwantone.politie,VFlvdXIgRE5TIGNvbmZpZ3VyYXRpb24gbmVlZHMgaW1tZWRpYXRlIGF0dGVudGlvbiBzZWUgaHR0cHM6Ly9pY2Fubi5vcmcvbmFtZWNvbGxpc2lvbg==,,
 2020-10-31,clear19covidtesting.com,74.208.236.57,US,North America
 2020-10-31,clear19covidtesting.com,clear19covidtesting.com,,
 2020-10-31,covid19autotest.com,217.116.0.191,ES,Europe
@@ -119,8 +121,14 @@
 2020-11-01,48hrcovidtest.com,ns-cloud-d4.googledomains.com,,
 2020-11-01,auto-covid-attestation.fr,51.91.236.255,FR,Europe
 2020-11-01,auto-covid-attestation.fr,auto-covid-attestation.fr,,
+2020-11-01,auto-covid-attestation.fr,mx1.mail.ovh.net,,
+2020-11-01,auto-covid-attestation.fr,mx2.mail.ovh.net,,
+2020-11-01,auto-covid-attestation.fr,mx3.mail.ovh.net,,
 2020-11-01,covid19sneltesters.nl,covid19sneltesters.nl,,
 2020-11-01,covid-19sneltestshop.nl,covid-19sneltestshop.nl,,
+2020-11-01,covid19testrapide.com,covid19testrapide.com,,
+2020-11-01,covid19testrapide.com,ns19.ch-dns.net,,
+2020-11-01,covid19testrapide.com,ns20.ch-dns.net,,
 2020-11-01,covid19-test.site,217.160.0.244,DE,Europe
 2020-11-01,covid19-test.site,covid19-test.site,,
 2020-11-01,covid19-test.site,ns1021.ui-dns.biz,,
@@ -135,6 +143,9 @@
 2020-11-01,covidschnelltest24.com,2a01:238:20a:202:1073::,DE,Europe
 2020-11-01,covidschnelltest24.com,81.169.145.73,DE,Europe
 2020-11-01,covidschnelltest24.com,covidschnelltest24.com,,
+2020-11-01,covid-schnell-test.com,85.13.135.87,DE,Europe
+2020-11-01,covid-schnell-test.com,covid-schnell-test.com,,
+2020-11-01,covid-schnell-test.com,w01b28dd.kasserver.com,,
 2020-11-01,covidsneltestrotterdam.nl,37.97.254.27,NL,Europe
 2020-11-01,covidsneltestrotterdam.nl,covidsneltestrotterdam.nl,,
 2020-11-01,covidsneltestrotterdam.nl,ns0.transip.net,,
