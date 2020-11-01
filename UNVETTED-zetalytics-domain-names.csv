@@ -90,6 +90,7 @@
 2020-10-31,testes.frenteprevencaocovidrn.com.br,mx364.umbler.com,,
 2020-10-31,testes.frenteprevencaocovidrn.com.br,mx783.umbler.com.br,,
 2020-10-31,testes.frenteprevencaocovidrn.com.br,"v=spf1 include:spf.umbler.com ~all,,
+2020-10-31,todotestcovid.es,37.152.88.7,ES,Europe
 2020-10-31,todotestcovid.es,mx01.dondominio.com,,
 2020-10-31,todotestcovid.es,ns1.dondominio.com,,
 2020-10-31,todotestcovid.es,ns2.dondominio.com,,
@@ -110,6 +111,8 @@
 2020-11-01,48hrcovidtest.com,ns-cloud-d2.googledomains.com,,
 2020-11-01,48hrcovidtest.com,ns-cloud-d3.googledomains.com,,
 2020-11-01,48hrcovidtest.com,ns-cloud-d4.googledomains.com,,
+2020-11-01,covidantijentest.com,85.159.66.93,TR,Asia
+2020-11-01,covidantijentest.com,covidantijentest.com,,
 2020-11-01,coviditest.com,34.102.136.180,US,North America
 2020-11-01,coviditest.com,coviditest.com,,
 2020-11-01,covidschnelltest24.com,2a01:238:20a:202:1073::,DE,Europe
