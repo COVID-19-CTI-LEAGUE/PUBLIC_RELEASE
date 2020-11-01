@@ -5,6 +5,7 @@
 2020-10-31,60secondcovidtest.com,60secondcovidtest.com,,
 2020-10-31,canigetacoronavirustestifiwantone.politie,127.0.53.53,,
 2020-10-31,canigetacoronavirustestifiwantone.politie,canigetacoronavirustestifiwantone.politie,,
+2020-10-31,canigetacoronavirustestifiwantone.politie,TYour DNS configuration needs immediate attention see https://icann.org/namecollision,,
 2020-10-31,canigetacoronavirustestifiwantone.politie,VFlvdXIgRE5TIGNvbmZpZ3VyYXRpb24gbmVlZHMgaW1tZWRpYXRlIGF0dGVudGlvbiBzZWUgaHR0cHM6Ly9pY2Fubi5vcmcvbmFtZWNvbGxpc2lvbg==,,
 2020-10-31,clear19covidtesting.com,74.208.236.57,US,North America
 2020-10-31,clear19covidtesting.com,clear19covidtesting.com,,
@@ -120,11 +121,16 @@
 2020-11-01,48hrcovidtest.com,ns-cloud-d3.googledomains.com,,
 2020-11-01,48hrcovidtest.com,ns-cloud-d4.googledomains.com,,
 2020-11-01,api.covidtest.by,185.179.82.148,BY,Europe
+2020-11-01,attestations-covid.fr,2001:4b98:dc6:253::12,FR,Europe
+2020-11-01,attestations-covid.fr,attestations-covid.fr,,
 2020-11-01,auto-covid-attestation.fr,51.91.236.255,FR,Europe
 2020-11-01,auto-covid-attestation.fr,auto-covid-attestation.fr,,
 2020-11-01,auto-covid-attestation.fr,mx1.mail.ovh.net,,
 2020-11-01,auto-covid-attestation.fr,mx2.mail.ovh.net,,
 2020-11-01,auto-covid-attestation.fr,mx3.mail.ovh.net,,
+2020-11-01,big10covidtest.com,big10covidtest.com,,
+2020-11-01,big10covidtest.com,pdns09.domaincontrol.com,,
+2020-11-01,big10covidtest.com,pdns10.domaincontrol.com,,
 2020-11-01,covid19sneltesters.nl,covid19sneltesters.nl,,
 2020-11-01,covid-19sneltestshop.nl,covid-19sneltestshop.nl,,
 2020-11-01,covid19testrapide.com,covid19testrapide.com,,
@@ -146,6 +152,8 @@
 2020-11-01,covidschnelltest24.com,covidschnelltest24.com,,
 2020-11-01,covid-schnell-test.com,85.13.135.87,DE,Europe
 2020-11-01,covid-schnell-test.com,covid-schnell-test.com,,
+2020-11-01,covid-schnell-test.com,ns5.kasserver.com,,
+2020-11-01,covid-schnell-test.com,ns6.kasserver.com,,
 2020-11-01,covid-schnell-test.com,w01b28dd.kasserver.com,,
 2020-11-01,covidsneltestrotterdam.nl,37.97.254.27,NL,Europe
 2020-11-01,covidsneltestrotterdam.nl,covidsneltestrotterdam.nl,,
@@ -169,17 +177,26 @@
 2020-11-01,covidtestlane.com,covidtestlane.com,,
 2020-11-01,covidtestlane.nl,covidtestlane.nl,,
 2020-11-01,covidtestnow.info,covidtestnow.info,,
+2020-11-01,covidtestondemand.com,34.102.136.180,US,North America
+2020-11-01,covidtestondemand.com,covidtestondemand.com,,
 2020-11-01,covidtestung1050.at,81.19.154.98,AT,Europe
 2020-11-01,covidtestung1050.at,covidtestung1050.at,,
 2020-11-01,covidtestung1050.at,ns1.world4you.at,,
 2020-11-01,covidtestung1050.at,ns2.world4you.at,,
 2020-11-01,covidtesty-firmy.sk,81.95.96.29,CZ,Europe
 2020-11-01,covidtesty-firmy.sk,covidtesty-firmy.sk,,
+2020-11-01,fdacovidcombotest.com,fdacovidcombotest.com,,
+2020-11-01,fdacovidcombotest.com,ns67.domaincontrol.com,,
+2020-11-01,fdacovidcombotest.com,ns68.domaincontrol.com,,
+2020-11-01,letstalkcovidtestinglive.com,34.102.136.180,US,North America
 2020-11-01,letstalkcovidtestinglive.com,letstalkcovidtestinglive.com,,
 2020-11-01,letstalkcovidtestinglive.com,ns21.domaincontrol.com,,
 2020-11-01,letstalkcovidtestinglive.com,ns22.domaincontrol.com,,
 2020-11-01,megnacovidflutest.com,34.102.136.180,US,North America
 2020-11-01,megnacovidflutest.com,megnacovidflutest.com,,
+2020-11-01,mycovidtestsite.com,mycovidtestsite.com,,
+2020-11-01,mycovidtestsite.com,ns11.domaincontrol.com,,
+2020-11-01,mycovidtestsite.com,ns12.domaincontrol.com,,
 2020-11-01,onlinecovidtests.com,184.168.131.241,US,North America
 2020-11-01,onlinecovidtests.com,onlinecovidtests.com,,
 2020-11-01,rapidcovidtestingnyc.com,ns1019.ui-dns.com,,
@@ -196,6 +213,10 @@
 2020-11-01,testrapidocovid19.info,ns1.srv-hostalia.com,,
 2020-11-01,testrapidocovid19.info,ns2.srv-hostalia.com,,
 2020-11-01,testrapidocovid19.info,testrapidocovid19.info,,
+2020-11-01,tests-covid.ch,ns31.infomaniak.com,,
+2020-11-01,tests-covid.ch,ns32.infomaniak.com,,
+2020-11-01,tests-covid.ch,tests-covid.ch,,
+2020-11-01,thuistestcovid.nl,thuistestcovid.nl,,
 2020-11-01,txcovidtests.com,ns25.domaincontrol.com,,
 2020-11-01,txcovidtests.com,ns26.domaincontrol.com,,
 2020-11-01,txcovidtests.com,txcovidtests.com,,
