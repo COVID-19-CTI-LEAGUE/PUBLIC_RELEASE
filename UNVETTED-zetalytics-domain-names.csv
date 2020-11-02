@@ -99,6 +99,8 @@
 2020-11-01,privatecovidtesting.co.uk,217.160.0.218,DE,Europe
 2020-11-01,privatecovidtesting.co.uk,privatecovidtesting.co.uk,,
 2020-11-01,rapidcovidtestingnyc.com,74.208.236.34,US,North America
+2020-11-01,rapidcovidtestingnyc.com,mx00.ionos.com,,
+2020-11-01,rapidcovidtestingnyc.com,mx01.ionos.com,,
 2020-11-01,rapidcovidtestingnyc.com,ns1019.ui-dns.com,,
 2020-11-01,rapidcovidtestingnyc.com,ns1048.ui-dns.de,,
 2020-11-01,rapidcovidtestingnyc.com,ns1067.ui-dns.biz,,
@@ -138,6 +140,8 @@
 2020-11-02,freecovidstest.com,freecovidstest.com,,
 2020-11-02,freecovidstest.com,ns65.domaincontrol.com,,
 2020-11-02,freecovidstest.com,ns66.domaincontrol.com,,
+2020-11-02,rapidtestcovid.nl,84.241.177.139,NL,Europe
+2020-11-02,rapidtestcovid.nl,rapidtestcovid.nl,,
 2020-11-02,test-covid19.at,91.227.205.222,AT,Europe
 2020-11-02,test-covid19.at,hostmaster@easyname.eu,,
 2020-11-02,test-covid19.at,ns1.easyname.eu,,
@@ -146,4 +150,5 @@
 2020-11-02,vacationcovidtest.com,ns01.domaincontrol.com,,
 2020-11-02,vacationcovidtest.com,ns02.domaincontrol.com,,
 2020-11-02,vacationcovidtest.com,vacationcovidtest.com,,
+2020-11-02,www.rapidtestcovid.nl,84.241.177.139,NL,Europe
 2020-11-02,www.test-covid19.at,91.227.205.222,AT,Europe
