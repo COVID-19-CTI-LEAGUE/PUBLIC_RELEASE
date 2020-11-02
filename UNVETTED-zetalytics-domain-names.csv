@@ -2,119 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-10-31,60secondcovidtest.com,60secondcovidtest.com,,
-2020-10-31,canigetacoronavirustestifiwantone.politie,127.0.53.53,,
-2020-10-31,canigetacoronavirustestifiwantone.politie,canigetacoronavirustestifiwantone.politie,,
-2020-10-31,canigetacoronavirustestifiwantone.politie,TYour DNS configuration needs immediate attention see https://icann.org/namecollision,,
-2020-10-31,canigetacoronavirustestifiwantone.politie,VFlvdXIgRE5TIGNvbmZpZ3VyYXRpb24gbmVlZHMgaW1tZWRpYXRlIGF0dGVudGlvbiBzZWUgaHR0cHM6Ly9pY2Fubi5vcmcvbmFtZWNvbGxpc2lvbg==,,
-2020-10-31,clear19covidtesting.com,74.208.236.57,US,North America
-2020-10-31,clear19covidtesting.com,clear19covidtesting.com,,
-2020-10-31,covid19autotest.com,217.116.0.191,ES,Europe
-2020-10-31,covid19autotest.com,covid19autotest.com,,
-2020-10-31,covid19getatest.co.uk,alt1.aspmx.l.google.com,,
-2020-10-31,covid19getatest.co.uk,alt2.aspmx.l.google.com,,
-2020-10-31,covid19getatest.co.uk,alt3.aspmx.l.google.com,,
-2020-10-31,covid19getatest.co.uk,alt4.aspmx.l.google.com,,
-2020-10-31,covid19getatest.co.uk,aspmx.l.google.com,,
-2020-10-31,covid19getatest.co.uk,covid19getatest.co.uk,,
-2020-10-31,covid19getatest.co.uk,ns-cloud-b1.googledomains.com,,
-2020-10-31,covid19getatest.co.uk,ns-cloud-b2.googledomains.com,,
-2020-10-31,covid19getatest.co.uk,ns-cloud-b3.googledomains.com,,
-2020-10-31,covid19getatest.co.uk,ns-cloud-b4.googledomains.com,,
-2020-10-31,covid19-onlinetest.com,217.160.0.244,DE,Europe
-2020-10-31,covid19-onlinetest.com,covid19-onlinetest.com,,
-2020-10-31,covid19test-mobile.co.uk,157.230.120.63,US,North America
-2020-10-31,covid19test-mobile.co.uk,167.99.137.12,DE,Europe
-2020-10-31,covid19test-mobile.co.uk,covid19test-mobile.co.uk,,
-2020-10-31,covidschnelltest.shop,2a01:238:20a:202:1160::,DE,Europe
-2020-10-31,covidschnelltest.shop,81.169.145.160,DE,Europe
-2020-10-31,covidschnelltest.shop,covidschnelltest.shop,,
-2020-10-31,covidsneltestuithoorn.nl,185.107.113.0,NL,Europe
-2020-10-31,covidsneltestuithoorn.nl,covidsneltestuithoorn.nl,,
-2020-10-31,covidsneltestuithoorn.nl,ns1.hostnet.nl,,
-2020-10-31,covidsneltestuithoorn.nl,ns2.hostnetbv.com,,
-2020-10-31,covidsneltestuithoorn.nl,ns3.hostnetbv.nl,,
-2020-10-31,covidtestcenter.co.uk,217.70.184.38,FR,Europe
-2020-10-31,covidtestcenter.co.uk,covidtestcenter.co.uk,,
-2020-10-31,covidtest.com.cy,covidtest.com.cy,,
-2020-10-31,covidtest.com.cy,dns1.papaki.gr,,
-2020-10-31,covidtest.com.cy,dns2.papaki.gr,,
-2020-10-31,covidtest.com.cy,mail.covidtest.com.cy,,
-2020-10-31,covidtestingalliance.online,46.23.69.44,GB,Europe
-2020-10-31,covidtestingalliance.online,covidtestingalliance.online,,
-2020-10-31,covidtestingalliance.online,dns1.uk2.net,,
-2020-10-31,covidtestingalliance.online,dns2.uk2.net,,
-2020-10-31,covidtestingalliance.online,dns3.uk2.net,,
-2020-10-31,covidtestingalliance.online,mx.covidtestingalliance.online.cust.a.hostedemail.com,,
-2020-10-31,covid-testlocatie.online,covid-testlocatie.online,,
-2020-10-31,covid-testlocatie.online,nszero1.axc.nl,,
-2020-10-31,covid-testlocatie.online,nszero2.axc.nl,,
-2020-10-31,covidtestresultswaitingtime.com,77.68.118.51,GB,Europe
-2020-10-31,covidtestresultswaitingtime.com,covidtestresultswaitingtime.com,,
-2020-10-31,covidtestresultswaitingtime.com,mail.covidtestresultswaitingtime.com,,
-2020-10-31,covidtestresultswaitingtime.com,ns1.covidtestresultswaitingtime.com,,
-2020-10-31,covidtestresultswaitingtime.com,ns2.covidtestresultswaitingtime.com,,
-2020-10-31,covidtestzenrum.berlin,2a01:238:20a:202:1158::,DE,Europe
-2020-10-31,covidtestzenrum.berlin,81.169.145.158,DE,Europe
-2020-10-31,covidtestzenrum.berlin,covidtestzenrum.berlin,,
-2020-10-31,curativecovidtesting.com,curativecovidtesting.com,,
-2020-10-31,dukecovidpuritytest.com,185.199.108.153,NL,Europe
-2020-10-31,dukecovidpuritytest.com,dukecovidpuritytest.com,,
-2020-10-31,dukecovidpuritytest.com,ns-cloud-e1.googledomains.com,,
-2020-10-31,dukecovidpuritytest.com,ns-cloud-e2.googledomains.com,,
-2020-10-31,dukecovidpuritytest.com,ns-cloud-e3.googledomains.com,,
-2020-10-31,dukecovidpuritytest.com,ns-cloud-e4.googledomains.com,,
-2020-10-31,giessecovidtest.com,23.236.62.147,US,North America
-2020-10-31,giessecovidtest.com,giessecovidtest.com,,
-2020-10-31,mycovidtestlab.com,34.102.136.180,US,North America
-2020-10-31,mycovidtestlab.com,mycovidtestlab.com,,
-2020-10-31,mycovidtestsolution.com,34.102.136.180,US,North America
-2020-10-31,mycovidtestsolution.com,mycovidtestsolution.com,,
-2020-10-31,rapidcovidtestmd.com,ns21.domaincontrol.com,,
-2020-10-31,rapidcovidtestmd.com,ns22.domaincontrol.com,,
-2020-10-31,rapidcovidtestmd.com,rapidcovidtestmd.com,,
-2020-10-31,rapidtest-covid.cz,2001:1528:114::6638,CZ,Europe
-2020-10-31,rapidtest-covid.cz,81.0.206.107,CZ,Europe
-2020-10-31,rapidtest-covid.cz,rapidtest-covid.cz,,
-2020-10-31,sneltestcoronavirus.site,nszero1.axc.nl,,
-2020-10-31,sneltestcoronavirus.site,nszero2.axc.nl,,
-2020-10-31,sneltestcoronavirus.site,sneltestcoronavirus.site,,
-2020-10-31,sneltestcovid.shop,bounce.argewebhosting.nl,,
-2020-10-31,sneltestcovid.shop,sneltestcovid.shop,,
-2020-10-31,testcovid4menow.com,34.102.136.180,US,North America
-2020-10-31,testcovid4menow.com,testcovid4menow.com,,
-2020-10-31,testcovidnwvl.be,40.113.126.251,NL,Europe
-2020-10-31,testcovidnwvl.be,ns1.digiserver.be,,
-2020-10-31,testcovidnwvl.be,ns2.digiserver.be,,
-2020-10-31,testcovidnwvl.be,testcovidnwvl.be,,
-2020-10-31,testcovidrapido.es,217.160.0.146,DE,Europe
-2020-10-31,testcovidrapido.es,ns1019.ui-dns.com,,
-2020-10-31,testcovidrapido.es,ns1048.ui-dns.de,,
-2020-10-31,testcovidrapido.es,ns1067.ui-dns.biz,,
-2020-10-31,testcovidrapido.es,ns1105.ui-dns.org,,
-2020-10-31,testcovidrapido.es,testcovidrapido.es,,
-2020-10-31,testes.frenteprevencaocovidrn.com.br,InY9c3BmMSBpbmNsdWRlOnNwZi51bWJsZXIuY29tIH5hbGw=,,
-2020-10-31,testes.frenteprevencaocovidrn.com.br,mx128.umbler.in,,
-2020-10-31,testes.frenteprevencaocovidrn.com.br,mx240.umbler.co.uk,,
-2020-10-31,testes.frenteprevencaocovidrn.com.br,mx364.umbler.com,,
-2020-10-31,testes.frenteprevencaocovidrn.com.br,mx783.umbler.com.br,,
-2020-10-31,testes.frenteprevencaocovidrn.com.br,"v=spf1 include:spf.umbler.com ~all,,
-2020-10-31,todotestcovid.es,37.152.88.7,ES,Europe
-2020-10-31,todotestcovid.es,mx01.dondominio.com,,
-2020-10-31,todotestcovid.es,ns1.dondominio.com,,
-2020-10-31,todotestcovid.es,ns2.dondominio.com,,
-2020-10-31,todotestcovid.es,todotestcovid.es,,
-2020-10-31,usarapidcovidtesting.com,ns1bcp.name.com,,
-2020-10-31,usarapidcovidtesting.com,ns2bkr.name.com,,
-2020-10-31,usarapidcovidtesting.com,ns3cpr.name.com,,
-2020-10-31,usarapidcovidtesting.com,ns4kmw.name.com,,
-2020-10-31,usarapidcovidtesting.com,usarapidcovidtesting.com,,
-2020-10-31,www.covid19-onlinetest.com,2001:8d8:100f:f000::2cd,DE,Europe
-2020-10-31,www.covid19test-mobile.co.uk,18.230.52.212,US,North America
-2020-10-31,www.covidtest.com.cy,32163488230.blog.com.gr,,
-2020-10-31,www.covidtest.com.cy,88.198.52.5,DE,Europe
-2020-10-31,www.rapidtest-covid.cz,81.0.206.107,CZ,Europe
-2020-10-31,www.rapidtest-covid.cz,s5.eshop-rychle.cz,,
 2020-11-01,48hrcovidtest.com,48hrcovidtest.com,,
 2020-11-01,48hrcovidtest.com,ns-cloud-d1.googledomains.com,,
 2020-11-01,48hrcovidtest.com,ns-cloud-d2.googledomains.com,,
@@ -201,6 +88,8 @@
 2020-11-01,mycovidtestsite.com,ns12.domaincontrol.com,,
 2020-11-01,onlinecovidtests.com,184.168.131.241,US,North America
 2020-11-01,onlinecovidtests.com,onlinecovidtests.com,,
+2020-11-01,privatecovidtesting.co.uk,217.160.0.218,DE,Europe
+2020-11-01,privatecovidtesting.co.uk,privatecovidtesting.co.uk,,
 2020-11-01,rapidcovidtestingnyc.com,ns1019.ui-dns.com,,
 2020-11-01,rapidcovidtestingnyc.com,ns1048.ui-dns.de,,
 2020-11-01,rapidcovidtestingnyc.com,ns1067.ui-dns.biz,,
