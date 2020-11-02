@@ -126,12 +126,18 @@
 2020-11-01,www.covidsneltestrotterdam.nl,37.97.254.27,NL,Europe
 2020-11-01,www.covidsneltestrotterdam.nl,covidsneltestrotterdam.nl,,
 2020-11-02,123covidtesten.nl,123covidtesten.nl,,
+2020-11-02,123covidtesten.nl,91.184.0.100,NL,Europe
+2020-11-02,123covidtesten.nl,ns1.hostnet.nl,,
+2020-11-02,123covidtesten.nl,ns2.hostnetbv.com,,
+2020-11-02,123covidtesten.nl,ns3.hostnetbv.nl,,
 2020-11-02,b10covidtests.com,b10covidtests.com,,
 2020-11-02,b10covidtests.com,pdns09.domaincontrol.com,,
 2020-11-02,b10covidtests.com,pdns10.domaincontrol.com,,
 2020-11-02,covid19-athometesting.com,covid19-athometesting.com,,
 2020-11-02,covid19-athometesting.com,ns27.domaincontrol.com,,
 2020-11-02,covid19-athometesting.com,ns28.domaincontrol.com,,
+2020-11-02,covid19autotest.info,217.116.0.191,ES,Europe
+2020-11-02,covid19autotest.info,covid19autotest.info,,
 2020-11-02,covid19traveltest.ca,covid19traveltest.ca,,
 2020-11-02,covidtest010.nl,2606:4700:3031::681b:8a08,US,North America
 2020-11-02,covidtest010.nl,2606:4700:3032::681b:8b08,US,North America
@@ -154,5 +160,6 @@
 2020-11-02,vacationcovidtest.com,ns01.domaincontrol.com,,
 2020-11-02,vacationcovidtest.com,ns02.domaincontrol.com,,
 2020-11-02,vacationcovidtest.com,vacationcovidtest.com,,
+2020-11-02,www.123covidtesten.nl,123covidtesten.nl,,
 2020-11-02,www.rapidtestcovid.nl,84.241.177.139,NL,Europe
 2020-11-02,www.test-covid19.at,91.227.205.222,AT,Europe
