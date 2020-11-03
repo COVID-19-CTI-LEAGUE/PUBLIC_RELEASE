@@ -64,6 +64,10 @@
 2020-11-03,acgcovid19test.site,acgcovid19test.site,,
 2020-11-03,acgcovid19test.site,ns27.domaincontrol.com,,
 2020-11-03,acgcovid19test.site,ns28.domaincontrol.com,,
+2020-11-03,attestation-covid19-octobre.fr,attestation-covid19-octobre.fr,,
+2020-11-03,attestation-covid19-octobre.fr,ns81.domaincontrol.com,,
+2020-11-03,attestation-covid19-octobre.fr,ns82.domaincontrol.com,,
+2020-11-03,covidsneltestlab.nl,covidsneltestlab.nl,,
 2020-11-03,covidtest.help,covidtest.help,,
 2020-11-03,covidtestingjerseycity.com,34.102.136.180,US,North America
 2020-11-03,covidtestingjerseycity.com,covidtestingjerseycity.com,,
@@ -100,6 +104,7 @@
 2020-11-03,covidtest-zwolle.nl,MS=ms86004564,,
 2020-11-03,covidtest-zwolle.nl,ns1.yourwebhoster.com,,
 2020-11-03,covidtest-zwolle.nl,.v=spf1 include:spf.protection.outlook.com -all,,
+2020-11-03,dollarcovidtest.com,23.236.62.147,US,North America
 2020-11-03,dollarcovidtest.com,dollarcovidtest.com,,
 2020-11-03,dollarcovidtest.com,ns-cloud-d1.googledomains.com,,
 2020-11-03,dollarcovidtest.com,ns-cloud-d2.googledomains.com,,
@@ -137,4 +142,8 @@
 2020-11-03,vandaagcovidtest.nl,alt3.aspmx.l.google.com,,
 2020-11-03,vandaagcovidtest.nl,alt4.aspmx.l.google.com,,
 2020-11-03,vandaagcovidtest.nl,aspmx.l.google.com,,
+2020-11-03,vandaagcovidtest.nl,ns-cloud-a1.googledomains.com,,
+2020-11-03,vandaagcovidtest.nl,ns-cloud-a2.googledomains.com,,
+2020-11-03,vandaagcovidtest.nl,ns-cloud-a3.googledomains.com,,
+2020-11-03,vandaagcovidtest.nl,ns-cloud-a4.googledomains.com,,
 2020-11-03,vandaagcovidtest.nl,vandaagcovidtest.nl,,
