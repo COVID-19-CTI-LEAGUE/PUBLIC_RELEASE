@@ -2,131 +2,6 @@
 # Raw un-analyzed first seen host data
 # Make your own assessment of malicious activity or intent
 # dname_first_ts,qname,value,geoip.country_iso_code,geoip.continent_name
-2020-11-01,48hrcovidtest.com,48hrcovidtest.com,,
-2020-11-01,48hrcovidtest.com,ns-cloud-d1.googledomains.com,,
-2020-11-01,48hrcovidtest.com,ns-cloud-d2.googledomains.com,,
-2020-11-01,48hrcovidtest.com,ns-cloud-d3.googledomains.com,,
-2020-11-01,48hrcovidtest.com,ns-cloud-d4.googledomains.com,,
-2020-11-01,api.covidtest.by,185.179.82.148,BY,Europe
-2020-11-01,attestations-covid.fr,155.133.142.12,PL,Europe
-2020-11-01,attestations-covid.fr,2001:4b98:dc6:253::12,FR,Europe
-2020-11-01,attestations-covid.fr,attestations-covid.fr,,
-2020-11-01,auto-covid-attestation.fr,51.91.236.255,FR,Europe
-2020-11-01,auto-covid-attestation.fr,auto-covid-attestation.fr,,
-2020-11-01,auto-covid-attestation.fr,mx1.mail.ovh.net,,
-2020-11-01,auto-covid-attestation.fr,mx2.mail.ovh.net,,
-2020-11-01,auto-covid-attestation.fr,mx3.mail.ovh.net,,
-2020-11-01,big10covidtest.com,big10covidtest.com,,
-2020-11-01,big10covidtest.com,pdns09.domaincontrol.com,,
-2020-11-01,big10covidtest.com,pdns10.domaincontrol.com,,
-2020-11-01,covid19sneltesters.nl,covid19sneltesters.nl,,
-2020-11-01,covid-19sneltestshop.nl,covid-19sneltestshop.nl,,
-2020-11-01,covid19testcenter.uk,217.70.184.38,FR,Europe
-2020-11-01,covid19testcenter.uk,covid19testcenter.uk,,
-2020-11-01,covid19testrapide.com,covid19testrapide.com,,
-2020-11-01,covid19testrapide.com,ns19.ch-dns.net,,
-2020-11-01,covid19testrapide.com,ns20.ch-dns.net,,
-2020-11-01,covid19-test.site,217.160.0.244,DE,Europe
-2020-11-01,covid19-test.site,covid19-test.site,,
-2020-11-01,covid19-test.site,ns1021.ui-dns.biz,,
-2020-11-01,covid19-test.site,ns1071.ui-dns.com,,
-2020-11-01,covid19-test.site,ns1091.ui-dns.org,,
-2020-11-01,covid19-test.site,ns1111.ui-dns.de,,
-2020-11-01,covid2019rapidtest.gouv.sn,covid2019rapidtest.gouv.sn,,
-2020-11-01,covidantijentest.com,85.159.66.93,TR,Asia
-2020-11-01,covidantijentest.com,covidantijentest.com,,
-2020-11-01,coviditest.com,34.102.136.180,US,North America
-2020-11-01,coviditest.com,coviditest.com,,
-2020-11-01,covidschnelltest24.com,2a01:238:20a:202:1073::,DE,Europe
-2020-11-01,covidschnelltest24.com,81.169.145.73,DE,Europe
-2020-11-01,covidschnelltest24.com,covidschnelltest24.com,,
-2020-11-01,covid-schnell-test.com,85.13.135.87,DE,Europe
-2020-11-01,covid-schnell-test.com,covid-schnell-test.com,,
-2020-11-01,covid-schnell-test.com,ns5.kasserver.com,,
-2020-11-01,covid-schnell-test.com,ns6.kasserver.com,,
-2020-11-01,covid-schnell-test.com,w01b28dd.kasserver.com,,
-2020-11-01,covidsneltestrotterdam.nl,37.97.254.27,NL,Europe
-2020-11-01,covidsneltestrotterdam.nl,covidsneltestrotterdam.nl,,
-2020-11-01,covidsneltestrotterdam.nl,ns0.transip.net,,
-2020-11-01,covidsneltestrotterdam.nl,ns1.transip.nl,,
-2020-11-01,covidsneltestrotterdam.nl,ns2.transip.eu,,
-2020-11-01,covidtest.by,185.179.82.148,BY,Europe
-2020-11-01,covidtest.by,a1.domain.by,,
-2020-11-01,covidtest.by,a2.domain.by,,
-2020-11-01,covidtest.by,alt1.aspmx.l.google.com,,
-2020-11-01,covidtest.by,alt2.aspmx.l.google.com,,
-2020-11-01,covidtest.by,alt3.aspmx.l.google.com,,
-2020-11-01,covidtest.by,alt4.aspmx.l.google.com,,
-2020-11-01,covidtest.by,aspmx.l.google.com,,
-2020-11-01,covidtest.by,covidtest.by,,
-2020-11-01,covidtest.by,info@domain@by,,
-2020-11-01,covidtest-firmy.sk,81.95.96.29,CZ,Europe
-2020-11-01,covidtest-firmy.sk,covidtest-firmy.sk,,
-2020-11-01,covidtestingnow.org,covidtestingnow.org,,
-2020-11-01,covid-testlane.com,covid-testlane.com,,
-2020-11-01,covidtestlane.com,covidtestlane.com,,
-2020-11-01,covid-testlane.com,nsn1.mijndomein.nl,,
-2020-11-01,covidtestlane.com,nsn1.mijndomein.nl,,
-2020-11-01,covid-testlane.com,nsn2.mijndomein.nl,,
-2020-11-01,covidtestlane.com,nsn2.mijndomein.nl,,
-2020-11-01,covid-testlane.com,nsn3.mijndomein.nl,,
-2020-11-01,covidtestlane.com,nsn3.mijndomein.nl,,
-2020-11-01,covidtestlane.nl,covidtestlane.nl,,
-2020-11-01,covidtestnow.info,covidtestnow.info,,
-2020-11-01,covidtestondemand.com,34.102.136.180,US,North America
-2020-11-01,covidtestondemand.com,covidtestondemand.com,,
-2020-11-01,covidtestung1050.at,81.19.154.98,AT,Europe
-2020-11-01,covidtestung1050.at,covidtestung1050.at,,
-2020-11-01,covidtestung1050.at,ns1.world4you.at,,
-2020-11-01,covidtestung1050.at,ns2.world4you.at,,
-2020-11-01,covidtesty-firmy.sk,81.95.96.29,CZ,Europe
-2020-11-01,covidtesty-firmy.sk,covidtesty-firmy.sk,,
-2020-11-01,fdacovidcombotest.com,34.102.136.180,US,North America
-2020-11-01,fdacovidcombotest.com,fdacovidcombotest.com,,
-2020-11-01,fdacovidcombotest.com,ns67.domaincontrol.com,,
-2020-11-01,fdacovidcombotest.com,ns68.domaincontrol.com,,
-2020-11-01,letstalkcovidtestinglive.com,34.102.136.180,US,North America
-2020-11-01,letstalkcovidtestinglive.com,letstalkcovidtestinglive.com,,
-2020-11-01,letstalkcovidtestinglive.com,ns21.domaincontrol.com,,
-2020-11-01,letstalkcovidtestinglive.com,ns22.domaincontrol.com,,
-2020-11-01,megnacovidflutest.com,34.102.136.180,US,North America
-2020-11-01,megnacovidflutest.com,megnacovidflutest.com,,
-2020-11-01,mycovidtestsite.com,mycovidtestsite.com,,
-2020-11-01,mycovidtestsite.com,ns11.domaincontrol.com,,
-2020-11-01,mycovidtestsite.com,ns12.domaincontrol.com,,
-2020-11-01,onlinecovidtests.com,184.168.131.241,US,North America
-2020-11-01,onlinecovidtests.com,onlinecovidtests.com,,
-2020-11-01,privatecovidtesting.co.uk,217.160.0.218,DE,Europe
-2020-11-01,privatecovidtesting.co.uk,privatecovidtesting.co.uk,,
-2020-11-01,rapidcovidtestingnyc.com,74.208.236.34,US,North America
-2020-11-01,rapidcovidtestingnyc.com,mx00.ionos.com,,
-2020-11-01,rapidcovidtestingnyc.com,mx01.ionos.com,,
-2020-11-01,rapidcovidtestingnyc.com,ns1019.ui-dns.com,,
-2020-11-01,rapidcovidtestingnyc.com,ns1048.ui-dns.de,,
-2020-11-01,rapidcovidtestingnyc.com,ns1067.ui-dns.biz,,
-2020-11-01,rapidcovidtestingnyc.com,ns1105.ui-dns.org,,
-2020-11-01,rapidcovidtestingnyc.com,rapidcovidtestingnyc.com,,
-2020-11-01,rapidcovidtestny.com,ns-cloud-c1.googledomains.com,,
-2020-11-01,rapidcovidtestny.com,ns-cloud-c2.googledomains.com,,
-2020-11-01,rapidcovidtestny.com,ns-cloud-c3.googledomains.com,,
-2020-11-01,rapidcovidtestny.com,ns-cloud-c4.googledomains.com,,
-2020-11-01,rapidcovidtestny.com,rapidcovidtestny.com,,
-2020-11-01,testcovidseverin.ro,testcovidseverin.ro,,
-2020-11-01,testrapidocovid19.info,ns1.srv-hostalia.com,,
-2020-11-01,testrapidocovid19.info,ns2.srv-hostalia.com,,
-2020-11-01,testrapidocovid19.info,testrapidocovid19.info,,
-2020-11-01,tests-covid.ch,ns31.infomaniak.com,,
-2020-11-01,tests-covid.ch,ns32.infomaniak.com,,
-2020-11-01,tests-covid.ch,tests-covid.ch,,
-2020-11-01,thuistestcovid.nl,thuistestcovid.nl,,
-2020-11-01,txcovidtests.com,34.102.136.180,US,North America
-2020-11-01,txcovidtests.com,ns25.domaincontrol.com,,
-2020-11-01,txcovidtests.com,ns26.domaincontrol.com,,
-2020-11-01,txcovidtests.com,txcovidtests.com,,
-2020-11-01,www.covidsneltestrotterdam.nl,37.97.254.27,NL,Europe
-2020-11-01,www.covidsneltestrotterdam.nl,covidsneltestrotterdam.nl,,
-2020-11-01,www.thuistestcovid.nl,18.184.49.104,DE,Europe
-2020-11-01,www.thuistestcovid.nl,thuistestcovid.nl,,
 2020-11-02,123covidtesten.nl,123covidtesten.nl,,
 2020-11-02,123covidtesten.nl,91.184.0.100,NL,Europe
 2020-11-02,123covidtesten.nl,ns1.hostnet.nl,,
@@ -147,6 +22,7 @@
 2020-11-02,covidtest010.nl,2606:4700:3032::681b:8b08,US,North America
 2020-11-02,covidtest010.nl,2606:4700:3032::ac43:ded1,US,North America
 2020-11-02,covidtest010.nl,covidtest010.nl,,
+2020-11-02,covidtestcenter24.com,covidtestcenter24.com,,
 2020-11-02,covidteststraat.nu,covidteststraat.nu,,
 2020-11-02,covidteststraat.nu,ns1.hostnet.nl,,
 2020-11-02,covidteststraat.nu,ns2.hostnetbv.com,,
@@ -175,6 +51,7 @@
 2020-11-02,vacationcovidtest.com,ns02.domaincontrol.com,,
 2020-11-02,vacationcovidtest.com,vacationcovidtest.com,,
 2020-11-02,www.123covidtesten.nl,123covidtesten.nl,,
+2020-11-02,www.covidtestcenter24.com,116.202.66.60,IN,Asia
 2020-11-02,www.rapidtestcovid.nl,84.241.177.139,NL,Europe
 2020-11-02,www.test-covid19.at,91.227.205.222,AT,Europe
 2020-11-02,www.testsierologici-covid-19.it,testsierologici-covid-19.it,,
